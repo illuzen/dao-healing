@@ -1,25 +1,86 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState, useEffect } from 'react';
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Link
+} from 'react-router-dom';
 
-function App() {
+import HerbDetail from './HerbDetail';
+
+const herbs = [
+  { id: 1, name: 'Ginseng', category: 'Qi Tonifying', properties: 'Warm, Sweet', commonUses: 'Boost energy, improve cognition' },
+  { id: 2, name: 'Goji Berry', category: 'Blood Invigorating', properties: 'Neutral, Sweet', commonUses: 'Support eye health, immune function' },
+  // Add more herbs here
+];
+
+const App = () => {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Router>
+        <div className="App">
+          <h1>Chinese Herbs</h1>
+            <TSVParser />
+
+        </div>
+      </Router>
   );
 }
+
+const TSVParser = () => {
+  const [data, setData] = useState([]);
+
+  useEffect(() => {
+    fetch('/herbs.tsv')
+        .then(response => response.text())
+        .then(tsvString => {
+          const parsedData = parseTSV(tsvString);
+          setData(parsedData);
+        })
+        .catch(error => console.error('Error fetching TSV:', error));
+  }, []);
+
+  console.log("data", data)
+  return (
+      <div>
+        <ul>
+          {data.map((herb, index) =>
+              {
+                  let name = getHerbDisplayName(herb)
+                  return (
+                      <li key={index}>
+                          <Link to={`/herb/${name}`}>{name}</Link>
+                      </li>
+                  )
+              })
+          }
+        </ul>
+          <Routes>
+              {data.map((herb, index) => {
+                  let name = getHerbDisplayName(herb)
+                  return (
+                      <Route key={index} path={`/herb/${name}`} element={<HerbDetail herb={herb}/>}/>
+                  );
+              })}
+          </Routes>
+
+      </div>
+  );
+}
+
+const getHerbDisplayName = (herb) => {
+    return herb["English Name"]?.split(",")[0];
+}
+
+const parseTSV = (tsvString) => {
+  const lines = tsvString.split('\n');
+  const header = lines[0].split('\t');
+  return lines.slice(1).map(line => {
+    const data = line.split('\t');
+    return header.reduce((obj, nextKey, index) => {
+      obj[nextKey] = data[index];
+      return obj;
+    }, {});
+  });
+};
 
 export default App;

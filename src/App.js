@@ -5,14 +5,8 @@ import {
   Route,
   Link
 } from 'react-router-dom';
-
 import HerbDetail from './HerbDetail';
-
-const herbs = [
-  { id: 1, name: 'Ginseng', category: 'Qi Tonifying', properties: 'Warm, Sweet', commonUses: 'Boost energy, improve cognition' },
-  { id: 2, name: 'Goji Berry', category: 'Blood Invigorating', properties: 'Neutral, Sweet', commonUses: 'Support eye health, immune function' },
-  // Add more herbs here
-];
+import './App.css'
 
 const App = () => {
   return (
@@ -20,7 +14,6 @@ const App = () => {
         <div className="App">
           <h1>Chinese Herbs</h1>
             <TSVParser />
-
         </div>
       </Router>
   );
@@ -62,7 +55,6 @@ const TSVParser = () => {
                   );
               })}
           </Routes>
-
       </div>
   );
 }

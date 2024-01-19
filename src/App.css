@@ -53,3 +53,27 @@ th, td {
 th {
   background-color: #f0f0f0;
 }
+
+.herb-detail {
+  margin: 0 auto;
+  padding: 20px;
+  max-width: 600px; /* Set a max-width for larger screens */
+  word-wrap: break-word; /* Older browsers */
+  overflow-wrap: break-word; /* Modern browsers */
+}
+
+.herb-info div {
+  margin-bottom: 10px;
+}
+
+/* Media query for small screens */
+@media (max-width: 600px) {
+  .herb-detail {
+    padding: 10px;
+  }
+
+  .herb-info div {
+    font-size: 14px; /* Smaller font size on small screens */
+  }
+}
+

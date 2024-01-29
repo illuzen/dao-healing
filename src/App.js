@@ -35,18 +35,14 @@ const TSVParser = () => {
   console.log("data", data)
   return (
       <div>
-        <ul>
           {data.map((herb, index) =>
               {
                   let name = getHerbDisplayName(herb)
                   return (
-                      <li key={index}>
-                          <Link to={`/herb/${name}`}>{name}</Link>
-                      </li>
+                      <Link to={`/herb/${name}`}>{name}</Link>
                   )
               })
           }
-        </ul>
           <Routes>
               {data.map((herb, index) => {
                   let name = getHerbDisplayName(herb)

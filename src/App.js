@@ -5,16 +5,20 @@ import {
   Route,
   Link
 } from 'react-router-dom';
+import { Container, List, ListItem } from '@mui/material';
+
 import HerbDetail from './HerbDetail';
 import './App.css'
 
 const App = () => {
   return (
       <Router>
-        <div className="App">
-          <h1>Chinese Herbs</h1>
-            <TSVParser />
-        </div>
+        <Container>
+          <div className="App">
+            <h1>Chinese Herbs</h1>
+              <TSVParser />
+          </div>
+        </Container>
       </Router>
   );
 }
@@ -34,26 +38,26 @@ const TSVParser = () => {
 
   console.log("data", data)
   return (
-      <div>
-          {data.map((herb, index) =>
-              {
-                  let name = getHerbDisplayName(herb)
-                  return (
-                      <Link to={`/herb/${name}`}>{name}</Link>
-                  )
-              })
-          }
-          <Routes>
-              {data.map((herb, index) => {
-                  let name = getHerbDisplayName(herb)
-                  return (
-                      <Route key={index} path={`/herb/${name}`} element={<HerbDetail herb={herb}/>}/>
-                  );
-              })}
-          </Routes>
-      </div>
+    <List>
+      {data.map((herb) => {
+        const name = getHerbDisplayName(herb);
+        return (
+          <ListItem key={name}>
+            <Link to={`/herb/${name}`}>{name}</Link>
+          </ListItem>
+        );
+      })}
+      <Routes>
+        {data.map((herb) => {
+          const name = getHerbDisplayName(herb);
+          return (
+            <Route key={name} path={`/herb/${name}`} element={<HerbDetail herb={herb} />} />
+          );
+        })}
+      </Routes>
+    </List>
   );
-}
+};
 
 const getHerbDisplayName = (herb) => {
     return herb["English Name"]?.split(",")[0];

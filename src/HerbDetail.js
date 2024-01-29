@@ -18,7 +18,7 @@ import {
 } from '@mui/material';
 
 const HerbProperty = ({ title, content }) => (
-    <Box mb={4}> {/* Add bottom margin */}
+    <Box mb={4}>
       <Typography variant="h5" gutterBottom>
         {title}
       </Typography>
@@ -69,56 +69,51 @@ const HerbDetail = ({ herb }) => {
 
   function renderScientificPapers(papers) {
     return papers.split(',').map((url, index) => (
-        <div>
-            <Link key={index} href={url} target="_blank" rel="noopener noreferrer">
-                {url}
-            </Link>
-        </div>
+      <Box key={index} sx={{ my: 1 }}>
+        <Link href={url} target="_blank" rel="noopener noreferrer">
+          {url}
+        </Link>
+      </Box>
     ));
   }
+  
 
   return (
-    <Container maxWidth="lg">
-      <Paper sx={{ p: 2 }}>
+    <Paper elevation={0}>
         <ImageList cols={3} gap={8}>
-          {herb["Image Links"].split(',').map((url, index) => (
+            {herb["Image Links"].split(',').map((url, index) => (
             <ImageListItem key={index}>
-              <img src={url} alt={`Herb ${index + 1}`} loading="lazy" />
+                <img src={url} alt={`Herb ${index + 1}`} loading="lazy" />
             </ImageListItem>
-          ))}
+            ))}
         </ImageList>
-        <Card sx={{ mt: 2 }}>
-          <CardContent>
-            <Typography variant="h5" gutterBottom>
-                Herb Name by Language
-            </Typography>
-            <TableContainer component={Paper}>
-            <Table size="small" aria-label="herb table">
-                <TableHead>
-                  <TableRow>
-                    <TableCell>Language</TableCell>
-                    <TableCell align="left">Name</TableCell>
-                  </TableRow>
-                </TableHead>
-                <TableBody>
-                  {Object.entries(languageNames).map(([language, name]) => (
-                    <TableRow key={language}>
-                      <TableCell component="th" scope="row">{language}</TableCell>
-                      <TableCell align="left">{name}</TableCell>
-                    </TableRow>
-                  ))}
-                </TableBody>
-              </Table>
-            </TableContainer>
-            <Box mt={4}>
-                {detailProperties.map((detail, index) => (
-                <HerbProperty key={index} title={detail.title} content={detail.content} />
+        <Typography variant="h5" gutterBottom>
+            Herb Name by Language
+        </Typography>
+        <TableContainer component={Paper}>
+        <Table size="small" aria-label="herb table">
+            <TableHead>
+                <TableRow>
+                <TableCell>Language</TableCell>
+                <TableCell align="left">Name</TableCell>
+                </TableRow>
+            </TableHead>
+            <TableBody>
+                {Object.entries(languageNames).map(([language, name]) => (
+                <TableRow key={language}>
+                    <TableCell component="th" scope="row">{language}</TableCell>
+                    <TableCell align="left">{name}</TableCell>
+                </TableRow>
                 ))}
-            </Box>
-          </CardContent>
-        </Card>
-      </Paper>
-    </Container>
+            </TableBody>
+            </Table>
+        </TableContainer>
+        <Box mt={4}>
+            {detailProperties.map((detail, index) => (
+                <HerbProperty key={index} title={detail.title} content={detail.content} />
+            ))}
+        </Box>
+    </Paper>
   );
 };
 

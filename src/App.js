@@ -27,13 +27,13 @@ const TSVParser = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch('/herbs.tsv')
+    fetch('/herbs.csv')
         .then(response => response.text())
         .then(tsvString => {
           const parsedData = parseTSV(tsvString);
           setData(parsedData);
         })
-        .catch(error => console.error('Error fetching TSV:', error));
+        .catch(error => console.error('Error fetching CSV:', error));
   }, []);
 
   console.log("data", data)
@@ -65,9 +65,9 @@ const getHerbDisplayName = (herb) => {
 
 const parseTSV = (tsvString) => {
   const lines = tsvString.split('\n');
-  const header = lines[0].split('\t');
+  const header = lines[0].split(',');
   return lines.slice(1).map(line => {
-    const data = line.split('\t');
+    const data = line.split(',');
     return header.reduce((obj, nextKey, index) => {
       obj[nextKey] = data[index];
       return obj;

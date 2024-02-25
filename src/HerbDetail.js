@@ -42,7 +42,7 @@ const HerbDetail = ({ herb }) => {
     "English": herb["English Name"],
     "Mandarin": herb["Mandarin Name"],
     "Cantonese": herb["Cantonese Name"],
-    "Latin": herb["Latin Name"],
+    "Latin": herb["Latin Name - 拉丁名"],
     "Japanese": herb["Japanese Name"],
     "Korean": herb["Korean Name"],
     "German": herb["German Name"],

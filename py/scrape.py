@@ -115,12 +115,8 @@ def canonical_column(cell):
         return 'Samples of Formulae - 處方舉例'
     return clean
 
-def parse_herb_table(url, name, table):
+def parse_herb_table(table):
     data = {}
-    if name:
-        data['Name'] = clean_text(name)
-    if url:
-        data['Original URL'] = url
 
     # remove the irrelevant bgcolor tags
     for tag in table.find_all('bgcolor'):
@@ -136,7 +132,7 @@ def parse_herb_table(url, name, table):
             else:
                 key = canonical_column(cells[0])
                 if cells[1].find('table'):
-                    data[key] = parse_herb_table('', '', cells[1].find('table'))
+                    data[key] = parse_herb_table(cells[1].find('table'))
                 else:
                     value = clean_text(cells[1].text)
                     if key and value:
@@ -151,7 +147,7 @@ def parse_herb_table(url, name, table):
         elif len(cells) == 2:
             key = canonical_column(cells[0])
             if cells[1].find('table'):
-                data[key] = parse_herb_table('', '', cells[1].find('table'))
+                data[key] = parse_herb_table(cells[1].find('table'))
             else:
                 value = clean_text(cells[1].text)
                 if value:
@@ -193,13 +189,13 @@ def get_name(url, soup):
 def get_herbs():
     no_tables = []
     herbs = []
-    # urls = [
-    #     'http://alternativehealing.org/cang_zhu.htm'
-    # ]
     urls = [
-        'http://alternativehealing.org/{}'.format(path)
-        for path in json.load(open('./herb_links.json', 'r'))
+        'http://alternativehealing.org/cang_zhu.htm'
     ]
+    # urls = [
+    #     'http://alternativehealing.org/{}'.format(path)
+    #     for path in json.load(open('./herb_links.json', 'r'))
+    # ]
     print(urls)
 
     for url in urls:
@@ -228,19 +224,23 @@ def get_herbs():
         if len(eligible) == 0:
             print("no eligible tables for {}".format(url))
             no_tables.append(url)
-        elif len(eligible) == 1:
-            herbs.append(parse_herb_table(url, name, eligible[0]))
+        # elif len(eligible) == 1:
+        #     herbs.append(parse_herb_table(url, name, eligible[0]))
         else:
-            herbs.append(parse_herb_table(url, name, eligible[0]))
-            # found = False
-            # for table in eligible:
-            #     if table.find('table'):
-            #         herbs.append(parse_herb_table(url, name, table))
-            #         found = True
-            #         break
-            # if not found:
-            #     # just take the first one if they are not nested
-            #     herbs.append(parse_herb_table(url, name, eligible[0]))
+            data = parse_herb_table(eligible[0])
+            data['Name'] = clean_text(name)
+            data['Original URL'] = url
+            for table in eligible:
+                table.decompose()
+            for table in tables:
+                if table.find_all('table'):
+                    continue
+                if 'Chinese Herb Dictionary' in table.text or \
+                    'Health Problems' in table.text or \
+                        'Lecture Slides' in table.text:
+                    table.decompose()
+            data['Body'] = soup.get_text(strip=True)
+            herbs.append(data)
 
     with open('./missing_table.json','w') as file:
         json.dump(obj=no_tables, fp=file, indent=4)
@@ -254,5 +254,5 @@ def to_csv():
     print('{} columns, {} rows'.format(len(df.columns), len(df)))
     df.to_csv('./herbs.csv', index=False)
 
-# get_herbs()
-to_csv()
+get_herbs()
+# to_csv()

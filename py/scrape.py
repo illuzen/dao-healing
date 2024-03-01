@@ -59,33 +59,33 @@ def get_herb_links():
 def contains_numbers(inputString):
     return any(char.isdigit() for char in inputString)
 
+
 def clean_text(text):
     return re.sub(r'\s+', ' ', text.replace('\n', ' ')).strip()
+
 
 def canonical_column(cell):
     clean = clean_text(cell.text)
     column = clean.lower()
-    if 'actions' in column:
+    if 'actions' in column or 'symptoms' in column:
         return 'Actions & Indications - 主治'
-    elif 'antidote' in column:
-        return 'Antidote - 急救'
     elif 'biological' in column or 'botanical' in column or 'latin' in column or 'zoological' in column:
         return 'Latin Name - 拉丁名'
     elif 'caution' in column or 'beware' in column or 'contra-' in column or 'oxic' in column or 'warning' in column:
         return 'Contraindications / Toxicity - 毒素與禁忌'
     elif 'channel' in column:
         return 'Meridians Entered - 歸經'
-    elif 'chemical' in column:
+    elif 'chemical' in column and 'flowers' not in column:
         return 'Chemical Ingredients - 化學成份'
-    elif 'clinical' in column:
-        return 'Clinical Application - 臨床應用'
+    elif 'clinical' in column or 'application' in column:
+        return 'Actions & Indications - 主治'
     elif 'common name' in column:
         return 'Common Name - 英文名'
     elif 'commonly' in column:
-        return 'Commonly Used Formulae - 常用配方'
+        return 'Samples of Formulae - 處方舉例'
     elif 'dosage' in column:
         return 'Daily Dosage - 每日用量'
-    elif 'distribution' in column:
+    elif 'distribution' in column or 'sources in chinese' in column:
         return 'Distribution - 分佈'
     elif 'japanese' in column:
         return 'Japanese Name - 日語'
@@ -93,27 +93,44 @@ def canonical_column(cell):
         return 'Korean Name - 韓語'
     elif 'medical' in column:
         return 'Medical Function - 藥理'
-    elif 'modern' in column or 'present day' in column or 'recent' in column or 'today' in column:
+    elif ('modern' in column or 'present day' in column
+          or 'recent' in column or 'today' in column
+          or 'uses' in column or 'usage' in column):
         return 'Modern Application - 現代應用'
-    elif 'note' in column or 'notice' in column:
+    elif ('note' in column or 'notice' in column
+          or 'parts being' in column or 'imitated' in column
+          or 'adulteration' in column or 'quality' in column
+          or 'prescription' in column or 'folk' in column
+          or 'synonyms' in column or 'pinyin' in column
+          or 'value of' in column or 'antidote' in column
+          or 'examination' in column):
         return 'Note - 註'
     elif 'other' in column:
         return 'Other Name - 別名'
-    elif 'parts being' in column:
-        return 'Parts Being Used - 應用部份'
     elif 'pharmaceutical' in column:
         return 'Pharmaceutical Name - 英文药名'
-    elif 'pinyin' in column:
-        return 'Pinyin - 拼音'
-    elif 'prescription' in column:
-        return 'Prescription Names - 處方名'
     elif 'cantonese' in column:
         return 'Cantonese - 粵語發音'
-    elif 'characteristic' in column:
+    elif 'characteristic' in column or 'qualify' in column or 'properties' in column:
         return 'Properties / Characteristics - 性味'
     elif 'sample' in column:
         return 'Samples of Formulae - 處方舉例'
+    elif 'research on pharmacological processes' in column:
+        return None
     return clean
+
+
+def add_data(map, key, value):
+    if key is None or value is None:
+        return
+    if 'Note' in key:
+        try:
+            map[key] += '***{}'.format(value)
+        except KeyError:
+            map[key] = value
+    else:
+        map[key] = value
+
 
 def parse_herb_table(table):
     data = {}
@@ -132,44 +149,39 @@ def parse_herb_table(table):
             else:
                 key = canonical_column(cells[0])
                 if cells[1].find('table'):
-                    data[key] = parse_herb_table(cells[1].find('table'))
+                    add_data(data, key, parse_herb_table(cells[1].find('table')))
                 else:
                     value = clean_text(cells[1].text)
-                    if key and value:
-                        data[key] = value
+                    add_data(data, key, value)
         elif len(cells) == 1:
             cells = cells[0].find_all('td')
             for i in range(0, len(cells), 2):
                 key = canonical_column(cells[i])
                 value = clean_text(cells[i+1].text)
-                if key and value:
-                    data[key] = value
+                add_data(data, key, value)
         elif len(cells) == 2:
             key = canonical_column(cells[0])
             if cells[1].find('table'):
-                data[key] = parse_herb_table(cells[1].find('table'))
+                add_data(data, key, parse_herb_table(cells[1].find('table')))
             else:
                 value = clean_text(cells[1].text)
-                if value:
-                    data[key] = value
+                add_data(data, key, value)
         elif len(cells) == 4:
             if contains_numbers(cells[1].text):
                 key = canonical_column(cells[0])
                 value = clean_text(cells[1].text)
-                if key and value:
-                    data[key] = value
+                add_data(data, key, value)
                 key = canonical_column(cells[2])
                 value = clean_text(cells[3].text)
-                if key and value:
-                    data[key] = value
+                add_data(data, key, value)
             else:
                 key = '{} {}'.format(clean_text(cells[0].text), clean_text(cells[1].text))
                 value = '{} {}'.format(clean_text(cells[2].text), clean_text(cells[3].text))
-                if key and value:
-                    data[key] = value
+                add_data(data, key, value)
 
 #     print(json.dumps(data, indent=4))
     return data
+
 
 def get_name(url, soup):
     pinyin = url.split('/')[-1].split('.')[0].replace('_', ' ')
@@ -186,21 +198,26 @@ def get_name(url, soup):
 
     return pinyin
 
+
 def get_herbs():
     no_tables = []
     herbs = []
     urls = [
-        'http://alternativehealing.org/cang_zhu.htm'
+        'http://alternativehealing.org/{}'.format(path)
+        for path in json.load(open('./herb_links.json', 'r'))
     ]
+    # urls = urls[1:3]
     # urls = [
-    #     'http://alternativehealing.org/{}'.format(path)
-    #     for path in json.load(open('./herb_links.json', 'r'))
+    #     # 'http://alternativehealing.org/lai_fu.htm',
+    #     # 'http://alternativehealing.org/propolis.htm',
+    #     # 'http://alternativehealing.org/tong_hao.htm'
+    #     'http://alternativehealing.org/she_xiang.htm'
     # ]
+
     print(urls)
 
     for url in urls:
         response = requests.get(url, headers=headers)
-        print(url)
 
         if response.status_code != 200:
             print("bad url: {}".format(url))
@@ -227,7 +244,14 @@ def get_herbs():
         # elif len(eligible) == 1:
         #     herbs.append(parse_herb_table(url, name, eligible[0]))
         else:
-            data = parse_herb_table(eligible[0])
+            clean_name = clean_text(name)
+            # sigh...
+            if clean_name == 'propolis' or clean_name == 'turnip green nutritional value':
+                data = {'Chemical Ingredients - 化學成份': parse_herb_table(eligible[0])}
+            elif clean_name == 'she xiang 麝香':
+                data = parse_herb_table(eligible[1])
+            else:
+                data = parse_herb_table(eligible[0])
             data['Name'] = clean_text(name)
             data['Original URL'] = url
             for table in eligible:
@@ -239,7 +263,7 @@ def get_herbs():
                     'Health Problems' in table.text or \
                         'Lecture Slides' in table.text:
                     table.decompose()
-            data['Body'] = soup.get_text(strip=True)
+            data['Body'] = soup.get_text(strip=True).replace('\n', ' ').replace('\r', '')
             herbs.append(data)
 
     with open('./missing_table.json','w') as file:
@@ -248,11 +272,12 @@ def get_herbs():
     with open('./herbs.json','w') as file:
         json.dump(obj=herbs, fp=file, indent=4)
 
+
 def to_csv():
     df = pd.read_json('./herbs.json')
     df.fillna('', inplace=True)
     print('{} columns, {} rows'.format(len(df.columns), len(df)))
-    df.to_csv('./herbs.csv', index=False)
+    df.to_csv('./herbs.tsv', index=False, sep='\t')
 
 get_herbs()
-# to_csv()
+to_csv()

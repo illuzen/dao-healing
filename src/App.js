@@ -3,10 +3,12 @@ import {
   BrowserRouter as Router,
   Routes,
   Route,
-  Link
+  Link,
+  useLocation
 } from 'react-router-dom';
 import { Container, List, ListItem } from '@mui/material';
 
+import Search from './Search';
 import HerbDetail from './HerbDetail';
 import './App.css'
 
@@ -25,6 +27,8 @@ const App = () => {
 
 const TSVParser = () => {
   const [data, setData] = useState([]);
+  const [filteredData, setFilteredData] = useState([]);
+  const location = useLocation();  // Hook to get the current location
 
   useEffect(() => {
     fetch('/herbs.tsv')
@@ -32,21 +36,27 @@ const TSVParser = () => {
         .then(tsvString => {
           const parsedData = parseTSV(tsvString);
           setData(parsedData);
+          setFilteredData(parsedData);
         })
         .catch(error => console.error('Error fetching CSV:', error));
   }, []);
 
-  console.log("data", data)
+  const isHerbDetailPage = location.pathname.startsWith('/herb/');
+
+  // console.log("data", data)
   return (
-      <Routes>
-          {data.map((herb) => {
-              const name = getHerbDisplayName(herb);
-              return (
-                  <Route key={name} path={`/herb/${name}`} element={<HerbDetail herb={herb} />} />
-              );
-          })}
-          <Route key={'home'} path={`/`} element={getHerbList(data)} />
-      </Routes>
+      <div>
+          {  <Search data={data} setFilteredData={setFilteredData} visible={!isHerbDetailPage}/> }
+          <Routes>
+              {filteredData.map((herb) => {
+                  const name = getHerbDisplayName(herb);
+                  return (
+                      <Route key={name} path={`/herb/${name}`} element={<HerbDetail herb={herb} />} />
+                  );
+              })}
+              <Route key={'home'} path={`/`} element={getHerbList(filteredData)} />
+          </Routes>
+      </div>
   );
 };
 
@@ -55,7 +65,7 @@ const getHerbList = (data) => {
         <List>
             {data.map((herb, index) => {
                 const name = getHerbDisplayName(herb);
-                console.log({index, herb, name})
+                // console.log({index, herb, name})
                 if (name) {
                     return (
                         <ListItem key={name + index}>

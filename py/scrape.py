@@ -184,7 +184,7 @@ def parse_herb_table(table):
 
 
 def get_name(url, soup):
-    pinyin = url.split('/')[-1].split('.')[0].replace('_', ' ')
+    pinyin = url.split('/')[-1].split('.')[0].replace('_', ' ').replace('%20', ' ')
     pattern = re.compile(r'{}+\s*[\u4e00-\u9fff\s]+'.format(pinyin))
     # matches = re.findall(pattern, soup.text)
     # print(pinyin, matches)
@@ -208,10 +208,8 @@ def get_herbs():
     ]
     # urls = urls[1:3]
     # urls = [
-    #     # 'http://alternativehealing.org/lai_fu.htm',
-    #     # 'http://alternativehealing.org/propolis.htm',
-    #     # 'http://alternativehealing.org/tong_hao.htm'
-    #     'http://alternativehealing.org/she_xiang.htm'
+    #     'http://alternativehealing.org/dang_gui.htm',
+    #     'http://alternativehealing.org/bai%20wei.htm'
     # ]
 
     print(urls)
@@ -222,7 +220,7 @@ def get_herbs():
         if response.status_code != 200:
             print("bad url: {}".format(url))
             continue
-
+        response.encoding = 'big5'
         html = response.text
         html = html[:-20].replace("</html>", "", 1) + html[-20:]
         soup = BeautifulSoup(html, 'lxml')

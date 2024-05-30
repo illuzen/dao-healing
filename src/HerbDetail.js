@@ -105,7 +105,9 @@ const HerbDetail = ({ herb }) => {
         </TableContainer>
         <Box mt={4}>
             {detailProperties.map((detail, index) => (
+                detail.content.length > 2 ?
                 <HerbProperty key={index} title={detail.title} content={detail.content} />
+                    : null
             ))}
         </Box>
     </Paper>

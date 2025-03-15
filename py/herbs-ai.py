@@ -109,7 +109,7 @@ def extract_structured_data(text, filename):
 def get_herbs():
     """Process multiple herb pages"""
 
-    results = json.load(open('./ai_herbs_detailed.json', 'r', encoding="utf-8"))
+    results = json.load(open('ai_herbs.json', 'r', encoding="utf-8"))
     filenames = glob('./text/*')
 
     for filename in tqdm(filenames):
@@ -123,21 +123,85 @@ def get_herbs():
         results.append(result)
 
         # Save intermediate results after each herb
-        json.dump(results, open('./ai_herbs_detailed.json', 'w', encoding="utf-8"), indent=4, ensure_ascii=False)
+        json.dump(results, open('ai_herbs.json', 'w', encoding="utf-8"), indent=4, ensure_ascii=False)
 
     return results
 
+
 def add_urls():
-    results = json.load(open('./ai_herbs_detailed.json', 'r', encoding="utf-8"))
+    results = json.load(open('ai_herbs.json', 'r', encoding="utf-8"))
     filenames = glob('./text/*')
     for i, filename in enumerate(filenames):
         url = 'http://alternativehealing.org/{}'.format(filename.split('.txt')[0].split('/')[-1])
         print(url)
         results[i]['original_url'] = url
 
-    json.dump(results, open('./ai_herbs_detailed.json', 'w', encoding="utf-8"), indent=4, ensure_ascii=False)
+    json.dump(results, open('ai_herbs.json', 'w', encoding="utf-8"), indent=4, ensure_ascii=False)
 
     # print(results)
 
-add_urls()
+
+def translate_to_chinese(herb_data):
+    """
+    Translate herb data from English to Chinese
+    """
+    print(f'Translating data for {herb_data.get("Names", {}).get("Common", ["Unknown herb"])[0]}')
+
+    try:
+        completion = client.chat.completions.create(
+            model="gpt-4o-mini",  # Using a more capable model for translation
+            messages=[
+                {"role": "system", "content": (
+                    "You are a bilingual expert in traditional herbal medicine specializing in both English and Chinese. "
+                    "Your task is to accurately translate herbal medicine information from English to Chinese, "
+                    "preserving the medical terminology and cultural context. "
+                    "Be especially careful with herb names, properties, and medical terminology."
+                )},
+                {"role": "user", "content": (
+                    f"Translate the following herbal medicine data from English to Chinese. "
+                    f"Maintain the same JSON structure and data types. "
+                    f"If any field already contains Chinese text, preserve it. "
+                    f"For herb names, include both simplified and traditional Chinese characters if there's a difference. "
+                    f"Return ONLY valid JSON with the translated content.\n\n"
+                    f"{json.dumps(herb_data, ensure_ascii=False, indent=2)}"
+                )}
+            ]
+        )
+
+        # Clean and parse JSON response
+        content = completion.choices[0].message.content
+        content = content.replace('```json', '').replace('```', '').strip()
+
+        return json.loads(content)
+
+    except Exception as e:
+        print(f"Error translating herb data: {e}")
+        return herb_data  # Return original data if translation fails
+
+
+def translate_herbs_to_chinese():
+    """Process and translate all herbs in the dataset"""
+
+    # Load existing data
+    results = json.load(open('ai_herbs.json', 'r', encoding="utf-8"))
+    translated_results = []
+
+    for herb in tqdm(results):
+        del(herb['Original Text'])
+
+        # Translate the herb data
+        translated_herb = translate_to_chinese(herb)
+        translated_results.append({
+            'Chinese': translated_herb,
+            'English': herb
+        })
+
+        # Save intermediate results after each herb
+        json.dump(translated_results, open('ai_herbs_chinese.json', 'w', encoding="utf-8"),
+                  indent=4, ensure_ascii=False)
+
+    return translated_results
+
+translate_herbs_to_chinese()
+#add_urls()
 # get_herbs()

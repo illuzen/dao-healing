@@ -111,7 +111,7 @@ def get_herbs():
 
     results = json.load(open('./ai_herbs_detailed.json', 'r', encoding="utf-8"))
     filenames = glob('./text/*')
-    
+
     for filename in tqdm(filenames):
         print(filename)
         with open(filename, 'r', encoding='utf-8') as file:
@@ -127,4 +127,17 @@ def get_herbs():
 
     return results
 
-get_herbs()
+def add_urls():
+    results = json.load(open('./ai_herbs_detailed.json', 'r', encoding="utf-8"))
+    filenames = glob('./text/*')
+    for i, filename in enumerate(filenames):
+        url = 'http://alternativehealing.org/{}'.format(filename.split('.txt')[0].split('/')[-1])
+        print(url)
+        results[i]['original_url'] = url
+
+    json.dump(results, open('./ai_herbs_detailed.json', 'w', encoding="utf-8"), indent=4, ensure_ascii=False)
+
+    # print(results)
+
+add_urls()
+# get_herbs()

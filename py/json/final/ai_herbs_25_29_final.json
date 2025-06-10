@@ -1,0 +1,487 @@
+[
+    {
+        "Names": {
+            "Name": [
+                "dong chong xia cao",
+                "冬蟲夏草"
+            ],
+            "Pharmaceutical": [
+                "Cordyceps Sinensis"
+            ],
+            "Biological": [
+                "Cordyceps sinensis (Berk.) Sacc. and usually the larvae are the remains of Hepialus varians"
+            ],
+            "Common": [
+                "cordyceps"
+            ],
+            "Other": [
+                "chong cao",
+                "dong chong cao",
+                "yarsa gumba (Nepalese name of Tibetan origin)",
+                "yartsa gunbu (dbyar rtswa dgun 'bu, Tibetan name)",
+                "蟲草",
+                "冬蟲草"
+            ],
+            "Pronunciation in Korean": [
+                "tong ch'ung ha ch'o"
+            ],
+            "Pronunciation in Japanese": [
+                "tochukaso"
+            ],
+            "Pronunciation in Cantonese": [
+                "dung1 cung4 haa6 cou2"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Sichuan",
+            "Qinghai",
+            "Gansu",
+            "Guizhou",
+            "Yunnan",
+            "Tibet",
+            "regions above 3,000 meters elevation with cold climate"
+        ],
+        "Properties": [
+            "sweet",
+            "warm"
+        ],
+        "Meridians": [
+            "lung",
+            "kidney"
+        ],
+        "Maladies Treated": [
+            "impotence due to kidney yang deficiency (shenyangxu)",
+            "chronic lower back pain due to kidney yang deficiency",
+            "afraid of cold due to kidney yang deficiency",
+            "over abundance of mucus and tears due to lung and kidney deficiency",
+            "chronic cough and wheezing from deficiency due to lung yin and kidney yang deficiency",
+            "blood in phlegm from consumption due to kidney yang deficiency",
+            "weakness and coughing blood",
+            "erectile dysfunction and spermatorrhea",
+            "chronic bronchial inflammation in weak elderly individuals"
+        ],
+        "Medical Function": [
+            "tonifies lung yin and kidney yang, balancing yin and yang",
+            "improves auto-immune system function",
+            "effective adjuvant therapy in hematopoietic dysfunction and cancer",
+            "cordyceps polysaccharide has bidirectional immuno-modulatory effects on peripheral blood lymphocytes",
+            "enhances macrophage immune activity",
+            "significantly improves deformability of erythrocytes after strenuous exercise; effect increases with concentration",
+            "significantly inhibits lipid peroxidation of membrane after exercise, has strong scavenging effect",
+            "protects kidneys from toxins and exhaustion; antagonizes aminoglycoside-induced reduction in renal oxygen consumption; increases renal tubular Na+-K+-ATPase activity and reduces aminoglycoside lysosomal lipid peroxidation damage; reduces calcium content in tissues; protects renal tubular cells by induction of c-myc gene expression and modulation of epidermal growth factor; promotes renal repair and regeneration after injury",
+            "In a cyclosporin A-induced acute nephrotoxicity rat model, Cordyceps exhibited renal protective effects. The rise in serum creatinine and blood urea nitrogen (BUN) was significantly slower in the Cordyceps group compared to the control (P < 0.01). Cordyceps may help correct cyclosporin-induced abnormalities in renal hemodynamics. Additionally, the reduction in urinary sodium and potassium excretion was less pronounced in the Cordyceps group, whereas the control group showed a marked decline over time (P < 0.01). The activities of mitochondrial Na⁺-K⁺-ATPase and Ca²⁺-ATPase in renal tissues were significantly higher in the Cordyceps group than in controls (P < 0.05). Cordyceps also enhanced intracellular mitochondrial respiratory function, thereby increasing energy production to maintain normal ion gradients across the cell membrane and promoting the repair of damaged cells, which may be one of its key mechanisms of action.",
+            "Using a 5/6 nephrectomy model to study chronic renal failure (CRF), Cordyceps demonstrated significant preventive and therapeutic effects. After 90 days of treatment, rats in the Cordyceps group showed significantly lower levels of serum creatinine, blood urea nitrogen (BUN), triglycerides, cholesterol, and 24-hour urine protein compared to the control group (P < 0.05). The urinary excretion rate of 3-methylhistidine was also significantly reduced (P < 0.05), while protein synthesis rates in liver and muscle tissues were notably higher. Histological analysis revealed markedly less glomerulosclerosis, tubular atrophy, and interstitial fibrosis in the Cordyceps group (P < 0.05). At 120 days, mortality was 33.33% in the Cordyceps group versus 42.22% in controls. By 180 days, the levels of valine, leucine, isoleucine, lysine, tyrosine, and the combined intracellular and extracellular concentrations of branched-chain amino acids were all significantly higher in the Cordyceps group (P < 0.05). These findings suggest that Cordyceps can delay renal function decline in CRF, reduce proteinuria, correct disturbances in amino acid, protein, and lipid metabolism, and inhibit the progression of glomerulosclerosis and tubulointerstitial injury.",
+            "Using two pathological models of liver injury—carbon tetrachloride (CCl₄) and thioacetamide (TAA)—Cordyceps liposomes demonstrated a protective effect, significantly reducing serum ALT levels in a dose-dependent manner. Histopathological analysis revealed that Cordyceps liposomes offered notable protection against CCl₄-induced liver damage, with liver tissue structures appearing close to normal. However, no significant improvement was observed in the TAA-induced model, likely due to the irreversible nature of the injury caused by TAA.",
+            "In a study on the prevention and treatment of liver fibrosis, rats were administered Cordyceps water extract via gavage, resulting in significantly lower serum procollagen III (PCIII) levels compared to controls. Histological examination showed clear reductions in hepatocyte degeneration, necrosis, and fibrous tissue proliferation. Collagen deposition of types I, III, and IV in liver tissue was also lighter, with suppressed synthesis of type IV collagen. Electron microscopy revealed that Cordyceps inhibited the proliferation of fibroblast-like cells in liver sinusoids (FSC) and their transformation into myofibroblasts. These findings suggest that the anti-fibrotic mechanism of Cordyceps may involve suppression of FSC proliferation and transformation, thereby reducing the liver’s capacity to synthesize collagen.",
+            "protects heart from ouabain-induced toxicity in guinea pigs; Intraperitoneal administration of Cordyceps mycelial ethanol extract (Cordyceps B) significantly increased the LD₁₀₀ and delayed the onset of ouabain-induced cardiac toxicity in guinea pigs, while also enhancing superoxide dismutase (SOD) activity and reducing oxidative metabolites in a dose-dependent manner.",
+            "anti-arrhythmic effect in animal models (rats, mice, guinea pigs, rabbits) against arrhythmia induced by aconitine, barium chloride, adrenaline. Cordyceps demonstrated clear inhibitory effects on arrhythmias induced by aconitine, barium chloride, and adrenaline in rats, mice, guinea pigs, and rabbits, while it worsened arrhythmias caused by isoproterenol and showed no effect on those induced by ouabain, suggesting that its anti-arrhythmic action likely involves a direct effect on the heart.",
+            "improves cardiac function: Cordyceps B affected cardiac function in several ways: intravenous injection of 1.5 g/kg in anesthetized rats slowed heart rate, which returned to normal within approximately 5 minutes; subcutaneous injection of 5 g/kg significantly increased hypoxia tolerance in mice and enhanced myocardial uptake of rubidium, indicating improved perfusion; and intraperitoneal injection of 2.5 g/kg markedly reduced myocardial oxygen consumption.",
+            "anti-rejection effect in cornea transplant, enhancing immunosuppressive effects and steroid effectiveness.",
+            "anti-aging and anti-stress effects",
+            "antibiotic effects",
+            "inhibits contraction of smooth muscle",
+            "inhibits group A Streptococcus bacteria"
+        ],
+        "Dosage": "4.5 to 12 g per day",
+        "Samples of Formulae": "For weak elderly persons with chronic bronchia inflammation: dong chong xia cao (cordyceps) 10 g, kuan dong hua 6 g, sang bai pi 8 g, gan cao 3 g, xiao hui xiang 2 g, boiled in 600 cc of water down to 200 cc; to be taken in 3 servings per day. For weakness and coughing blood: dong chong xia cao (cordyceps), sha shen, mai dong, sheng di huang; boiled in water and taken in 3 servings daily. Erectile dysfunction and spermatorrhea: dong chong xia cao (cordyceps), gou qi zi, shan zhu yu, huai shan yao, boiled in water and divided into 3 servings per day.",
+        "Contraindications": "Large dosages and/or long-term usage can be toxic to kidneys. Strict rules apply in Taiwan regarding selling cordycep mycelium.",
+        "Research": "See detailed descriptions of medical functions above; multiple studies conducted on animals (rats, mice, guinea pigs, rabbits) demonstrate protective effects on immunity, kidneys, liver, heart, and anti-bacterial functions.",
+        "Notes": "According to the traditional Chinese medicine text Ben Cao Bei Yao (Essentials of Materia Medica), Cordyceps produced in Jiading Prefecture of Sichuan was considered the highest in quality. Today, most of the Cordyceps sold on the market comes from Tibet and Qinghai, where the insect bodies tend to be larger, making them more expensive. These are typically sold individually and referred to as “scattered Cordyceps” (san chong). \n When about eight pieces of Cordyceps are bundled together with a red string into a small bunch, and then several small bunches are tied together into a larger bundle weighing about four liang (roughly 150g), it is called “bundled Cordyceps” (ba chong). However, many dishonest sellers mix in sand, stones, or plant materials that resemble Cordyceps to artificially increase the weight, so buyers must be very cautious when purchasing. \n Lin Yi-Hsin, the chairperson of the Traditional Chinese Medicine Committee under Taiwan’s Department of Health, stated that the Cordyceps mycelium popular in the health supplement industry today does not involve insects. Instead, specific Cordyceps strains are selected and cultivated using soybeans, grains, amino acids, and other nutrients, which are fermented in controlled environments for temperature and humidity. After fermentation, the Cordyceps mycelium is harvested and its active components extracted and dried into powder. Because these mycelium-based products are not derived from whole Cordyceps, food manufacturers are not allowed to claim any therapeutic effects. Furthermore, Cordyceps mycelium capsules are not classified as health foods. If companies mislead consumers by making medical claims, they will be penalized by the Department of Health under the Pharmaceutical Affairs Act for selling counterfeit or adulterated drugs. \n According to manufacturers, the active components of Cordyceps mycelium—such as amino acids, polysaccharides, adenosine, nucleosides, fatty acids, mannitol, and trace elements—are largely similar to those found in natural Cordyceps. Pharmacological analysis also suggests similar effects. However, natural Cordyceps is easier to visually inspect for authenticity, while Cordyceps mycelium is harder for the average consumer to evaluate, making it more difficult to detect counterfeits. Therefore, consumers must be extremely careful when purchasing to avoid buying fake products that may be harmful to health.",
+        "Chemical Ingredients": [
+            "Cordyceps polysaccharide",
+            "Vitamin B12",
+            "Ergosterol",
+            "Cordycepic acid",
+            "Amino acids including lysine, aspartic acid, threonine, taurine",
+            "Crude protein 27.52%"
+        ],
+        "References": [
+            "[6] Acute nephrotoxicity animal studies using CsA induced renal injury.",
+            "[7] Chronic renal failure rat model experiments utilizing partial nephrectomy.",
+            "[8] Liver injury studies with carbon tetrachloride (CCl4) and thioacetamide (TAA) mice models.",
+            "[9] Liver fibrosis experiment in rats induced by CCl4, showing inhibitory effects from cordyceps.",
+            "[10] Guinea pig cardiac toxicity study with ouabain.",
+            "[11] Animal studies (rats, mice, guinea pigs, rabbits) on anti-arrhythmic effects.",
+            "[12] Cardiac function study performed on anesthetized rats and mice indicating improved cardiac circulatory parameters and reduced oxygen consumption.",
+            "[13] Anti-rejection effects observed in cornea transplant studies."
+        ],
+        "Further Reading": [],
+        "Original Text": "dong chong xia cao, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University   中藥詞典                 Chinese Herb Dictionary      Search this site     在本網站找資料Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibraryResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information  dong chong xia cao 冬 蟲夏草 （In English and Chinese 中英文)By: Joe Hing Kwok ChuPharmaceutical name:英文藥名 ﹕Cordyceps SinensisLatin name:拉丁學名 ﹕Cordyceps sinensis (Berk.) Sacc. and the usually the larvae are the remains of Hepialus variansPron. in Japanese:日語發音：tochukasoPron. in Korean:韓語發音：tong ch'ung ha ch'oPron. in Cantonese:粵音﹕dung1 cung4 haa6 cou2Other Name:別名 ﹕chong cao, dong chong cao, yarsa gumba (Nepalese name of Tibetan origin),  yartsa gunbu  ((dbyar rtswa dgun 'bu) Tibetan  name)蟲草 ﹐冬蟲 草Common Name:英文名：cordycepsDistribution:產地 ﹕Sichuan, Qinghai, Gansu, Guizhou, Yunnan, and Tibet where the elevations are over 3,000 meters with cold climate.主要產地為四川﹐青海﹐西藏﹐甘肅﹐雲南﹐和貴州等地三千米以上的高寒地帶。Properties (characteristics)﹕性味 ﹕sweet, warm甜﹐ 溫Channels (meridians) entered:歸經﹕lung, kidney肺﹐ 腎Actions & Indications:功 效與應用﹕tonifies lung yin and kidney yang. For impotence, chronic lower back pain, afraid of cold, over abundance of mucus and tears,  chronic cough and wheezing from deficiency, blood in phlegm from consumption due to kidney yang deficiency (shenyangxu). 用 於腎 陽虛 所致肺虛 肺結核咳血，痰多﹐淚多﹐陽痿﹐腰背酸痛等症。本品有滋肺陰，補腎 陽的作用，為一 種平補陰陽的藥物。Medical Function:藥理 ﹕improves auto-immune system function. It is an effective adjuvant therapy in  hematopoietic dysfunction and in cancer. Cordyceps polysaccharide on peripheral blood lymphocytes possesses bidirectional immuno-modulatory effects. It can enhance the macrophage immune activity. Significant improvement of the condition of deformability of erythrocyte after strenuous exercise, and it is related to the degree of concentration of the extract of the herb. As the concentration increases, the effect of improvement increases. It can significantly inhibit lipid peroxidation of membrane lipid peroxidation after exercise. There is a strong scavenging effect.protects kidneys from toxins,protects kidneys from exhaustion,protects liver from toxins and treats and prevents cirrhosis of liver,protect the heart from the damaging effect of  ouabain (C29H44O12.8H2O),anti-arrhythmia,  anti-rejection effect in cornea transplant,antibiotic effect,inhibits contraction of smooth muscles.inhibits group A Streptococcus bacteriaThe following to be translated in detail:1　對免疫及血液系統的作用 提高機體免疫功能。蟲草對免疫或造血功能障礙低下﹐癌症等是有效的輔助治療。  虫草多糖對外周血淋巴細胞具有雙向免疫調節作用。 對巨噬細胞免疫活性的增強作用。 劇烈運動後紅細胞變形能力下降有明顯改善作用，並有濃度依賴關系。隨著濃度增加，其改善作用增強。 能顯著抑制脂質過氧化，對運動後膜脂質過氧化物有較強的清除作用。 2　對腎臟的作用 　對腎毒性損傷的防治作用作用﹔機制可能包括：(1)拮抗氨基糖苷所致腎臟氧耗下降，提高腎小管Na＋-K＋-ATP酶活力；(2)減輕 氨基糖 苷溶酶 體損傷的脂質過氧化損傷；(3)降低組織鈣含量；(4)通過誘導腎小管細胞c-myc基因表達以及對損傷狀態下腎組織表皮生 長因子調節的 保護，促進腎 小管的再生修復。 2.2　對急性腎毒性的保護作用〔6〕：利用環孢A致急性腎毒性動物模型，觀察冬蟲夏草對大鼠腎功能的保護作用。實驗發現：冬蟲夏草組血清肌酐﹐ 尿素氮 上升較 為遲緩，與對照組比較P＜0.01。這種改變可能與冬蟲夏草改善環孢A所致的腎血流量動力學異常有關；冬蟲夏草組尿鈉﹐鉀排出量較實 驗前下降幅 度 較小，而對照 組隨實驗時間的延長有明顯下降(P＜0.01)；冬蟲夏草組腎組織線粒體Na＋-K＋-ATP及Ca2＋-ATP酶 活性明顯高於對照 組(P＜0.05)。 改善細胞內線粒體呼吸功能，使其增加能量以維持細胞內外正常的離子梯度，加速病損細胞的修復，這可 能是冬蟲夏草的作用機制之一。 2.3　對慢性腎功能衰竭的防治作用〔7〕：利用腎大部分切除術建立慢性腎功能衰竭(CRF)模型，觀察冬蟲夏草對殘余腎組織和腎功能的影響 。結果 ：(1)冬 蟲夏草組 治90 d時，大鼠的血清肌酐﹐尿素氮﹐甘油三酯﹐膽固醇和24 h尿蛋白均明顯低於對照組(P＜0.05)；(2)冬蟲夏草組 尿3-甲 基 組氨酸排泄率明 顯低於對照組(P＜0.05)；冬蟲夏草組的肝臟和肌肉組織蛋白合成速率亦顯著高於對照組；(3)冬蟲夏草組的腎小球硬 化﹐腎小管萎縮 和間質纖維化程度均明顯 低於對照組(P＜0.05)；(4)治療120 d時，冬蟲夏草組死亡率為33.33%，對照組為42.22%；(5)治 療180 d時，冬蟲夏草組的頡﹐亮﹐ 異亮﹐賴酪氨酸水平以及細胞內外的支鏈氨基酸之和均明顯高於對照組(P＜0.05)。提示：冬蟲夏草能延緩CRF大 鼠的腎 功 能減退，減輕蛋白尿，糾正氨基 酸﹐蛋白質和脂質代謝紊亂，抑制殘余腎組織的腎小球硬化和腎小管-間質損傷的發展。 3　對肝臟的作用 3.1　對肝損傷的保護作用〔8〕：用四氯化碳 (CCl4)及硫代乙酰胺(TAA)致小鼠肝損傷的兩種病理模型觀察冬蟲夏草對其預防及治療作用。實驗結 果 ：CCl4或TAA致 肝損傷的小鼠口服冬蟲夏草脂質體後，均可使肝損傷的ALT有不同程度下降，且下降幅度與劑量有關。小鼠肝組織病理切片顯 示， 冬蟲夏草脂質體對CCl4損 傷的肝 組織有一定的保護作用，肝組織結構顯示接近正常組織，但對TAA損傷的肝組織未見有明顯改善，可能由於TAA致 小 鼠肝損傷的不可逆性。 3.2　對肝纖維化的防治作用〔9〕：以冬蟲夏草水溶液大鼠灌胃的方式，觀察其對CCl4誘發的肝纖維化的療效。結果：冬蟲夏草組血清PCⅢ明顯 低於對 照組； 肝細胞變性﹐壞死﹐纖維組織增生亦明顯輕於對照組；冬蟲夏草組Ⅰ﹐Ⅲ﹐Ⅳ型膠原在肝組織中的沉積亦輕於對照組，並能抑制肝細胞合 成Ⅳ型膠原。 超微結構研究 發現，冬蟲夏草不僅抑制FSC(位於肝竇狹氏間隙的成纖維細胞系細胞)增殖，還能抑制FSC向肌成纖維細胞及成纖維 細胞轉化。因此推測冬 蟲夏草抗 肝纖維化的機 制可能是通過抑制FSC增殖和向肌成纖維細胞及成纖維細胞轉化，從而減弱FSC合成膠原的能力。 4　對心臟的作用 4.1　拮抗哇巴因致心臟的毒性〔10〕：以腹腔給藥方式，冬蟲夏草菌絲體醇提物(冬蟲夏草B)能顯著提高哇巴因致豚鼠心臟毒性的劑量和LD100的 劑 量，並 能延遲豚鼠發生心臟毒性和LD100的時間，提高SOD活性和降低氧化代謝物的含量，其作用強度存在劑量依賴性。 4.2　抗心律失常作用〔11〕：冬蟲夏草對大鼠﹐小鼠﹐豚鼠﹐兔4種動物分別 由烏頭鹼﹐氯化鋇﹐腎上腺素所致的心律失常有明顯抑制作用， 但對異 搏 定所 引起的心律失常卻有加劇作用，而對哇巴因誘發的心律失常無明顯影響，提示冬蟲夏草可能是直接作用於心臟產生抗心律失常作用。 4.3　對心功能的影響〔12〕：給麻醉大鼠靜注冬蟲夏草B，當劑量為1.5 g(生藥)/kg以上時能使心率減慢，5 min左右恢復正常 ；皮下 注 射5 g/kg以上時，能明顯延長小鼠耐缺氧能力，使心肌對Rb(金屬元素銣)的攝取增加，表明可增加心肌營養性血液量；腹腔注 射2.5 g/kg以 上則明 顯降低小鼠心肌耗氧量。 5　抗角膜移植排斥反應［13］ 　在角膜移植後能發揮免疫抑制劑的作用，並能強化激素的效果。 6　抗衰老﹐抗應激作用 7 抗菌﹐ 8 仰制平滑肌之收縮。9 抑制A羣鏈球菌作 用  Chemical ingredients:化 學成份﹕Cordyceps polysaccharide 蟲草多醣Vitamin B12維生素B12ergosterol麥角固醇cordycepic acid蟲草酸Amino Acid group:氨基酸類：crude protein 27.52%粗蛋白27.52%amino acid: lysine赖氨酸aspartic acid天門冬酸threonine蘇氨酸taurine牛磺酸Dosage:用量 ﹕4.5 to 12 g per day.每日4.5 ~ 12 克。Samples of formulae:配方 舉例﹕For weak old people with chronic bronchia inflammation: dong chong xia cao 10 g, kuan dong hua 6 g, sang bai pi 8 g, gan cao 3 g, xiao hui xiang 2 g, water 600 c.c.  Boil down to 200 c.c. Make into 3 servings per day.For weaknes and coughing blood: dong chong xia cao, sha shen, mai dong, sheng di huang. Boil with water and make into 3 serving. Take orally.Erectile dysfunction and spermatorrhea: dong chong xia cao, gou qi zi, shan zhu yu, huai shan yao. Boil with water. Make into 3 servings per day. Take orally. 老人體弱慢性 支 氣管炎﹕冬蟲夏草10克﹐款 冬花6克﹐桑 白皮8克﹐甘 草3克﹐小茴香2克 。水煎。每日分作三次服。虛勞咳血:  冬蟲夏草﹐沙 參 ﹐麥 冬﹐生 地黃。水 煎。每日分作三次服。陽痿遺精﹕冬蟲夏草﹐枸杞子﹐山茱萸﹐淮 山。水煎。每日分作三次服。Modern Research:現代研 究﹕to be loadedCautions:禁忌﹕Large dosages and/or long term usage can be toxic to kidneys. See the strict rules of Taiwan on selling Cordycep mycelium . 大劑量或長期服用可能對腎臟有毒。看關於蟲草菌絲的台灣法律Note:  According to the classics materia medica,  \"Ben Cao Bei Yao (Essentials of Materia Medica)\", the best dong chong xia cao, are produced in Sichuan. Today, most of them are produced in Xizang (Tibet) and Qinghai. Because the sizes the larvae are larger, they fetch higher prices.Warning: It is advisable to buy this herb from reputable, established herb stores. The editor has encounter little pebbles and roots that look like the herb, packed in middle of bundled herbs. Some adulterated herb may also contain metal wire inserted into the herb to increase the weight.According to the industry, the active ingredients of Cordyceps mycelium, such as amino acids, polysaccharides, adenosine, nucleotides, fatty acids, and mannitol and trace elements, are mostly similar to the natural Cordyceps sinensis and its medical functions also have similarities with natural Cordyceps. But, natural Cordyceps can be easily and clearly observed and there still are counterfeits. The average consumer can not even distinguish the authenticity of Cordyceps mycelium. So be very careful when buying to avoid buying fake merchandise and affect your health根據中醫古籍「本草備要」 記載， 產自四 川嘉定府的冬蟲夏草其品質最佳。目前市面上所賣的，多半是產自西藏﹐青海一帶 ，因其蟲體較大，價錢較為貴。一般作一 尾一尾 分開來賣。稱 為「散蟲」。把冬蟲草八尾左右用紅繩捆成一小把 ，又 縛成一大把約 四兩重。稱 為「 把蟲」。有很多奸商把沙石與類似蟲類的植物混在其中以加 重其重 量。購買時把須小心。台灣衛生署中醫 藥委員 會主委林宜信說，現在保健食品界風行的冬蟲夏草菌絲體並未使用到昆蟲，而是篩選 特定的 蟲草菌株，用大豆﹐穀物﹐氨基酸等營養劑，注入發酵槽中控制溫濕度，發酵 培養出冬蟲夏草菌絲體後，從中提取有效物質製成乾粉。所以製造冬蟲夏草菌絲體的食品﹐食品業者不能宣稱療效，而冬蟲夏草菌絲體膠囊也不是健康食品，業者若誤導視 聽，衛生署將依藥事法，以賣偽藥﹐混用藥等相關法律處罰。據業者說冬蟲夏草菌 絲 有效成分，如氨基酸類，多糖類 ， 腺苷，核苷，脂肪酸，甘露醇 和微量元素等大多與天然蟲草相近。其藥理分析也與天然 冬蟲夏草有相似之處云 。天然的冬蟲夏草容易看得清楚也會有偽冒的假貨。一般消費 者更加不能分辨冬蟲 夏草菌絲的真偽。所以購買時須十分小心以免買到對健康不良的假貨。 Search this siteProblems with website? Please Click here for comment. (Not for inquiry )    Click here for inquiryCopyright Notice 按此看關於版權問題A manuscript... writing, translating and proofreading  in progressSponsors' Ads by Google 以下為谷歌 所提供之廣告 List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese Medicine TCM Diagnosis Samples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather ReportDisclaimerLast update: Nov 9, 2014; 3:30 p.m. LAH   ",
+        "original_url": "http://alternativehealing.org/dong_chong_xia_cao.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "yang gan ju"
+            ],
+            "Pharmaceutical": [
+                "Flos Matricariae recutitae"
+            ],
+            "Biological": [
+                "Matricaria recutita L."
+            ],
+            "Common": [
+                "German chamomile",
+                "wild chamomile",
+                "Hungarian chamomile",
+                "pineapple weed"
+            ],
+            "Other": [
+                "mu ju 母菊",
+                "German gan ju 德國甘菊",
+                "gan ju 甘菊"
+            ],
+            "Chinese": [
+                "洋甘菊",
+                "母菊",
+                "德國甘菊",
+                "甘菊"
+            ],
+            "Pronunciation in Korean": [
+                "kamille (카밀레)"
+            ],
+            "Pronunciation in Japanese": [
+                "kamitsure (加密列)"
+            ],
+            "Pronunciation in Cantonese": [
+                "joeng4 gam1 guk1"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Asia minor",
+            "North America",
+            "South America",
+            "Australia",
+            "Northern and western parts of Xinjiang, Taiwan, Beijing",
+            "Shanghai"
+        ],
+        "Properties": [
+            "neutral",
+            "sweet",
+            "slightly bitter"
+        ],
+        "Meridians": [
+            "Heart",
+            "Stomach"
+        ],
+        "Maladies Treated": [
+            "irritable bowel syndrome",
+            "stomach pain"
+        ],
+        "Medical Function": [
+            "antispasmodic",
+            "anxiolytic (calming, anti-anxiety)",
+            "anti-inflammatory",
+            "anti-ulcer",
+            "antibiotic: the essential oil, in vitro, shows inhibitory effect on Staphylococcus aureus, Mycobacterium B6, Michigan, Corynebacterium, Candida albicans",
+            "antipruritic",
+            "regulates immune system",
+            "inhibits morphine dependence in rats and reduces symptoms of withdrawal syndrome",
+            "antioxidant",
+            "anti-parasites",
+            "anti-brain injury",
+            "antimutagenic",
+            "cholesterol-lowering effects"
+        ],
+        "Dosage": "Daily dosage: 3~5 g",
+        "Samples of Formulae": "",
+        "Contraindications": "Use this herb with care if you are allergic to plants in the Asteraceae (Compositae) family like aster, chrysanthemum, mugwort, ragweed, and ragwort, or if using blood thinner like warfarin.",
+        "Research": "The essential oil, in vitro experiments, shows inhibitory effects on Staphylococcus aureus, Mycobacterium B6, Michigan, Corynebacterium, Candida albicans. An in vitro study indicates chamomile has inhibitory effects on human main drug metabolic enzymes. Research in rats demonstrates chamomile's inhibitory effect on morphine dependence and reducing withdrawal syndrome symptoms.",
+        "Notes": "",
+        "Chemical Ingredients": [
+            "Terpenoids: matricin, α-bisabolol, E-β-farnesene, γ-terpinene, Δ3-carene, α-cubebene, α-muurolene, calamene, xanthoxyline, chamavioline (7-ethyl-4-methyl-azulene-1-carbaldehyde), α-bisabolol oxides A-C, spathulenol, guaiazulenic acid",
+            "Flavonoids: apigenin, quercetin, luteolin, quercetagetin, rutin, hyperoside, apigenin-7-O-glycoside, cosmosiin, jaceidin, chrysosplenol D, eupatolitin, spinacetin, axillarin, eupalitin, patulitrin, quercimeritrin",
+            "Coumarins: umbelliferone, methylumbelliferin, herniarin, esculetin, scopoletin, isoscopoletin",
+            "Triterpenes: oleanolic acid, taraxerol",
+            "Others: xylose, arabinose, galactose, glucose, rhamnose"
+        ],
+        "References": [
+            "[16] doi:10.1002/ptr.1900. PMID 16628544.",
+            "[17] Phytomedicine. 2003 Nov;10(8):657-64.",
+            "[18] Phytother Res. 20:519-530.",
+            "http://www.hkjcicm.org/cm_database/plants/detail.aspx?herb_id=202"
+        ],
+        "Further Reading": [],
+        "Original Text": "yang gan ju , Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home 現代中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine TCMAcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　 To post your discussion click here.　    　      　　    　　　　　                                      Last update: May 15, 2011; 9:05 p.m. LAH yang gan ju  洋甘菊by: Joe Hing kwok Chu    朱興國編 譯     (in English and Chinese 中英文)Pharmaceutical name:英文藥名﹕Flos Matricariae recutitaeBotanical name:拉丁生物學名﹕Matricaria recutita L.Pron. in Japanese:日語發音﹕kamitsure (加密列)Pron. in Korean:韓語發音﹕kamille (카밀레)Pron. in Cantonese::粵音﹕joeng4 gam1 guk1Other Names:別名﹕mu ju 母菊, German gan ju 德國甘菊, gan ju 甘菊Common Name:英文名﹕German chamomile, wild chamomile, Hungarian chamomile, pineapple weed.Distribution:產地﹕originally in Asia minor, Americas, Australia, now in northern and western parts of Xinjiang, Taiwan, Beijing and Shanghai.分佈於小亞細亞、南、北美洲、澳洲大陸為原生地。現 在新疆北部和西部,，台湾，北京和上海Propertiescharacteristics﹕性味﹕neutral, sweet, slightly bitter.平，甘，微苦。Channels meridians entered: 歸經﹕heart, stomach心，胃。Medical functions:藥理﹕ antispasmodic, anxiolytic, anti-inflammatory, anti-ulcer, antibiotic: the essential oil, in vitro, show inhibiting effect on Staphylococcus aureus, Mycobacterium B6, Michigan, Corynebacterium, Candida albicans, antipruritic,   regulates immune system Inhibition of morphine dependence in rats and reduce the symptoms of withdrawal syndrome[31] antioxidant anti-parasites anti-brain injury antimutagenic cholesterol-lowering effects [16] \n解痙\n鎮靜、抗焦慮\n抗炎\n抗潰瘍\n抗菌:母菊精油體外對金黃色葡萄球菌、分枝桿菌 B6、密執安棒桿菌、白色念珠菌等有抗菌作用[25-26]。\n止癢[17]、抗過敏\n免疫調節功能\n體外實驗表明，母菊對人主要的藥物代謝酶有抑制作用[30]。\n抑制大鼠對嗎啡的依賴性並減輕戒斷綜合徵的症狀[31]。\n具有抗氧化[32]、\n抗寄生蟲[33]。\n抗腦損傷：\n 抗 突變\n 降 膽固醇Actions & Indications:主治﹕irritable bowel syndrome, stomach pain,Chemical ingredients:化學成份﹕ terpenoids:萜類成分matricin[1]母菊素 [1]α-bisabololα-甜沒藥萜醇E-β-farnesene[2]E-β-金合歡烯γ-terpineneγ-鬆油烯 Δ3-careneΔ3-蒈烯 α-cubebeneα-蓽澄茄苦素 α-muuroleneα-衣蘭油烯 calamene菖蒲烯xanthoxyline花椒油素chamavioline (7-ethyl-4-methyl-azulene-1-carbaldehyde) [3] 7-乙基-4-甲基-甘菊環烴-1-甲醛α-bisabolol oxides A-C[4]α-甜沒藥萜醇氧化物 A、B、Cspathulenol[5]匙葉桉油烯醇guaiazulenic acid[6]愈創木薁酸Flavonoids:黃酮類成分： apigenin芹菜素quercetin槲皮素luteolin[7]木犀草素quercetagetin萬壽菊黃素rutin蘆丁hyperoside金絲桃苷apigenin-7-O-glycoside[8]芹菜素-7-O-葡萄糖苷cosmosiin[9]大波斯菊苷jaceidin棕鱗矢車菊黃酮素 chrysosplenol D貓眼草酚eupatolitin去甲澤蘭黃醇素spinacetin菠葉素axillarin甲氧基壽菊素eupalitin[10]3,4,5�-三羥基-6,7-二甲氧基黃酮patulitrin萬壽菊苷quercimeritrin[11]棉黃苷coumarins: [18]香豆素類成分：umbelliferone傘形花內酯methylumbelliferin[11]甲基傘形花內酯 herniarin[12]7-甲氧基香豆素 esculetin七葉亭 scopoletin東莨菪內酯isoscopoletin[13]異東莨菪內酯triterpenes:三萜類成分：oleanolic acid[12]齊墩果酸taraxerol[14]蒲公英萜醇Others:[15]其他：xylose木糖arabinose阿拉伯糖galactose半乳糖glucose葡萄糖rhamnose鼠李糖Daly Dosage:每日用量﹕3~5 gSamples of formulae:處方舉例﹕ Modern Research:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕Use this herb with care  if you are allergic  to plants in the Asteraceae (Compositae) family like aster, chrysanthemum, mugwort, ragweed, and ragwort. or using blood thinner like warfarin.可能引起膚過敏發炎，對菊科植物, (如 紫菀，菊花，艾 ，豚草，千里光)過敏的人，或用血液稀釋剤如華法林(warfarin)用 甘菊時需特別注意。 [16] doi:10.1002/ptr.1900. PMID 16628544.[17] Phytomedicine. 2003 Nov;10(8):657-64.[18] Phytother Res. 20:519-530.[other] see: http://www.hkjcicm.org/cm_database/plants/detail.aspx?herb_id=202    A manuscript... writing, translating and proofreading  in progress Problems with website? Please Click here for comment. Not for inquiry    Click here for inquiry    Copyright Notice 按此看關於 版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some Herbs Side Effect of Some Herbs Herbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong chi kungPrescribed Drug DictionaryEmail our web master for  your suggestion ,not for inquiryBiochemistry DictionaryGeneral Online LibraryQigong classesLecture SlidesResearch LibrarianSearchQigong classesHomeWeather Report Disclaimer　Search this site          \n",
+        "original_url": "http://alternativehealing.org/yang_gan_ju.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "chuan shan jia",
+                "穿山甲"
+            ],
+            "Pharmaceutical": [
+                "Squama manitis pentadactylae"
+            ],
+            "Biological": [
+                "Manis pentadactyla Linn."
+            ],
+            "Common": [
+                "pangolin scales",
+                "anteater scales"
+            ],
+            "Other": [],
+            "Chinese": [
+                "穿山甲"
+            ],
+            "Pronunciation in Korean": [
+                "chonsangap"
+            ],
+            "Pronunciation in Japanese": [
+                "senzanko"
+            ],
+            "Pronunciation in Cantonese": [
+                "cyun1 saan1 gaap3"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Animal",
+        "Geography": [
+            "Guangxi",
+            "Guizhou",
+            "Guangdong",
+            "Yunnan",
+            "Hunan",
+            "Fujian",
+            "Taiwan",
+            "Vietnam",
+            "Southeast Asia",
+            "India",
+            "Americas"
+        ],
+        "Properties": [
+            "salty",
+            "cool",
+            "tasteless"
+        ],
+        "Meridians": [
+            "liver",
+            "stomach"
+        ],
+        "Maladies Treated": [
+            "pain in the joints of lower limbs",
+            "chronic malaria",
+            "parasites",
+            "acute mastitis",
+            "wind dampness bi",
+            "chronic skin ulceration with pus"
+        ],
+        "Medical Function": [
+            "promote lactation",
+            "hastens boils to ripen",
+            "expels pus",
+            "stops pain",
+            "unblocks menstruation",
+            "undoes yu (blood stasis)"
+        ],
+        "Dosage": "5 to 10 g. Stir fry in sand before use.",
+        "Samples of Formulae": "To promote lactation: chuan shan jia (pangolin scales) stir fry with sand, dang gui (angelica root), jie geng (platycodon root), shao yao (peony root), mu tong (akebia stem), fu ling (poria), chuan xiong (ligusticum root), tian hua fen (trichosanthes root), equal parts. Use 50 g per day. Make decoction with 500 cc of water. Simmer till 200 c.c. Make into a one day dose, divided into 3 servings. (source: 宮前氏方)\nFor chronic skin ulceration with pus: chuan shan jia (pangolin scales) 10 g, bai zhi (angelica dahurica root) 5 g, zao jiao ci (gleditsia spine) 8 g, huang qi (astralagus) 6 g, dang gui (angelica root) 6 g. Per day dose. Make decoction with 600 cc of water. Simmer till 200 c.c. Make into 3 servings (source: 治慢性膿瘍，民間驗方)",
+        "Contraindications": "Not to use during pregnancy. Use with caution in cases of xu (deficiency) and sores that have already ripened and ulcerated. Now, most of the herb sold is fake and made with plastic.",
+        "Research": "",
+        "Notes": "",
+        "Chemical Ingredients": {},
+        "References": [],
+        "Further Reading": [],
+        "Original Text": "chuan shan jiaComplementary and Alternative Healing University  Home  現代 中藥辭典 Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearch this siteResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　                                     chuan shan jia 穿山甲  chuan shan jia穿 山 甲   Pharmaceutical name:英文药名：Squama manitis pentadactylaeZoological name:動物學名：Manis pentadactyla Linn.Pron. in Japanese:日語發音：senzankoPron. in Korean:韓語發音：chonsangapPron. in Cantonese:粤語發音：cyun1 saan1 gaap3Common Name:英文名：pangolin scales, anteater scalesDistribution:分佈：Guangxi, Guizhou, Guangdong, Yunnan, Hunan, Fujian, Taiwan, Vietnam and most of south east Asia, India, Americas.廣西，贵州，廣東， 云南，湖南，福建，臺湾，越南，東南亞大多 地方，印度，美洲等地。Properties (characteristics)：性味：salty, cool, tasteless鹹，寒，無味。Channels (meridians) entered:歸經：liver, stomach肝，胃。Actions & Indications:主治：promote lactation, hastens boils to be ripen, expels pus, stop pain, pain in the joints of lower limbs, chronic malaria, rid of parasites. unblocks menstruation, undo yu (blood stasis)., acute mastitis, ridding of wind dampness bi.催乳，催瘡成 熟，排膿，止痛，治下肢關結痛，慢性瘧疾， 寄生虫，經閉， 血瘀， 乳癰、風濕關節痛等症。Dosage:用量：5 to 10 g. Stir fry in sand before use.Chemical  ingredients:化學成份：will be loadedSamples of formulae:處方舉例：To promote lactation: chuan shan jia (stir fry with sand), dang gui,  jie geng, shao yao, mu tong, fu ling, chuan xiong, tian hua fen equal parts. Use 50 g per day.  Make decoction  with 500 cc of water. Simmer till 200 c.c. Make into one day dose. Make into 3 servings. (source: 宮 前 氏 方  )For chronic skin ulceration with pus: chuan shan jia 10 g, bai zhi 5 g, zao jiao ci 8 g, huang qi 6 g, dang gui 6 g. Per day dose. Make decoction  with 600 cc of water. Simmer till 200 c.c. Make into 3 servings (source: 治 慢 性 膿 瘍 ， 民 間 驗 方 )催乳：穿山甲（砂炒），桔 梗，當歸 ， 芍药， 木通， 茯苓， 川芎， 天花 粉， 各等份，每天用50克 。加水500毫升煎至200毫升。分作三份。内服。Cautions:禁忌：Not to use during pregnancy.  Use with caution in cases of xu (deficiency) and sores have been ripen and ulcerated.Now, most of the herb sold is fake and is made with plastic.孕婦忌用。虚症或瘡己成熟與破開不可用。現市面上賣的多為假貨，用塑膠假冒的。Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣 告  A manuscript... writing, translating and proofreading              in progressClick here for inquiry  Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right 版權所 有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classes  DisclaimerHomeWeather ReportLast update: Sept 7, 2014; 11:50  p.m. LAH    ",
+        "original_url": "http://alternativehealing.org/chuan_shan_jia.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "long dan cao",
+            ],
+            "Pharmaceutical": [
+                "Radix Gentianae longdancao"
+            ],
+            "Biological": [
+                "Gentiana scabra Bge",
+                "Gentiana triflora Pall.",
+                "Gentiana manshurica Kitag.",
+                "Gentiana regescens Fransh.",
+                "Gentiana arisanensis Hayata"
+            ],
+            "Common": [
+                "gentiana"
+            ],
+            "Other": [
+                "long dan",
+                "龍膽",
+                "long cao",
+                "膽草",
+                "ku dan",
+                "苦膽",
+                "ling you",
+                "陵游",
+                "guan yin cao",
+                "觀音草",
+                "阿里山龍膽",
+                "三花龍膽"
+            ],
+            "Chinese": [
+                "龍膽草"
+            ],
+            "Pronunciation in Korean": [
+                "yongdanch'o"
+            ],
+            "Pronunciation in Japanese": [
+                "ryutanzo",
+                "rindouzo"
+            ],
+            "Pronunciation in Cantonese": [
+                "lung4 daam2 cou2"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "China",
+            "Northeastern provinces (Manchuria)",
+            "Anhui",
+            "Jingjiang of Jiangsu",
+            "Shandong",
+            "Those produced in Zhejiang (Huzhou) is deemed best."
+        ],
+        "Properties": [
+            "bitter",
+            "cold",
+            "non toxic"
+        ],
+        "Meridians": [
+            "gallbladder",
+            "liver",
+            "stomach"
+        ],
+        "Maladies Treated": [
+            "high fever and seizures due to damp heat in liver and gallbladder channels",
+            "red swollen sore throat and eyes due to damp heat in liver and gallbladder channels",
+            "swollen and painful ears or sudden loss of hearing due to damp heat in liver and gallbladder channels",
+            "boils in mouth and tongue due to damp heat in liver and gallbladder channels",
+            "hepatitis with jaundice due to damp heat in liver and gallbladder channels",
+            "vaginal discharge due to damp heat in liver and gallbladder channels",
+            "damp and itchy groin area due to damp heat in liver and gallbladder channels",
+            "cystitis due to damp heat in liver and gallbladder channels",
+            "inflammation of the urethra due to damp heat in liver and gallbladder channels",
+            "boils on skin due to damp heat in liver and gallbladder channels",
+            "feverish malaria due to damp heat in liver and gallbladder channels",
+            "chronic gastritis due to damp heat in liver and gallbladder channels",
+            "eczema due to damp heat in liver and gallbladder channels",
+            "conjunctivitis due to damp heat in liver and gallbladder channels",
+            "hypertension with dizziness and tinnitus due to damp heat in liver and gallbladder channels",
+            "herpes zoster due to damp heat in liver and gallbladder channels"
+        ],
+        "Medical Function": [
+            "Decoction of long dan cao inhibits Pseudomonas aeruginosa, Proteus species, Salmonella typhi, Staphylococcus aureus, certain skin fungi, and Leptospira (Leptospirosis)",
+            "anti-inflammation",
+            "sedative effect",
+            "muscle relaxing effect",
+            "small amount taken half hour before meals can stimulate the digestive system and promote bile, hydrochloric acid, and other digestive enzyme secretion; thus promotes appetite. If taken after meals, secretion of digestive juices decreases. Large amount interferes with digestion, occasionally creating headache and dizziness",
+            "lowers ALT, choleretic effect; and protects liver from damage",
+            "anti-oxidant effect [1]",
+            "anti-tuberculosis [2]",
+            "inhibits production of melanin by blocking keratinocyte signaling to melanocytes"
+        ],
+        "Dosage": "0.3 to 3 g per day as decoction or in powder form",
+        "Samples of Formulae": "To strengthen digestive system: \n Long dan cao 2 g, da huang (rhubarb) 1 g, huang bai (phellodendron) 1 g, water 400 c.c. Simmer until 150 c.c. Divided into 3 servings per day. (source: He Han Yao Ying Yong Fang). \n Long dan cao powder 0.5 g, huang bai (phellodendron) powder 0.5 g, sheng jiang (fresh ginger) powder 0.3 g, hui xiang (fennel seed) powder 0.3 g, ji nei jin (chicken gizzard lining) powder 0.5 g, burnt shan zha (hawthorn fruit) powder 1 g, gui zhi (cinnamon twig) powder 0.3 g, mixed together. Divided into 3 servings per day. \n Also see: \n dang gui long hui wan 當歸龍薈丸 \n long dan xie gan tang  按此看龍膽瀉肝湯 \n long dan xie gan wan 按此看龍膽瀉肝丸.",
+        "Contraindications": "Not to use in case of diarrhea due to pixu (spleen deficient). Be careful not to confuse with gui jiu, a poisonous herb used for cancer treatment.",
+        "Research": "[1] Biochim Biophys Acta. 1998 Jan 15;1389(2):81-90. Isoorientin-6\"-O-glucoside, a water-soluble antioxidant isolated from Gentiana arisanensis. Ko FN, Chu CC, Lin CN, Chang CC, Teng CM. Pharmacological Institute, College of Medicine, National Taiwan University, Taipei.\n[2] Zhong Yao Tong Bao. 1985 Dec;10(12):33-4. [Antituberculous constituents of Gentiana rhodantha] [Article in Chinese], Liu YW.",
+        "Notes": "",
+        "Chemical Ingredients": [
+            "gentiopicrin 龍胆苦甙 (C16H25O9 · 1/2 H2O)",
+            "gentianose 龍膽三醣 (C18H32O16)",
+            "swertiamarin 獐牙菜苦甙",
+            "gentisin 龍胆酮",
+            "gentiobiose 龍膽二糖",
+            "gentisic acid 龍胆酸"
+        ],
+        "References": [
+            "[1] Biochim Biophys Acta. 1998 Jan 15;1389(2):81-90. Isoorientin-6\"-O-glucoside, a water-soluble antioxidant isolated from Gentiana arisanensis. Ko FN, Chu CC, Lin CN, Chang CC, Teng CM. Pharmacological Institute, College of Medicine, National Taiwan University, Taipei.",
+            "[2] Zhong Yao Tong Bao. 1985 Dec;10(12):33-4. [Antituberculous constituents of Gentiana rhodantha] [Article in Chinese], Liu YW."
+        ],
+        "Further Reading": [],
+        "Original Text": "long dan cao, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University   中藥詞典    Chinese Herb Dictionary      Search this site     在本網站找資料 long dan cao 龍膽草by: Joe Hing Kwok Chuclick here to see picture.  按此看圖 。Pharmaceutical name:英文藥名﹕Radix Gentianae longdancaoBiological name:學名﹕Gentiana scabra Bge,Gentiana   triflora Pall., 三 花 龍 膽Gentiana manshurica Kitag.,Gentiana regescens Fransh.Gentiana arisanensis Hayata  阿里山龍膽Other Names:別名﹕long dan龍膽long cao膽草ku dan苦膽ling you陵游guan yin cao觀音草Pron. in Japanese:日語發音﹕ryutanzo, rindouzoPron. in Korean:韓語發音﹕yongdanch'oPron. in Cantonese:粤語發音：lung4 daam2 cou2Common Name:常用英文名﹕gentianaDistribution:分佈﹕throughout China: Northeastern provinces (Manchuria), Anhui, Jingjiang of Jiangsu,Shandong. Those produced in Huzhou of Zhejiang is deemed best.全中國﹐ 尤其在東北﹐ 安徽﹐ 江蘇﹐ 山東。 浙江湖州產 的一般認為品質較佳。Properties (characteristics)：性味：bitter, cold, non toxic苦 寒無毒Channels (meridians) entered:歸經﹕gallbladder, liver, stomach肝 ﹐膽﹐膀胱Actions & Indications:用途﹕expels damp heat from liver and gallbladder channels with symptoms of high fever and seizures, red swollen sore throat and eyes, swollen and painful ears or sudden loss of hearing,  boils in mouth and tongue, hepatitis with jaundice, vaginal discharge, damp and itchy groln area, cystitis, inflammation of the urethra, boils on skin, feverish malaria, chronic gastritis, eczema, conjunctivitis, hypertension with dizziness and tinnitus, malaria, and herpes zoster.高熱驚厥，目赤咽痛，口舌 生瘡， 濕熱黃疸，帶下，陰 部濕癢，膀 胱炎，尿 道炎，疥瘡，瘧疾發熱，慢 性胃黏膜炎，皮膚濕疹﹐血壓高兼頭暈耳鳴﹐帶狀庖疹。Medical Function:藥理﹕Medical Function:Decoction of long dan cao inhibits Pseudomonas aeruginosa﹐ Proteus species, Salmonella typhi and Staphylococcus aureaus, certian skin fungi and Leptospirosis.Anti-inflammation.sedative effectmuscle relaxing effectSmall amount taken half hour before meals can stimulate the digestive system and promotes bile, hydrochloride acid and other digestive enzymes secretion; thus promotes appetite. If taken after meals causes the secretion of digestive juices to go down. If large amount  is taken, it interferes with digestion, sometimes creates headache and dizziness.lowers ALT, choleretic effect; and protects liver from damageanti-oxidant effect [1]anti-tuberculosis [2]inhibits production of melanin 藥 理﹕龍膽煎劑對綠膿桿菌 (Pseudomonas aeruginosa) ﹐變形桿菌（Proteus species） ﹐傷寒桿菌 (Salmonella typhi)﹐金黃 色葡萄 球菌（Staphylococcus aureaus） ﹐某些皮膚真菌及端 螺絲體 (Leptospirosis) 等 ，均有 一定的抑制作用；抗炎作用﹔鎮靜作用﹔使肌肉鬆弛作用﹔龍膽草少量飯前口服 ，可反 射性增強胃液分泌，並能增加游離酸，有助消化，增進食慾。如飯後服食則會使消化液體分泌下降。大劑量影響消化有時可致頭暈﹐頭 痛。保肝降低谷丙轉氨脢 ﹐ 與保護肝臟﹐利膽作用。 抗氧化 作用抗肺結核病作用阻擋角質細胞傳遞產生黑色素訊息到黑色素母細胞，阻斷黑色 素的生成。   Chemical ingredients:化學成份﹕Chemical ingredients:化學成份﹕gentiopicrin C16H25O 1/2 H20,龍胆苦甙gentianose C18H32O16龍膽三醣swertiamarin獐牙菜苦甙gentisin龍胆酮gentiobiose龍膽二糖gentisic acid龍胆酸Dosage:用量﹕03 to 3 g per day as decoction or powder form一日量﹕0.3 ~ 3 克﹐水煎或作粉劑。Samples of formulae:to strengthen digestive system:long dan cao 2 g, da huang 1 g, huang bai  1 g, water 400 c.c. Simmer till 150 c.c. Make into 3 serving per day. (source: He Han Yao Ying Yong Fang)long dan cao powder 0.5 g, huang bai  powder 0.5 g, sheng jiang powder 0.3 g, hui xiang powder 0.3 g, ji nei jin powder 0.5 g, burnt shan zha powder 1 g, gui zhi powder 0.3 g, mix together.  Make into 3 servings per day.治胃弱龍膽草2克 ， 大黃 1克 ，黃 柏 1 克﹐ 水400公 撮，煎至150公 撮，一日三回分服。龍膽草末0.5克 ，黃 柏末0.5克 ，生薑末0.3克 ， 桂 枝 末0.3克 ，茴香末0.3克 ，雞內金末0.5克 ，山查炭末1克 ，以上混和，一日三回分服。（和漢藥應用方）Also see:dang gui long hui wan 當歸龍薈丸long dan xie gan tang  按此看龍膽瀉肝湯,long dan xie gan wan 按此看龍膽瀉肝丸。,Modern Research:to be loaded soonCautions:禁忌﹕not to use in case of diarrhea due to pixu (spleen deficient) . Be careful not to use gui jiu by mistake. Gui jiu is a poisonous herb for cancer treatment.脾虛﹐便溏及非實火症忌用.注 意﹕龍膽草與鬼臼的形狀相似。鬼臼是用 來治癌症。有毒。[1] Biochim Biophys Acta. 1998 Jan 15;1389(2):81-90. Isoorientin-6\"-O-glucoside, a water-soluble antioxidant isolated from Gentiana arisanensis.Ko FN, Chu CC, Lin CN, Chang CC, Teng CM. Pharmacological Institute, College of Medicine, National Taiwan University, Taipei.[2] Zhong Yao Tong Bao. 1985 Dec;10(12):33-4. [Antituberculous constituents of Gentiana rhodantha] [Article in Chinese], Liu YW.  Search this siteProblems with website? Please Click here for comment. (Not for inquiry )    Click here for inquiryCopyright Notice 按此看關於版權問題Sponsors' Ads by Google 以下為谷歌 所提供之廣告A manuscript... writing, translating and proofreading  in progress List of Health ProblemsQigong (chi kung)Toxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese Medicine TCM Diagnosis Samples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong classesPrescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry Dictionary Qigong classes Research Librarian  HomeWeather ReportDisclaimerLast update: Aug 25, 2014; 12:15 a.m. LAH   ",
+        "original_url": "http://alternativehealing.org/long_dan_cao.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "pu gong ying"
+            ],
+            "Pharmaceutical": [
+                "Herba Taraxaci Mongolici cum Radice"
+            ],
+            "Biological": [
+                "Taraxacum mongolicum Hand.- M.azz.",
+                "Taraxacum formosanum (臺灣産蒲公英)",
+                "Taraxacum officinale Wigg.(歐產蒲公英)"
+            ],
+            "Common": [
+                "dandelion"
+            ],
+            "Other": [
+                "huang hua di ding 黃花地丁"
+            ],
+            "Chinese": [
+                "蒲公英"
+            ],
+            "Pronunciation in Korean": [
+                "p'ogongyong"
+            ],
+            "Pronunciation in Japanese": [
+                "hokoei"
+            ],
+            "Pronunciation in Cantonese": [
+                "pou4 gung1 jing1"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Throughout China",
+            "Especially Shanxi, Hebei, Shandong, and northeast provinces"
+        ],
+        "Properties": [
+            "bitter sweet",
+            "cold"
+        ],
+        "Meridians": [
+            "liver",
+            "stomach"
+        ],
+        "Maladies Treated": [
+            "swelling and pain in breast cancer due to heat toxin",
+            "boils due to heat toxin",
+            "lung cancer with coughing blood and pus"
+        ],
+        "Medical Function": [
+            "promote bile secretion",
+            "protects liver",
+            "diuretic effect (contain large amount of potassium)",
+            "inhibits Staphylococcus aureus, Streptococcus pneumoniae, Pseudomonas aeruginosa, Shigella spp., Neisseria meningitidis, Corynebacterium diphtheriae, Mycobacterium tuberculosis, ECHO virus, Leptospira",
+            "improves digestion",
+            "mild laxative effect"
+        ],
+        "Dosage": "9 ~30 g",
+        "Samples of Formulae": "",
+        "Contraindications": "overdose can cause mild diarrhea",
+        "Research": "The decoction of pu gong ying can enhance the effect of trimethoprimum (TMP). The ideal combination is pu gong ying 2.5 g (raw herb): TMP 10 mg. Taraxacum formosanum shows that it can help prevent osteoporosis especially for menopausal women.[1]",
+        "Notes": "",
+        "Chemical Ingredients": [
+            "taraxasterol (蒲公英固醇)",
+            "choline (膽鹼)",
+            "inulin (菊糖)",
+            "pectin (果膠)"
+        ],
+        "References": [
+            "[1] http://tcam.ccmp.gov.tw/infomation/97/01CCMP94-RD-012.pdf",
+            "http://www.spec-g.com.tw/twherb/HerbDetail.aspx?HID=100"
+        ],
+        "Further Reading": [],
+        "Original Text": "\n\n\n\npu gong ying, Complementary and Alternative Healing University\n\n\n\n\n\n\n\nComplementary and \n    Alternative Healing University\n    \n \n\n\n\n\n\n中藥詞典                 \n    Chinese Herb Dictionary    \n     Search \n    this site    \n    在本網站找資料\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch this \n        site\n\n\nList \n        of Health Problems\n\n\n\n\n\n\n        Chinese Herb Dictionary\n\n\n\n\n\nQigong\n\n\n\n\n\n\n        Traditional Chinese Medicine (TCM)\n\n\n\n\n\n\n        Acupuncture\n\n\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\nLecture Slides\n\n\n\n\n\nResearch Librarian\n\n\n\n\n\n\n        General Online Library\n\n\n\n\n\nResearch \n        Sites\n\n\n\n\n\n\n        Viagra\n\n\n\n\n\n\n        Massage/Acupressure\n\n\n\n\n\nHypnotherapy\n\n\n\n\n\nTell us what you want\n\n\n\n\n\nNotify Changes \n        & New Information\n\n\n\n \n\n\n\n\n\n \n\n\n\npu gong ying \n\n蒲公英   \n       (in English and Chinese 中英文)\n\n\n\n        by: Joe Hing kwok Chu\n\n\n\n\nPharmaceutical \n            name:\n英文藥名﹕\n\nHerba Taraxaci Mongolici \n            cum Radice\n\n\n\nBiological name:\n拉丁文學名﹕\n\nTaraxacum mongolicum\n            Hand..- M.azz.Taraxacum \n            formosanum  (臺灣産蒲公英)\n\nTaraxacum officinale  Wigg.(歐 \n            產蒲公英 )\n\n\n\n\nPron. in Japanese:\n日語發音﹕\n\nhokoei\n\n\n\nPron. in Korean:\n韓語發音﹕\n\np'ogongyong\n\n\n\n\n\n            Pron. in Cantonese:\n粵音﹕\n\npou4 gung1 jing1\n\n\n\nOther Names:\n別名﹕\n\nhuang hua di ding 黃花地\n            丁。\n\n\n\nCommon Name:\n英文名﹕\n\ndandelion\n\n\n\nDistribution:\n產地﹕\n\nthroughout China, especially \n            Shanxi, Hebei, Shandong, and northeast provinces.\n全國都有，特別於山西，河北，山東與東北等省。\n\n\n\n\nProperties\n(characteristics)﹕\n性味﹕\n\nbitter sweet, cold\n味苦中帶甘，性寒.\n\n\n\n\nChannels (meridians) \n            entered:\n歸經﹕\n\nliver, stomach.\n歸肝﹐胃經。\n\n\n\nMedical functions:\n藥理﹕\n \n\n\n\npromote bile secretion\nprotects liver\ndiuretic effect (contain large amount of potassium)\ninhibits staphylococcus aureus, Streptococcus \n              pneumoniae, Pseudomonas aeruginosa, Shigella spp., Neisseria meningitidis, \n              Corynebacterium diphtheriae, Mycobacterium tuberculosis, ECHO virus, \n              and Leptospira.\nimproves digestion\nmild laxative effect\n\n \n\n利膽\n保肝\n利尿作用(因為含有大量的鉀)。\n抑制金黃色葡萄球菌﹐肺炎鏈球菌, 綠膿桿菌, 志賀桿菌, 腦脊髓膜炎雙球菌, 白喉桿菌, \n              結核桿菌, 伊科病毒, 鉤端螺旋體鉤端螺旋體作用\n健胃\n緩瀉效果\n\n\n\n\n\n\nActions & Indications:\n\n主治﹕\n\nfor swelling, pain in \n            breast cancer, boils, lung cancer with coughing blood and puss. It is \n            effective for heat type of breast cancer and boils.\n用於乳癰腫痛，疔瘡熱毒，肺癰咳吐膿血痰。蒲公英對熱毒所致的乳癰腫痛﹐疔瘡有良好的效果。\n\n\n\n\n\nChemical ingredients:\n\n化學成份﹕\n\ntaraxasterol (蒲 \n            公英固醇), choline (膽鹼), inulin \n            (菊糖), pectin (果膠).\n\n\n\nDosage:\n用 量﹕\n\n9 ~30 g.\n9～30克。\n\n\n\n\nSamples \n            of formulae:\n方劑舉 例﹕\n\n \n\n\n\n\nModern Research:\n\n現代研究﹕\n\n\nThe decoction of pu gong ying \ncan enhance \n            the effect of trimethoprimum (TMP)\n. The ideal combination is pu gong ying 2.5 g (raw \n            herb):TMP 10 mg.\nTaraxacum formosanum shows \n            that it can help prevent osteoporosis especially for menopausal women.[1]\n \n 本品煎劑和\n磺胺增效劑（\ntrimethoprimum） \n            之間有增效作用，並選出其較優的配方比為：蒲公英2.5克 \n            （生藥）：TMP10毫 \n            克。\n臺灣産蒲公英顯示可以防止骨質疏鬆，可\n            能對於更年期婦女骨質疏鬆的治療具有正面的意義。【1】\n\n\n\n\n\nCautions:\n\n禁忌﹕\n\noverdose can cause mild \n            diarrhea.剤量過大可致輕微腹瀉。\n\n\n\n http://www.spec-g.com.tw/twherb/HerbDetail.aspx?HID=100\n[1] \n        http://tcam.ccmp.gov.tw/infomation/97/01CCMP94-RD-012.pdf\n \n \n \n\n\n\n\nSearch this \n    site \n\n\nProblems with website? Please \n\nClick \n    here for comment. (Not for inquiry )    \n    \n\n\nClick \n    here for inquiry \n\n\n\nCopyright Notice \n\n按此看關於版權問題\n\n\n\n\nA manuscript... writing, translating and proofreading  in progress\n\n\nSponsors' Ads by Google \n    以下為谷歌 所提供之廣告\n\n\n\n\n\n\n\n\nList \n        of Health Problems\n\n\n\n\n        Chinese Herb Dictionary\n\n\n\n\nToxicity of Some Herbs\n\n\n\nSide Effect of Some Herbs\n\n\n\nHerbs that can be toxic to kidneys\n\n\n\n\n        Traditional Chinese Medicine\n \n\n\nTCM Diagnosis\n \n\n\n        Samples of Formulae\n\n\n\n\n        Terms of Traditional Chinese Medicine\n\n\n\n        Acupuncture\n\n\n\n\n\ncopy right\n \n\n\n版權所有\n\n\n\nQigong \n        (chi kung)\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\n        Email our web master for  your suggestion (not for inquiry)\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\nGeneral Online Library\n\n\n\nQigong \n        classes\n\n\n\nFake \n        Email Warning\n\n\n\nResearch Librarian\n\n\n\nSearch\n\n\n\n\n\nQigong classes\n\n\n\nHome\n\n\n\n\n        Weather Report\n\n\n\n\n        Disclaimer\n\n\nLast update: Nov 17, 2013; 10:15 p.m. \n        LAH\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+        "original_url": "http://alternativehealing.org/pu_gong_ying.htm"
+    }
+]

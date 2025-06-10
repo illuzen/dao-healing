@@ -68,6 +68,7 @@ SCHEMA = """
     "Geography": [
         // Array of strings for regions where found/used
         // Example: ["China", "Korea", "Northeastern Asia"]
+        // Specify which species comes from which geographic region. Clearly associate each species with its place of origin, distribution, or production area. Do not generalize—preserve all geographic details as stated in the source.
     ],
 
     "Properties": [
@@ -85,10 +86,11 @@ SCHEMA = """
         // Array of strings for conditions treated, maladies, TCM patterns of disharmony
         // Example: ["Fatigue", "Weak immunity", "Poor digestion", "Damp heat","Cold dampness", "Glaucoma", "Hot flashes"]
         // Classify medical terms into two categories: ‘Malady’ and ‘Medical Function.’ Maladies refer to negative health conditions (e.g., bronchitis, arthritis), while Medical Functions refer to positive health effects (e.g., improving memory, enhancing circulation). If a term represents a positive function rather than a malady, classify it under ‘Medical Function.’
-        // Do not summarize. Preserve the full original content exactly as presented, including all details, explanations, and descriptions without condensing or simplifying.
         // Do not omit any details. Ensure all content is preserved. If different parts of an herb or animal are used to treat different conditions, maintain that distinction in the output.
+        //If the reason or context for a malady is given, always include it. Specify the full TCM explanation rather than naming the malady alone. For example, write: ‘mouth sores due to heat in the Heart and Stomach channels’ instead of just ‘mouth sores’.
         //Specify if the medicinal effect was observed on humans or animals.
         //If specified, indicate which part of the herb or animal is used to treat each specific malady. Clearly associate the part (e.g., root, leaf, bark, shell, liver, horn) with the condition it is used to treat.
+        // Be as complete as possible. Include all available information, preserving every detail, no matter how minor. Do not omit, do not condense, do not summarize or do not generalize any part of the content.
         ]
     ],
     "Medical Function: [
@@ -99,6 +101,8 @@ SCHEMA = """
             //Specify if the medicinal effect was observed on humans or animals.
             //Provide as many details as you can find. Do not summarize or generalize. Ensure the original context and depth of the data are maintained. Example: ["effect on blood sugar: giving domesticated rabbits venous injection of 2 yu zhu extract of 0.5/kg, has caused the blood sugar to lower, but stomach introduction has caused the blood sugar to rise initially and to lower eventually. It can obviously inhibit the effect of of raising blood sugar by the epinephrine."]
             //If a medical function describes a Traditional Chinese Medicine (TCM) healing process, provide the full explanation exactly as stated. Do not omit any details or simplify TCM concepts—preserve the full description. Do not take single meanings out of context. Preserve the full explanation as presented, ensuring that all details and nuances are maintained. Example ["Clears heat and toxin, nodules", "Expels externally contracted wind heat as in common cold"]
+            //Do not omit the context or take words out of context. Preserve full explanations as they appear. For example, say: ‘For promoting sweating, and rid of cold due to excessive exposure to chill and wind where pores become tight and unable to sweat and pulse shows floating and large. Take when the herbal tea is warm.’ Do not reduce it to just ‘promoting sweating’.
+            // Be as complete as possible. Include all available information, preserving every detail, no matter how minor. Do not omit, do not condense, do not summarize or do not generalize any part of the content.
 
     // "Dosage" is Text describing dosage
     "Dosage": "string", 
@@ -111,8 +115,8 @@ SCHEMA = """
 
     "Contraindications": "string", // Text describing warnings and adverse effects
 
-    "Research": "string", // Text summarizing research findings. 
-        //Put all text summarizing medicinal research and medical findings in the ‘Research’ field. This includes studies, experiments, and any other research-related content regarding the efficacy, uses, or effects of herbs, animal parts, or medicinal treatments.
+    "Research": "string", // Text describing research findings. Do not summarize.
+        //Put all text specifyuing medicinal research and medical findings in the ‘Research’ field. This includes studies, experiments, and any other research-related content regarding the efficacy, uses, or effects of herbs, animal parts, or medicinal treatments.
 
     "Notes": "string", 
     // Additional information as text
@@ -176,17 +180,22 @@ def extract_structured_data(text, filename):
                         f"7. Include all the details. Do not omit any information, no matter how small.\n\n"
                         f"8. Specify if details are relevant to specific parts of the herb or animal rather than the whole herb. Clearly identify the parts, such as the shell, bark, seeds, flesh, etc.\n\n"
                         f"9. Preserve all Traditional Chinese Medicine (TCM) terms mentioned in the data, such as ‘damp heat,’ ‘pixu,’ and any other relevant TCM concepts, without omission or modification.\n\n"
-                        f"10. Provide as many details as you can find. Do not summarize or generalize. Ensure the original context and depth of the data are maintained.\n\n"
+                        f"10. Provide all details you see in the original text. Do not summarize or generalize. Ensure the original context, level of details and depth of the data are maintained.\n\n"
                         f"11. If any numbers are mentioned (e.g., dosages, quantities, durations in experiments), do not omit them. Preserve all numerical values exactly as stated in the source.\n\n"
                         f"12. Reduce the interpretive or creative tone by 25%. Focus on accurate, neutral reporting of the information, with minimal inference or embellishment.\n\n"
                         f"13. If the Chinese version of the content contains additional details not present in the English version, translate it into English while preserving all nuances and small details. Ensure that no information is lost or omitted in the translation.\n\n"
-                        f"14. Be as complete as possible. Include all available information, preserving every detail, no matter how minor. Do not omit, condense, or generalize any part of the content.\n\n"
+                        f"14. Be as complete as possible. Include all available information, preserving every detail, no matter how minor. Do not omit, do not condense, do not summarize or do not generalize any part of the content.\n\n"
                         f"15. If the content contains a reference number linked to the reference list at the bottom of the page, include the number and ensure it correctly corresponds to the appropriate reference in the list. \n\n"
                         f"16. If quantities of the herb or mineral are mentioned in the original text, make sure to gather and include this information accurately. Do not omit any measurements or dosage details."
                         f"17. If there is a variation of the herb, mineral, or animal that has a specific property, clearly specify the variation along with the associated property. Do not generalize—identify the exact type or subspecies when given."
                         f"18. Include the English name of a TCM herb, animal or plant in brackets immediately after the original TCM name. For example: yiyiren (coix seed), baikouren (white cardamom), xingren (apricot kernel), kufan (calcined alum), huangbai (phellodendron), hai jin (lygodium spore), jin qian cao (lysimachia / gold coin grass), mu tong (akebia stem), che qian zi (plantain seed), she xiang (musk), Physeter catodon L (sperm whale)."
                         f"19. Do not repeat in brackets after the sentence whether the experiment was done on humans or animals. Simply mention in the text if it was an animal experiment. If the original text does not specify, assume it was conducted on humans and do not add any note about it."
-                        f"20. Include all the information found at the bottom of the page, up to but not including ‘Sponsor’s Ads by Google.’ Do not omit or summarize any part of this content. Ensure all information is preserved and accurately placed into the appropriate field in the schema."
+                        f"20. Include all the information found at the bottom of the page, up to but not including ‘Sponsor’s Ads by Google.’ Do not omit and do not summarize any part of this content. Ensure all information is preserved and accurately placed into the appropriate field in the schema."
+                        f"21. Take the data from both the English and Chinese versions of the content. Ensure that no details are left out from either language. Combine all available information to create the most complete and accurate output possible."
+                        f"22. If there are multiple variants of an herb, clearly specify which variant has which properties, pharmaceutical names, or chemical constituents. Do not group them together or generalize. For example, state that Chuan bei mu (川貝母), known pharmaceutically as Bulbus Fritillariae Cirrhosae, contains compounds such as chinpeimine, sonpeimine, fritimine, and sipemine; An zi bei mu (暗紫貝母) contains songbeisine and 26-Imino-17, 23β-oxido-5α-jerv-12-en-11-oxo-3β-ol; and Gansu bei mu (甘肅貝母) contains minpeimine and minpeiminine. Always link each variant to its specific features or chemical profile, and include both the TCM name and pharmaceutical designation when available."
+                        f"23. Do not omit any information found in the “present day application” field. Carefully evaluate its content and place it into the most relevant schema field, such as Maladies, Medical Function, or another appropriate category. Ensure that all details from this section are fully preserved and accurately allocated."
+                        f"24. If there are additional notes at the bottom of the page before the section titled “Back to Action and Indication,” ensure that all information is captured and assigned to the appropriate field in the schema. Do not omit or summarize any part of this content. Allocate each detail based on its relevance to fields."
+                        f"25. Each distinct concept within a section should be placed in a new paragraph. In the JSON output, separate each paragraph using a newline character (\n). Ensure logical grouping of ideas while maintaining paragraph breaks for clarity."
 
 
                         f"TEXT TO EXTRACT FROM:\n{text}"
@@ -224,8 +233,8 @@ def extract_structured_data(text, filename):
 def extract_herb_structure():
     """Process multiple herb pages"""
 
-    start_num = 20
-    end_num = 25
+    start_num = 75
+    end_num = 80
     filenames = glob('./text/*')[start_num:end_num]
     results = []
     for filename in tqdm(filenames):

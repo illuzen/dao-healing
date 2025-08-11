@@ -68,9 +68,7 @@ SCHEMA = """
     "Geography": [
         // Array of strings for regions where found/used
         // Example: ["China", "Korea", "Northeastern Asia"]
-        // Specify which species comes from which geographic region. Clearly associate each species with its place of origin, distribution, or production area. Do not generalize—preserve all geographic details as stated in the source.
-    ],
-
+        // Specify which species comes from which geographic region. Clearly associate each species with its place of origin, distribution, or production area, preserving all geographic details exactly as stated in the source. If there is only one species mentioned, list all the geographic regions it is found in together, without repeating the species name for each region.
     "Properties": [
         // Array of strings for herb properties
         // Example: ["Warm", "Sweet", "Slightly bitter"]
@@ -159,7 +157,7 @@ def extract_structured_data(text, filename):
     for _ in range(num_retries):
         try:
             completion = client.chat.completions.create(
-                model="gpt-4.5-preview-2025-02-27",  # Using a more capable model for extraction
+                model="gpt-4.1-2025-04-14",  # Using a more capable model for extraction
                 messages=[
                     {"role": "system", "content": (
                         "You are a data extraction specialist for herbal medicine. Your task is to extract structured information "
@@ -196,6 +194,10 @@ def extract_structured_data(text, filename):
                         f"23. Do not omit any information found in the “present day application” field. Carefully evaluate its content and place it into the most relevant schema field, such as Maladies, Medical Function, or another appropriate category. Ensure that all details from this section are fully preserved and accurately allocated."
                         f"24. If there are additional notes at the bottom of the page before the section titled “Back to Action and Indication,” ensure that all information is captured and assigned to the appropriate field in the schema. Do not omit or summarize any part of this content. Allocate each detail based on its relevance to fields."
                         f"25. Each distinct concept within a section should be placed in a new paragraph. In the JSON output, separate each paragraph using a newline character (\n). Ensure logical grouping of ideas while maintaining paragraph breaks for clarity."
+                        f"26. If the content in English and Chinese repeats the same points or ideas, do not duplicate the information. Clearly state each idea or point only once, avoiding repetition or paraphrasing the same content into different words."
+                        f"27. If the described quality or property relates specifically to a certain part of the plant, clearly specify which part is involved (e.g., stem, roots, berry, bark, shell). Do not generalize—maintain precise detail about plant parts."
+                        f"28. Do not duplicate Chinese text after providing the English translation. Present each idea or detail only once, in English, to avoid repetition."
+                        f"29. Remove redundant or repetitive phrases, making each item concise. Do not repeat introductory phrases such as ‘prevents and assists in treating,’ ‘being used for,’ or similar wording. Preserve all unique details, maintaining clarity and accuracy."
 
 
                         f"TEXT TO EXTRACT FROM:\n{text}"
@@ -233,8 +235,9 @@ def extract_structured_data(text, filename):
 def extract_herb_structure():
     """Process multiple herb pages"""
 
-    start_num = 75
-    end_num = 80
+    start_num = 165
+    end_num = 170
+
     filenames = glob('./text/*')[start_num:end_num]
     results = []
     for filename in tqdm(filenames):
@@ -267,7 +270,7 @@ def translate_to_chinese(herb_data):
 
     try:
         completion = client.chat.completions.create(
-            model="gpt-4.5-preview-2025-02-27",  # Using a more capable model for translation
+            model="gpt-4.1-2025-04-14",  # Using a more capable model for translation
             messages=[
                 {"role": "system", "content": (
                     "You are a bilingual expert in traditional herbal medicine specializing in both English and Chinese. "

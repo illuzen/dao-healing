@@ -1,0 +1,633 @@
+[
+    {
+        "Names": {
+            "Name": [
+                "xia ku cao",
+                "夏枯草"
+            ],
+            "Pharmaceutical": [
+                "Spica Prunellae Vulgaris"
+            ],
+            "Biological": [
+                "Prunella vulgaris Linn."
+            ],
+            "Common": [
+                "Common Selfheal plant"
+            ],
+            "Other name": [
+                "bang chui cao",
+                "tie she cao",
+                "da tou hua",
+                "xia ku tou"
+            ],
+            "Chinese": [],
+            "Pronunciation in Korean": [
+                "hagocho"
+            ],
+            "Pronunciation in Japanese": [
+                "kagoso"
+            ],
+            "Pronunciation in Cantonese": [
+                "haa6 fu1 cou2"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Mainly in Jiangsu, Anhui, Henan and throughout China"
+        ],
+        "Properties": [
+            "Acrid",
+            "Bitter",
+            "Slightly cold"
+        ],
+        "Meridians": [
+            "Liver",
+            "Gall bladder"
+        ],
+        "Maladies Treated": [
+            "Goiter",
+            "Tuberculosis of lymph nodes (scrofula)",
+            "Eyes sensitive to light, tears, painful at night",
+            "Breast cancer",
+            "Headache and dizziness",
+            "Scrofula",
+            "Hypertension",
+            "Facial paralysis",
+            "Tuberculosis of the lungs",
+            "Vaginal infection",
+            "Excessive bleeding during menopause",
+            "Pain and ache of the muscles and bones",
+            "Acute hepatitis",
+            "Herpes simplex I & II",
+            "Acute tonsillitis: for acute infection, xia ku cao 30~60 g, boiled and strained, used in one day, sip slowly to contact affected area",
+            "Hypertension and arteriosclerosis: Chen Dingqi of Guang’anmen Hospital, China Academy of Chinese Medical Sciences, had patients with liver-yang hyperactivity type hypertension use 1000 g of Prunella vulgaris (self-heal), decoct 3 times, remove the residue, add an appropriate amount of honey, boil into a paste, store in the refrigerator, take 1 spoon each morning and evening, with warm boiled water, so that their blood pressure could remain stable within the normal range for a long time. Animal experiments show that Prunella vulgaris can delay the formation of atherosclerotic plaques in the aorta, and has good effects in lowering blood lipids and in treating coronary heart disease with arteriosclerosis.",
+            "Amnesia: xia ku cao 15 g, ban xia (Pinellia) 12 g, decoction, one dose daily for 10 days",
+            "Whooping cough: xia ku cao 15 g, san bai pi (Morus root bark) 10 g, huang qin (Scutellaria baicalensis) 9 g, di gu pi (Lycium root bark) 9 g, pi pa ye (Eriobotrya leaf) 10 g, cha di long (Earthworm) 9 g, jiang can (Silkworm) 10 g, gan cao (Licorice) 3 g, decoction, one dose per day",
+            "Coughing blood due to TB of the lungs and bronchial dilation: xia ku cao 30 g, bai bu (Stemona root) 20 g, huang qin (Scutellaria baicalensis) 12 g, xing ren (Apricot kernel) 12 g, dai zhe shi (Haematitum) 12 g",
+            "Chronic headache: xia ku cao and ge gen (Pueraria root), decoction",
+            "Herpes I & II treatment: topical application",
+            "Acute infectious kerato-conjunctivitis: xia ku cao 15 g, ju hua (Chrysanthemum flower) 15 g, pu gong ying (Dandelion) 30 g, decoction as tea",
+            "Acute conjunctivitis and epidemic keratitis with red, painful, swollen eyes, due to excessive Liver Fire: xia ku cao 15 g, ju hua (Chrysanthemum flower) 15 g, pu gong ying (Dandelion) 30 g, decoction",
+            "Stubborn headache: Prunella vulgaris combined with kudzu root (Pueraria lobata), using the combination of descending and ascending methods to treat headache. The vertex and the area behind the neck at Fengchi points are all locations along the liver and gallbladder meridians. Prunella vulgaris clears the liver and gallbladder, directly suppressing the upward-flaring depressed fire along the meridians, and can also have a meridian-guiding effect, directing other medicines straight to the disease site. Kudzu root raises clear yang, relieves pain, and relaxes the muscles. The combination can cure chronic stubborn headaches.",
+        ],
+        "Medical Function": [
+            "Diuretic effects due to high content of potassium salt",
+            "Lowering blood pressure effect",
+            "Antibiotic effect; has varying degrees of inhibition on Shigella, Salmonella, Vibrio cholerae, Escherichia coli, Proteus, Staphylococcus, and human type Mycobacterium tuberculosis",
+            "Antifungal effect",
+            "Anti-inflammatory effect; enhances the synthesis and secretion of adrenocortical hormone",
+            "Inhibiting immune system effect: xia ku cao injection for subcutaneous injection can obviously shrink the thymus and spleens, and increase the sizes of adrenal glands in lab animals",
+            "Maintains blood pressure within normal range: xia ku cao 1000 g, boiled for extract three times, combined, with honey added, reduced to paste and refrigerated; 1 spoon twice a day with warm boiled water",
+            "Slows down formation of atherosclerotic plaques in animal aorta",
+            "Lowers blood lipids and has good results in treating coronary heart disease and arteriosclerosis",
+            "Used to clear heat and toxin for acute tonsillitis due to wind-heat toxin accumulation in the throat; acrid flavor expels wind-heat and dissipates stagnation",
+            "Treats insomnia: addresses mental depression, insomnia at night, heart irritability, easy anger, frequent dreams, red tongue, thready rapid pulse, due to internal disturbed fire and lack of harmony between Yin and Yang",
+            "Clears Liver heat, dispels Liver fire, soothes Liver Qi, unblocks Qi stagnation for whooping cough with convulsive cough, flowing tears, and red face, as in Liver Fire attacking the Lung"
+        ],
+        "Dosage": "9 to 15 g, or up to 30 g when used by itself.",
+        "Samples of Formulae": "For hypertension and arteriosclerosis: Chen Dingqi of Guang’anmen Hospital, China Academy of Chinese Medical Sciences, had patients with liver-yang hyperactivity type hypertension use 1000 g of Prunella vulgaris (self-heal), decoct 3 times, remove the residue, add an appropriate amount of honey, boil into a paste, store in the refrigerator, take 1 spoon each morning and evening, with warm boiled water, so that their blood pressure could remain stable within the normal range for a long time. Animal experiments show that Prunella vulgaris can delay the formation of atherosclerotic plaques in the aorta, and has good effects in lowering blood lipids and in treating coronary heart disease with arteriosclerosis.\n\nFor acute tonsillitis: Using the bitter-cold nature of Prunella vulgaris to clear heat toxins, and its pungent taste to disperse wind-heat and dissipate lumps, it is applied in the treatment of acute tonsillitis caused by wind-heat toxin clumping in the throat. Clinically, 30–60 g of Prunella vulgaris is decocted in water 2 times, the decoctions combined and consumed frequently within one day. When taking, swallow slowly to prolong the retention time of the liquid in the throat, allowing the medicine to act directly on the lesion site, achieving very good results.\n\nFor insomnia: For mental fatigue, difficulty falling asleep at night, sometimes awake all night, irritability, easy anger, susceptibility to fright and dreaming, red tongue body, fine and rapid pulse. The pattern belongs to internal disturbance of depressed fire, with yang not joining yin. The prescription uses 15 g Prunella vulgaris, 12 g Pinellia ternata, decocted in water, taken once daily, for 10 consecutive doses.\n\n For amnesia: xia ku cao 15 g, ban xia (Pinellia) 12 g, decoction. One dose daily for 10 days.\n\nFor whooping cough: Clinical symptoms of whooping cough are mainly spasmodic cough, during which nasal discharge and tears flow, the whole face turns red, resembling cough due to liver fire attacking the lung. Prunella vulgaris clears liver heat, drains liver fire, calms liver qi, and relieves qi stagnation, preventing the lung metal from being attacked. The method uses 15 g Prunella vulgaris, 10 g Morus alba root bark, 9 g Scutellaria baicalensis, 9 g Lycium chinense root bark, 10 g loquat leaf, 9 g stir-fried earthworm, 10 g stiff silkworm, 3 g licorice, decocted in water, one dose daily, to treat pediatric whooping cough with good results. \n\nFor stubborn hemoptysis (coughing blood) due to TB and bronchial dilation: xia ku cao 30 g, bai bu (Stemona root) 20 g, huang qin (Scutellaria baicalensis) 12 g, xing ren (Apricot kernel) 12 g, dai zhe shi (Haematitum) 12 g.\n\nFor chronic headache: \n\nFor acute infectious kerato-conjunctivitis: xia ku cao 15 g, ju hua (Chrysanthemum flower) 15 g, pu gong ying (Dandelion) 30 g. Decoction, use as tea.",
+        "Contraindications": "Use with caution in cases of pixu (spleen deficiency).\n\nLong term usage can cause irritation to the stomach and intestines. If long term use is required, add dang shen (Codonopsis root) and bai zhu (Atractylodes macrocephala) to the formula.\n\nDecoction of xia ku cao can raise the values of ALT and AST, indicating potential hepatotoxicity.",
+        "Research": "Animal studies showed that xia ku cao can slow down the formation of atherosclerosis in the aorta, lower blood lipids, and had good results in treating cardiovascular diseases.\n\nXia ku cao injection for subcutaneous injection in animals can shrink thymus glands and spleens and enlarge adrenal glands, with marked elevation of plasma corticosteroid levels, indicating an immunosuppressive effect.\n\nDecoction of xia ku cao raised ALT and AST values in laboratory mice, indicating potential liver toxicity.",
+        "Notes": "Scrofula is a form of tuberculosis affecting the lymph nodes, especially of the neck, that is most common in children and usually spread by unpasteurized milk from infected cows. Also called struma.",
+        "Chemical Ingredients": {},
+        "References": [
+            "[1] 中國中醫研究院廣安門医院陳鼎祺"
+        ],
+        "Further Reading": [],
+        "Original Text": "xia ku cao, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現 代中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　                                                                                prunella_vulgaris.htm  xia_ku_cao.htm  xia ku cao 夏枯草   （in English and Chinese) by: Joe Hing kwok Chu  朱興國編譯 See picture of plant here.                   按此看中文現代應用。  Present day Application:Hypertension and arteriosclerosis: xia ku cao 1000 g, boil and make extract, strain. Repeat 3 times. Mix the 3 batches of extract. Add some honey. Boil and reduce into paste. Store in refrigerator. Take 1 spoon, twice a day with warm boiled water. This therapy can maintain the blood pressure in normal range. Animal studies showed that xia ku cao can slow down the formation arterial sclerosis, lowered blood lipids, and had good result in treating cardiovascular diseases. [1]Acute tonsillitis: for acute infection: xia ku cao 30 ~ 60 g, boil and make extract. Strain. Repeat 2 times. Mix the extract. Use it in one day. Sip slowly so that the liquid can stay in the throat longer to contact the affect area.Amnesia: xia ku cao 15 g, ban xia 12 g. Make into decoction. One dose a day for 10 day.Whooping cough: xia ku cao 15 g, san bai pi 10 g, huang qin  9 g, di gu pi   9 g, pi pa ye 10 g, cha di long 9 g, jiang can 10 g. gan cao   3 g. Make into decoction. One dose a day.Coughing blood due to TB of the lungs and bronchial dilationChronic headache: xia ku cao, ge gen, make into decoction.Herpes I & II treatment: topical application.按此看現代應用。　Pharmaceutical name:英 文藥名﹕Spica Prunellae VulgarisBiological name:拉丁文學名﹕Prunella vulgaris Linn.Pron. in Japanese:日語發音﹕kagosoPron. in Korean:韓語發音﹕hagochoPron. in Cantonese:粵 語發音﹕haa6  fu1 cou2Other Names: bang chui cao, tie she cao, da tou hua, xia ku tou棒槌草，鐵色草，大頭花，夏枯頭  なしCommon Name:英文名﹕Common Selfheal plantDistribution:產地﹕Mainly in Jiangsu, Anhui, Henan and throughout China.主產於﹕ 江蘇﹐ 安徽﹐ 河南。分佈於全中國 各地。Properties (characteristics)﹕性味﹕acrid, bitter, slightly cold辛﹐苦﹐微寒Channels (meridians) entered:歸經﹕liver, gall bladder.入肝﹐膽二經。Actions & Indications:用 途﹕goitertuberculosis of lymph nodes (scrofula)eyes sensitive to light, tears, painful at night,breast cancerheadache and dizzinessscrofulahypertensionfacial paralysistuberculosis of the lungsvaginal infectionexcessive bleeding during menopausepain and ache of the muscles and bonesacute hepatitisHerpes simplex I & II 甲狀腺腫瘰 癭 瘤 (淋巴結核)，乳 癰 乳 癌 ，目 珠 夜 痛 ，羞 明 流 淚 ，頭 目 眩 暈 ，口 眼 歪 斜 ，筋 骨 疼 痛 ，肺 結 核 ，急 性 黃 疸 型 傳 染 性 肝 炎 ，血 崩 ，血壓高帶 下 ，庖疹病毒 I 型，II 型。  Medical functions:藥理﹕Medical functions:diuretic effects: because of its high content of potassium salt.lowering blood pressure effectantibiotic effectantifungal effectanti-inflammatory effect: it enhances the synthesis and secretion of adrenocortical hormone.inhibiting immune system effect: using xia ku cao injectiones for under skin injection, it can obviously shrink the thymus glands and spleens of lab animals, and can increase the sizes their adrenal glands.藥理﹕利尿作用 ﹕因 含有豐富的鉀鹽之故。降壓作用。抗菌作用 ﹕有 不同程度的抑制痢疾桿菌,傷寒桿菌,霍亂弧菌,大腸桿菌,變形桿菌,葡萄球菌及人型結核桿菌作用。抑制真菌 作用。抗炎作用 ﹕其 抗炎效應與腎上腺皮質中糖皮質激素合成，分泌的加強有密切關係。免疫抑制 作用﹕以 夏枯草 注射液皮下注射，可使動物胸腺，脾臟明顯萎縮，腎上腺明顯增大，血漿皮質醇水平明顯升高，表明其是一種免疫抑制劑。Chemical ingredients:化 學成份﹕to be loadedDosage:用量﹕9  to 15 g, or up to 30 g when used by itself.Samples of formulae:處方舉例﹕Acute infectious kerato-conjunctivitis: use xia ku cao 15 g, ju hua 15 g, pu gong ying 30 g. Make into decoction and use as tea.肝火旺而引起的目赤腫痛 (急性結膜炎，流行性角膜炎) 用夏枯草五錢，菊 花15克，蒲公英30克，水煎服Modern Research:現代研究﹕see medical functions.Anti-cancer (article in Chinese and English)Cautions:禁忌﹕ use caution in cases of pixu (spleen deficient). Long term usage can cause irritation for the stomach. If long term usage is necessary, add  dang shen and bai zhu to the formulae being used.Decoction of xia ku cao can raise the value of ALTand AST. This shows that xia ku cao can be toxic to the liver. 脾虛者 小心服用。久服對腸胃會有刺激。如需長服﹐可酌加 黨 參﹐白 朮。夏枯草水提物使小鼠ALT和AST值 明顯升高，說明夏枯草有肝臟毒性作用。Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告 現代應用：1.防治高 血壓及動脈粥樣硬化 　　中國中醫研究院廣安門醫院陳鼎祺，讓肝陽上亢型高血壓病患者用夏枯草1000克，煎3次去渣，加適量蜂蜜熬成膏，放冰 箱內冷藏，每天早晚各服1匙，溫開水送服，使其血壓能持久穩定於正常范圍。動物實驗表明夏枯草能延緩主動脈中粥樣斑塊的形成，對降血脂， 治療冠心病動脈硬化有良好功效。 　　2.治療急性扁桃體炎 　　取夏枯草苦寒之性以清熱毒，取其辛味以發散風熱，消散郁結，用於治療風熱邪毒搏結於咽喉所致的急性扁桃腺炎。臨床以夏枯草30－60克 ，水煎2次，混合藥液後一日內頻頻服完，服時徐徐咽下，以延長藥液在咽部的滯留時間，使藥直接作用於病灶處，有很好的作用。 　　3.治失眠 　　治精神萎靡，夜難入眠，甚則通宵達旦，心煩易怒，易驚易夢，舌質紅，脈細數。証屬郁火內擾，陽不交陰之候。藥用夏枯草15克，半夏12克 ，水煎服，日1劑，連服10劑。 　　4.治療百日咳 　　百日咳臨床症狀以痙攣性咳嗽為主症，咳時涕淚皆出，滿面通紅，似肝火刑肺之咳狀。夏枯草清肝熱，泄肝火，平肝氣，疏通氣結，使肺金不 受其刑。治法以夏枯草15克，桑白皮10克，黃 芩9克，地骨皮 9克，枇杷葉10克，炒地龍9克，僵蠶10克，甘 草3克，水煎服，日1劑 ，治療小兒百日咳，可獲良效。 　　5.治療肺結核，支氣管擴張之頑固性咯血 　　用夏枯草30克，百部20克，黃 芩12克，杏仁12克，代赭石12克，治療久治不愈之咯血。 　　6.治頑固性頭痛 夏枯草配葛根，升降結合治頭痛。巔頂及項後風池處，皆肝膽經循行之處。夏枯草清肝膽，使循經上炎之郁火直折，還可起引經作用，引諸藥直達 病所，配葛根升發清陽，止痛解肌，可使頑固性頭痛沉疴痊愈。Scrofula : A form of tuberculosis affecting the lymph nodes, especially of the neck, that is most common in children and is usually spread by unpasteurized milk from infected cows. Also called struma. (Source: American Heritage Dictionary) [1] 中國中醫研究院廣安門医院陳鼎祺A manuscript... writing, translating and proofreading  in progressClick here for inquiry  Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some Herbs Side Effect of Some Herbs Herbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    DisclaimerLast update: April 13, 2009  6:26 p.m. LAH Search this site         ",
+        "original_url": "http://alternativehealing.org/xia_ku_cao.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "cang zhu",
+                "蒼朮"
+            ],
+            "Pharmaceutical": [
+                "Rhizoma Atractylodis"
+            ],
+            "Biological": [
+                "Atractylodes lancea Thunb. (蒼朮, 古蒼, 南蒼朮，茅蒼朮)",
+                "Atractylodes chinensis (DC.) Koidz. (北蒼朮)",
+                "Atractylodes japonica Koidz. Kitam（東蒼朮又名：關蒼朮）"
+            ],
+            "Chemical": [],
+            "Common": [
+                "Sword like Atractylodes",
+                "Rhizome Chinese Atractylodes"
+            ],
+            "Other name": [
+                "chi zhu 赤朮",
+                "qiang tou cai 槍頭菜",
+                "ma ji 馬薊",
+                "qing shu 青術",
+                "xian shu 仙術",
+                "shan jing 山精",
+                "shan cang zhu 山蒼朮",
+                "shan ci cai 山刺菜",
+                "蒼朮, 茅朮, 茅蒼朮, 大蒼朮, 生蒼朮, 炒蒼朮, 炒茅朮, 焦蒼朮, 蒼朮炭, 制蒼朮, 米泔水炒蒼朮"
+            ],
+            "Chinese": [
+                "蒼朮",
+                "古蒼",
+                "南蒼朮",
+                "茅蒼朮",
+                "北蒼朮",
+                "東蒼朮",
+                "關蒼朮",
+                "赤朮",
+                "槍頭菜",
+                "馬薊",
+                "青術",
+                "仙術",
+                "山精",
+                "山蒼朮",
+                "山刺菜"
+            ],
+            "Pronunciation in Korean": [
+                "ch'angch'ul"
+            ],
+            "Pronunciation in Japanese": [
+                "sojutsu"
+            ],
+            "Pronunciation in Cantonese": [
+                "cong1 seot6"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Atractylodes lancea Thunb.: mainly produced in Jiangsu, Hubei, Henan, Anhui provinces of China.",
+            "Atractylodes chinensis (DC.) Koidz.: mainly produced in Inner Mongolia, Hebei, Shanxi, Liaoning, Jilin, and Heilongjiang provinces of China."
+        ],
+        "Properties": [
+            "acrid",
+            "bitter",
+            "warm",
+            "aromatic"
+        ],
+        "Meridians": [
+            "spleen",
+            "stomach",
+            "liver"
+        ],
+        "Maladies Treated": [
+            "treatment of yeast infection",
+            "dampness and flatulence",
+            "diarrhea with vomiting",
+            "edema with fullness of the abdomen",
+            "patients unable to sweat",
+            "headaches, body aches, solar plexus pain, pain in extremities due to wind-cold-dampness",
+            "edema in lower limbs",
+            "headache of women due to deficiency",
+            "night blindness",
+            "diminishing vision",
+            "digestive disorder: indigestion, poor appetite, epigastric fullness",
+            "rheumatism, wind dampness",
+            "vomiting diarrhea",
+            "floating edema, abdominal distension",
+            "spiritlessness, lack of strength in limbs",
+            "retention of damp-phlegm and retained fluid",
+            "cold-deficiency headache in women",
+            "improving night vision"
+        ],
+        "Medical Function": [
+            "strengthens the digestion",
+            "expels wind-dampness",
+            "induces sweating",
+            "improves night vision",
+            "simmering cang zhu in water to release fragrance can help in getting rid of fungi and bacteria",
+            "increase the secretion ions of sodium, potassium and chlorine in the urine",
+            "alcohol extract of cang zhu can maintain the lowering of blood sugar of regular rabbits",
+            "mixture of the essential oils of β-eudesmol and hinesol possesses a sedative effect on laboratory mice; prolongs sleep using hexobarbital sodium; inhibits spasm caused by electric shock; helps deliver carbon dust in small intestines",
+            "anti-ulcer effect: β-eudesmol of cang zhu inhibits secretion of stomach acid and inhibits ulcer",
+            "atractylone has an inhibiting effect on HBV (hepatitis B virus)",
+            "protects the gastric mucosa"
+        ],
+        "Dosage": "10 to 20 g. Concentrated extract 0.5 to 2 g.",
+        "Samples of Formulae": "See yeast infection.\nSee a report below.",
+        "Contraindications": "Not to use in case of yinxu (yin deficient) with heat and/or sweaty with qixu (qi deficient).\nYin deficient with heat, qi deficiency with excessive sweating contraindicated.\nNot for patients with internal heat, yin deficiency, blood deficiency, insufficient vital essence, internal heat with tidal fever, dry mouth and lips, coughing with sputum or blood, epistaxis, blocked pharynx, constipation and retention of stool. Not for those with agitation of the liver and kidney qi.\nCautioned for blood deficiency, timidity, and emotional depression (seven emotions qi depression); mistaken use may deplete qi and blood, dry fluids, and aggravate fullness from empty fire.",
+        "Research": "[1] 苍术酮的稳定性及其抗HBV体外实验研究, 王峰，蔡光明，郭慧玲, 1.中国人民解放军第302医院中医药研究所，北京100039；2.江西中医学院，江西南昌330006\nA report from Shanghai Donghua Hospital and others: Using ai ye disinfection incense (made by Shanghai Everyday Chemical Products), which consists of 30% of cang zhu powder and 20% of ai ye powder, smoking 4 hours, can kill off β-Hemolytic streptococcus- A group, pneumonococcus, Hemophilus Influenzae and Staphylococcus aureus etc. Smoking 8 hours can kill off Pseudomonas aeruginosa, and can inhibit the growth of Bacillus subtilis.",
+        "Notes": "",
+        "Chemical Ingredients": [
+            "atractylol (蒼朮醇) in rhizome",
+            "hinesol (茅朮醇) in rhizome",
+            "β-eudesmol (β-桉葉醇) in rhizome",
+            "β-selinene (β-芹子烯)",
+            "elemol (欖香醇)",
+            "3β-acetoxy-attractylol (乙醯氧基-蒼朮醇)",
+            "Vitamin A type of substance",
+            "Vitamin B",
+            "inulin (菊糖)",
+            "Atractylodes lancea Thunb rhizome contains 5~9% essential oil; main ingredients: atractylol, hinesol, β-eudesmol.",
+            "Atractylodes chinensis (DC.) Koidz. rhizome contains 1.5% essential oil; main ingredients: atractylol, atractylone, hinesol, β-eudesmol.",
+            "Atractylodes japonica Koidz. Kitam rhizome contains 1.5% essential oil; main ingredients: atractylol, atractylone, hinesol, β-eudesmol, atractylodin, atraetylin, atractylone."
+        ],
+        "References": [
+            "[1] 苍术酮的稳定性及其抗HBV体外实验研究, 王峰，蔡光明，郭慧玲, 1.中国人民解放军第302医院中医药研究所，北京100039；2.江西中医学院，江西南 昌330006"
+        ],
+        "Further Reading": [],
+        "Original Text": "\n\n\ncang zhu, Complementary and Alternative Healing University\n\n\n\n\n\nComplementary and Alternative \n    Healing University \n \n\n\n\n\n\n中藥詞典                 \n    Chinese Herb Dictionary    \n     Search \n    this site    \n    在本網站找資料\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch this \n        site\n\n\n\n\n\n\nList \n        of Health Problems\n\n\n\n\n\n\nChinese \n        Herb Dictionary\n\n\n\n\n\n\nQigong\n\n\n\n\n\n\n\n        Traditional Chinese Medicine (TCM)\n\n\n\n\n\n\n\n        Acupuncture\n\n\n\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\n\nBiochemistry \n        Dictionary\n\n\n\n\n\n\nLecture Slides\n\n\n\n\n\nResearch Librarian\n\n\n\n\n\n\nGeneral \n        Online Library\n\n\n\n\n\n\nSearch\n\n\n\n\n\n\nResearch Sites\n\n\n\n\n\n\n\n        Viagra\n\n\n\n\n\n\nMassage/Acupressure\n\n\n\n\n\n\nHypnotherapy\n\n\n\n\n\n\nTell us what you want\n\n\n\n\n\n\nNotify Changes \n        & New Information\n\n\n\n\n　\n　\n \n \n \n \n \n \n \n \n \n \n　\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n\n\n\n\n\ncang zhu  蒼 \n    朮  (in English and Chinese 中英文)\nTranslated by:\n    \nJoe \n    Hing Kwok Chu           \n    \n朱興國 \n    編譯\n\n\n\n\n\n\n\n\nTo enlarge click \n        on the picture.\n\n\n\n\n\n\n\nPharmaceutical name:\n英文藥 \n        名﹕\n\n\nRhizoma \n        Atractylodis\n\n\n\n\n\nBiological name: 拉丁名﹕\n\n\n\natractylodes lancea Thunb., ( 蒼朮 , 古蒼, \n        南蒼朮，茅蒼朮 )\n\nAtractylodes chinensis (DC.) Koidz.  \n        (北蒼朮)\n\nAtractylodes japonica Koidz. Kitam（東蒼朮又名：關蒼朮. \n        ）\n\n\n\n\nPron. \n        in Japanese:\n日語 \n        發音﹕\n\n\nsojutsu\n\n\n\n\nPron. \n        in Korean:\n韓語 \n        發音﹕\n\n\nch'angch'ul\n\n\n\n\n\n\n\n        Pron. in Cantonese:\n粵語 \n        發音﹕\n\n\ncong1  \n        seot6\n\n\n\n\nCommon \n        Name:\n英文 \n        名﹕\n\n\nSword \n        like Atractylodes, Rhizome Chinese Atractylodes\n\n\n\n\nOther \n        Names:\n\n\n\n\nchi zhu\n赤朮\n\n\nqiang tou cai\n槍頭菜\n\n\nma ji\n馬薊\n\n\nqing shu\n青術\n\n\nxian shu\n仙術\n\n\nshan jing\n山精 \n\n\nshan cang zhu \n山 蒼朮\n\n\nshan ci cai \n山刺菜\n\n\n\n\n同屬 \n        植物東蒼朮又名：關蒼朮\n        處方名：蒼朮, 茅朮, 茅蒼朮, 大蒼朮, 生蒼朮, 炒蒼朮, \n        炒茅朮, 焦蒼朮, 蒼朮炭, 制蒼朮, 米泔水炒蒼朮等\n\n\n\n\nDistribution:\n分佈 \n        ﹕\n\n\n\natractylodes lancea Thunb.: mainly produced in Jiangsu, Hubei, Henan, \n        Anhui provinces of China.\n\nAtractylodes chinensis (DC.) Koidz.  : mainly produced in Inner \n        Mongoliak Hebei, Shanxi, Liangning, Jilin, and Heilongjiang provinces of \n        China.\n南蒼 \n        朮：為 植物南蒼朮的干燥根莖。 主產 於江蘇﹐湖北﹐河南﹐安徽。 \n        北蒼朮：又名山蒼朮, 華蒼朮，為植物北蒼朮(槍頭菜, 山刺菜)的干燥根莖。主產於內蒙古, 河北, 山西, 遼寧, 吉林, 黑龍江等地。\n\n \n\n\n\n\nProperties \n        (characteristics)﹕\n性味 \n        ﹕\n\n\nacrid, \n        bitter, warm, aromatic\n辛﹐ \n        苦﹐溫 ﹐芬芳。\n\n\n\n\n\nChannels (meridians) entered:\n歸經 \n        ﹕\n\n\nspleen, \n        stomach, liver\n脾﹐ \n        胃﹐肝 。\n\n\n\n\n\nActions & Indications:\n\n\nfor \n        treatment of yeast infection and dampness and flatulence; strengthens the \n        digestion; expels wind-dampness; for diarrhea with vomiting;  edema \n        with fullness of the abdomen; induces sweating in patients unable to sweat;  \n        headaches, body aches, solar plexus pain, and pain in extremities due to \n        wind-cold-dampness, and edema in lower limbs; headache of women due to deficiency, \n        night blindness, improves night vision and  diminishing vision.\nSimmering \n        cang zhu in water to release fragrance can help in getting rid of fungi \n        and bacteria.\n\n主治﹕消 \n        化不良，食 \n        慾不振，胃脘滿悶，風濕﹐ 嘔吐泄瀉，浮腫腹脹，用于發汗﹔風寒濕痺，精神不振，肢體無力，水腫脹滿，濕痰留飲，婦人虛冷頭痛﹐夜 \n        盲, 增進視力。\n\n蒼朮加水。慢火煮沸使,释放出芳香味可殺菌消毒。\n\n\n\n\nMedical \n        Function:\n藥理 \n        ﹕\n \n\n\n\n\n\n          The diuretic effect is not obvious but it can increase the secretion ions \n          of sodium, potassium and chlorine in the urine.\n\n\n\n          Effect on blood sugar: alcohol extract of cang zhu  can maintain \n          the lowering of blood sugar of regular rabbits.\n\n\n\n          Effect on the inhibiting of CNS: the mixture of the essential oils of\n           β-eudesmol, and hinesol possesses \n          the effect of sedative on laboratory mice and it can prolong the sleep \n          using hexobarbital sodium and it can inhibit spasm caused by electric \n          shock. It also can help the delivery of carbon dust in the small intestines.\n\n\n\nAnti-ulcer \n          effect: the \nβ-eudesmol of cang zhu can inhibit the \n          secretion of stomach acid and can inhibit ulcer.\n\n\n\natractylone \n          has an inhibiting effect on HBV\n\n\n\n一. 利尿作用：雖利尿作用, 但不明顯，但能增加小便中鈉, 鉀, 氯各離子 排 \n          泄。\n\n二. 對於血糖之影響：蒼朮之醇抽取物對於正常兔之血糖有持續性下降作用。\n\n三. 中樞抑制作用：蒼朮之精油成分按葉醇(β-eudesmol)，茅朮醇(hinesol)之 \n          混合抽取物，對於小白鼠有鎮靜作用，能延長己巴 比妥鈉(hexobarbital sodium)之睡眠時間及抑制電擊痙攣作用，並能促進小腸內炭 \n          末輸送作用。\n\n四. 抗潰瘍作用:蒼朮桉葉醇可抑制組織胺性胃酸分泌，抗潰瘍 \n          作用。\n\n          五. 蒼朮酮對乙肝病毒有明顯的抑制作用。\n\n          六. 抗潰瘍作用：1. 抑制胃酸。2. 保護胃粘膜作用\n\n\n\n\n\nChemical ingredients:\n化學 \n        成份﹕\n\n\natractylol \n        蒼朮醇, hinesol 茅朮醇,\n        β-eudesmol\n        β-按 葉醇。 \n        β-selinene β-芹子烯, elemol 欖香醇, 3β-acetoxy-attractylol \n        乙醯氧基-蒼朮醇 。Vitamin A type of substance 维生素樣 物质, Vitamin B 维生素 已,   \n        inulin 菊糖。\nFrom \n        another study:\n\n\n\nAtractylodes lancea Thunb contains 5~9% of essential oil. The main \n          ingredients of the oil consist of atractylo, hinesol),\n          β-eudesmol etc.\n\n\n\nAtractylodes chinensis (DC.) Koidz. contains 1.5% of essential \n          oil. The main ingredients of the oil consist of atractylol, atractylone, \n          hinesol,  β-eudesmol etc.\n\n\n\nAtractylodes japonica Koidz. Kitam contains  1.5% of essential \n          oil. The main ingredients of the oil consist of atractylol, atractylone, \n          hinesol, β-eudesmol, atractylodin, \n          atraetylin, atractylone etc.\n\n\n據中藥網﹕\n\n\n\n          南蒼朮 根莖含揮發油約5～9%。油的主要成分為蒼朮醇(atractylol), 茅朮 醇(hinesol), β-桉葉醇(β-eudesmol)等 \n          。\n\n\n\n\n          北蒼朮根莖含揮發油1.5%，其主要成分為蒼朮醇 atractylol, 蒼朮酮(atractylone), 茅朮醇及桉葉醇等。\n\n\n\n\n          東蒼朮根莖含揮發油1.5%，其主要成分為蒼朮醇 茅朮醇(hinesol), β-桉葉醇, 蒼朮呋喃烴(atractylodin,\natraetylin), 蒼朮酮 。\n\n\n\n\n\n\nDosage:\n用量 \n        ﹕\n\n\n10  \n        to 20 g. Concentrated extract 0.5 to 2 g.\n10～20克 \n        ﹔濃縮中藥：0.5～2 \n        克\n\n\n\n\nSamples \n        of formulae:\n處方 \n        舉例﹕\n\n\nSee\n        \n        yeast infection.\nSee \n        a report below.\n\n\n\n\n\nModern Research:\n現代 \n        研究﹕\n\n\nlowering \n        blood sugar, excretion of sodium.\n降血 \n        糖﹐排鈉。\n\n\n\n\n\nCautions:\n禁忌 \n        ﹕\n\n\nNot \n        to use in case of yinxu \n        (yin deficient) \n        with heat and/or sweaty with\n        qixu (qi deficient).\n\n陰虛有 \n        熱氣虛多汗者忌服 。\n氣虛內 \n        熱，氣\n        虛多汗者忌服。\n①《本草經集注》：�防風、地榆為之使。�《藥性論》： �忌桃、李、雀肉、菘菜 Brassica chinensis、 \n        青魚 (Mylopharyngodon piceu)�③《醫學入門 》：�血虛怯弱及七情氣悶者慎用。誤服耗氣血，燥津液，虛火動而痞悶愈甚。�④《 \n        本草經疏》：�凡病屬陰虛血少、精不足 \n        ，內熱骨蒸，口乾唇燥，咳 嗽吐痰、吐血，鼻衄，咽塞，便秘滯下者，法咸忌之。肝腎有動氣者勿服。� ⑤《本草正》：�內熱陰虛，表疏汗出者忌服。�\n \n\n\n\n [1]\n    \n\n    苍术酮的稳定性及其抗HBV体外实验研究, 王峰，蔡光明，郭慧玲, 1.中国人民解放军第302医院中医药研究所，北京100039；2.江西中医学院，江西南 \n    昌330006\n  \n    A report from Shanghai \n    Donghua Hospital and others: Using \n\nai ye \n    disinfection incense, (made by Shanghai Everyday Chemical Products), which consists \n    of 30% of cang zhu powder and 20% of \n\nai ye \n    powder, smoking 4 hours, can kill off \nβ-Hemolytic streptococcus- A group﹐pneumonococcus﹐Hemophilus \n    Influenzae and Staphylococcus aureus etc. Smoking 8 hours can kill off Pseudomonas \n    aeruginosa)，and can inhibit the growth of Bacillus subtilis.\n\n上海華東醫院等單位報導，用含艾葉的消毒 香(上 \n    海日用化學品試制，含蒼朮粉30％，艾葉粉20％) 烟熏4小時能 殺滅乙型溶血性鏈球菌A群 （β-Hemolytic streptococcus- A group） \n    ﹐ 肺炎球菌 (pneumonococcus)﹐ 流感桿菌 (Hemophilus influenzae)和金黄色葡萄球菌 （Staphylococcus \n    aureus）等 ，烟熏8小時能殺 滅綠膿桿菌 (Pseudomonas aeruginosa).， 并能抑制枯草桿菌 （Bacillus \n    subtilis）的生長。\n\n\n\n \nSponsors' Ads by \n    Google 以下為谷歌所提供贊助者 之廣告\n\n\n \n\n\n\n\nA manuscript... writing, translating and proofreading              \n    in progress\n\n\nClick here \n    for comment. (Not for inquiry )\n\nClick \n    here for inquiry \n \n \n\n\nCopyright Notice 按此看關於版權問 \n    題\n\n\n\n\n\n\nList \n        of Health Problems\n\n\n\n\nChinese \n        Herb Dictionary\n\n\n\n\n\nToxicity of Some Herbs\n\n\n\nSide Effect of Some Herbs\n\n\n\nHerbs that can be toxic to kidneys\n\n\n\n\n\n        Traditional Chinese Medicine\n \n\n\nTCM Diagnosis\n \n\nSamples \n        of Formulae\n\n\n\n\n\n        Terms of Traditional Chinese Medicine\n\n\n\n        Acupuncture\n\n\n\n\n\n\n\ncopy right\n \n\n\n版權所有\n\n\n\n\nQigong \n        (chi kung)\n\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\nEmail \n        our web master for  your suggestion (not for inquiry)\n\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\n\n\nGeneral Online Library\n\n\n\n\nQigong classes\n\n\n\n\nFake Email \n        Warning\n\n\n\n\nResearch Librarian\n\n\n\n\nSearch\n\n\n\n\n\n\n\nQigong classes\n\n\n\n\nHome\n\n\n\n\n\n        Weather Report\n\n\n\n\nDisclaimer\n\n\n\nLast update: Oct 31, 2013; 10 p.m. \n        LAH\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+        "original_url": "http://alternativehealing.org/cang_zhu.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "ye ju hua",
+                "野菊花"
+            ],
+            "Pharmaceutical": [
+                "Flos Chrysanthemi indici"
+            ],
+            "Biological": [
+                "Chrysanthemum indicum L.",
+                "Chrysanthemum boreale Mak.",
+                "Chrysanthemum lavandulaefolium (Fisch.) Mak."
+            ],
+            "Chinese": [
+                "野菊花",
+                "野黄菊",
+                "鮮野菊花",
+                "野黄菊花",
+                "苦薏",
+                "山菊花",
+                "甘菊花"
+            ],
+            "Common": [
+                "wild chrysanthemum flower"
+            ],
+            "Other name": [
+                "ye huang ju 野黄菊",
+                "xian ye ju hua 鮮野菊花",
+                "ye huang ju hua 野黄菊花",
+                "ku yi 苦薏",
+                "shan ju hua 山菊花",
+                "gan ju hua 甘菊花"
+            ],
+            "Pronunciation in Korean": [
+                "yagukhwa"
+            ],
+            "Pronunciation in Japanese": [
+                "nogikuka"
+            ],
+            "Pronunciation in Cantonese": [
+                "ye5 guk1 faa1"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "throughout China"
+        ],
+        "Properties": [
+            "bitter",
+            "acrid",
+            "slightly cold"
+        ],
+        "Meridians": [
+            "lung",
+            "liver"
+        ],
+        "Maladies Treated": [
+            "sore swollen throats",
+            "red eyes caused by wind fire",
+            "boils",
+            "carbuncles",
+            "sores",
+            "chronic cervicitis (by external use)"
+        ],
+        "Medical Function": [
+            "rid of fire and toxicity",
+            "antibiotic effect against Staphylococcus aureus, Shigella spp. and ECHO viruses",
+            "anti excitatory effects of adrenal system",
+            "lower blood pressure",
+            "dilate peripheral blood vessels",
+            "treatment and prevention of respiratory diseases"
+        ],
+        "Dosage": "6~12 g per day.\n\nFor certain applications: 20–30 g per day (see formulae section for specific conditions and combination with other herbs).",
+        "Samples of Formulae": "For boils and carbuncles: ye ju hua (wild chrysanthemum flower), jin yin hua (honeysuckle flower), pu gong ying (dandelion).\n\nFor red swollen eyes: ye ju hua (wild chrysanthemum flower), xia ku cao (prunella spike), sang ye (mulberry leaf).\n\nFor prevention and treatment of influenza: ye ju hua (wild chrysanthemum flower) 20g, yu xing cao (houttuynia) 30g, jin yin hua (honeysuckle flower) 30g, decoct in water and take orally.\n\nFor hypertension: ye ju hua (wild chrysanthemum flower) 30g, gou teng (uncaria vine) 20g, sang ye (mulberry leaf) 20g, decoct in water and take orally.",
+        "Contraindications": "Occasional nausea, vomiting, lack of appetite, and flatulence may arise but it is non-toxic.\n\nThose with weak digestion or during pregnancy should not use it.\n\nMay cause stomach discomfort, reduced appetite, abdominal rumbling in a few individuals. Contraindicated for those with spleen and stomach deficiency cold, and for pregnant women.",
+        "Research": "1. Antibiotic effect\n2. Lower blood pressure\n3. Treatment and prevention of respiratory diseases\n4. External use for chronic cervicitis",
+        "Notes": "",
+        "Chemical Ingredients": [
+            "acacetin-7-rhamnosidoglucoside (刺槐素-7-鼠李糖葡萄糖甙, mimenghua glycoside) ~0.72%",
+            "yejuhua lactone (野菊花内酯) ~0.1%",
+            "chrysanthemin (矢車菊甙, asterin)",
+            "physalin (苦味素)",
+            "α-thuJone (α-侧柏酮)",
+            "artoglasin-A (野菊花素A)",
+            "acaciin (刺槐甙)",
+            "linarin (蒙花甙)",
+            "vitamin A type substances (维生素A類物质)",
+            "vitamin B1 (维生素B1)",
+            "essential oil (花含揮發油) 0.1%–0.2%, containing: chrysol (白菊醇), chrysantome (白菊酮), dl-camphor (dl-樟腦), borneol (龍腦), β-3-carene (β-3-蒈烯), sabinene (檜烯), carvol (香草醇)",
+            "luteolin glucoside (木犀草素葡萄糖甙)",
+            "chrysanthemin (菊红甙)",
+            "chrysanthemaxamthin (菊黄质)",
+            "xanthyllepoxide (環氧葉黄素)",
+            "palmitic acid (棕櫚酸)",
+            "luteolin (木犀草素)",
+            "yejuhua chrysanthenone (野菊花酮, 没药烷酮二醇)",
+            "yejuhua chrysol (野菊花醇)",
+            "daucosterol (胡蘿蔔甙)",
+            "hispidulin (豚草素)",
+            "jaceosidin (金合歡素)",
+            "docosanoic acid (山萮酸)",
+            "glyceride (甘油酯)",
+            "etc."
+        ],
+        "References": [],
+        "Further Reading": [],
+        "Original Text": "ye ju hua\nComplementary and Alternative Healing University  Home  現代 中藥辭典　Search this site       Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　ye ju hua  野菊花 By: Joe Hing Kwok Chu　  \n  　　Pharmaceutical name:英文藥名：Flos Chrysanthemi\n  indiciBiological name:拉丁植物學名：Chrysanthemum indicum L., C.boreale Mak.,Chrysanthemum Iavandulaefolium (Fisch.) Mak.Pron. in Japanese:日語發音：nogikukaPron. in Korean:韓語發音：yagukhwaPron. in Cantonese:粤語發音：ye5 guk1 faa1   Other Names:別名：ye huang ju野黄菊xian ye ju hua鮮野菊花ye huang ju hua野黄菊花ku yi苦薏shan ju hua山菊花gan ju hua甘菊花Common Name:英文普通名：wild chrysanthemum flowerDistribution:分佈：throughout China全中國。Properties (characteristics)﹕性味﹕bitter, acrid, slightly cold味苦﹐辛﹐性涼Channels (meridians) entered:歸經：lung, liver肺﹐肝。Actions & Indications:主治：rid of fire and toxicity. Used in sore swollen throats, red eyes caused by wind fire, boils, carbuncles and sores去火毒，用於：喉嚨腫痛，風熱赤眼，瘡腫。Medical Function:藥理：antibiotic effect against Staphylococcus aureus, Shigella spp. and ECHO virusesanti excitatory effects of adrenal systemlower blood pressuredilate peripheral blood vessels　抗菌，抗病毒作用：金黃葡萄球菌，痢疾桿菌， 埃可病毒抑制腎上腺系统過度興奮降低血壓擴張周圍血管Chemical ingredients:化學成份：　刺槐素-7-鼠李糖葡萄糖甙 (密蒙花甙)（acacetin-7-rhamnosidoglucoside）~ 0.72%,野菊花内酯（yejuhua  lactone) ~ 0.1%，矢車菊甙（chrysanthemin）,苦味素 (physalin),α-侧柏酮（α-thuJone）,野菊花素A（artoglasin-A）﹐刺槐甙（acaciin）﹐蒙花甙（linarin）维生素A類物质 (vitamin A type of substances)维生素B1(vitamin B1),花含揮發油 (essential oil) 0.1%∼0.2%，油中含 (containing):白菊醇(chrysol),白菊酮(chrysantome)，dl-樟腦 (dl-camphor),龍腦  (borneol)β-3- 蒈烯 (β-3-carene),檜烯 (sabinene) ,香草醇 (carvol),木犀草素葡萄糖甙 (luteolin glucoside),菊红甙 (chrysanthemin,asterin),菊黄质 (chrysanthemaxamthin),環氧葉黄素(xanthyllepoxide),棕櫚酸 (palmitic acid),木犀草素 (luteolin),野菊花酮（没药烷酮二醇）(yejuhua chrysanthenone),野菊花醇 ( yejuhua chrysol）,胡蘿蔔甙 (daucosterol),豚草素 （hispidulin）,金合歡素 ( jaceosidin),山萮酸 (docosanoic acid)﹐甘油酯 (Glyceride) etcDosage:用量：6~12 g per day每日量：6∼·12克。Samples of formulae:處方舉例：For boils and carbuncles: ye ju hua, jin yin hua, pu gong yingFor red swollen eyes: ye ju hua, xia ku cao, sang ye　防治流行性感冒﹕野菊花20克,鱼腥草30克,金银花30克，水煎服。高血壓﹕野菊花 30克,钩藤 20克,桑葉 20克，水煎服。Modern Research:近代研究：1. antibiotic effect2. lower blood pressure3. treatment and prevention of respiratory  diseases4. external use for chronic cervicitis抗菌作用降血壓作用防治呼吸氣管病症外用於子宮頸炎　Cautions:禁忌：occasional nausea, vomiting, lack of appetite,  flatulence, may arise but it is non-toxic.Those with weak digestion or during pregnancy should not use it.少數人會出現胃部不適、食慾減退、腸鳴等反應。脾胃虚寒者、孕婦不宜服用。　　Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告 　A manuscript... writing, translating and proofreading              in progressProblems with website? Please email: Click here for comment. (Not for inquiry )    Click here for inquiry  Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right　版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    DisclaimerLast update: Dec 4; 2010; 5:40 p.m. LAH  \n",
+        "original_url": "http://alternativehealing.org/ye_ju_hua.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "hou pu",
+                "chuan pu"
+            ],
+            "Pharmaceutical": [
+                "Cortex Magnoliae Officinalis"
+            ],
+            "Biological": [
+                "Magnolia officinalis Rehd. et Wils. ssp. biloba (Rehd. et Wils.) Law",
+                "Magnolia obovata Thunb. (produced in Japan)",
+                "Magnolia fargesii",
+                "Magnolia biloba (Rehd. Et Wils.) Cheng"
+            ],
+            "Chinese": [
+                "厚樸",
+                "川樸",
+                "凹葉厚樸"
+            ],
+            "Common": [
+                "magnolia bark"
+            ],
+            "Other name": [
+                "shan he hua (山荷花)",
+                "he hua po (荷厚樸)",
+                "he hua mu lan (荷花木蘭)"
+            ],
+            "Pronunciation in Korean": [
+                "mubak"
+            ],
+            "Pronunciation in Japanese": [
+                "koboku"
+            ],
+            "Pronunciation in Cantonese": [
+                "hau5 pok3"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Sichuan (Magnolia officinalis Rehd. et Wils. ssp. biloba)",
+            "Hunan (Magnolia officinalis Rehd. et Wils. ssp. biloba)",
+            "Hubei (Magnolia officinalis Rehd. et Wils. ssp. biloba)",
+            "Zhejiang (Magnolia officinalis Rehd. et Wils. ssp. biloba; Magnolia biloba (Rehd. Et Wils.) Cheng)",
+            "Guangxi (Magnolia officinalis Rehd. et Wils. ssp. biloba; Magnolia biloba (Rehd. Et Wils.) Cheng)",
+            "Jiangxi (Magnolia officinalis Rehd. et Wils. ssp. biloba; Magnolia biloba (Rehd. Et Wils.) Cheng)",
+            "Guizhou (Magnolia officinalis Rehd. et Wils. ssp. biloba)",
+            "Yunnan (Magnolia officinalis Rehd. et Wils. ssp. biloba)",
+            "Shaanxi (Magnolia officinalis Rehd. et Wils. ssp. biloba)",
+            "Anhui (Magnolia officinalis Rehd. et Wils. ssp. biloba; Magnolia biloba (Rehd. Et Wils.) Cheng)",
+            "Gansu (Magnolia officinalis Rehd. et Wils. ssp. biloba)",
+            "Japan (Magnolia obovata Thunb.)"
+        ],
+        "Properties": [
+            "Bitter",
+            "Acrid",
+            "Warm",
+            "Aromatic"
+        ],
+        "Meridians": [
+            "Large Intestine",
+            "Lung",
+            "Spleen",
+            "Stomach"
+        ],
+        "Maladies Treated": [
+            "Transforms phlegm and rids of dampness and stagnation in spleen and stomach",
+            "Indigestion",
+            "Flatulence",
+            "Loss of appetite",
+            "Vomiting",
+            "Diarrhea",
+            "Constipation",
+            "Spleen and stomach dampness with fullness",
+            "Food accumulation and Qi stagnation",
+            "Abdominal distension",
+            "Phlegm retention with cough and asthma"
+        ],
+        "Medical Function": [
+            "Decoction in test tubes shows strong inhibition of Staphylococcus aureus",
+            "Relaxing skeletal muscle effect",
+            "Improves digestion",
+            "Inhibits pain and sedative effect",
+            "Anti-coagulation of platelets",
+            "Anti-cancer",
+            "Potential as a novel therapeutic agent for the treatment of atherosclerosis and re-stenosis",
+            "Induces apoptosis in acute myelogenous leukemia (AML) cells",
+            "Honokiol induces apoptosis in B-cell chronic lymphocytic leukemia (B-CLL)"
+        ],
+        "Dosage": "3–12 g; hou pu hua (flower): 3–6 g",
+        "Samples of Formulae": "hou pu san wu tang (厚樸三物湯)\nda cheng tang (大成湯, Wai Ke Zheng Zong)\n",
+        "Contraindications": "Use caution during pregnancy.\nIt antagonizes ze xie (Alisma orientale tuber) and han shui shi (mirabilitum, Glauber's salt).\nLarge dosages and/or long term usage can be toxic to kidneys.",
+        "Research": "One of the active chemicals honokiol can cause B-cells of lymphocytic leukemia into apoptosis.[1]\nHonokiol does not get destroyed by the digestive system readily. It can be effective in decoction.\n",
+        "Notes": "",
+        "Chemical Ingredients": {
+            "": [
+                "Magnolol (厚朴酚)",
+                "Tetrahydromagnolol",
+                "Isomagnolol",
+                "Honokiol (和厚朴酚)",
+                "Randainal",
+                "Syringaresinol",
+                "Syringaresinol 4-O-Beta-D-glucopyranoside",
+                "6'-O-methyl-honokiol",
+                "Magnaldehyde, B, C",
+                "Magnolignan A, B, C, D, E",
+                "Magnatriol B",
+                "Magnaldehyde #, #",
+                "Randaiol",
+                "Magnolignan F, G, H, I",
+                "Piperitylmagnolol",
+                "Pipertylhonokiol",
+                "Dipiperitylmagnolol",
+                "Bornylmagnolol",
+                "Eudesmol",
+                "Alpha-pinene",
+                "Beta-pinene",
+                "p-Cymene",
+                "1,4-cineol",
+                "Alpha-limonene",
+                "Carene-3",
+                "Linalool",
+                "Beta-bisabolene",
+                "Terpinen-4-ol",
+                "Alpha-terpineol",
+                "Bornyl acetate",
+                "Linalyl acetate",
+                "Caryophyllene",
+                "Alpha-humulene",
+                "Alpha-copaene",
+                "Aromadendrene",
+                "Alloaromadendrene",
+                "Alpha-cedrene",
+                "Elemeol",
+                "Globulol",
+                "Alpha-santalol",
+                "Butylidenecyclohexane",
+                "Guaiol",
+                "Beta-guaiene",
+                "Cardinol",
+                "Guaiazulene",
+                "Magnocurarine",
+                "Sinapic aldehyde",
+                "1-(4-hydroxy-3-methoxyphenyl)-2-(4_(W-hydroxypropyl)-2-methoxyphenoxy) propane-1,3-diol"
+            ]
+        },
+        "References": [
+            "[1] Naunyn Schmiedebergs Arch Pharmacol. 2003 Aug;368(2):127-33. Epub 2003 Jul 25.",
+            "[2] http://bloodjournal.hematologylibrary.org/content/106/2/690.full.html"
+        ],
+        "Further Reading": [],
+        "Original Text": "hou pu, chuan pu, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　                                                                             　              h璷 p� 厚樸chuan p� 川 樸by: Joe Hing Kwok ChuPharmaceutical name:英文药名： Cortex Magnoliae OfficinalisBiological name:拉丁植物学名：Magnolia officinalis Rehd. et Wils. ssp. biloba（Rehd. et Wils.）LawMagnolia  obovata, Thunb. (produced in Japan)Magnolia fargesiiMagnolia biloba (Rehd． Et Wils.) Cheng (凹葉厚朴)Pron. in Japanese:日語發音：kobokuPron. in Korean:韓語發音：mubakPron. in Cantonese:粤語發音： hau5 pok3Common Name:英文名：magnolia barkOther Names:别名：shan he hua (山荷花)﹐ he hua po (荷厚樸) , he hua mu lan  (荷花木蘭)Distribution:産地：Sichuan, Hunan, Hubei, Zhejian, Guangxi, Jiangxi. Sichuan, Guizhou, Yunnan, Shaanxi, Anhui, Gansu provinces of China.Magnolia biloba (Rehd． Et Wils.) Cheng is distributed in Zhejiang, Jiangxi, Anhui, Guangxi provinces. Mainly produced in Sichuan, Hubei, Zhejiang, Guizhou, and Hunan provinces of China.厚朴分布浙江，廣西，江西，湖南，湖北，四川，貴州，雲南，陝西，安徽，甘肅等地。凹葉厚朴分布浙江，江西，安徽，廣西等地。主產四川，湖北，浙江，貴州，湖南。Properties (characteristics)性味：bitter, acrid warm and aromatic味苦，辛﹐温，香。Channels (meridians) entered:歸經：large intestine, lung, spleen, stomach大腸，肺，脾，胃。Actions & Indications:主治：transform phlegm and rids of dampness and stagnation in spleen and stomach indigestion, flatulence, loss of appetite, vomiting, diarrhea and constipation.具有燥濕消痰，下氣除滿之功能。 用於濕滯傷中，脘痞吐瀉，食積氣滯，腹脹便秘，痰飲喘咳。Medical Function:藥理：the decoction in test tubes show that it had strong inhibition of Staphylococcus aureusrelaxing skeletal muscle effectimproves digestion, inhibits pain and sedative effectanti-coagulation of plateletsanti-cancerpotential as a novel therapeutic agent for the treatment of atherosclerosis and re-stenosis.[1]induces apoptosis in acute myelogenous leukemia (AML) cells. honokiol induces apoptosis in B-cell chronic lymphocytic leukemia (B-CLL)[2] 本品煎劑在試管中，對金黃色葡萄球菌有很強的抑制作用。鬆弛骨骼肌作用﹐健胃﹐鎮痛﹐鎮靜，抗血小板凝集，抗癌，可能對抗動脈粥樣硬化有發展前途[1]和厚朴酚可使急性颗粒白血病细胞凋亡，和厚朴酚可使慢性淋巴细胞白血病细胞凋亡。[2]Chemical ingredients:化學成份：Chemical ingredients:1. Magnolol 厚朴酚, tetrahydromagnolol, isomagnolol, honokiol 和厚朴酚, Randainal, syringaresinol, syringaresinol 4-O-Beta-D-glucopyranoside, 6'-O-methyl-honokiol, magnaldehyde, B, C; magnolignan A, B, C, D, E.2. Magnatriol B, magnaldehyde #, #,; Randaiol.3. Magnolignan F, G, H, I.4. Piperitylmagnolol, pipertylhonokiol, dipiperitylmagnolol, bornylmagnolol.5. Eudesmol, alpha-pinene, Beta-pinene, p-cymene; 1, 4-cineol; alpha-limonene, carene-3, linalool, beta-bisabolene, terpinen-4-ol, alpha-terpineol, bornyl acetate, linalyl acetate, caryophyllene, alphe-humulene, alphe-copaene, aromadendrene, alloaromadendrene, alpha-cedrene, elemeol, Globulol, alpha-santalol, butylidenecyclohexane, guaiol, beta-guaiene, Cardinol, guaiazulene.6. Magnocurarine7. Sinapic aldehyde, 1-(4-hydroxy-3-methoxyphenyl) -2 -(4_ (W-hydroxypropyl) - 2-methoxyphenoxy) propane-1, 3-diol.Dosage:用量：3- 12 g;hou pu hua (flower):3-6 gSamples of formulae:處方舉例：hou pu san wu tang 厚樸三物湯da cheng tang 大成湯 (外科正宗)Modern Research:现代研究：One of the active chemicals. honokiol, can cause B-cells of lymphocytic leukemia into apoptosis[1]. Honokiol does not ge destroyed by the digestive system readily. It can be effective in decoction.厚朴酚能使到淋巴白血病之B细胞凋亡]1]。厚朴酚不易被消化系统破壞，所以厚朴用於湯剤會有效。Cautions:禁忌： Use caution during pregnancy.It antagonizes ze xie and han shui shi.Large dosages and/or long term usage can be toxic to kidneys.懷孕期間，小心應用。反澤 蘭或寒水石。大劑量或長期服用可能對腎臟有毒。[1] Naunyn Schmiedebergs Arch Pharmacol. 2003 Aug;368(2):127-33. Epub 2003 Jul 25.[2] http://bloodjournal.hematologylibrary.org/content/106/2/690.full.htmlClick here for hou po identification  按此看厚朴鑒別法。 Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告 A manuscript... writing, translating and proofreading  in progressClick here for inquiry  List of Health ProblemsChinese Herb DictionaryToxicity of Some Herbs  Side Effect of Some Herbs  Herbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classes HomeWeather Report DisclaimerSearch this site         Last update: July 10, 2011.8 p.m. LAH",
+        "original_url": "http://alternativehealing.org/hou_po.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "ding xiang"
+            ],
+            "Pharmaceutical": [
+                "Flores Caryophylli"
+            ],
+            "Biological": [
+                "Eugenia caryophyllata",
+                "Caryophyllus aromaticus"
+            ],
+            "Common": [
+                "clove",
+                "cloves",
+                "English: cloves",
+                "Indonesia/Maley: cengkeh"
+            ],
+            "Other name": [
+                "ding zi xiang",
+                "gong ding xiang (the flowers)",
+                "mu ding xiang (the fruits)",
+                "ji she xiang"
+            ],
+            "Chinese": [
+                "丁香",
+                "公丁香 [花蕾]",
+                "母丁香 [果實]",
+                "雞舌香"
+            ],
+            "Pronunciation in Korean": [
+                "eonghyang",
+                "Chonghyang"
+            ],
+            "Pronunciation in Japanese": [
+                "Chōji",
+                "Choji",
+                "Kurobu"
+            ],
+            "Pronunciation in Cantonese": [
+                "ding1 hoeng1"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Madagascar",
+            "Zanzibar",
+            "Indonesia (especially in Maluku Islands, also known as Spice Islands)",
+            "Sri-Lanka",
+            "Tanzania",
+            "Malaysia",
+            "Brazil",
+            "Tibet (China)",
+            "Guangxi provinces of China"
+        ],
+        "Properties": [
+            "Acrid",
+            "Warm"
+        ],
+        "Meridians": [
+            "Spleen",
+            "Lung",
+            "Stomach",
+            "Kidney"
+        ],
+        "Maladies Treated": [
+            "Illnesses of digestive system",
+            "Cardio-vascular diseases",
+            "Auto-immune system and connective tissue diseases",
+            "External injuries",
+            "Nervous system diseases",
+            "Gynecological diseases",
+            "Pediatric diseases",
+            "Skin diseases",
+            "Eye diseases",
+            "Ear, nose and throat diseases",
+            "Mouth cavity diseases",
+            "Cold and pain in the stomach, hiccups, vomiting (used with shi ti (persimmon stems))",
+            "For vomiting, often used with ban xia. (Not to use in cases of vomiting with heat syndromes)",
+            "Pain in the stomach and solar plexus (used with rou gui)",
+            "Impotence, weak legs, or vagina yeast infection (used with fu zi, rou gui, xiao hui xiang, ba ji tian, rou cong rong)",
+            "For lymphatic tumors, injuries from impacts use ding gui san: ding xiang, rou gui of equal amount, make into powder. Apply on affected part.",
+            "Fungal infection of the body or feet (external application of alcohol extract or water decoction on affected parts)"
+           
+        ],
+        "Medical Function": [
+            "Promotes afflux of the stomach mucus",
+            "Increases stomach secretion",
+            "Stimulates the gastric nerves",
+            "Increases peristalsis",
+            "Absorbing nutrients",
+            "Improving oxygen in the blood",
+            "Increases white cell count",
+            "Stimulates CNS",
+            "Increases heart rate",
+            "Inhibits bacteria",
+            "Its essential oil can inhibit the growth of Candida Albicans, Aspergillus niger, Aspergillus flavus, and Penicillium expansum.",
+            "MIC (minimum inhibitory concentration) was used to evaluate the antifungal activity against Candida albicans ATCC 10231, Aspergillus niger ATCC 9642 and Aspergillus flavus ATCC 9643. Essential oil exhibited a significant activity: on Candida albicans MIC=0.50 ml-1 (ppm); on Aspergillus niger MIC=0.125 ml-1 (ppm); on Aspergillus flavus MIC=0.25 ml-1 (ppm). Minimum inhibitory concentration for Penicillium expansum was 20%. [1]",
+            "Sesquiterpenes of this herb can be potential anticarcinogenic agents. [2]",
+            "The essential oil can modulate the immune response by augmenting humoral immunity and decreasing cell mediated immunity. [3]",
+            "The ethanol induced hepatotoxic effect on white rats can be counteracted by clove (ding xiang) and cardamon feeding, and the effect of clove is stronger. [4]"
+        ],
+        "Dosage": "1-3 g",
+        "Samples of Formulae": "ding xiang shi di tang (Source: ji sheng fang)\nApplication: hiccups\nComposition: ding xiang (ding xiang, clove) 2g, shi di (shi di, persimmon stem) 3g, ren shen (ren shen, ginseng) 3g, gan jiang (gan jiang, dried ginger) 2g. Make into decoction. Make into 2 servings for one day dosage.",
+        "Contraindications": "Large dosages can be toxic to the kidneys.\nNot to use in cases of vomiting with heat syndromes.",
+        "Research": "Its essential oil can inhibit the growth of Candida Albicans, Aspergillus niger, Aspergillus flavus, and Penicillium expansum. The MIC was used to evaluate the antifungal activity against Candida albicans ATCC 10231, Aspergillus niger ATCC 9642 and Aspergillus flavus ATCC 9643. Antifungal activity was evaluated for the essential oil and for Amphotricin B. Results showed that Eugenia caryophyllata essential oil exhibited a significant activity against fungi, and its MIC on Candida albicans, Aspergillus niger and Aspergillus flavus were respectively 0.50, 0.125 and 0.25 ml-1 (ppm).[1]\nSesquiterpenes of this herb can be potential anticarcinogenic agents.[2]\nThe essential oil of this herb can modulate the immune response by augmenting humoral immunity and decreasing cell mediated immunity. [3]\nThe ethanol induced hepatotoxic effect on white rats can be counteracted by clove (ding xiang) and cardamon feeding and the effect of clove is stronger. [4]",
+        "Notes": "母丁香 (mu ding xiang, the fruits) and 公丁香 (gong ding xiang, the flowers) have the same medicinal use.",
+        "Chemical Ingredients": {
+            "Clove flower buds": [
+                "Eugenol (C10H12C2), 70-85% of total evaporating oil",
+                "Acetyl eugenol (eugenol acetate) (CH3COOC10H11O)",
+                "Caryophyllene (C15H24)",
+                "Eugenin",
+                "Eugenitin",
+                "Isoeugenitin",
+                "Isoeugenitol",
+                "Eugenilin",
+                "Oleanolic acid",
+                "Rhamnetin",
+                "Kaempherol"
+            ]
+        },
+        "References": [
+            "[1] http://www.biomedpharmajournal.org/BPJ-AbsRead.asp?SNoId=6",
+            "[2] J Nat Prod. 1992 Jul;55(7):999-1003.",
+            "[3] Phytother Res. 2011 Aug;25(8):1254-6. doi: 10.1002/ptr.3412. Epub 2011 Feb 1.",
+            "[4] ISSN: 1687-5788"
+        ],
+        "Further Reading": [],
+        "Original Text": "ding xiang, clove, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University   中藥詞典    Chinese Herb Dictionary      Search this site     在本網站找資料 See more menu at the bottom of page  ding xiang  (cloves) 丁香    (in English and Chinese 中英文)  by: Joe Hing kwok ChuPresent day applications:現代應用﹕For treatment of: illnesses of digestive system    消化系统病 cardio-vascular diseases      心血管病 auto-immune system and connective tissue diseases   自體免疫系統與結締組織病 external injuries   外傷 nervous system    神經系统 gynecological diseases     婦科 pediatric diseases    小兒 科 skin diseases    皮膚病 eye diseases    眼病 ear, nose and throat diseases     耳鼻喉病 mouth cavity diseases     口腔病(Details to be loaded)     詳细治法将會上網。Pharmaceutical name:英文藥名﹕Flores CaryophylliBotanical name:學名﹕Eugenia caryophyllata,Caryophyllus aromaticusPron. in Japanese:日語發音﹕Chōji, Choji, KurobuPron. in Korean:韓語發音﹕eonghyang, Chonghyang,Pron. in Cantonese:粵音﹕ding1 hoeng1Other Names:別名﹕ding zi xiang雞舌香gong ding xiang (the flowers)公丁香 [花蕾]mu ding xiang (the fruits)母丁香 [果實]ji she xiang雞舌香Common Name:外文名﹕English: clovesIndonesia/Maley: cengkehDistribution:產地﹕Clove is widely cultivated in Madagascar, Zanzibar,Indonesia (especially in in Maluku Islands, also known as Spice Islands) , Sri-Lanka,  Tanzania﹐Malaysia﹐Brazil﹐ and Tibet, Guangxi provinces of China.主產地：印尼的馬魯姑群島，(亦曾經被歐洲人稱香料島 Spice Islands） ﹐ 桑基巴群島，坦尚尼亞，馬達加斯加島， 馬來西亞，錫蘭等地 。 中國西藏，廣西等省 。Properties(characteristics)﹕性 味﹕acrid, warm.味辛，性溫。Channels (meridians) entered: 歸經﹕spleen, lung, stomach, kidney.脾 ，肺，胃，腎經 。Medical functions:藥理﹕ Taken internally, it promotes afflux of the stomach mucus, increases stomach secretion, stimulates the gastric nerves, increases peristalsis, absorbing nutrients, improving oxygen in the blood, increases white cell count, stimulates CNS, increases heart rate, inhibits bacteria.Its essential oil can inhibit the growth of Candida Albicans, Aspergillus niger, Aspergillus flavus, and Penicillium expansum.The MIC was used to evaluate the antifungal activity against Candida albicans ATCC 10231, Aspergillus niger ATCC 9642 and Aspergillus flavus ATCC 9643. Antifungal activity was evaluated for the essential oil and simultaneously for Amphotricin B. Results showed that Eugenia caryophyllata essential oil exhibited a significant activity against fungi, and its MIC on Candida albicans, Aspergillus niger and Aspergillus flavus were respectively 0.50, 0.125 and 0.25 痢 ml-1 (ppm).[1]sesquiterpenes of this herb can be potential anticarcinogenic agents.[2]The essential oil of this herb can modulate the immune response by augmenting humoral immunity and decreasing cell mediated immunity. [3]The ethanol induced hepatotoxic effect on white rats can be counteracted by clove (ding xiang) and cardamon feeding and the effect of clove is stronger. [4] 內服能使胃粘膜充血，促胃 液之分泌﹐刺激胃腸神經，使蠕動增加。吸收 養份入血，能增 加血中之氧，增加白血球數，使大腦及主要神經受刺激而興奮，促進心跳。能抑制霍亂菌。其揮發油及其衍生物均可抑制白念珠球菌，黑曲霉(Aspergillus niger)，黄霉 (Aspergillus flavus) 和擴展青霉 (Penicillium expansum) 的生長 。丁香揮發油對念珠球菌，黑曲霉, 黄霉的最小抑菌濃度分別為 0.50, 0.125 and 0.25 痢 ml-1 (ppm).[1],對 擴展青霉的最小抑菌濃度為 2 0 %。丁香的化學成份中的倍半萜可能是抗癌之藥劑。【2】丁香揮發油能增強體液免疫反應，但會降低細胞免疫功能。【3】乙醇引起的大白鼠肝毒性作用，可以餵以丁香（丁香）和草果抵消；而丁香的效果更強。 [4] Actions & Indications:主治﹕For cold and pain in the stomach, hiccups, vomiting: often used with shi ti (persimmon stems). For vomiting, often used with ban xia. (Not to use in cases of vomiting with heat syndromes). For pain in the stomach and solar plexus: often used with rou gui. For impotence, weak legs, or vagina yeast infection, often used with fu zi, rou gui, xiao hui xiang, ba ji tian, rou cong rong. For lymphatic tumors, injuries from impacts use ding gui san: ding xiang, rou gui of equal amount, make into powder. Apply on affected part. For fungal infection of the body or feet, make alcohol extract of ding xiang or water decoction. Apply on the affect parts.主治﹕用于胃腹冷痛，呃逆 ，嘔吐等症治呃逆，常與降氣止呃的柿蒂配伍；治嘔吐，可與降逆 止嘔的 半夏同用。因本品性溫，不 宜應用於胃 熱嘔呃 。 用於脘腹疼痛常與 肉桂等同用。 用於腎陽不足，陽萎，腳弱及寒濕帶下等症。 常與附子，肉 桂，小茴香，巴戟天，肉蓯蓉等同 用。 陰疽，跌打損傷﹐常用 丁桂散﹕丁香與肉 桂等分，共研細末，外用於患處。 將丁香用酒精 浸泡或 煎蒸，將浸 出液體或煎 液塗抹於皮膚患處, 治療體癬及足癬。Chemical ingredients:化學成份﹕eugenol ( C10H12C2) , 70 -85% of total evaporating oil丁香油酚(C10H12C2) 佔 全揮發油之 70 ~ 85%acetyl eugenol (eugenol acetate) (CH3COOC10H11O)乙醯丁香油酚 (CH3COOC10H11O)caryophyllene (C15H24)丁香烯 (C15H24)eugenin番櫻桃素eugenitin番櫻桃素亭isoeugenitin異番 櫻桃素亭isoeugenitol異番 櫻桃素酚eugenilin丁香英oleanolic acid齊墩果酸rhamnetin鼠李素kaempherol山奈酚Dosage:用 量﹕1-3 gSamples of formulae:處方舉 例﹕ding xiang shi di tang (Source: ji sheng fang)Application: hiccupsComposition: ding xiang 2 g, shi di 2 g,  3 g, gan jiang2 g. Make into decoction. Make into 2 servings for one day dosage. 丁香柿蒂湯： (濟生方)主治﹕呃逆組成﹕丁香2克，柿 蒂 3克，人 參 3克， 乾 薑2克， 作煎劑，一日二回分服。Modern Research:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕large dosages can be toxic to the kidneys.大劑量可能對腎臟有毒。　 註：母丁香與公丁香藥用一樣。[1]http://www.biomedpharmajournal.org/BPJ-AbsRead.asp?SNoId=6[2] J Nat Prod. 1992 Jul;55(7):999-1003.[3] Phytother Res. 2011 Aug;25(8):1254-6. doi: 10.1002/ptr.3412. Epub 2011 Feb 1.[4] ISSN: 1687-5788 Search this siteProblems with website? Please Click here for comment. (Not for inquiry )    Click here for inquiryCopyright Notice 按此看關於版權問題Sponsors' Ads by Google 以下為谷歌 所提供之廣告A manuscript... writing, translating and proofreading  in progressMenu: List of Health ProblemsQigong (chi kung)Toxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese Medicine TCM Diagnosis Samples of FormulaeTerms of Traditional Chinese MedicineAcupunctureChinese Herb DictionaryQigong classesPrescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry Dictionary Qigong classes Research Librarian copy right 版權所有HomeWeather ReportDisclaimerLast update: Feb 27, 2015; 5 p.m. LAH   ",
+        "original_url": "http://alternativehealing.org/ding_xiang.htm"
+    }
+]

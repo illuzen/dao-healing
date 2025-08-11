@@ -1,0 +1,526 @@
+[
+    {
+        "Names": {
+            "Name": [
+                "xi xin",
+                "細辛"
+            ],
+            "Pharmaceutical": [
+                "Herba cum Radice Asari"
+            ],
+            "Biological": [
+                "Asarum heterotropoides Fr. Schmidt var. mandshuricum (Maxim.) Kitag （北细辛）",
+                "Asarum sieboldi Mig var. seoulense Nakai （漢城细辛）",
+                "Asarum sieboldi Mig  （華细辛）"
+            ],
+            "Common": [
+                "Chinese wild ginger",
+                "asarum",
+                "Manchurian wildginger"
+            ],
+            "Other name": [
+                "xi shen 细参",
+                "yan dai wo hua 烟袋锅花",
+                "wan bing cao 万病草"
+            ],
+            "Chinese": [],
+            "Pronunciation in Korean": [
+                "sesin"
+            ],
+            "Pronunciation in Japanese": [
+                "saishin"
+            ],
+            "Pronunciation in Cantonese": [
+                "sai3 san1"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "throughout northeastern China, and Shaanxi, Henan, Shandong, Zhejiang, Fujian"
+        ],
+        "Properties": [
+            "acrid",
+            "warm",
+            "toxic to kidney"
+        ],
+        "Meridians": [
+            "heart",
+            "kidney",
+            "lung",
+            "liver"
+        ],
+        "Maladies Treated": [
+            "promotes sweating and disperse cold",
+            "warms lungs rid of phlegm",
+            "deafness",
+            "ingrown eye lashes",
+            "to clear sinus",
+            "boils in mouth and tongue (when used externally)",
+            "pain in lower back, knees and abdomen (when used in combination formula)",
+            "cough due to cold entering lungs (when used in Xiao Qing Long Tang formula)",
+            "syndrome of breasts being hard, swollen, painful; menses not flowing (when used in combination formula)",
+            "pain, itchy, running eyes (when used in combination formula)"
+        ],
+        "Medical Function": [
+            "anti allergy",
+            "anti histamine",
+            "inhibits immune system",
+            "antipyretic and pain relieving",
+            "sedative and local anaesthetic",
+            "anti bacteria"
+        ],
+        "Dosage": "0.4 to 3.75 g. Classical texts mentioned usage not to go over one qian (3.75 grams--old measurement). 0.4 ~ 3.75 克",
+        "Samples of Formulae": "For angina: xi xin (細辛), gui zhi (Cinnamon Twig), jiu bai, dang gui (Chinese Angelica Root), dan shen (Salvia Root)\n\nFor pain in lower back, knees and abdomen: xi xin (細辛), du huo (Angelica pubescens root), sang ji sheng (Mulberry Mistletoe), chuan duan (Dipsacus root), wu yao (Lindera root), dang gui (Chinese Angelica Root)\n\nFor cough due to cold entering lungs: use xiao qing long tang (Minor Bluegreen Dragon Decoction): xi xin (細辛), gan jiang (Dried Ginger), wu wei zi (Schisandra fruit), ban xia (Pinellia rhizome), ma huang (Ephedra), xing ren (Apricot kernel)\n\nFor syndrome of breasts being hard, swollen, painful; menses not flowing: xi xin (細辛), dang gui (Chinese Angelica Root), chi shao (Red Peony root), chuan qiong (Chuan xiong / Szechuan Lovage), hong hua (Safflower), bai zhi (Angelica dahurica), gua lo (Trichosanthes fruit)\n\nFor pain, itchy, running eyes: xi xin (細辛), cao jue ming (Cassia obtusifolia seed), shi jue ming (Abalone shell), yang gan (goat liver), mu zei cao (Equisetum), xia ku cao (Prunella)\n\n治胸痺心痛: 細辛（xi xin）, 桂枝（gui zhi）, 薤白（jiu bai）, 當歸（dang gui）, 丹參（dan shen）\n治腰，膝，腹部疼痛: 細辛（xi xin）, 獨活（du huo）, 桑寄生（sang ji sheng）, 川斷（chuan duan）, 烏藥（wu yao）, 當歸（dang gui）\n小青龍湯, 治寒飲犯肺的咳喘: 細辛（xi xin）, 乾薑（gan jiang）, 五味子（wu wei zi）, 半夏（ban xia）, 麻黃（ma huang）, 杏仁（xing ren）\n治婦人乳結疼脹，經血不行﹕ 細辛（xi xin）, 當歸（dang gui）, 赤芍（chi shao）, 川芎（chuan xiong）, 紅花（hong hua）, 白芷（bai zhi）, 瓜蔞（gua lo）\n治目痛，目癢，流淚﹕ 細辛（xi xin）, 草決明（cao jue ming）, 石決明（shi jue ming）, 羊肝（yang gan）, 木賊草（mu zei cao）, 夏枯草（xia ku cao）",
+        "Contraindications": "Not to use in cases of cold sweat due to qi deficient; headache due to yin deficient and yang overactive, cough due to yin deficient and heat in lungs.\n\nNot to use with shan zhu yu (Cornus fruit), huang qi (Astragalus root), hua shi (Talcum), or li lu (Veratrum root).\n\nDo not use over one 3.75 g each time.\n\nNot to use in cases of: sweating due to qixu (qi deficient) ; yinxu (yin deficient) with heat and headache, or with cough.\n\n It belongs to the Aristolochia family. This herb is toxic for the kidneys. It may not be legal to use in some western countries.\n\n氣虛多汗，陰虛陽亢頭痛，陰虛肺熱咳嗽忌服。不宜與山茱萸（shan zhu yu），黃耆（huang qi），滑石（hua shi）或藜蘆（li lu）同用。每服不可過 3.75克 （舊制一錢）。",
+        "Research": "",
+        "Notes": "Do not boil too long because of the evaporating oil.\n\n因含揮發油， 不應久煎。",
+        "Chemical Ingredients": {
+            "bei xi xin (northern xi xin)": [
+                "evaporating oil about 3%, main ingredients: methyl eugenol (甲基丁香油酚), a-pinene (a-蒎烯), camphene (樟腦萜), β-pinene (β-蒎烯), myrcene (月桂烯), sabinene (香松烯), limonene (寧檬烯), 1,8-cineole, p-cymene (對傘花烯), γ-terpinene (g-松油烯), terpinolene, borneol (龍腦), estragole (爱草腦), 3,5-dimethoxytoluene (3,5二甲氧基苯), safrole (黄樟醚), methyl eugenol (甲基丁香酚), asarone (细辛醚), myristicin (肉豆蔻醚), elemicin (欖香脂素), eucarvone (優葛縷酮), 2-isopropyl-5-methylanisole (2-異丙基-5-甲基茴香醚) [1][2]",
+                "potassium, sodium, magnesium, calcium, iron, manganese, copper, zinc"
+            ],
+            "bei xi xin (Japan, underground portion)": [
+                "evaporating oil: (+-)-car-3-ene-2,5-dione ((+-)-篙-3-烯-2，5酮), 3,4,5-trimethoxytoluene (3,4,5-三甲基甲苯), 2,3,5-trimethyoxytoluene (2,3,5-三甲基甲苯), kakual, saishinone [3]"
+            ],
+            "Other": [
+                "terpinen-4-ol, alpha-terpineol, naphthalene, n-pentadecane, croweacin [1,2], asarylketone, l-ararinin",
+                "bornyl acetate, trimethoxyallylbenzene, I. II, III [5]"
+            ]
+        },
+        "References": [
+            "[1] 徐植靈等，中药通報1984，9 （1） 27",
+            "[2] 田珍等，药学通報 1981，16，（2）53",
+            "[3] http://zipcodezoo.com/Plants/A/Asarum_heterotropoides/"
+        ],
+        "Further Reading": [],
+        "Original Text": "XI XIN, Complementary and Alternative Healing University  現代醫藥詞典Complementary and Alternative Healing University  Home  現代 中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　xi xin 細辛by: Joe Hing Kwok ChuPharmaceutical name:英文药名：Herba cum Radice AsariBiological name:拉丁學名：\nAsarum heterotropoides Fr. Schmidt var. mandshuricum (Maxim.) Kitag \n  （北细辛）Asarum sieboldi Mig \n  var. seoulense Nakai （漢城细辛）\nAsarum sieboldi Mig \n  （華细辛）\nThe previous 2 varieties are usually \n  called bei xi xin, meaning northern xi xin. (前兩種習稱北細辛。）\n\nJapanese Pron：\n\n日語發音：\n\nsaishin\n\nKorean Pron: \n\n韓語發音：\n\nsesinPron. in Cantonese粤語發音：sai3 san1Other Names:別名：xi shen 细参，yan dai wo hua 烟袋锅花，wan bing cao 万病草。Common Name:英文普通名：Chinese wild ginger, asarum, Manchurian wildgingerDistribution:分佈：throughout northeastern China,  and Shaanxi, Henan, Shandong, Zhejiang, Fujian中國之東北與陕西，河南，山東，浙江，福建等省。Properties (characteristics)性味﹕acrid, warm, toxic to kidney辛，溫, 對腎臟有毒。Channels (meridians) entered:歸經﹕heart, kidney, lung, liver心\n  ，腎，肺，肝Actions & Indications:主治﹕promotes sweating and disperse cold, warms lungs rid of phlegm. For deafness, ingrown eye lashes; to clear sinus. Use externally for boils in mouth and tongue.有發表散寒\n    ，袪風止痛，溫肺化飲，耳 聾，治倒 睫，宣通鼻竅的功能。外用治口舌生瘡。   Medical Function: 藥理作用﹕Medical Function: anti allergy anti histamine,\n inhibits immune system antipyretic and pain relieving sedative \n    and local anaesthetic anti bacteria 藥理作用﹕ 抗 過 敏 作 用\n 抗 組 織 胺 作 用\n 抗過敏作用\n 解 熱 鎮 痛 作 用 鎮静與局部麻醉作 用 抗菌作\n      用Chemical ingredients:　1. \n    bei xi xing contain evaporating oil about 3%, its main \n    ingredients of the oil:methyl eugenol \n    甲基丁香油酚, a-pinene\na-蒎烯,  camphene \n    樟腦萜, β--pinene\nβ-蒎烯, myrcene 月桂烯, sabinene \n    香松烯, limonene 寧檬烯, 1, 8-cineole, p-cymene \n    對傘花烯,  g-terpinene\n g-松油烯, terpinolene, borneol \n    龍腦, estragole 爱草腦, 3, 5-dimethoxytoluene \n    3，5二甲氧基苯, safrole 黄樟醚, methyl eugenol \n    甲基丁香酚, asarone 细辛醚, myristicin \n    肉豆蔻醚, elemicin 欖香脂素, eucarvone \n    優葛縷酮 , 2-isopropyl-5-methylanisole 2-異丙基-5-甲基茴香醚。【1】【2】\nFrom the bei xi xing of Japan, the underground portion \n    contains evaporating oil:(+-)-car-3-ene-2, 5-dione \n    (+-)-篙-3-烯-2，5酮, 3, 4, 5-trimethoxytoluene \n    3，4，5-三甲基甲苯, 2, 3, 5 -trimethyoxytoluene \n    2，3，5- 三甲基甲苯[3].kakual, saishinone.2. terpinen-4-ol, alpha-terpineol, naphthalene, n-pentadecane, croweacin[1,2], asarylketone, l-ararinin.3. bornyl acetate, trimethoxyallylbenzene, I. II, III[5].Other: potassium, sodium, magnesium, calcium, iron, manganese, copper and zinc.Dosage:用量：0.4 to 3.75 g. Classical texts mentioned usage not to go over one qian (3.75 grams--old measurement).0.4 ~ 3.75 克Samples of formulae:處方舉例：for agina: xi xin, gui zhi, jiu bai, dang gui, dan shenfor pain in lower back, knees and abdomen: xi xin, du huo, sang ji sheng, chuan duan, wu yao, dang guifor cough due to cold entering lungs:  use xiao qing lung tang: xi xin, gan jiang, wu wei zi, ban xia, ma huang, xing renfor syndrome of breasts being hard, swollen, painful; menses not flowing: xi xin, dang gui, chi shao, chuan qiong (chuan xiong), hong hua, bai zhi, gua lofor pain, itchy, running eyes: xi xin, cao jue min, shi jue ming, yang gan (goat liver), mu zei cao, xia ku cao　 治胸痺心痛: 細辛\n  ，桂枝，薤白，當歸，丹參 治腰，膝\n  ，腹部疼痛: 細辛，獨活，桑寄生，川斷，烏藥，當歸小青龍湯, 治寒飲犯肺的咳喘: 細辛\n  ，乾薑，五味子，半夏，麻黃，杏仁\n  治婦人乳結疼脹，經血不行﹕ 細辛， 々當歸，赤芍，川芎，紅花，白芷，瓜蔞治目痛，目癢，流淚﹕ 細辛\n  ，草決明，石決明，羊肝，木賊草，夏枯草Modern Research: to be loaded\n Note：\n do not boil too long because of the evaporating oil.\n因含揮發油， 不應久煎。Cautions:禁忌：not to use in cases of cold sweat due to qi deficient; headache due to yin deficient and yang over active, cough due to yin deficient and heat in lungs.   Not to use with shan zhu yu, huang qi, hua shi, or li lu.  Do not use over one 3.75 g each timeNot to use in cases of: sweating due to qixu (qi deficient) ; yinxu (yin deficient) with heat and headache, or with cough.It belongs to the \n    Aristolochia family. This herb is toxic for the kidneys. It may not be legal to use in some western countries.本 品 為 馬 兜 鈴 科 植 物 東 北 細 辛 ( \n    Asarum heterotropoides Fr. Schmidt\n     var. mandshuricum (Maxim.) Kitag ) 及 同 屬 近 緣 植 物 之 乾 燥 根 及 根 莖 。對腎臟有毒。氣虛多汗， 陰虛陽亢頭痛， 陰虛肺熱咳嗽忌服。不宜與山茱萸﹐黃\n    耆﹐滑石 或藜\n    蘆同用。每服不可過 3.75克 （舊制一錢）。\n【1】徐植靈等，中药通報1984，9 \n  （1） 27\n  【2】田珍等，药学通報 1981， 16， （2）53　 Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告A manuscript... writing, translating and proofreading              in progress　Click here for inquiry  Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right　版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    DisclaimerLast update:\n    Jan 6, 2010;  9:50 a.m. LAHSearch this site         \n",
+        "original_url": "http://alternativehealing.org/xi_xin.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "cao guo",
+                "bai dou kou",
+                "cardamom"
+            ],
+            "Pharmaceutical": [
+                "Fructus Amomi Tsao-ko"
+            ],
+            "Biological": [
+                "Amomum tsao-ko Crevost et Lem. (cao guo 草果)",
+                "Amomum cardamomum Linn. (bai dou kou 白豆蔻)",
+                "Amomum costatum Roxb. (dou kou 豆蔻)",
+                "Amomum kravanh Pierre ex Gagnep",
+                "Amomum compacturn Soland et Maton (Indonesian bai dou kou)"
+            ],
+            "Chemical": [],
+            "Common": [
+                "cardamom"
+            ],
+            "Other name": [
+                "bai dou kou 白豆蔻",
+                "cao dou kou 草豆叩",
+                "cao kou ren 草蔻仁",
+                "草叩仁",
+                "cao kou 草蔻"
+            ],
+            "Chinese": [
+                "草果",
+                "白豆蔻",
+                "草豆蔻",
+                "豆蔻"
+            ],
+            "Pronunciation in Korean": [
+                "chogwa"
+            ],
+            "Pronunciation in Japanese": [
+                "soka"
+            ],
+            "Pronunciation in Cantonese": [
+                "cou2 gwo2"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Vietnam",
+            "Yunan",
+            "Guizhou",
+            "Guangdong",
+            "Guangxi",
+            "Taiwan"
+        ],
+        "Properties": [
+            "acrid",
+            "warm",
+            "aromic"
+        ],
+        "Meridians": [
+            "spleen",
+            "stomach"
+        ],
+        "Maladies Treated": [
+            "stomach pain",
+            "flatulence",
+            "belching",
+            "vomiting",
+            "drunkenness from alcohol consumption",
+            "malaria (when used with zhi mu)",
+            "malaria (when used with chang shan to improve inhibiting malaria)",
+            "indigestion due to qi stagnation (refers to stomach qi stagnation)",
+            "vomiting (when used with bai dou kou to stop vomiting)",
+            "pain (when used with bai dou kou to relieve pain)",
+            "cold stagnation in the stomach (when used with bai dou kou to warm the stomach and getting rid of cold)",
+            "dampness (when used with sha ren or hou po or bai dou kou to rid of dampness)",
+            "spleen yang deficiency with dampness (when used with sha ren to improve spleen yang and rid of dampness)"
+        ],
+        "Medical Function": [
+            "a-pinene and β-pinene expel phlegm and inhibit cough.",
+            "1,8-Cineole can have calming, pain relieving, and asthma inhibiting effects.",
+            "β-pinene has strong antibiotic and anti-inflammatory effects.",
+            "Geraniol has strong antibiotic and antifungal effects; the minimum inhibitory concentration against Trichophyton mentagrophytes and Microsporum audouinii is 0.39mg/ml.",
+            "Small amounts of cao guo can stimulate the intestine; large amounts inhibit it.",
+            "Oral geraniol inhibited the activities of the digestive tract of rats.",
+            "Small amounts mildly promote urination.",
+            "Geraniol also has anthelmintic action against round worms in guinea pigs.",
+            "The ethanol-induced hepatotoxic effect on white rats can be counteracted by clove (ding xiang) and cardamom feeding, but the effect of clove is stronger."
+        ],
+        "Dosage": "1.5 to 6 g",
+        "Samples of Formulae": "With zhi mu (Anemarrhena asphodeloides rhizome) for malaria.\nWith chang shan (Dichroa febrifuga root) to improve inhibiting malaria.\nWith sha ren (Amomum villosum fruit) improves digestive function and spleen yang and rid of dampness.\nWith hou po (Magnolia officinalis bark) improves digestion and rid of dampness.\nWith bai dou kou (Amomum cardamomum fruit) improves getting rid of dampness, warms stomach and getting rid of cold, relieves pain, and stops vomiting.",
+        "Contraindications": "Do not use in cases of qixu (qi deficiency), Blood-deficient qixu, and when fire is high in lung and stomach with no cold dampness.\n肺胃火盛及氣虛或血虛,無寒濕實邪者禁用。\nFrom 本草蒙筌: Greatly depletes original yang, elderly, frail or deficient persons must strictly avoid it.\nFrom 本草經疏: In malaria not due to miasma, in chest/epigastric pain due to fire not cold, in damp-heat stagnation, in dysentery or acute diarrhea due to summerheat and dampness, with thirst, in damp-heat invading spleen causing distention or scanty urination, all are not suitable for use.\nFrom 本草備要: Avoid iron.\nRoasting the herb reduces side effects.\nLong-term use of smoked cao guo may cause cancer.",
+        "Research": "Half of the laboratory rats fed geraniol died. The lethal dosage is 4.9g/kg. For rabbits, the lethal injection dosage is 50mg/kg.\n炒過的草果之副作用較小。大鼠口服香葉醇的半數致死量為4.8g/kg，兔靜脈注射為50mg/kg。\nCao guo which are processed by smoking can be carcinogens when taken for a long period.\nRoasting the herb cuts down the side effects.",
+        "Notes": "Note: rou dou kou is another herb. It belongs to Myristicaceae.\nStomach qi stagnation: usually because of pixu (spleen deficiency), which causes weak digestion.",
+        "Chemical Ingredients": {
+            "Essential oil": "fruit contains 1.6%; seeds contain 2.2%; skin contains 0.38%.",
+            "Constituents": [
+                "1,8-cineole (33.94% of essential oil)",
+                "trans-2-undecenal (11.78% of essential oil)",
+                "α-pinene",
+                "β-pinene",
+                "camphor",
+                "linalool",
+                "p-cymene",
+                "nonanal",
+                "decanal",
+                "alpha-terpineol",
+                "neral-a",
+                "neral-b",
+                "geraniol",
+                "nerolidol",
+                "geranial"
+            ]
+        },
+        "References": [
+            "[1] Botanical Dictionary, by Shang Wu Publishing Co. 1918 。 商務出版植物大詞典",
+            "[2] ISSN: 1687-5788"
+        ],
+        "Further Reading": [
+            "http://www.paper.edu.cn/index.php/default/famous/famous_detail/2087/"
+        ],
+        "Original Text": "cao guo, bai dou kou, cardamom, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  中藥詞典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)Samples of FormulaeAcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearch this siteResearch Sites　Massage/AcupressureSamples of FormulaeTell us what you wantNotify Changes & New Information　　　cao guo 草果﹔ (bai dou kou  白豆蔻 (草豆蔻)) (in English and Chinese 中英文)By: Joe Hing Kwok Chu               Click here to see just English page.Click here to see picture of herb.    Pharmaceutical name:英文药名：Fructus Amomi Tsao-koBiological name:拉丁學名：Amomum tsao-ko Crevost et Lem. (cao guo 草果)Amomum cardamomum Linn.(bai dou kou 白豆蔻);[1]Amomum costatum Roxb.(dou kou 豆蔻)[1]Amomum kravanh Pierre ex Gagnep ;Amomum compacturn Soland et Maton (Indonesian bai dou kou)Japanese Pronunciation:日語發音：sokaKorean Pronunciation:韓語發音：chogwaPron. in Cantonese粤語發音：cou2 gwo2;Other Names:bai dou kou 白豆蔻﹐cao dou kou 草豆叩﹐cao kou ren草蔻仁﹐草叩仁﹐cao kou 草蔻。Common Name:英文普通名：cardamomDistribution:分佈：Vietnam, Yunan, Guizhou,Guangdong, Guangxi, Taiwan,越南﹐ 云南﹐貴州﹐ 廣東﹐廣西﹐台灣。Properties (characteristics)性味：acrid, warm, aromic味辛，性溫。Channels (meridians) entered:歸經：spleen, stomach入脾﹐胃二經。Actions & Indications:藥物配伍：stomach pain, flatulence, belching, indigestion due to stomach qi stagnation , vomiting, malarial disorders, drunkenness from alcohol consumption.胃痛，脘腹脹滿，噫氣，氣滯 宿食消化不良，嘔吐，及胃呃逆，酒醉不醒，瘧疾寒熱。Samples of Combinations: with zhi mu for malaria with chang shan to improve inhibiting malaria with sha ren improves digestive function and spleen yang and rid of dampness. with hou po improves digestion and rid of dampness. with bai dou kou improves getting rid of dampness, warms stomach and getting rid of cold, relieves pain, and stops vomiting.　配知母，具有調寒熱，和表里之功，善治瘧証。配常山，可加強截瘧之藥力，免除常山涌吐之弊。配砂仁，增強化濕濁，溫脾陽，和胃的功效。配厚朴，化濕濁，健脾胃，行氣和胃氣。配白豆蔻，二藥相使配對，各取所長，具有較強的化濕醒脾，暖胃散寒，行氣止痛，調中止嘔作用。(節錄自中醫在線)Dosage:1.5 to 6 gMedical Functions:藥理：Medical Functions of cao guo:a-pinene and β-pinene expells phlegm and inhibits cough.1,8-Cineole can have calming, pain relieving and asthma inhibiting effectsβ-pinenean has  strong anttibiotic and anti-inflammation effects; geraniol has strong antibiotic and antifungal effectssmall amount of cao guo can stimulate intestine but large amount inhibits it. when taken orally geraniol inhibited the activities of the digestive tract of rats. Small amount mildly promotes urination.rids of round worms of guinea pigs.The ethanol induced hepatotoxic effect on white rats can be counteracted by clove (ding xiang) and cardamon feeding but  the effect of clove is stronger. [2]　鎮咳祛痰作用：本品所含的a--蒎烯(a-pinene)和β-蒎烯(β-pinene)有鎮咳祛痰作用。1，8-桉油素(1,8-Cineole)有鎮痛﹐解熱﹐平喘等作用。抗炎﹐抗菌作用： B-蒎烯有較強的抗炎作用，并有抗真菌作用。香葉醇 (geraniol ) 有抗細菌和真菌作用，對發須癬菌和奧杜安氏小孢子菌的最低抑菌濃度為0.39mg/ml。 (4).. 小劑量對腸管有興奮作用，大劑量則有抑制作用。其它作用：小劑量香葉醇能抑制大鼠的自發活動。大鼠口服香葉醇能抑制胃腸運動，小量口服有輕度利尿作用。5. 香葉醇還有驅豚鼠蛔虫作用。乙醇引起的大白鼠肝毒性作用，可以餵以丁香（丁香）和草果抵消；但丁香的效果更強。 [2]Chemical Ingredients:Essential oil: fruit contains 1.6%; seeds contains 2.2%; skin contains0.38%. The essential oil contains 33.94%of 1,8-cineole, 11.78% of trans-2-undecenal. Also contains α--pinene, β-pinene, camphor, Linalool, p-cymene,  nonanal, decanal, a--terpineol, neral-a,-b, geraniol, nerolidol and geranial.種子含揮發油等。果實精油得率為1.6%，其中種子含油2.2%，果皮僅0.38%。草果精油除主含1,8-桉油精(1,8-cineole) 33.94%外，另含反-2-十一烯醛(trans-2-undecenal)占11.78%，該純品具有常有的濃郁的草果辛香味，是除1,8-桉油精之外的另一主香成分。尚有α-蒎烯  (α--pinene)和β-蒎烯 (β-pinene)﹐對-聚傘花烴 （p-cymene）﹐壬醛﹐(Nonanal),  癸醛 (Decanal)﹐芳樟醇 (Linalool.)﹐樟腦﹐α-松油醇(-terpineol)﹐橙花醛-a，-b(neral- a,-b)﹐香葉醇(geraniol)﹐划果酮和橙花叔醇(nerolidol)。此外，還有香葉醛 (geranial)。Modern Research:　Cautions:禁忌:Do not use in cases of qixu, Blood deficient  qixu (qi deficiency) and fire is high in lung and stomach with no cold dampness . (more to be uploaded).肺胃火盛及氣虛或血 虛,無寒濕實邪者禁用。 1.《本草蒙筌》：大耗元陽，老弱虛贏，切宜戒之。2.《本草經疏》： 凡瘧不由於瘴氣；心痛胃脘痛由於火而不由於寒；濕熱瘀滯，暑氣外侵而成滯下亦白﹐裡急後 重及泄瀉暴注﹐口渴；濕熱侵脾因作脹滿或小水不利，咸屬暑氣濕熱，皆不當用。3.《本草備要》：忌鐵。Toxicity:毒理學：Roasting the herb cut down the side effects.Half of the laboratory rat fed geraniol died. The lethal dosage is 4.9g/kg. For rabbits, the lethal injection dosage was 50mg/kg.Cao guo which are processed by smoking can be carcinogens when taken for a long period.　炒過的草果之副作用較小。大鼠口服香葉醇的半數致死量 為 4.8g/kg，兔靜脈注射為50mg/kg。長期服用以煙熏處理之草果可能致癌。 [1]  Botanical Dictionary, by Shang Wu Publishing Co. 1918 。 商務出版植物大詞典 [2] ISSN: 1687-5788  Note: rou dou kou is another herb. It belongs to Myristicaceae.   Stomach qi stagnation: usually because of pixu (spleen deficiency) which causes weak digestion.   關於有毒草果  按這裡有關肉豆蔻與草豆蔻的﹕中文網站　 Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告A manuscript... writing, translating and proofreading  in progressCopyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right　版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather ReportDisclaimerLast update: April 8, 2012, 11 p.m. LAH  ",
+        "original_url": "http://alternativehealing.org/cao_guo.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "bai wei"
+            ],
+            "Pharmaceutical": [
+                "Radix Cynanchi Baiwei"
+            ],
+            "Biological": [
+                "Cynanchum atratum Bge.",
+                "Cyanchum versicolor Bge."
+            ],
+            "Chinese": [],
+            "Common": [
+                "swallowwort root"
+            ],
+            "Other name": [],
+            "Pronunciation in Korean": [
+                "baengmi"
+            ],
+            "Pronunciation in Japanese": [
+                "byakubi"
+            ],
+            "Pronunciation in Cantonese": [
+                "pak mei"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "throughout China",
+            "especially Liano Ning",
+            "An Hui",
+            "Shan Dong",
+            "Hu Bei"
+        ],
+        "Properties": [
+            "Bitter",
+            "Salty",
+            "Cold"
+        ],
+        "Meridians": [
+            "Lung",
+            "Stomach",
+            "Kidney"
+        ],
+        "Maladies Treated": [
+            "heat",
+            "edema",
+            "snake bite",
+            "toxic sores",
+            "swollen and painful throat"
+        ],
+        "Medical Function": [
+            "promotes urination"
+        ],
+        "Dosage": "5-10 grams.",
+        "Samples of Formulae": "",
+        "Contraindications": "Larger amount is toxic to the heart. \nToxic amount: 30-40 grams.",
+        "Research": "Cardiac tonic ingredients of bai wei stimulate the heart muscle and improve contraction and slow down heart rate.\nBai wei can inhibit pneumococcus.",
+        "Notes": "More material to be loaded. If you need more information or bibliography in a hurry email our research librarian. The link is located on the left menu.\nThere is a research fee charged.",
+        "Chemical Ingredients": {
+            "essential oil": [
+                "cynanchol"
+            ],
+            "cardiac tonic": [
+                "atratoside A",
+                "atratoside B",
+                "atratoside C",
+                "atratoside D"
+            ],
+            "other": [
+                "atratogenin A",
+                "atratogenin B",
+                "glaucogenin C",
+                "cyantratoside A",
+                "cyantratoside BC",
+                "cyantratoside D",
+                "cyantratoside E",
+                "cyantratoside F",
+                "glaucoside C",
+                "cynjapogenin A",
+                "thevetosied",
+                "cynanversicoside A",
+                "cynanversicoside B",
+                "cynanversicoside C",
+                "cynanversicoside D",
+                "cynanversicoside E",
+                "neocynanversicoside"
+            ]
+        },
+        "References": [],
+        "Further Reading": [],
+        "Original Text": "bai wei, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　              　　 bai wei    Edited by Joe Hing Kwok ChuPharmaceutical name:Radix Cynanchi BaiweiBiological name:Cynanchum atratum Bge. or Cyanchum versicolor Bge.Pronounced in Japanese:byakubiPronounced in Korean:baengmiPronounced in Cantonese:pak meiCommon Name:swallowwort rootDistribution:throughout China, especially Liano Ning, An Hui, Shan Dong, Hu BeiCharacteristics and channel (meridian) relation:bitter, salty, cold. Related to lung, stomach, kidney. Larger amount is toxic to the heart.Uses:relieves heat, edema, snake bite, toxic sores, swollen and painful throat; promotes urination. Dosage: 5-10 grams.Chemical ingredients:essential oil: cynanchol and cardiac tonic:atratoside A,B,C,D; atratogenin A,B; glaucogenin C; cyantratoside A,BC,D,E,F; glaucoside C; cynjapogenin A; thevetosied; cynanversicoside A,B,C,D,E; neocynanversicoside.Modern Research:Cardiac tonic ingredients of bai wei stimulate the heart muscle and improve contraction and slow down heart rate.  Bai wei can inhibit pneumococcus. Toxic amount: 30-40 grams.   Last update: April 11,  2004; 9:00 a.m. LAMore material to be loaded. If you need more information or bibliography in a hurry email our research librarian. The link is located on the left menu.There is a research fee charged.List of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)Samples of FormulaeAcupunctureMassage/AcupressureHypnotherapyPrescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryLecture SlidesResearch LibrarianSearchQigong classes Weather Report    DisclaimerSearch this site          　",
+        "original_url": "http://alternativehealing.org/bai%20wei.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "tao ren"
+            ],
+            "Pharmaceutical": [
+                "Semen Persicae"
+            ],
+            "Biological": [
+                "Prunus Persica (L) Batsch",
+                "Amygdalus davidiana（Carr.）C. de Vos ex Henry"
+            ],
+            "Chemical": [],
+            "Common": [
+                "peach kernel",
+                "persica"
+            ],
+            "Other name": [],
+            "Chinese": [
+                "桃仁"
+            ],
+            "Pronunciation in Korean": [
+                "toin"
+            ],
+            "Pronunciation in Japanese": [
+                "tonin"
+            ],
+            "Pronunciation in Cantonese": [
+                "tou4 jan4"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "throughout China"
+        ],
+        "Properties": [
+            "bitter",
+            "sweet",
+            "neutral",
+            "slightly toxic"
+        ],
+        "Meridians": [
+            "heart",
+            "large intestine",
+            "liver",
+            "lung"
+        ],
+        "Maladies Treated": [
+            "breaks up blood stasis",
+            "constipation due to dry intestines",
+            "early stage of liver cirrhosis",
+            "inhibits Epstein-Barr virus",
+            "anti tumor"
+        ],
+        "Medical Function": [
+            "anti coagulation",
+            "anti hypertensive",
+            "inhibits pain",
+            "anti inflammation",
+            "detoxification",
+            "anti-allergenics",
+            "promotes bowel movements",
+            "help reverse mild liver early stage cirrhosis"
+        ],
+        "Dosage": "4.5 to 9 g. Should not be broken into small pieces until dispensed.",
+        "Samples of Formulae": "tao he chen qi tang (桃核承氣湯 tao he chen qi tang),\ntao ren tang (桃仁湯 tao ren tang),\nshu jing huo xue tang (舒經活血湯 shu jing huo xue tang)",
+        "Contraindications": "Not to use in case of anemia or during pregnancy. Raw tao ren is toxic. Use with care in cases of xue zao, xue xu (blood deficient).\nUse with care in cases of xue zao, xue xu (blood deficient).\nWhere amenorrhea barrier due xue ku not due to blood stasis; postpartum abdominal pain due to xue xu (blood deficient), rather than blood caking up; constipation due to insufficient fluid, rather than due to xue zao – these are cases to avoid using this herb, tao ren.\nUse with care in cases of loose stool. This herb is toxic. Do not overdose.",
+        "Research": "Anti-tumor promoting effect of glycosides from Prunus persica seeds. [5]\n桃仁的糖苷有抗癌作用。 [5]",
+        "Notes": "",
+        "Chemical Ingredients": {
+            "ingredients": [
+                "mainly consists of fat, sterol, and flavonoid",
+                "fat: triacyl glycerol 88.6 ~ 92.1%",
+                "1,2-biacyl glycerol 2.2 ~ 2.3%",
+                "1,3-biacyl glycerol 0.9 ~ 1.6%",
+                "monoacyl glycerol 0.3 ~ 1.1%",
+                "sterol ester 1.0 ~ 1.6% [1,2]",
+                "phosphatidyl choline 43.7 ~ 44.7%",
+                "phosphatidyl ethanolamine 35.5 ~ 37.4%",
+                "phosphatidyl serine 17.1 ~ 19.9%",
+                "Steroids and glucosides: 24-methylenecyloartanol 0.001%",
+                "citrostadienol 0.002%",
+                "7-dehydroavenasterol (delta7-avenasterol) 0.002%",
+                "mixture of b-sitosterol and campesterol (25:1) 0.18%",
+                "dehydrogenation oats oats steroid sterol D 7 0.002%",
+                "amino acids and protein: aspartic acid, threonine, glutamic acid, proline, glycine, alanine, methionine, isoleucine, leucine, tryptophan, phenylalanine, lysine, histidine, arginine, valine, and other amino acids",
+                "Flavonoids and glucosides: (+)-catechin",
+                "prunin",
+                "hesperetin-5-O-glucoside [4]",
+                "naringenin",
+                "kaempferol",
+                "hydro-kaempferol",
+                "kaempferide glucoside",
+                "quercetin glucoside [7]",
+                "Other: glucose 0.31%",
+                "fructose 0.13%",
+                "sucrose 3.0%",
+                "methyl α-D-fructofuranoside 0.005%",
+                "methyl-β-D-glucopyranoside 0.09%",
+                "prunasin 0.38%",
+                "amygdalin 3.49% [3]"
+            ]
+        },
+        "References": [
+            "[1] - [4] Click here for research librarian",
+            "[3] Biol Pharm Bull. 2003 Feb;26(2):271-3.",
+            "[4]",
+            "[5] Biol Pharm Bull. 2003 Feb;26(2):271-3.",
+            "[6] Ben Cao Jing Shu 本草經疏",
+            "[7] Yixue Ru Men 醫學入門"
+        ],
+        "Further Reading": [],
+        "Original Text": "tao ren, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University   中藥詞典    Chinese Herb Dictionary      Search this site     在本網站找資料　See more menu at the bottom of page 　　tao ren 桃仁        (in English and Chinese 中英文)by: Joe Hing Kwok ChuPharmaceutical name:英文藥名﹕Semen PersicaeBiological name:拉丁名﹕Prunus Persica (L) BatschAmygdalus davidiana（Carr.）C. de Vos ex HenryPron. in Japanese:日語發音﹕toninPron. in Korean:韓語發音﹕toinPron. in Cantonese:粵語發音﹕tou4 jan4Common Name:英文名﹕peach kernel, persicaDistribution:分佈﹕throughout China全中國。Properties (characteristics)性味﹕bitter, sweet, neutral, slightly toxic.苦﹐甘﹐平, 有小毒。Channels (meridians) entered:歸經﹕heart, large intestine, liver, lung心﹐大腸﹐ 肝﹐肺。Actions & Indications:主治﹕breaks up blood stasisfor constipation due to dry intestinesfor early stage of liver cirrhosisinhibits Epstein-Barr virus [5]anti tumor [5]　消淤血。治腸乾燥之便秘。初期肝硬化.抑制 Epstein-Barr 病毒[5]抗癌[5]　Medical Function:藥理﹕　anti coagulation, anti hypertensive, inhibits pain, anti inflammation, detoxification, anti-allergenics,  promotes bowel movements, help reverse mild liver early stage cirrhosis.抗凝作用。降血壓作用。鎮痛，消炎，抗過敏， 解毒，通便，緩解初期肝硬化作用。Chemical ingredients:化學成份﹕　　　　　　Chemical ingredients: mainly consists of fat, sterol, and flavonoid.fat:  [triacyl glycerol], 88.6 ~ 92.1%; [1, 2-biacyl glycerol],   2.2 ~ 2.3%; [1, 3-biacyl  glycerol],  0.9 ~ 1.6%; [monoacyl glycerol], 0.3 ~ 1.1%; [sterol ester], 1.0 ~ 1.6% [1,2];  [phosphatidyl choline] 43.7 ~  44.7%; [phosphatidyl ethanolamine] 35.5 ~ 37.4%; [phosphatidyl serine] , 17.1 ~ 19.9%. Steroids and glucosides: [24-methylenecyloartanol], 0.001%; [citrostadienol], 0.002%; [7-dehydroavenasterol, delta7-avenasterol], 0.002%. animo acid and protein：aspartic acid, threonine, glutamic acid, proline, glycine, alanine, methionine, isoleucine, leucine, tryptophan, phenylalanine, lysine, histidine , arginine, valine, and other amino acids. Flavonoids and glucosides: (+)-catechin, prunin, hesperetin-5-O-glucoside[4], naringenin, kaempferol, hydro-kaempferol, kaempferide glucoside, quercetin glucoside[7]. Other: glucose 0.31%, fructose 0.13%, sucrose, 3.0%, methyl α-D-fructofuranoside 0.005%; methyl-β-D-glucopyranoside 0.09%; prunasin, 0.38%; amygdalin 3.49 % [3]. 0.002%; dehydrogenation oats oats steroid sterol D 7 0.002%.[methyl alpha-D-fructofuranoside], 0.005%; [methyl beta-D-glucopyranoside], 0.09%; [prunasin], 0.38%; [amygdalin] 3.49%[3].1. 脂肪：三 酰基甘油，88.6〜92.1％，1，2-二脂酰基甘油醇，2.2〜2.3％，1，3-脂酰基甘油醇，0.9〜1.6％;單脂酰基甘油，0.3〜1.1％;甾醇酯，1.0〜1.6％1,2;磷脂 酰膽鹼43.7〜44.7％;磷脂酰乙醇胺35.5〜37.4％;磷脂酰絲氨酸，17.1〜19.9％。 2. 甾體與糖苷：24 亞甲基環水龍骨醇，0.001％;檸檬甾二烯醇，0.002％;b-谷甾醇與菜油甾醇25:1 的混合物 0.18%; 脫氫燕麥甾醇 D 7燕麥甾醇，0.002％。 3. 氨基酸和蛋白質：天門冬氨酸，蘇氨酸，谷氨酸，脯氨酸，甘氨酸，丙氨酸，蛋氨酸，異亮氨酸，亮氨酸，色氨酸，苯丙氨酸，賴氨酸，組氨酸，精氨酸，纈氨酸，等多種氨基酸。 4. 黃酮及糖苷：(+)-兒茶酚， 洋李苷，橙皮素-5-O-葡萄糖苷[4]，柚皮素，山柰酚，葡萄糖 苷，二氫山柰酚，山奈素葡萄糖苷，槲皮素葡萄糖 苷[7]。 5. 其他：葡萄糖0.31%，蔗糖3.0%果糖0.13%，甲基α-D-呋喃果糖苷，0.005％;甲基β-D-吡 喃葡糖苷，0.09％; 野黑櫻桃甙，0.38％;苦杏仁苷 3.49％[3]。0.002％; 脫氫燕麥甾醇 D 7燕麥甾，0.002％。 　Dosage:用量﹕4.5 to 9  g. Should not be broken into small pieces until dispensed.4.5 ~ 9  克。應用時才好將桃仁打碎。Samples of formulae:常用處方：tao he chen qi tang,  tao ren tang,shu jing huo xue tang,　桃核承氣湯桃仁湯舒經活血湯Modern Research:Anti-tumor promoting effect of glycosides from Prunus persica seeds. [5]桃仁的糖苷有抗癌作用。 【5】Cautions:Not to use in case of anemia or during pregnancy. Raw tao ren is toxic.Use with care in cases of xue zao, xue xu (blood deficient) [7]1.Use with care in cases of xue zao,  xue xu (blood deficient).【7】2. Where amenorrhea barrier due xue ku not due to blood stasis; postpartum abdominal pain due to  xue xu (blood deficient) , rather than blood caking up; constipation due to insufficient fluid, rather than due to xue zao These are cases to avoid using this herb, tao ren.3. Use with care in cases of loose stool. This herb is toxic. Do not overdose. 1. 血燥血虛者慎之。【7】2.凡經閉不通由於 血枯，而不由於瘀滯;  產後腹痛由於血虛，而不由於留血結塊; 大便不通由於津液不足，而不由於血燥秘結，法並忌之。【6】 3. 便溏者慎用。本品有毒，不可過量。血不足者忌用。孕婦忌服。生桃仁有毒。[1] - [4]  Click here for research librarian[5] Biol Pharm Bull. 2003 Feb;26(2):271-3.[6] Ben Cao Jing Shu 本草經疏[7] Yixue Ru Men 醫學入門Search this siteProblems with website? Please Click here for comment. (Not for inquiry )    Click here for inquiryCopyright Notice 按此看關於版權問題Sponsors' Ads by Google 以下為谷歌 所提供之廣告A manuscript... writing, translating and proofreading  in progressMenu: List of Health ProblemsQigong (chi kung)Toxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese Medicine　TCM Diagnosis　Samples of FormulaeTerms of Traditional Chinese MedicineAcupunctureChinese Herb DictionaryQigong classesPrescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry Dictionary　Qigong classes　Research Librarian　copy right　版權所有HomeWeather ReportDisclaimerLast update: Dec 21, 2014; 11 p.m. LAH　  ",
+        "original_url": "http://alternativehealing.org/tao_ren.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "lian xin",
+                "蓮心",
+                "lian zi xin",
+                "蓮子心"
+            ],
+            "Pharmaceutical": [
+                "Nelumbinis Plumula"
+            ],
+            "Biological": [
+                "Nelumbo nucifera Gaerth."
+            ],
+            "Chinese": [
+                "蓮心",
+                "蓮子心",
+                "薏",
+                "苦薏",
+                "蓮薏",
+                "蓮華"
+            ],
+            "Common": [
+                "lotus plumule"
+            ],
+            "Other name": [
+                "yi 薏",
+                "ku yi 苦薏",
+                "lian yi 蓮薏",
+                "lian xin 蓮心",
+                "lian hua 蓮華"
+            ],
+            "Pronunciation in Korean": [
+                "yonsim"
+            ],
+            "Pronunciation in Japanese": [
+                "renshin"
+            ],
+            "Pronunciation in Cantonese": [
+                "lin4 sam1"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Mainly produced in Hunan, Hubei, Fujian, Jiangsu, Zhejiang provinces"
+        ],
+        "Properties": [
+            "bitter",
+            "cold"
+        ],
+        "Meridians": [
+            "Heart",
+            "Lung",
+            "Kidney"
+        ],
+        "Maladies Treated": [
+            "high fever in warm diseases",
+            "delusion with extreme high fever in warm diseases",
+            "over sweating",
+            "dry mouth and thirst",
+            "insomnia",
+            "spermatorrhea",
+            "hypertension",
+            "constipation and urinary retention (with reference to lian xin san formula for promoting urination and bowel movements)"
+        ],
+        "Medical Function": [
+            ""
+        ],
+        "Dosage": "For decoction: 3 to 15 g per day.\nConcentrated extract: 0.5 to 2 g per day.",
+        "Samples of Formulae": "For promoting urination and bowel movements.\nName of formula: lian xin san (source: Pu Ji Fang)\nComposition: lian xin (49 pieces), bake on earthen tile, make into powder. Add a little tea leaves, a spoon of honey and mix with drinking water. Make into one serving.",
+        "Contraindications": "Not to use in cases of pixu (spleen deficient).",
+        "Research": "Lotus plumule extract has scavenging effects on superoxide anion and hydroxyl radical.",
+        "Notes": "",
+        "Chemical Ingredients": [
+            "Liensinine",
+            "Isoliensinine",
+            "Neferine",
+            "Nuciferine",
+            "Pronuciferine",
+            "Lotoflavin",
+            "Methyl-corypalline",
+            "Higenamine",
+            "Flavonoids: water-soluble saponin glycosides, hyperin, butin"
+        ],
+        "References": [],
+        "Further Reading": [],
+        "Original Text": "lian xin, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代 中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　To post your discussion click here.　                          Last update: July 2, 2011; 1 p.m. LAH  lian xin 蓮心, lian zi xin 蓮子心  (in English and Chinese 中英文) Edited by: Joe Hing kwok Chu【來 源】：為睡蓮科植物蓮的成熟種子的綠色胚芽。Pharmaceutical name:英文藥名﹕Nelumbinis PlumulaBotanical name:學名﹕Nelumbo nucifera Gaerth.Pron. in Japanese:日語發音﹕renshinPron. in Korean:韓語發音﹕yonsimPron. in Cantonese:粵音﹕lin4 sam1Other Names:別名﹕yi 薏，ku yi 苦薏，lian yi 蓮薏，lian xin 蓮心，lian hua 蓮華。Common Name:英文名﹕lotus plumuleDistribution:產地﹕Mainly produced in Hubei, Hunan, Fujian, Jiangsu, Zhejiang provinces.主產湖南，湖北，福建，江蘇，浙江等地。Properties(characteristics)﹕性味﹕bitter, cold.苦，寒。Channels (meridians) entered: 歸經﹕heart, lung, kidney.心，肺，腎。Medical functions:藥理﹕  Actions & Indications:主治﹕For treatment of high fever, delusion, over sweating, dry mouth and thirst, insomnia, spermatorrhea and hypertension.溫病至極之高熱，神昏譫語，出汗過多，口乾口渴 ，失眠，遺精，高血壓。Chemical ingredients:化學成份﹕Liensinine 蓮心鹼，isoliensinine 異蓮心鹼，neferine 甲基蓮心鹼， nuciferine 荷葉鹼，pronuciferine 前荷葉鹼，lotoflavin 牛角花素，methyl-corypalline 甲基紫堇杷靈， higenamine去甲基烏藥鹼， flavonoid 黃酮類：水 犀草甙，hyperin 金絲桃甙，butin 芸香甙等。  Dosage:每日用 量﹕for decoction: 3 g to 15 g. Concentrated extract: 0.5 ~ 2 g.煎湯，3 克～15 克；浓 缩中药 0.5～2.0克。Samples of formulae:處方舉例﹕For: promoting urination and bowel movementsName of formula: lian xin san   《source: Pu Ji Fang 》Composition: lian xin 49 pieces, bake on earthen tile, make into powder. Add a little tea leaves, a spoon of honey and mix with drinking water. Make into one serving.蓮心散《 方源：普濟方》:主治: 大小便不通。組成：蓮心49粒 （瓦上焙干，為末），建茶1小挑，蜜1匙。 以上作1服，水半盞，調勻服之。  Modern Research:現代研究﹕蓮子心提取液對超氧陰離子和羥自由基的清除作用 Scavenging Effects of Lotus Germ Extraction on Superoxide Anion and Hydroxyl Radical  Toxicity & Cautions:毒素與禁忌﹕Not to use in cases of pixu (spleen deficient) 脾虛者忌服。   Search this site       Sponsors' Ads by Google 以 下為谷 歌所提供之廣告  A manuscript... writing, translating and proofreading                  in progressClick here for comment. (Not for inquiry )      Click here for inquiry   Copyright Notice 按此看關 於版權 問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    Disclaimer   ",
+        "original_url": "http://alternativehealing.org/lian_xin.htm"
+    }
+]

@@ -1,0 +1,560 @@
+[
+    {
+        "Names": {
+            "Name": [
+                "flax seed",
+                "ya ma",
+                "flax root"
+            ],
+            "Pharmaceutical": [
+                "Semen lini"
+            ],
+            "Biological": [
+                "Linum usitatissimum L."
+            ],
+            "Chemical": [],
+            "Common": [
+                "flax seed (English name)"
+            ],
+            "Other name": [
+                "hu ma zi 胡麻子",
+                "da hu ma 大胡麻"
+            ],
+            "Chinese": [
+                "亞麻仁",
+                "亞麻根"
+            ],
+            "Pronunciation in Korean": [
+                "amasi"
+            ],
+            "Pronunciation in Japanese": [
+                "ama"
+            ],
+            "Pronunciation in Cantonese": [
+                "aa3 maa4 jan4 (亞麻仁)",
+                "aa3 maa4 gan1 (亞麻根）"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Most part of China",
+            "Canada (produces 40% of world production)"
+        ],
+        "Properties": [],
+        "Meridians": [],
+        "Maladies Treated": [
+            "Slows cancer cell growth in breast cancer",
+            "Prevents cardiovascular diseases",
+            "Prevents cerebral vascular diseases",
+            "For chronic inflammation therapy",
+            "Anti-cancer effect of the intestine: ya ma ren (flax seed) contains large amount of soluble fiber which can reduce the toxicity of the digested substances and speed up the secretion of the feces, thus reducing the duration of the time of stimulating substance on the mucous membrane of the intestine",
+            "Improves bowel movement",
+            "Lowers blood lipids",
+            "Ya ma root can help the function of the kidneys to excrete toxins",
+            "Ya ma root contains large amount of omega-3 fatty acid which can lower blood lipids and lower the LDL in the blood and can reduce arteriosclerosis"
+        ],
+        "Medical Function": [
+            "Ya ma ren (flax seed) and its root contain large amount of lignan which is a strong anti-oxidant and can inhibit the production of harmful carcinogenic substances",
+            "Inhibits the growth of prostate cells: In vitro studies showed that the lignan of the ya ma ren (flax seed) can inhibit the growth of the cells of the prostate gland itself",
+            "Flax Seeds are the highest dietary source of lignan, containing 75 times the amount compared to the plant with the next highest source of plant lignan. The majority of the plant lignan component of flax seeds is located in the outer husk of the seed"
+        ],
+        "Dosage": "15 ~ 30 grams per day\n1½ - 3 heaping tablespoons (15 to 30g) per day.\nOne tablespoon (20 ml or ~ 10 g) of flax seeds contains 4 grams of a-linolenic acid and 4 grams of mucilage.",
+        "Samples of Formulae": "For high level of low-density lipoprotein (LDL): ya ma root 50 g. Make into decoction. Take it every day for 4 weeks. The LDL may lower 8%.",
+        "Contraindications": "Omega-3 is a highly unstable fat and can become rancid quickly and carcinogenic. Do not use flax seed oil for deep fat frying because omega-3 cannot stand high heat. Store flax seed and flax oil in black container and refrigerate. Discard seeds or oil that smells fishy or rancid, because that signals toxicity.\nSeed should be washed before using to avoid the mold Aspergillus niger (toxic for the respiration system) and Aspergillus flavus (toxic for the liver). These molds are commonly found in grains and are extremely toxic.\nLinamarin, after hydrolysis, can release free hydrogen cyanide acid, which can suffocate and poison the cells.",
+        "Research": "A diet rich in flax seed seems to reduce the size, aggressiveness and severity of tumors in mice that have been genetically engineered to develop prostate cancer, according to new research from Duke University Medical Center. And in 3 percent of the mice the flax seed diet kept them from getting the disease at all. (From news release issued by Duke University Medical Center).",
+        "Notes": "Seed must be ground for consumption because of the tough seed coat that is indigestible. The ground-up seeds should be taken with water since the mucilage absorbs 5 times the weight of the seed.\nIt is not advisable to use flax seed in baked food since the fatty acid omega-3 cannot withstand high heat and can become carcinogenic.",
+        "Chemical Ingredients": {
+            "Amino Acids": [
+                "26,000 mg per 100g total amino acids",
+                "Leucine",
+                "Lysine",
+                "Isoleucine",
+                "Valine",
+                "Threonine",
+                "Methionine",
+                "Phenylalanine",
+                "Tryptophan"
+            ],
+            "Carbohydrates": [
+                "14,000 mg per 100g",
+                "Mucilage 12,000 mg",
+                "Glycosides",
+                "Lignan 80 mg",
+                "Enterodiol",
+                "Enterolactone",
+                "Matairesinol",
+                "Secoisolariciresinol"
+            ],
+            "Total Lipids": [
+                "34,000 mg per 100g"
+            ],
+            "Polyunsaturated Fatty Acids": [
+                "Linoleic Acid 4,318 mg"
+            ],
+            "Monounsaturated Fatty Acids": [
+                "Oleic Acid 6,868 mg"
+            ],
+            "a-Linolenic Acid": [
+                "18,122 mg"
+            ],
+            "Saturated Fatty Acids": [
+                "3,196 mg",
+                "Palmitic Acid: 1,802 mg",
+                "Stearic Acid 1,394 mg"
+            ],
+            "Minerals": [
+                "Potassium 740 mg",
+                "Phosphorus 700 mg",
+                "Magnesium 380 mg",
+                "Calcium 199 mg",
+                "Sulfur 210 mg",
+                "Sodium 46 mg",
+                "Iron 7.7 mg",
+                "Zinc 5.7 mg",
+                "Manganese, trace amount",
+                "Silicon, trace amount",
+                "Copper, trace amount",
+                "Nickel, trace amount",
+                "Cobalt, trace amount",
+                "Iodine, trace amount",
+                "Molybdenum, trace amount",
+                "Chromium, trace amount"
+            ],
+            "Vitamins": [
+                "Vitamin E",
+                "Vitamin B1",
+                "Vitamin B2",
+                "Vitamin C",
+                "Folic Acid: 0.278 mg"
+            ],
+            "Other": [
+                "Isoflavone",
+                "Linamarin (after hydrolysis, releases hydrogen cyanide acid)",
+                "Tannin",
+                "Chlorine 43 mg",
+                "Fluorine, trace amount",
+                "Water 9 grams"
+            ]
+        },
+        "References": [],
+        "Further Reading": [],
+        "Original Text": "\n\n\nflax seed, ya ma, Complementary and Alternative Healing University\n\n\n\n\n\n\n\n\n\n    Complementary and Alternative Healing University\n\n\n\n\n\n\n\n中藥詞典                 \n    Chinese Herb Dictionary    \n     Search \n    this site    \n    在本網站找資料\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch this \n        site\n\n\nList \n        of Health Problems\n\n\n\n\n\n\n        Chinese Herb Dictionary\n\n\n\n\n\nQigong\n\n\n\n\n\n\n        Traditional Chinese Medicine (TCM)\n\n\n\n\n\n\n        Acupuncture\n\n\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\nLecture Slides\n\n\n\n\n\nResearch Librarian\n\n\n\n\n\n\n        General Online Library\n\n\n\n\n\nResearch \n        Sites\n\n\n\n\n\n\n        Viagra\n\n\n\n\n\n\n        Massage/Acupressure\n\n\n\n\n\nHypnotherapy\n\n\n\n\n\nTell us what you want\n\n\n\n\n\nNotify Changes \n        & New Information\n\n\n\n \n\n\n\n\n\n \n\nya ma (flax seed)\n        亞麻仁 \n(in English and Chinese 中英文)\n\nflax root  \n        亞麻根\n\n\nby: Joe Hing kwok Chu\n\n\n\n\n\nPresent Day Applications:\n\n現代應用﹕\n\n\n\nanti-cancer:\n            slows the \n            cancer cell growth in breast cancer ;\n\npreventing cardiovascular \n            diseases and cerebral vascular diseases.\n\nfor\n            chronic inflammation therapy.\n\n防癌﹕抑制乳癌細胞繁殖。按 \n            此看英文版報告。\n\n防心脑血管病\n\n治療慢性炎症\n\n\n\n\n\nPharmaceutical name:\n\n英文藥名﹕\n\n\n\nSemen lini\n\n\n\n\n\nBiological name:\n\n拉丁文學名﹕\n\n\n\nLinum usitatissimum\n            L.\n\n\n\n\n\nPron. in Japanese:\n\n日語發音﹕\n\n\n\nama\n\n\n\n\n\nPron. in Korean:\n\n韓語發音﹕\n\n\n\namasi\n\n\n\n\n\nPron. in Cantonese:\n\n粵音﹕\n\n\n\naa3 maa4 jan4 (亞 \n            麻仁)\n\naa3 maa4 gan1 (亞\n            麻根）\n\n\n\n\n\nOther Names:\n\n別名﹕\n\n\n\nhu ma zi 胡麻子，da hu ma 大胡\n            麻\n\n\n\n\n\nCommon Name:\n\n英文名﹕\n\n\n\nflax seed\n\n\n\n\n\nDistribution:\n\n產地﹕\n\n\n\nmost part of China. 40% \n            of world production is in Canada.\n\n廣布全中國各地。 加拿大生產世界總產量的40%。\n\n\n\n\n\nProperties\n\n(characteristics)﹕\n\n性味﹕\n\n\n \n\n\n\n\n\nChannels (meridians) entered:\n \n\n歸經﹕\n\n\n\n\n\n\n\n\nMedical functions:\n\n藥理﹕\n \n\n\n\nYa ma ren (flax seed) and \n            its root contain large amount of lignan which is a strong anti-oxidant \n            and can inhibit the production of  harmful carcinogenic substances.\n\nAnti-cancer of the intestine \n            effect:: ya ma ren (flax seed) contains large amount of soluble fiber \n            which can reduce the toxicity of the digested substances and speed up \n            the secretion of the feces, thus reducing the duration of the time of \n            stimulating substance on the mucous membrane of the intestine.\n\nYa ma root can help the \n            function of the kidneys to excrete toxins.\n\nYa ma root contains large \n            amount of omega -3 fatty acid which can lower blood lipids and lower \n            the LDL in the blood and can reduce arteriosclerosis.\n\nYa ma inhibits the growth \n            of the prostate cells. In vitro studies showed that the lignan of \n            the ya ma ren (flax seed) can inhibit the growth of the cells of the \n            prostate gland itself.\n\n亞麻和\n            其根部含大量的木酚素 (lignan) 。具有很强的抗氧化特性，能有效遏\n            制促使癌生成的有害化學物 質。\n\n對防治\n            腸癌的作用﹕富含纤维素，可减輕腸道中消化物產生的不良影响﹐加快腸道中廢物的排泄，减 短對腸内黏膜有剌激性的物質在腸道中停留的时间。\n\n亞麻根\n            有助于腎臟的排毒功能 。\n\n亞麻根\n            富含的脂肪酸，可降低血脂，低血液中的低密度胆固醇 (LDL)﹐治疗血管硬化。\n\n\n控制攝護腺細胞生長。 體外的實驗證明\n亞麻仁木酚素(lignan)可 \n            以控制攝護腺細胞本身之生長。\n\n\n\n\n\nActions & \n            Uses:\n\n主治﹕\n\n\n\n\n\nImproves bowel movement\n\n\n\nLowers blood lipids.\n\n\n\nSeed must be ground for \n              consumption because of the tough seed coat that is indigestible. The \n              ground-up seeds should be taken with water since the mucilage absorbs \n              5 times the weight of the seed.\n\n\n\n\n\nIt is not advisable to \n              use flax seed in baked food since the fatty acid omega-3 cannot withstand \n              high heat and can become carcinogenic.\n\n\n\n\n\n\n\nChemical \n            ingredients:\n\n化學成份﹕\n\n\n \n\n\n\n\nQuantity of chemical \n                ingredients per 100 grams of ya ma ren (flax seed)---(when weights \n                are shown)﹕\n\n\n\n每100克\n                之亞麻仁﹐含有以下各物質之重量﹕\n\n\n\n\n\nAmino Acids: 26,000 mg  總氨 基酸 26克\n\n\n\n\nLeucine\n\n\n\n亮氨酸\n\n\n\n\n\nLysine\n\n\n\n賴氨酸; 離氨酸; 二氨基己酸\n\n\n\n\n\nIsoleucine\n\n\n\n異白氨酸; 異亮氨酸\n\n\n\n\n\nValine\n\n\n\n纈氨酸\n\n\n\n\n\nThreonine\n\n\n\n蘇氨酸\n\n\n\n\n\nMethionine\n\n\n\n甲硫氨酸\n\n\n\n\n\nPhenylalanine\n\n\n\n苯丙氨酸; 苯基丙氨酸\n\n\n\n\n\nTryptophan\n\n\n\n色氨酸\n\n\n\n\n\n\nCarbohydrates: 14,000 mg\n\n\n\n\nMucilage\n\n\n\n12,000 mg  黏液\n\n\n\n\n\nGlycosides \n\n\n\n甙,又稱配糖體或苷\n\n\n\n\n\nLignan  80 mg\n\n\n\n木酚素\n\n\n\n\n\nEnterodiol\n\n\n\n腸二醇\n\n\n\n\n\nEnterolactone\n\n\n\n腸內酯\n\n\n\n\n\nMatairesinol\n\n\n\n羅漢松脂酚\n\n\n\n\n\nSecoisolariciresinol\n\n\n\n二異落葉松脂素\n\n\n\n\n\nTotal Lipids: 34,000 mg   總脂 質 ﹕ 34 克\n\n\n\n\nPolyunsaturated Fatty Acids:\n\n\n\n不飽和脂肪酸\n\n\n\n\n\nLinoleic Acid 4,318 \n                mg\n\n\n\n4,318 mg 亞油酸\n\n\n\n\n\nMonounsaturated Fatty \n                Acids: 6,868 mg.\n\n\n\n單元不飽和\n                脂肪酸\n\n\n\n\n\nOleic Acid 6,868 mg\n\n\n\n 6,868 mg 油酸\n\n\n\n\n\na-Linolenic Acid 18,122 mg\n\n\n\n18,122 mg \na-亞麻脂酸\n\n\n\n\n\nSaturated Fatty Acids: \n                3,196 mg﹕\n\n\n\n3,196 mg \n                飽和脂肪酸﹕\n\n\n\n\n\nPalmitic Acid: 1,802 \n                mg\n\n\n\n1,802 mg 棕櫚酸\n\n\n\n\n\nStearic Acid 1,394 mg\n\n\n\n1,394 mg 硬酯酸\n\n\n\n\n\nMinerals: 4,000 mg        \n            礦物質﹕4 克\n\n\n\n\n\nPotassium 740 mg\n\n\n\n740 mg  鉀\n\n\n\n\n\nPhosphorus 700 mg\n\n\n\n700 mg 磷\n\n\n\n\n\nMagnesium 380 mg\n\n\n\n380 mg 鎂\n\n\n\n\n\nCalcium 199 mg\n\n\n\n199 mg 鈣\n\n\n\n\n\nSulfur 210 mg\n\n\n\n210 mg 硫\n\n\n\n\n\nSodium 46 mg\n\n\n\n46 mg 鈉\n\n\n\n\n\nIron 7.7 mg\n\n\n\n7.7 mg 鐵\n\n\n\n\n\nZinc 5.7 mg\n\n\n\n5.7 mg 鋅\n\n\n\n\n\nManganese , trace amount\n\n\n\n錳﹐微量\n\n\n\n\n\nSilicon , trace amount\n\n\n\n硅﹐ 微量\n\n\n\n\n\nCopper , trace amount\n\n\n\n銅﹐微量\n\n\n\n\n\nNickel , trace amount\n\n\n\n鎳﹐微量\n\n\n\n\n\nCobalt , trace amount\n\n\n\n鈷﹐微量\n\n\n\n\n\nIodine , trace amount\n\n\n\n碘﹐微量\n\n\n\n\n\nMolybdenum , trace amount\n\n\n\n鉬﹐微量\n\n\n\n\n\nChromium , trace amount\n\n\n\n鉻﹐微量\n\n\n\n \n\n\n\n\nVitamins:\n\n\n\n維生素\n\n\n\n\n\n\n\nVitamin E\n\n\n\n維生素 E\n\n\n\n\n\nVitamin B1\n\n\n\n維生素 B1\n\n\n\n\n\nVitamin B2  \n\n\n\n維生素 B2\n\n\n\n\n\nVitamin C\n\n\n\n維生素 C\n\n\n\n\n\nFolic Acid: 0.278 mg\n\n\n\n0.278 mg 葉酸\n\n\n\n\n                        \n            \n\n\n\n\n\nOther:\n\n\n\n其他﹕\n\n\n\n\n\nIsoflavone\n\n\n\n異黃酮素\n\n\n\n\n\n\nLinamarin\n\n\n\n亞麻苦甙\n\n\n\n\n\nTannin\n\n\n\n鞣酸\n\n\n\n\n\nChlorine 43 mg\n\n\n\n43 mg 氯\n\n\n\n\n\nFluorine,  trace \n                amount\n\n\n\n氟﹐微量\n\n\n\n\n\nWater 9 grams\n\n\n\n9 克水\n\n\n\n\n\n\n\n            Flax Seeds are the highest dietary source of  lignan. They \n            contain 75 times the quantity of  Lignan compared to the other \n            plants that contain next highest source of Plant Lignan. The majority \n            of the Plant lignan component of flax seeds is located in the outer \n            husk of the Flax Seed .\n\n \n\n\n\n\n\nDosage Per Day:\n\n每日用量﹕\n\n\n\n15 ~ 30 克。\n\n(每克亞麻仁含\n            \na-亞麻脂酸與4克黏液。)\n\n1� - 3 heaping tablespoons \n            (15 to 30g) per day.\n\n            (One tablespoon (20 ml or ~ 10 g) of flax seeds contains 4 grams of\n            \na-linolenic acid and 4 g of mucilage).\n\n\n\n\n\nSamples of formulae\n\n:處方舉例﹕\n\n\n\nFor high level of  \n            low-density lipoprotein (LDL): ya ma root 50 g. Make into decoction. \n            Take it every day for 4 weeks. The LDL may lower 8%.\n\n低密度胆固醇過高﹕亞麻根50克。煎湯。連續四周可\n            使低密度胆固醇 (LDL) 降低8%。\n\n\n\n\n\nModern Research:\n\n現代研究﹕\n\n\n \n\n\n\n\n\nCautions:\n\n禁忌﹕\n\n\n\nOmega-3 is a highly unstable \n            fat and can become rancid quickly and become carcinogenic. Do not use \n            flax seed oil for deep fat frying because omega-3 cannot stand high \n            heat. Store flax seed and flax oil in black container and refrigerate. \n            Discard seed or oil that smells fishy or rancid, because that smell \n            signals toxicity.\n\nSeed should be washed before \n            using to avoid the mold , Aspergillus niger,  which is toxic \n            for the respiration system and the mold , Aspergillus flavus,  \n            which is toxic for the liver.  These molds are commonly found in \n            grains and are extremely toxic.\n\n\n\n\n        　\n\n\nLinamarin, after hydrolysis, can release free hydrogen \n        cyanide acid, which can suffocate and poison the cells.\n\n亞麻苦甙（linamarin） ，經水解後可析出游\n        離態的氢氰酸，致組織细胞窒息中毒。\n \n\nA diet rich in flax seed seems to reduce the size, aggressiveness and severity \n        of tumors in mice that have been genetically engineered to develop prostate \n        cancer, according to new research from Duke University Medical Center. And \n        in 3 percent of the mice the flax seed diet kept them from getting the disease \n        at all. (From news release issued by Duke \n        University Medical Center).\n \n \n\n\n\n\nSearch this \n    site \n\n\nProblems with website? Please \n\nClick \n    here for comment. (Not for inquiry )    \n    \n\n\nClick \n    here for inquiry \n\n\n\nCopyright Notice \n\n按此看關於版權問題\n\n \n\n\nSponsors' Ads by Google \n    以下為谷歌 所提供之廣告\n\n\n\n\n\n\n\n\nList \n        of Health Problems\n\n\n\n\n        Chinese Herb Dictionary\n\n\n\n\nToxicity of Some Herbs\n\n\n\nSide Effect of Some Herbs\n\n\n\nHerbs that can be toxic to kidneys\n\n\n\n\n        Traditional Chinese Medicine\n \n\n\nTCM Diagnosis\n \n\n\n        Samples of Formulae\n\n\n\n\n        Terms of Traditional Chinese Medicine\n\n\n\n        Acupuncture\n\n\n\n\n\ncopy right\n \n\n\n版權所有\n\n\n\nQigong \n        (chi kung)\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\n        Email our web master for  your suggestion (not for inquiry)\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\nGeneral Online Library\n\n\n\nQigong \n        classes\n\n\n\nFake \n        Email Warning\n\n\n\nResearch Librarian\n\n\n\nSearch\n\n\n\n\n\nQigong classes\n\n\n\n\n\n\nHome\n\n\n\n\n        Weather Report\n\n\n\n\n        Disclaimer\n\n\n\n\n\n\nLast update: Oct 4, 2013; 10 p.m. LAH\n \n\n\n\n\n\n\n\n\n\n",
+        "original_url": "http://alternativehealing.org/ya_ma.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "lei gong teng",
+                "Tripterygium wilfordii Hook.f.",
+                "thunder god vine"
+            ],
+            "Pharmaceutical": [
+                "Radix Tripterygium wilfordii"
+            ],
+            "Biological": [
+                "Tripterygium wilfordii Hook. f."
+            ],
+            "Chemical": [],
+            "Common": [
+                "three-wing-nut"
+            ],
+            "Other name": [
+                "Walk Seven Steps and Die",
+                "Intestine Breaking Plant",
+                "七步倒",
+                "斷腸草"
+            ],
+            "Chinese": [
+                "雷公藤"
+            ],
+            "Pronunciation in Korean": [
+                "Mi-yeok-jul-na-mu"
+            ],
+            "Pronunciation in Japanese": [
+                "taiwankurozuru"
+            ],
+            "Pronunciation in Cantonese": [
+                "leoi4 gung1 tang4"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "native of southern part of mainland China",
+            "Taiwan",
+            "Burma"
+        ],
+        "Properties": [
+            "bitter",
+            "very toxic"
+        ],
+        "Meridians": [],
+        "Maladies Treated": [
+            "proteinuric renal disease",
+            "autoimmune diseases (as immunosuppressive agent)",
+            "proliferative arthritis",
+            "inflammation of spinal cord",
+            "lupus",
+            "purpura",
+            "kidney inflammation",
+            "asthma",
+            "tuberculosis of the lungs",
+            "psoriasis (using water decoction of lei gong teng and alcohol extract of lei gong teng: both contain 50 g lei gong teng and 50 g ji xue teng (milletia root), taken orally 50 ml, twice a day after meals. Therapy period: 30 days. In clinical trial: 193 patients, alcohol extract effective rate: 86.2%, water decoction effective rate: 72.72%)",
+            "dermatitis",
+            "Reiter syndrome"
+        ],
+        "Medical Function": [
+            "anti-inflammation",
+            "kills worms",
+            "resolves toxins",
+            "used as immunosuppressive agent on autoimmune diseases",
+            "effects on immune system",
+            "effects on anti-inflammatory processes",
+            "effects on anti-cancer",
+            "effects on contraception",
+            "effects on urinary system",
+            "effects on anti-organism and worms",
+            "anti-rejection on transplants",
+            "effects of toxicity"
+        ],
+        "Dosage": "",
+        "Samples of Formulae": "Psoriasis: Using water decoction of lei gong teng (thunder god vine) and alcohol extract of lei gong teng (thunder god vine): Both contain 50 g lei gong teng (thunder god vine) and 50 g ji xue teng (milletia root). Take orally 50 ml, twice a day after meals. 30 days is one therapy period.",
+        "Contraindications": "Toxic reactions include dizziness, palpitation, weakness, nausea, vomiting, stomach ache, diarrhea, pain in liver and kidney areas, bleeding in the digestive tract, respiration and circulation exhaustion, and death.\nDecrease of total blood cell counts.\nExternal use of lei gong teng tincture can cause mutation type of illness.\nLong-term use can significantly decrease bone mineral density in females with systemic lupus erythematosus (SLE).\nLong-term use causes hair loss and malfunction of immune system.\nLarge dosages and/or long-term usage can be toxic to kidneys.\nLei gong teng is a highly toxic herb; the cortex is extremely toxic and should be used by removing bark section, including two layers of bark and the back in tree crevices.",
+        "Research": "Four compounds purified from Tripterygium wilfordii may confer protection against the FSGS (focal segmental glomerulosclerosis) factor.\na. There are four compounds extracted from lei gong teng (thunder god vine) that can protect the kidneys against focal segmental glomerulosclerosis.\nb. Clinical study: For psoriasis, using water decoction and alcohol extract of lei gong teng (thunder god vine) (each 50 g lei gong teng and 50 g ji xue teng (milletia root)), 50 ml taken twice daily after meals for 30 days: 193 patients total. Alcohol extract: 116 patients, effective rate 86.2%; water decoction: 77 patients, effective rate 72.72%. It showed that the alcohol extract was more effective than the water decoction. [21]\nOther details: Long-term use of lei gong teng could significantly decrease bone mineral density in females with systemic lupus erythematosus (SLE) (Department of dermatology, Huashan hospital, Shanghai Medical University, Shanghai 200040, China (Huang L and Feng SF); Radiology Institute, Shanghai Medical University, Shanghai 200040, China (Wang HF)).",
+        "Notes": "Focal segmental glomerulosclerosis is scar tissue that forms in areas of the glomeruli of the kidneys that filter harmful or unnecessary substances out of the body.",
+        "Chemical Ingredients": {
+            "Saponins": [
+                "wilforgine",
+                "wilforgine-B",
+                "wilfordine",
+                "wilfornine",
+                "wilfortrine",
+                "wilforttrine-D",
+                "wilforzine",
+                "wilformine",
+                "wilfordinic acid",
+                "hyudroxywilfordic acid",
+                "wilfornine",
+                "neowilforine"
+            ],
+            "Other alkaloids": [
+                "celacinnine",
+                "celafurine",
+                "celabenzine",
+                "celallocinnine"
+            ],
+            "Diterpene lactones": [
+                "triptolide",
+                "tripdiolide",
+                "triptonide",
+                "tripterolide",
+                "triptolidenol",
+                "tripnolide",
+                "neotriptophenolide",
+                "triptophenolide methyl ether",
+                "isoneotrip-tophenolide",
+                "hypolide methyl ether",
+                "triptonoterpene",
+                "triptonoterpene methyl ether",
+                "triptonoterpenol",
+                "12-ydroxy-abieta-8, 11, 13 -trien-3-one",
+                "11-hydroxy-14-methoxy-abieta-8, 11, 13-trien-3-one"
+            ],
+            "Triptofordin derivatives": [
+                "triptofordinine A-1, A-2",
+                "triptofordin D-1, D-2, E",
+                "triptofordin A, B, C-1, C-2",
+                "triptofordin F-1, F-2, F-3, F-4"
+            ],
+            "Other terpenoids and acids": [
+                "wilforlide A",
+                "wilforlide B",
+                "tritotriterpenoid lactone",
+                "tretotriterpenic acid A",
+                "tritotriterpenic acid B",
+                "tritotriterpenic acid C",
+                "3-epikatonic acid",
+                "polpunonic acid",
+                "triptodihydroxy acid methyl ester",
+                "tripterine",
+                "3,24-dioxofridelan-29-oic acid",
+                "salaspermic acid"
+            ],
+            "Others": [
+                "wilfornide",
+                "1,8-dihydroxy-4-hydroxymethyl anthraquinone",
+                "syringareisnol",
+                "dulcitol",
+                "glucose",
+                "tannin"
+            ]
+        },
+        "References": [
+            "(a). M. Sharma, R. Sharma, XL Ge, R.S.Rdy, E.T.McCarthy, V. J. Savin, Medical College of Wisconsin, Milwaukee, WI, U.S.A.",
+            "(b). Department of dermatology, Huashan hospital, Shanghai Medical University, Shanghai 200040, China (Huang L and Feng SF); Radiology Institute, Shanghai Medical University, Shanghai 200040, China (Wang HF)."
+        ],
+        "Further Reading": [
+            "see picture on another site",
+            "See Chinese web page , submitted for writing competition sponsored by the Education Department of ROC in Taiwan."
+        ],
+        "Original Text": "lei gong teng, Tripterygium wilfordii Hook.f., Complementary and Alternative Healing UniveristyComplementary and Alternative Healing University   中藥詞典    Chinese Herb Dictionary      Search this site     在本網站找資料　See more menu at the bottom of page　lei gong teng (thunder god vine),  雷公藤  (in English and Chinese 中英文)Translated and edited by: Joe Hing Kwok ChuClick here if you are using Internet ExplorerThe herb of lei gong teng comes from the roots, leaves and flowers of the tripterygium wilfordii Hook. f. It is collected during summer and autumn. Lei gong teng is a deciduous climbing vine growing to 12 meters,  with brown, angular, downy twigs. The leaves are light green, smooth on top, and pale gray with light hairs underneath.  They have crenate margins and pointed apexes,  and are ovate to elliptic, 5-15 cm long, 2.5 - 7 cm wide. The scented hermaphroditic (having male and female organs) flowers are small and whitish with five petals and are about 9 mm across. The fruit is 3-winged, and brownish red, about 1.5 cm long.The plant can grow in light (sandy), medium (loamy) and heavy (clay) soils. It can survive in acid, neutral and basic (alkaline) soil.  It can grow in semi-shade (light woodland) or no shade. It requires moist soil.Pharmaceutical name:英文药名： Radix Tripterygium wilfordiiBiological name:拉丁學名： Tripterygium wilfordii Hook. f.Pron.in Japanese:日語發音：taiwankurozuruPron. in Korean:韓語發音：Mi-yeok-jul-na-muPron. in Cantonese粤語發音：leoi4 gung1 tang4Common Name:英文名： three-wing-nutFolk Name:民間名稱：\"Walk Seven Steps and Die\" , \"Intestine Breaking Plant\"七步倒，斷腸草。Distribution:分佈：native of southern part of mainland China, Taiwan, Burma原産於中國南部，臺灣，缅甸。Properties (characteristics):性味：bitter and very toxic苦，劇毒。Actions & Indications:主治：　for: anti-inflammation,  kills worms, resolves toxins, treating proteinuric renal disease, used as immunosuppressive agent on autoimmune diseases.抗炎，殺蟲，消毒，治蛋白尿腎臟病，於免疫系统病以抑制免疫系统。Chemical ingredients:化學成份：　　1. Saponins:(1). wilforgine, wilforgine-B, wilfordine, wilfornine, wilfortrine, wilforttrine-D, wilforzine[1-3], wilformine [4], wilfordinic acid, hyudroxywilfordic acid [5],wilfornine [6], neowilforine [7](2). celacinnine, celafurine, celabenzine, celallocinnine [8-9](3). triptofordinine A-1, A-2 [10],  triptofordin D-1, D-2, E [11], triptofordin A, B, C-1 C-2 [12], triptofordin F-1, F-2, F-3, F-4 [13]2.(1). triptolide, tripdiolide, triptonide,[14-15], tripterolide[16].(2). triptolidenol [16-17], tripnolide [18], neotriptophenolide, triptophenolide methyl ether [19], isoneotrip-tophenolide, hypolide methyl ether [20].(3). triptonoterpene, triptonoterpene methyl ether [17],  triptonoterpenol [21]12-ydroxy-abieta-8, 11, 13 -trien-3-one, 11-hydroxy-14-methoxy-abieta-8, 11-hydroxy-14-methoxy-abieta-8, 11, 13-trien-3-one [22].3. (1). wilforlide A, wilforlide B [23].(2). tritotriterpenoid lactone [24], tretotriterpenic acid A [25,26], tritotriterpenic acid B [27], tritotriterpenic acid C [28], 3-epikatonic acid [29], polpunonic acid, triptodihydroxy acid methyl ester [30], tripterine [31].(3).3,24-dioxofridelan-29-oic acid [29], salaspermic acid [29,32].4. wilfornide [20]5. 1,8-dihydroxy-4-hydroxymethyl anthraquinone [33].6. syringareisnol [34].7. dulcitol, glucose [31], tanninMedical Functions:　　　　1. Effects on immune system2. Effects on anti-inflammatory3. Effects on anti-cancer4. Effects on contraception5. Effects on urinary system6. Effects on anti-organism and worms7. Other Effects     Anti rejection on transplants8. Inside body9. Effects of toxicityOther Research:其他研究：　Four compounds purified from T. wilfordii may confer protection against the FSGS (focal segmental gomerulosclerosis) factor.a有四種從雷公藤提取的化合物能保護保護腎臟對抗局部性腎絲球硬化症。Research on Pharmacological Processes:See Research LibrarianModern Clinical Application:1.proliferative arthritis　2. inflammation of spinal cord3. lupus4. purpura5. kidney inflammation6. asthma7. tuberculosis of the lungs8. psoriasis9. dermatitis10. Reiter syndrome　Psoriasis: Using water decoction of lei gong teng and alcohol extract of lei gong teng:They both contain 50 lei gong teng 50 g, and ji xue teng 50 g each. Take orally 50 ml, twice a day after meals.30 days is one therapy period.Result:Total patients: 193Patients taking alcohol extract: 116Effective rate: 86.2%Patients taking water decoction: 77Effective rate: 72.72%It showed that the alcohol extract was more effective than the water decoction. [21]　Toxicity and Side Effects:　　1. Toxic reactions: dizziness, palpitation, weakness, nausea, vomiting, stomach ache, diarrhea, pain in liver and kidney areas, bleeding in the digestive tract, even respiration and circulation exhaustion and death.2. Decrease of total blood cell counts (2)3. Mutation type of illness: using lei gong teng tincture for external use can cause mutation type of illness. (3)4. Long -term use of lei gong teng could significantly decrease bone mineral density of levels in female systemic lupus erythematosus (SLE)b5. Long -term use of lei gong teng causes hair loss and malfunction of immune system.6. Large dosages and/or long term usage can be toxic to kidneys.Lei gong teng is a highly toxic herb, especially the cortex is extremely toxic and should be used by removing bark department, including two layers of bark and the back in tree crevices.雷公藤是一種劇毒藥物，尤其皮部毒性極大，使用時應嚴格剝淨皮部，包括二重皮及樹縫中的皮分。 大劑量或長期服用可能對腎臟有毒。　antidotes:See Prevention and treatmentsNote: Focal segmental glomerulosclerosis is scar tissue that forms in areas of the glomeruli of the kidneys that filter harmful or unnecessary substances out of the body.Other related websites:see picture on another siteSee Chinese web page , submitted for writing competition sponsored by the Education Department of ROC in Taiwan.[n] If you need the complete bibliography in a hurry, please email our Research Librarian. There is a set up charge. Most of them are from sources of Chinese writings.(a). M. Sharma, R. Sharma, XL Ge, R.S.Rdy, E.T.McCarthy, V. J. Savin, Medical College of Wisconsin, Milwaukee, WI, U.S.A.(b). Department of dermatology, Huashan hospital, Shanghai Medical University, Shanghai 200040, China (Huang L and Feng SF); Radiology Institute,  Shanghai Medical University, Shanghai 200040, China (Wang HF).Search this siteProblems with website? Please Click here for comment. (Not for inquiry )    Click here for inquiryCopyright Notice 按此看關於版權問題Sponsors' Ads by Google 以下為谷歌 所提供之廣告A manuscript... writing, translating and proofreading  in progressMenu: List of Health ProblemsQigong (chi kung)Toxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese Medicine　TCM Diagnosis　Samples of FormulaeTerms of Traditional Chinese MedicineAcupunctureChinese Herb DictionaryQigong classesPrescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry Dictionary　Qigong classes　Research Librarian　copy right　版權所有HomeWeather ReportDisclaimerLast update: Mar 26, 2015; 11:40 p.m. LAH　  ",
+        "original_url": "http://alternativehealing.org/lei_gong_teng.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "chi xiao dou"
+            ],
+            "Pharmaceutical": [
+                "Semen Phaseoli"
+            ],
+            "Biological": [
+                "Phaseolus angularis Wight",
+                "Phaseolus calcaratus Roxb."
+            ],
+            "Chemical": [],
+            "Common": [
+                "azuki bean (name of Japanese origin)"
+            ],
+            "Other name": [],
+            "Chinese": [
+                "赤小豆"
+            ],
+            "Pronunciation in Korean": [
+                "choksodu"
+            ],
+            "Pronunciation in Japanese": [
+                "sekishozu"
+            ],
+            "Pronunciation in Cantonese": [
+                "cek3 siu2 dau6"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Mainly produced in Jilin, Beijing, Tianjin, Hebei, Shaanxi, Shandong, Anhui, Jiangsu, Zhejiang, Jiangxi, Guangdong, Sichuan areas of China"
+        ],
+        "Properties": [
+            "sweet",
+            "sour",
+            "neutral"
+        ],
+        "Meridians": [
+            "heart",
+            "small intestine"
+        ],
+        "Maladies Treated": [
+            "edema",
+            "difficulty in urinary",
+            "sores and carbuncle"
+        ],
+        "Medical Function": [
+            ""
+        ],
+        "Dosage": "9 to 30 g.",
+        "Samples of Formulae": "For lack of mother's milk\nName of formula: chi xiao dou soup\nComposition: chi xiao dou 15 g. Add water to make soup. Simmer for about 2 hours. Make and drink it daily for 3 to 5 days.\n\nFor edema and to promote urination\nName of formula: Carp with chi xiao dou and chen pi (aged tangerine peel) soup\nComposition: Carp (about 500 g), chi xiao dou 30 g, chen pi 6 g. Add appropriate amount of water and simmer until tender. Make into 2 servings.",
+        "Contraindications": "Not to use for long period because of its diuretic property. Long term usage may dry out the body.\nAccording to a classical writing, do not use chi xiao dou within 100 days of snake bite. 性逐津液，久食令人枯燥, 瘦人。《随息居飲食譜》：蛇咬者百日内忌之。",
+        "Research": "",
+        "Notes": "",
+        "Chemical Ingredients": {
+            "": [
+                "Per 100 grams of chi xiao dou contains: protein (α,β-golbulin) 20.7 g",
+                "carbohydrates 58 g",
+                "coarse fiber 4.9 g",
+                "ashes 3.3 g",
+                "calcium 67 mg",
+                "phosphorus 305 mg",
+                "iron 5.2 mg",
+                "vitamin B1 0.31 mg",
+                "vitamin B2 0.31 mg (English text) / vitamin B2 0.11 mg (Chinese text)",
+                "vitamin B3 2.7 mg",
+                "triterpene sapogenin",
+                "starch",
+                "sugar",
+                "phytosterol",
+                "pigments"
+            ]
+        },
+        "References": [],
+        "Further Reading": [],
+        "Original Text": "chi xiao dou,Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代 中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　    　                     　　   　  　 chi xiao dou 赤小豆by: Joe Hing kwok ChuPharmaceutical name:英文藥名﹕ Semen PhaseoliBotanical name:學名﹕Phaseolus angularis WightPhaseolus. calcaratus Roxb.Pron. in Japanese:日語發音﹕sekishozuPron. in Korean:韓語發音﹕choksoduPron. in Cantonese:粵音﹕cek3 siu2 dau6Other Names:別名﹕ Common Name:英文名﹕azuki bean (name of Japanese origin)Distribution:產地﹕Mainly produced in Jilin, Beijing, Tianjin, Hebei, Shaanxi, Shandong, Anhui, Jiangsu, Zhejiang, Jiangxi, Guangdong, Sichuan areas of China.主產於吉林省﹐北京﹐ 河北省﹐陝西省﹐山東省﹐安徽省﹐江蘇省﹐浙江省﹐江西省﹐廣東省﹐四川省等地。Properties(characteristics)﹕性味﹕sweet, sour, neutral.性平，味甘﹐酸。Channels (meridians) entered: 歸經﹕heart, small intestine.心﹐小腸經。Medical functions:藥理﹕  Actions & Indications:主治﹕edema, difficulty in urinary, sores and carbuncle,用於水腫﹐小便不利，瘡癰。Chemical ingredients:化學成份﹕ Per 100 grams of chi xiao dou contains: protein (α,β-golbulin) 20.7 g,  carbohydrates 58 g, coarse fiber 4.9 g,ashes 3.3 g, calcium 67 mg, phosphorus 305 mg, iron 5.2 mg, vitamin B1 0.31 mg, B2 0.31 mg, B3 2.7 mg.  It also contains triterpene sapogenin, starch, sugar, phytosterol and pigments.每百克含蛋白質 (α﹐β-球朊) 20.7克﹐脂肪0.5克﹐碳水化物58克﹐粗纖維4.9克﹐灰分3.3 克﹐鈣67毫克﹐磷305毫克﹐鐵5.2毫克﹐維生素 B1 0.31毫克﹐維生素B2 0.11毫克 ﹐維生素 B3 2.7毫克。  另含三萜皂甙﹐澱粉﹐糖類﹐植物甾醇和色素等。Dosage:用量﹕9 to 30 g.9～30克。Samples of formulae:處方舉例﹕For: lack of mother's milkName of formula: chi xiao dou soupComposition: chi xiao dou 15 g.Add water to make soup. Simmer for about 2 hours. Make and drink it daily for 3 to 5 days. 產婦乳汁 不夠﹕赤小豆15g， 加水燒湯。連續喝3～5天。 For : Edema and to promote urinationName of formula: Carp with chi xiao dou and chen pi soupComposition:  Carp (about 500 g), chi xiao dou 30 g,  chen pi 6 gAdd appropriate amount of water and simmer until tender. Make into 2 servings. 鯉 魚 赤 豆 陳 皮 湯   功 效:  利 水 消 腫 。  組成﹕:  鯉 魚 1 條 （ 約 5 0 0 克 ） ， 赤 小 豆 3 0 克 ， 陳皮 6 克 。 上 三 味 放 沙 鍋 內 。慢火煲 至 爛 熟 。分作兩餐 吃 。Modern Research:現代研究﹕Click here.Toxicity & Cautions:毒素與禁忌﹕Not to use for long period because of its diuretic property. Long term usage may dry out the body.According to a classical writing, do not use chi xiao dou within 100 days of snake bite. 性逐津液，久食令人枯燥, 瘦人。《随息居飲食譜》：�蛇咬 者百日内忌之。�　 Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告Click here for inquiry  A manuscript... writing and translation in progressList of Health ProblemsChinese Herb DictionaryToxicity of Some Herbs Side Effect of Some Herbs Herbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesLecture SlidesResearch LibrarianSearchQigong classesHomeWeather Report DisclaimerLast update: April 9, 2009;12:49 p.m. LAH  ",
+        "original_url": "http://alternativehealing.org/chi_xiao_dou.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "lu gan shi",
+                "爐干石",
+                "爐幹石",
+                "爐甘石"
+            ],
+            "Pharmaceutical": [
+                "smithsonite"
+            ],
+            "Biological": [],
+            "Chemical": [
+                "calamina"
+            ],
+            "Common": [
+                "smithsonite"
+            ],
+            "Other name": [],
+            "Chinese": [],
+            "Pronunciation in Korean": [
+                "nogamsok"
+            ],
+            "Pronunciation in Japanese": [
+                "rokanseki"
+            ],
+            "Pronunciation in Cantonese": [
+                "lo kam seh"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Mineral",
+        "Geography": [
+            "Guangxi",
+            "Sichuan",
+            "Hunan"
+        ],
+        "Properties": [
+            "Sweet",
+            "Neutral"
+        ],
+        "Meridians": [
+            "Liver",
+            "Stomach"
+        ],
+        "Maladies Treated": [
+            "swollen eyes",
+            "eyelid sores",
+            "ulcer not healing",
+            "pus oozing",
+            "eczema",
+            "itchy skin",
+            "翳膜胬肉 (pterygium, nebula, membrane with fleshy growth on eye)"
+        ],
+        "Medical Function": [],
+        "Dosage": "external use only",
+        "Samples of Formulae": "",
+        "Contraindications": "do not take internally",
+        "Research": "",
+        "Notes": "",
+        "Chemical Ingredients": {
+            "": [
+                "zinc carbonate",
+                "calcium oxide",
+                "magnesium oxide",
+                "manganese oxide",
+                "zinc oxide",
+                "a small amount of ferric oxide"
+            ]
+        },
+        "References": [],
+        "Further Reading": [],
+        "Original Text": "lu gan shi, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代 中藥辭典Search this site   Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　                          　 lu gan shi 爐干石, 爐幹石 , 爐甘石by Joe Hing Kwok ChuA manuscript... writing and translation in progressPharmaceutical name:英文藥名﹕smithsonite Chemical name:學名﹕calamina,Pron. in Japanese:日語發音﹕rokansekiPron. in Korean:韓語發音﹕nogamsokPron. in Cantonese:粵音﹕lo kam sehOther Names:別名﹕ Common Name:英文名﹕smithsoniteDistribution:產地﹕Guangxi, Sichuan, Hunan廣西﹐ 四川﹐  湖南。Properties characteristics)﹕性味﹕sweet, neutral甘，平。Channels  meridians) entered: 歸經﹕liver, stomach归肝﹐胃经。Medical functions:藥理﹕  Actions & Indications:主治﹕for swollen eyes, eyelid sores, ulcer not healing, pus oozing, eczema, itchy skin.目赤肿痛，眼缘赤烂，翳膜胬肉，溃疡不敛，脓水淋漓，湿疮，皮肤瘙痒。Chemical ingredients:化學成份﹕zinc carbonate, calcium oxide, magnesium oxide, manganese oxide, zinc oxide with a small amount of ferric oxide.主含碳酸锌, 氧化鈣﹐ 氧化鎂﹐ 氧化錳﹐ 氧化鋅﹐ 少量之氧化鐵。Dosage:用量﹕external use only外用。 Samples of formulae:處方舉例﹕ Modern Research:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕do not take internally不可內服。   Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告  A manuscript... writing, translating and proofreading              in progressClick here for comment. (Not for inquiry )        Click here for inquiry   Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    Disclaimer  Last update: Mar 29, 2009; 6:33 p.m. LAH  ",
+        "original_url": "http://alternativehealing.org/lu_gan_shi.htm"
+    },
+    {
+        "Names": {
+            "Name": [
+                "jin ying zi",
+                "jin ying gen"
+            ],
+            "Pharmaceutical": [
+                "Fructus Rosae laevigatae"
+            ],
+            "Biological": [
+                "Rosa laevigata Michx."
+            ],
+            "Chemical": [],
+            "Common": [
+                "Cherokee Rose Fruit"
+            ],
+            "Other name": [
+                "long guo 籠果",
+                "ci li zi 刺梨子",
+                "jin yin rou 金樱肉",
+                "tang guan zi 糖罐子",
+                "ye shi liu 野石榴",
+                "tang bo 糖缽",
+                "ci li 刺梨"
+            ],
+            "Chinese": [
+                "金櫻子",
+                "金櫻根"
+            ],
+            "Pronunciation in Korean": [
+                "Kumaengja (fructus Rosae Laevigatae)"
+            ],
+            "Pronunciation in Japanese": [
+                "kinoshi (fructus Rosae Laevigatae)"
+            ],
+            "Pronunciation in Cantonese": [
+                "gam1 ying1 zi2"
+            ],
+            "Pinyin Pronunciation": []
+        },
+        "Type": "Herb",
+        "Geography": [
+            "Mainly in Guangdong, Sichuan, Yunnan, Hubei, Guizhou provinces of China"
+        ],
+        "Properties": [
+            "sour",
+            "sweet",
+            "astringent"
+        ],
+        "Meridians": [
+            "spleen",
+            "lung",
+            "kidney",
+            "bladder",
+            "large intestine"
+        ],
+        "Maladies Treated": [
+            "spermatorrhea",
+            "diarrhea",
+            "frequent urination",
+            "pixu (spleen deficient) with yeast infection",
+            "pixu (spleen deficient) with chronic diarrhea",
+            "lung deficient with cough and asthma",
+            "instant sweating",
+            "night sweating",
+            "heavy vaginal bleeding not during menses",
+            "prolapse of rectum (jin ying gen, root, used in decoction)",
+            "burns or scaldings (jin ying gen, under layer skin of the root, external use)",
+            "recurring filariasis (disease caused by infestation of tissue with filariae) (jin ying zi, fruit, used in decoction with eggs and rock sugar)",
+            "erysipelas (acute streptococcus bacterial infection of the upper dermis and superficial lymphatics) on the leg (jin ying zi, fruit, used in decoction with eggs and rock sugar)"
+        ],
+        "Medical Function": [
+            "Lowers the plasma cholesterol and β-lipoprotein, and lessens the degree of damage of coronary atherosclerosis in rabbits",
+            "Inhibits the contraction of smooth muscles",
+            "Stops diarrhea",
+            "Alcohol extract of the root can resist oxygen deprivation: the alcohol extract of jin ying gen (root) significantly prolongs survival time of mice under conditions of normobaric hypoxia, specific myocardial hypoxia, cerebral ischemic hypoxia, and swimming"
+        ],
+        "Dosage": "5 to 10 g for decoction.",
+        "Samples of Formulae": "For spermatorrhea, urinary frequency, or vaginal discharge due to shenxu (kidney deficient): Prescription: jin ying zi, qian shi (Euryale seed). Make into decoction and use as tea.\n\nFor treatment of prolapse of rectum: Prescription: jin ying gen (root) 30 to 60 g. Make into decoction. Make into 3 servings. Use as tea.\n\nFor burns or scaldings: Prescription: jin ying gen (root). Scrape off the external covering. Get the under layer skin of the root. Cut into small pieces. Add some sweet rice and smash together. Add some water and cook to boiling. Strain. After cooling down, use duck feather to apply to affected area.\n\nFor treatment of recurring filariasis (disease caused by infestation of tissue with filariae), erysipelas (acute streptococcus bacterial infection of the upper dermis and superficial lymphatics) on the leg: Prescription: jin ying zi (fruit) 90 g. Boil with water. Strain. Add 3 chicken eggs and 30 g of rock sugar. Cook till sugar is melted. Drink before meals.",
+        "Contraindications": "Do not use it just to enhance sexual appetite. (Li Shizhen: 不可用之於增強性慾)",
+        "Research": "Lowers the plasma cholesterol and β-lipoprotein, and lessens the degree of damage of coronary atherosclerosis of rabbits.\n\nThe alcohol extract of the root can resist oxygen deprivation: jin ying gen alcohol extract significantly prolongs survival time of mice under normobaric hypoxia, specific myocardial hypoxia, cerebral ischemic hypoxia, and swimming.",
+        "Notes": "",
+        "Chemical Ingredients": {
+            "": [
+                "citric acid",
+                "malic acid",
+                "tannin",
+                "resin",
+                "vitamin C",
+                "saponins (17.12%)",
+                "rich in sugars, of which 60% reducing sugars (fructose 3.3%)",
+                "1.9% sucrose",
+                "a small amount of starch"
+            ]
+        },
+        "References": [],
+        "Further Reading": [],
+        "Original Text": "jin ying zi, Complementary and Alternative Healing University     現代中藥辭典Complementary and Alternative Healing University  Home  現代中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　                                                        jin ying zi  金櫻子 , jin ying gen 金櫻根  (in English and Chinese 中英文)Translated by: Joe Hing Kwok Chu  朱興國編譯 Pharmaceutical name:英文药名：Fructus Rosae laevigataeBiological name:拉丁學名：Rosa laevigata Michx.Pron. in Japanese:日語發音：kinoshi ( fructus Rosae Laevigatae)Pron. in Korean:韓語發音：Kumaengja ( fructus Rosae Laevigatae)Pron. in Cantonese:粤語發音：gam1 ying1 zi2Other Names:別名：long guo 籠果, ci li zi 刺梨子, jin yin rou 金樱肉, tang guan zi, 糖 罐子﹐ye shi liu, 野石榴﹐tang bo 糖缽 ci li 刺 梨。.Common Name:英文名：Cherokee Rose Fruit.Distribution:分佈：Mainly in Guangdong, Sichuan, Yunnan, Hubei, Guizhou provinces of China.主產於廣東﹐ 四川﹐雲南﹐湖北﹐貴州等地。Properties (characteristics):性 味:sour, sweet, astringent.酸, 甘甜, 濇, 。Channels (meridians) entered:歸經:spleen, lung, kidney, bladder, large intestine.脾 ，肺，腎，膀胱，大腸。Actions & Indications:主治：spermatorrhea, diarrhea, frequent urination, pixu (spleen deficient) with yeast infection, pixu (spleen deficient) with chronic diarrhea, lung deficient with cough and asthma, instant sweating, night sweating, heavy vagina bleeding not during menses.治夢洩遺精，泄痢便數 ，脾 虛白带，脾虛久 瀉 不止，肺虚喘咳，自汗盗汗，崩漏等症。 。Medical function:藥理作用﹕Lowers the plasma cholesterol and β-lipoprotein, and lessen the degree of damage of coronary atherosclerosis of rabbits.Inhibits the contraction of smooth muscles.Stops diarrheaThe alcohol extract of the root can resist oxygen deprivation. 降低家兔的血清膽固醇和β-脂蛋白，與 減 輕 冠 狀 動 脈 粥 樣 硬 化 程 度 。抑制平滑肌收縮作用。止瀉作用。金樱根醇提取液有显著耐缺氧作用﹕金櫻根醇提取液明顯延長小鼠常壓缺氧，特異性心肌缺氧，腦缺血缺氧及游泳的存活時間Samples of formulae:處方舉例：For spermatorrhea, urinary frequency,  or vaginal discharge due toshenxu (kidney deficient) :Prescription: jin yin zi , qian shi. Make into decoction and use as tea For treatment of prolapse of rectum: jPrescription: in yin gen 30 to 60 g. Make into decoction.  Make into 3 servings. Use as tea. For burns or scaldings:Prescription:  jin yin gen. Scrap off the external covering. Get the under layer skin of the root. Cut into small pieces. Add some sweet rice and smash together. Add some water and cook to boiling. Strain. After cooling down, use duck feather to apply to affected area.   For treatment of recuring of  filariasis (disease caused by infestation of tissue with filariae), erysipelas (acute streptococcus bacterial infectionof the upper dermis and superficial lymphatics.) on the leg:Prescription: jin ying zi 90 g. Boil with water. Strain. Add 3 chicken eggs and 30 g of rock sugar. Cook till sugar is melted. Drink before meals.治遺精﹐ 尿多﹐或白帶﹕芡 實 , 金櫻子。水煎服。治小兒脫肛：金櫻根一至二兩。水煎，每日一劑，分三次服。(廣西《中草藥新醫療法處方集》)治湯火傷：金櫻根洗淨，去表面粗皮，取二層皮切碎，加糯米少許，同擂爛，再加適量清水，放入鍋内煮沸，過濾 ，待冷，用鴨毛蘸藥汁搽塗患處，日二，三次。(《江西民間草藥驗方》)治下肢流火 屢發：金櫻根三兩， 水煎，取湯煮雞蛋三個，加入冰糖一兩溶化，飯前服。(《江西民間草藥驗方》)註: 流火是丹毒或絲蟲病 (由帶有絲虫的組織感染引起的病). 丹毒是真皮上部和表層淋巴管的急性鏈球菌細菌感染Chemical ingredients:化學成份﹕citric acid, malic acid, tannin, resin, vitamin C,  saponins 17 12%;  rich in sugar, of which 60% reducing sugars (fructose, 33%), 1.9% sucrose and a small amount of starch.檸檬酸，蘋果酸，鞣質，樹脂，維生素C, 含皂甙17.12%；另含豐富的糖類， 其中有還原糖60%（果糖3.3%）， 蔗糖1.9%以及少量澱粉。Dosage:用量:5 to 10 g for decoction.煎服5-10克。Cautions:禁忌:do not use it just to enhance sexual appetite.李 時 珍 ﹕ 不 可 用 之 於 增 強 性 慾 。Search this site       Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告  A manuscript... writing, translating and proofreading                          in progressClick here for comment. (Not for inquiry )      Click here for inquiry   Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    Disclaimer  Last update: Feb 23, 2013; 11:33 a.m. LAH  ",
+        "original_url": "http://alternativehealing.org/jin_ying_zi.htm"
+    }
+]

@@ -1,0 +1,435 @@
+[
+  {
+    "Names": {
+      "Name": ["yang ti", "tu da huang"],
+      "Pharmaceutical": [
+        "Radix Rumicis japonicis",
+        "Radix Rumicis patientiae",
+        "Radix Rumicis Nepalensis",
+        "Radix Rumicis crispis"
+      ],
+      "Biological": [
+        "Rumex japonicus Meisn.（羊蹄）",
+        "Rumex patientia L.",
+        "Rumex nepalensis Spreng.（尼泊爾羊蹄）",
+        "Rumex crispus L."
+      ],
+      "Chemical": [],
+      "Common": [],
+      "Other name": [
+        "ben da huang (in Taiwan) 本大黃(台灣)",
+        "niu shi tou 牛舌頭",
+        "yang shi tou 羊舌頭",
+        "ye bo cai 野菠菜",
+        "yang ti cai 羊蹄菜",
+        "tu tou cao 禿頭草",
+        "da wang tou 大王頭",
+        "yang ti ye 羊蹄葉",
+        "ke cai 殼菜",
+        "tu da huang 土大黃"
+      ],
+      "Chinese": [
+        "羊蹄",
+        "土大黃",
+        "本大黃",
+        "牛舌頭",
+        "羊舌頭",
+        "野菠菜",
+        "羊蹄菜",
+        "禿頭草",
+        "大王頭",
+        "羊蹄葉",
+        "殼菜"
+      ],
+      "Pronunciation in Korean": ["cham-so-ri-jaeng-i"],
+      "Pronunciation in Japanese": ["gishi"],
+      "Pronunciation in Cantonese": ["jeong4 tai4"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Northeastern China",
+      "Northern China",
+      "Hebei",
+      "Shanxi",
+      "Shaanxi",
+      "Gansu",
+      "Jiangsu",
+      "Zhejiang",
+      "Henan",
+      "Hubei",
+      "Hunan",
+      "Guangxi",
+      "Xizang (Tibet)",
+      "Taiwan"
+    ],
+    "Properties": ["Bitter", "Sour", "Cold", "Slightly toxic"],
+    "Meridians": ["Heart", "Liver", "Large intestine"],
+    "Maladies Treated": [
+      "Nose bleeding (epistaxis) for internal use, similar to da huang",
+      "Functional bleeding of the uterus for internal use, similar to da huang",
+      "Purpura due to thrombocytopenia for internal use, similar to da huang",
+      "Chronic hepatitis for internal use, similar to da huang",
+      "Perianal inflammation (inflammation of the anus) for internal use, similar to da huang",
+      "Constipation for internal use, similar to da huang",
+      "Fungal infection of the skin: fresh squeezed juice applied externally",
+      "Hemorrhoids (external hemorrhoids): fresh squeezed juice applied externally",
+      "Acute mastitis (inflammation of the mammary glands): external application/fresh squeezed juice",
+      "Weeping sores (huang shui chuang, ‘yellow water sores’): external application",
+      "Furuncles (jie zhong): external application",
+      "Tinea (dermatophytosis, pi xuan): external application",
+      "Eczema: fresh squeezed juice applied externally"
+    ],
+    "Medical Function": [
+      "Antibiotic effect",
+      "Anti-inflammatory",
+      "Anti-viral effect",
+      "Arresting bleeding (hemostatic) effect",
+      "Anti-tumor effect",
+      "Regulates the immune system",
+      "Small dosage has astringent action - inhibits motility of the large intestine; large dosage has purgative action - enhances motility of the large intestine and creates a laxative effect"
+    ],
+    "Dosage": "Internal: 12–19 grams. External use: no limit.",
+    "Samples of Formulae": "For constipation: Yang Ti (Rumex japonicus root) 8 g, Gan Cao (licorice root) 3 g, water 300 cc. Boil down to 150 cc. Take orally.\nYeast infection formula: Click here: Candida infection, leukorrhea formula (no composition provided in the text).",
+    "Contraindications": "Contains oxalic acid; using large amounts can be toxic to the kidneys.\nTaken internally can cause diarrhea.\nNote on substitution: Although yang ti is also called tu da huang, it is not da huang. External application cannot be substituted with da huang. Do not substitute yang ti with da huang for external use.",
+    "Research": "Xinjiang University, Chinese Herb Journal, 2006, 6th Issue, The study of the chemical ingredients of Rumex confertus Willd. By Chang Li et el.\n新疆大學 -中草藥2006年第06期雜志, 糙葉酸模化學成分的研究; 張莉;阿依別克·馬力克;",
+    "Notes": "For internal use, its indications are similar to da huang (Rheum). The name 'tu da huang' (土大黃) literally means 'earth rhubarb' or 'local rhubarb', distinguishing it from true da huang. Despite the similar name and some overlapping uses internally, these are different herbs with distinct applications, especially for external use.",
+    "Chemical Ingredients": {
+      "Roots": [
+        "Frangula emodin",
+        "Chrysophanol [C15H10O4] (大黃酚; Chrysophanic acid, 大黃根酸)",
+        "Emodin [C15H10O5] (大黃素)",
+        "Emodin-monomethylether (大黃素甲醚)",
+        "Sugar (糖類)",
+        "Pigments (色素)",
+        "Resin (樹脂)",
+        "Organic acids (有機酸)",
+        "Starch (澱粉)",
+        "Mucilage (粘液質)",
+        "Tannin (鞣質)",
+        "Calcium oxalate (草酸鈣)",
+        "Nepodir (musiain; 酸模素) — described as a very strong anti-fungal compound; identified as 2-acetyl-1,8-dihydroxy-3-methyl-naphthalene",
+        "Quercetin (槲皮素)",
+        "Quercetin-3-O-β-D-glucoside (槲皮素-3-O-β-D-葡萄糖苷)",
+        "Quercetin-3-O-β-D-galactoside (槲皮素-3-O-β-D-半乳糖苷)",
+        "Rutin (蘆丁)",
+        "Catechin (兒茶素)",
+        "Gallic acid (沒食子酸)",
+        "Daucosterol (胡蘿卜苷)"
+      ],
+      "Leaves": ["Quercitrin (槲皮苷)"]
+    },
+    "References": [
+      "[1] Xinjiang University, Chinese Herb Journal, 2006, 6th Issue, The study of the chemical ingredients of Rumex confertus Willd. By Chang Li et el.",
+      "[1] 新疆大學 -中草藥2006年第06期雜志, 糙葉酸模化學成分的研究; 張莉;阿依別克·馬力克;"
+    ],
+    "Further Reading": [],
+    "Original Text": "yang ti, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University 中藥詞典   Chinese Herb Dictionary      Search this site     在本網站找資料     Discussion FormSearch this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibraryResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　yang ti 羊蹄 (tu da huang  土大黃 )By: Joe Hing Kwok Chu　See picture of plant　　Pharmaceutical name:英文藥名﹕Radix Rumicis japonicisRadix Rumicis patientiaeRadix Rumicis NepalensisRadix Rumicis crispisBiological name:植物學名：Rumex japonicus Meisn.; （羊蹄）Rumex patientia L.Rumex nepalensis Spreng.（尼泊爾羊蹄）Rumex crispus LPron. in Japanese:日語發音：gishiPron. in Korean:韓語發音：cham-so-ri-jaeng-iPron. in Cantonese:粤語發音：jeong4 tai4Other Names:別名:　　ben da huang (in Taiwan)本大黃(台灣)niu shi tou牛舌頭yang shi tou羊舌頭ye bo cai野菠菜yang ti cai羊蹄菜tu tou cao禿頭草da wang tou  大王頭yang ti ye羊蹄葉ke cai  殼菜tu da huang 土大黃Distribution:分佈：north eastern part and northern part of China and in provinces of Hebei, Shanxi, Shaanxi, Gansu, Jiangsu, Zhejiang , Henan, Hubei, Hunan, Guangxi, Xizang, and Taiwan etc.中國北部，東北部， 河北，山西，陝西，甘肅，江蘇，浙江，台灣，河南，湖北，湖南，廣西，西藏等地.Properties (characteristics)﹕性味﹕bitter, sour,cold and slightly toxic性寒。味苦，酸。有小毒。Channels (meridians) entered:　歸經﹕　heart, liver, large intestine.心, 肝, 大腸.Medical functions:[1]藥理﹕[1]　antibiotic effect anti-inflammatory effect anti-viral effect arresting bleeding effect anti-tumor effect regulate immune system effect small dosage inhibits motility of the large intestine; large dosage enhance motility of the large intestine and creates laxative effect　抗菌作用 抗炎作用 抗病毒作用 止血作用 抗腫瘤作用 免疫調節作用 小劑量有收斂作用; 大劑量有致瀉作用Actions & Indications:主治：For internal use it is similar to da huang: nose bleeding, functional bleeding of the uterus, purpura due to thrombocytopenia, chronic hepatitis, inflammation of the anus, constipation. Fresh squeezed juice is effective for fungus infection of skin, hemorrhoids, inflammation of the mammary glands, and eczema. Taken internally causes diarrhea. Do not substitute yang ti with da huang for external use.鼻出血，功能性子宮出血，血小板減少性紫癜，慢性肝炎，肛門周圍炎，大便秘結, 內服可致腹瀉。外用治外痔，急性乳腺炎，黃水瘡，癤腫，皮癬。外用不能用大黃代替。Dosage:用量：To take internally:12 to 19 grams. External use: no limit内服：12∼19克。外用不限。Chemical ingredients: [1]化學成份：[1]Roots (根):  frangula emodin,  {chrysophanol [C15H10O4(大黃酚)]，(Chrysophanic acid,) (大黃根酸), emodin，C15H10O5(大黃素 ),}emodin-monomethylether (大黃素甲醚 ),sugar (糖類),pigments (色素),resin (樹脂),organic acid (有機酸),starch (澱粉),mucilage (粘液質),tannin (鞣質),calcium oxalate (草酸鈣),nepodir or musiain ( 酸模素 ), a very strong anti fungal compound.quercetin (槲皮素)quercetin-3-O-β-D-glucoside (槲皮素-3-O-β-D-葡萄糖苷)quercetin-3-O-β-D-galactoside (槲皮素-3-O-β-D-半乳糖苷)rutin (蘆丁)catechin (兒茶素)gallic acid (沒食子酸)daucosterol (胡蘿卜苷)Leaves (葉):quercitrin (槲皮苷)。nepodir or musiain is a very strong anti fungal compound.酸模素為2-乙醯基-1,8二羥基-3-甲基-萘)(具有很強的抗真菌作用)Sample of formula:處方舉例：For constipation: yang ti 8 g,   gan cao 3 g, water 300 cc. Boil down to 150 cc. Take orally.  Yeast infection formula 　便秘：羊蹄 8 克， 甘草 3 克。加水 300 毫升。煎至150 毫升。口服。按此看：念珠球菌感染， 白帶藥方。Warning/toxicity:注意/禁忌:　It contains oxalic acid. Using large amount can be toxic to the kidneys.　Note: Although yang ti is also called tu da huang but tu da huang is not da huang.. External application can not be substituted with da huang..　羊蹄含草酸，應用大劑量會對腎臟有毒。　註﹕羊蹄雖名土大黃﹐但是非大黃。內用與大黃相似。外用不能用大黃代替[1] Xinjiang University, Chinese Herb Journal, 2006, 6th Issue, The study of the chemical ingredients of Rumex confertus Willd. By Chang Li  et el.[1]  新疆大學 -中草藥2006年第06期雜志, 糙葉酸模化學成分的研究; 張莉;阿依別克·馬力克;Search this siteProblems with website? Please Click here for comment. (Not for inquiry )    Click here for inquiryCopyright Notice 按此看關於版權問題A manuscript... writing, translating and proofreading  in progressSponsors' Ads by Google 以下為谷歌 所提供之廣告 List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese Medicine　TCM Diagnosis　Samples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right　版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather ReportDisclaimerLast update: May 7, 2014; 9:30 p.m. LAH　  ",
+    "original_url": "http://alternativehealing.org/yang_ti.htm"
+  },
+  {
+    "Names": {
+      "Name": ["dan fan"],
+      "Pharmaceutical": [],
+      "Biological": [],
+      "Chemical": ["Hydrated Copper Sulfate"],
+      "Common": ["Chalcanthite"],
+      "Other name": ["ya chui lu dan fan 鴨嘴綠膽礬"],
+      "Chinese": ["膽礬"],
+      "Pronunciation in Korean": [],
+      "Pronunciation in Japanese": [],
+      "Pronunciation in Cantonese": [],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Chemical",
+    "Geography": ["China (western part; mainly produced)"],
+    "Properties": ["Sour", "Acrid", "Cold", "Toxic"],
+    "Meridians": ["Liver", "Gall bladder"],
+    "Maladies Treated": [
+      "Wind/cold type of phlegm obstruction; internal use to promote emesis to expel phlegm",
+      "Sore throat",
+      "Epilepsy",
+      "Accidental ingestion of toxic substances; internal use to induce vomiting",
+      "Infected eyes described as wind-eye redness and erosion; external application",
+      "Mouth sores/boils in the mouth; external application",
+      "Infected gum (牙疳); external application",
+      "Swollen toxic boils that are unable to rupture; external application"
+    ],
+    "Medical Function": [
+      "Promotes bile secretion",
+      "Internal use: promotes vomiting",
+      "Internal use: induces expulsion of wind/cold type phlegm",
+      "External use: detoxifies and dries dampness from wounds",
+      "External use: corrodes ulcers and removes necrotic tissue from sores"
+    ],
+    "Dosage": "0.3-0.6 g",
+    "Samples of Formulae": "To promote vomiting (for accidental ingestion of poison): Dan Fan (hydrated copper sulfate) 3 g, Gua Di (melon pedicel) 3 g. Grind into fine powder and take with water.",
+    "Contraindications": "Not to use when the body is weak.",
+    "Research": "",
+    "Notes": "Dan fan is hydrated copper sulfate (CuSO4·5H2O), also known as chalcanthite in mineralogy. The name 'ya chui lu dan fan' refers to its duck-bill green color appearance.",
+    "Chemical Ingredients": [
+      "Copper sulfate pentahydrate (CuSO4·5H2O; 硫酸銅)"
+    ],
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "dan fan, Complementary and Alternative Healing University\n\n\n\n\n\n\n\nComplementary and Alternative Healing\n        University\n Home \n        \n現代 \n        中藥辭典\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch \n            this site \n\n\n\n\n\n\n\nSearch this site\n\n\n\n\n\nList of Health Problems\n\n\n\n\n\nChinese Herb Dictionary\n\n\n\n\n\n            Qigong\n\n\n\n\n\nTraditional Chinese \n            Medicine (TCM)\n\n\n\n\n\nAcupuncture\n\n\n\n\n\nPrescribed Drug \n            Dictionary\n\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\n            Lecture Slides\n\n\n\n\nResearch Librarian\n\n\n\n\n\nGeneral Online Library\n\n\n\n\n\nSearch\n\n\n\n\n\nResearch Sites\n\n\n\n\n\nViagra\n\n\n\n\n\nMassage/Acupressure\n\n\n\n\n\nHypnotherapy\n\n\n\n\nTell us \n            what you want\n\n\n\n\n\nNotify Changes & New Information\n\n\n\n　\n　\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n\n\n\n\n\n \n\ndan fan (Hydrated Copper Sulfate)  膽礬  \n        \n        (in English and Chinese 中英文)\nby: Joe Hing kwok Chu\n\nPharmaceutical name:\n英文藥名﹕ \nChemical name:\n學名﹕Hydrated Copper SulfatePron. in Japanese:日語發音﹕ Pron. in Korean:韓語發音﹕ Pron. in Cantonese:粵音﹕ Other Names:別名﹕ya chui lu dan fan 鴨嘴綠膽礬Common Name:英文名﹕ChalcanthiteDistribution:產地﹕\n          Mainly produced in western part of China.主產於中國西部。Properties(characteristics)﹕性味﹕sour, acrid, cold and toxic酸﹐辛﹐寒；有毒。\nChannels (meridians) entered: \n歸經﹕liver, gall bladder\n          肝﹐胆。\nMedical functions:藥理﹕ \n            Promotes bile secretion.利膽作用。\nActions & Indications:\n主治﹕Internal use: for promoting vomiting, getting rid of excessive wind/cold type of phlegm, toxic material.External use: for drying out wounds, getting rid of rotten part of boils, dislodging wind/cold type of phlegm, sore throat, epilepsy, eating toxic substances, infected eyes, boils in the mouth, infected gum, swollen boils unable to rupture.内服催吐，涌吐風痰，毒物；外用解毒收濕，蝕瘡去腐。用于風痰堵塞，喉痹，癲癇，誤食毒物，風眼赤爛，口瘡，牙疳，腫毒不破等。 \nChemical ingredients:\n化學成份﹕copper sulfate \n            (CuSO4�5H2O)硫\n            酸銅Dosage:用量﹕0.3-0.6 gSamples of formulae:處方舉例﹕To Promote Vomiting: dan fan 3 g, \n          \n          gua \n          di 3 g. Make into fine powder. Take with water. (can be used in ingesting poison by accident)催吐﹕膽礬 3克﹐瓜蒂 3克研成細末一次冲服。\nModern Research:\n現代研究﹕ \nCautions:\n禁忌﹕Not to use when the body is weak.體虛者忌服。　\nSponsors' Ads by Google 以下為谷歌所提供贊助者之廣告\n\n\n \n\n\n\n\n\n\n\nA manuscript... writing, translating and proofreading              in progress\n\n\nClick here for \n            comment. (Not for inquiry ) \n         \n            Click here for inquiry \n \n \n\n\n            Copyright Notice 按此看關於版權問題\n\n\n\n\n\nList of Health Problems\n\n\n\nChinese Herb Dictionary\n\n\n\nToxicity of Some Herbs\n\n\n\n\nSide Effect of Some Herbs\n\n\n\nHerbs that can be toxic to \n                kidneys\n\n\n\nTraditional Chinese \n                Medicine\n\n\n                TCM Diagnosis\n\nSamples \n                of Formulae\n\n\n\nAcupuncture\n\n\n\n\ncopy right\n \n\n版權所有\n\n\nQigong \n                (chi kung)\n\n\n\nPrescribed Drug \n                Dictionary\n\n\n\nEmail our web master for  \n                your suggestion (not for inquiry)\n\n\n\n                Biochemistry Dictionary\n\n\n\n\nGeneral \n                Online Library\n\n\nQigong classes\n\n\nFake Email \n                Warning\n\n\nResearch Librarian\n\n\n\nSearch\n\n\n\n\nQigong classes\n\n\n\n\n\n\nHome\n\n\n\nWeather Report\n\n\n   \n                Disclaimer\n\n\n\n\n\n\n\n\n\n\n\n           \n\n\n \n              \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLast update: Aug 14, 2012; \n          11:22 p.m. LAH\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "original_url": "http://alternativehealing.org/dan_fan.htm"
+  },
+  {
+    "Names": {
+      "Name": ["lu fan", "zao fan", "qing fan"],
+      "Pharmaceutical": ["ferrous sulfate heptahydrate"],
+      "Chemical": [
+        "ferrous sulfate heptahydrate (FeSO4·7H2O)",
+        "硫酸亞鐵 (FeSO4.7H2O)"
+      ],
+      "Common": [
+        "Melanterite. It is named in 1850 from the Greek word for \"copperas,\" meaning ferrous sulfate. [1]"
+      ],
+      "Other name": [
+        "shui lu fan (水綠礬)",
+        "lu fan (綠礬)",
+        "qing fan (青礬)",
+        "jiang fan (絳礬)",
+        "black alum (黑礬/黑矾)",
+        "ferrous sulphate",
+        "ferrous sulfate",
+        "green vitriol",
+        "iron vitriol",
+        "mol-iron",
+        "iron sulfate",
+        "iron sulphate",
+        "iron protosulfate",
+        "haemofort",
+        "ironate",
+        "irosul",
+        "presfersul"
+      ],
+      "Chinese": ["綠礬", "皂礬", "青礬", "水綠礬", "絳礬", "黑礬"],
+      "Pronunciation in Korean": [
+        "joban (皂礬, literally: black alum)",
+        "nogban (綠礬, literally: green alum)",
+        "cheongban (靑礬, literally: green (darker) alum)"
+      ],
+      "Pronunciation in Japanese": ["ryosan dai ichi tetsu (硫酸第一鉄)"],
+      "Pronunciation in Cantonese": ["luk6 faan6", "zou6 faan6", "cing1 faan6"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Chemical",
+    "Geography": [
+      "China: Shandong, Hunan, Gansu, Xinjiang, Shaanxi, Anhui, Zhejiang, Henan"
+    ],
+    "Properties": ["Sour", "Cool", "Toxic"],
+    "Meridians": ["Liver", "Spleen"],
+    "Maladies Treated": [
+      "Boils (external application)",
+      "Skin ulcers (external application)",
+      "Skin fungal infection (external application)",
+      "Scabies/tinea with pruritus (疥癬瘙痒) (external application)",
+      "Edema due to deficiency (黃胖虛腫) (internal use)",
+      "Parasite accumulation with abdominal pain (虫積腹痛) (internal use)"
+    ],
+    "Medical Function": [
+      "Rids of toxins and dampness (external use on integumentary lesions).",
+      "Kills parasites and stops itching (external use).",
+      "Dries dampness, kills parasites, and tonifies blood (internal use).",
+      "As tonic and rids of parasites for deficiency-related edema and abdominal pain due to parasites (internal use)."
+    ],
+    "Dosage": "Internal use: 0.8–1.6 g each time; use after calcination (煅用); make into pill or powder form (入丸散剤).\n\nExternal use: appropriate amount; sprinkle as powder or mix for application; or prepare a solution for washing.",
+    "Samples of Formulae": "For leukemia therapy: Dan Fan San (蛋礬散).\n\nFor iron deficiency anemia in pregnancy (懷孕期缺鐵性貧血)\n\nFor anemia caused by kidney failure (腎臟性貧血): Zao Fan (皂矾/黑矾; black alum / ferrous sulfate heptahydrate) 200 g, Da Zao (大棗; jujube) 500 g, wheat flour (stir-fried) 400 g, Gong Ding Xiang (公丁香; clove) 10 g, honey 200 g. Mix well and form pea-sized pills; take 10–15 pills each time, twice daily. Source: Chronic Nephritis Prevention and Treatment, Chinese and Western Methods (<<慢性肾炎中西医防治>>).",
+    "Contraindications": "Internal use may sometimes cause vomiting, abdominal pain, diarrhea, and dizziness. Not for patients with stomach disease who have had hematemesis within the past 3 months. Use with caution in individuals with weak stomach or in pregnancy; do not take during pregnancy. Avoid tea while taking. Large dosages can be fatal.",
+    "Research": "",
+    "Notes": "Color/form: green or greenish-black crystals; historically used for dyeing black, hence the name 'zao' (black) fan.\n\nAfter heating at high temperature (calcination), it decomposes to Fe2O3, yielding a very fine powder with strong activity.",
+    "Chemical Ingredients": [
+      "Main component in naturally occurring material: ferrous sulfate heptahydrate (FeSO4·7H2O).",
+      "Impurities may be present depending on mine location: copper, aluminum, magnesium, zinc.",
+      "Process-related change: after high-heat calcination, decomposes to iron(III) oxide (Fe2O3) with very fine particle size and high activity."
+    ],
+    "References": ["[1] 《全國中草藥匯編．上冊》"],
+    "Further Reading": ["See here 牛津大學化學網"],
+    "Original Text": "zao fan, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home     現代中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　　　　 　　　　　                       　            　　　 lu fan, zao fan, qing fan 綠礬,皂礬,青礬(in English and Chinese 中英文) by: Joe Hing kwok ChuPharmaceutical name:英文藥名﹕ferrous sulfate heptahydrateChemical name:化學名﹕ferrous sulfate heptahydrate (FeSO4.7H2O )硫酸亞鐵 (FeSO4.7H2O )Pron. in Japanese:日語發音 ﹕ryosan dai ichi tetsu (硫酸第一鉄）Pron. in Korean:韓語發音 ﹕joban (皂礬, literally: black alum)；nogban (綠礬, literally: green alum)；cheongban (靑礬, literally green (darker) alum).Pron. in Cantonese:粵音﹕luk6 faan6，zou6 faan6，cing1 faan6.Other Names:別名﹕shui lu fan水綠礬lu fan綠礬qing fan青礬jiang fan絳礬Synonyms:英文別名：ferrous sulphate, ferrous sulfate, green vitriol, iron vitriol, mol-iron, iron sulfate, iron sulphate, iron protosulfate, haemofort, ironate, irosul, mol-iron, presfersulCommon Name:英文名﹕Melanterite. It is named in 1850 from the Greek word for \"copperas,\" meaning ferrous sulfate. [1]Distribution:產地﹕Mainly being produced in Shandong, Hunan, Gansu, Xinjiang, Shaanxi, Anhui, Zhejiang, Henan provinces of China.產山東、湖南、甘肅、新疆、陝西、安徽、浙江、河南等地。Properties(characteristics)﹕性味﹕sour, cool, toxic.酸 ，涼，有毒。Channels (meridians) entered: 歸經﹕liver, spleen.肝﹐脾經。Medical functions:藥理﹕  Actions & Indications:主治﹕Actions & Indications: Rids of toxins and dampness: being used externally on boils, skin ulcers, skin fungal infection . As tonic and rids of parasites: being used in edema due to deficiency; parasites and pain in the abdomen.主治﹕解毒燥濕，殺虫止痒：外用治瘡毒潰爛，疥癬瘙痒。 燥濕殺虫補血：用於黃胖虛腫，虫積腹痛。  Chemical ingredients:化學成份﹕The naturally occurring zao fan is mainly  FeSO 4 7H 2 O. Because of location of the mine, it may contain various amount of impurities, like copper, aluminum, magnesium and zinc etc.天然綠礬主要含硫酸亞鐵 (FeSO 4 7H 2 O)，因產地不同，常含或多或少的銅、鋁、鎂、鋅等夾雜物。Dosage:用 量﹕Internal use: 0.8 to 1.6 g, each time. Bake and make into pill or powder form. 内服每次0.8～1.6g，煅用，入丸散剤。外用適量，翳膜撒或调敷，或為溶液塗洗。Samples of formulae:處方舉 例﹕For leukemia therapy: dan fan san 蛋 礬散For Iron Deficiency Anemia in Pregnancy 懷孕期缺鐵性貧血For anemia caused by kidney failure: zao fan 200 g, da zao (pitted) 500 g, wheat flour (stir fry) 400 g, cloves 10 g, honey 200 g. Mix well and make into pills about the size of peas. Take 10 to 15 pills each time, twice a day. (source: Chronic Nephritis Prevention and Treatment, Chinese and  Western Methods)腎臟性貧血﹕皂矾(黑矾)200克，大 棗肉500克。炒熟薺麥麵400克，公丁香10克，蜂蜜200克，制成如豌豆大丸，每次10--15粒，每日服两次。<<慢性肾 炎中西 医防治>>Modern Research:現代研究﹕ Cautions:禁忌﹕Sometimes taken internally may cause vomiting, diarrhea, dizziness. Not to \n  be used by those with bleeding ulcer within the past 3 months. Not to be taken by pregnant women. While taking this herb, do not use tea. Large dosage can cause death.內服有時能引起嘔吐﹐腹痛﹐腹瀉﹐ 頭暈。胃病患者﹐在三個月內有嘔血史者不宜服用。胃弱或孕婦慎用。服用期間忌飲茶。大 剤量 能致命。The color of zao fan is green or greenish black crystal. The early usage was for dying black, so it has been called zao (black) fan.  After heating in high heat it becomes Fe2O3 , which is a very fine \n  powder and with very active characteristics.皂礬又 名綠礬,青礬，因最早用於染黑，所以也叫皂礬，為綠色結晶物.青礬經煅燒 後，分解成粒度非常細而活性又很強的 Fe2O3。Sponsors' Ads by Google 以 下為谷歌所提供之廣告 A manuscript... writing, translating and proofreading  in progress Click here for comment. (Not for inquiry )    Click here for inquiry  Copyright Notice 按 此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report  DisclaimerLast update:Dec. \n    12,  2012,  4:49 p.m. LAHSearch this site       参考：《全國中草藥匯編．上冊》[1]  See here  牛津大學化學網  \n",
+    "original_url": "http://alternativehealing.org/qing_fan.htm"
+  },
+  {
+    "Names": {
+      "Name": ["Chuan bei mu", "Zhe bei mu", "chuan bei", "bei mu", "zhe bei"],
+      "Pharmaceutical": [
+        "chuan bei mu: Bulbus Fritillariae Cirrhosae",
+        "zhe bei mu: Bulbus Fritillariae Thunbergii"
+      ],
+      "Biological": [
+        "chuan bei mu: Fritillaria cirrhosa D. Don",
+        "chuan bei mu: F. unibracteata Hsiao et K. C. Hsiao",
+        "chuan bei mu: F. prezwalskii Maxim.",
+        "chuan bei mu: F. delavayi Franch.",
+        "zhe bei mu: Fritillaria thunbergii Miq.",
+        "zhe bei mu: Fritillaria verticillata Willd. var. Fritillaria thunbergii Bak."
+      ],
+      "Chemical": [],
+      "Common": ["tendrilled fritillaria blb", "fritillaria"],
+      "Other name": [
+        "chuan bei 川貝",
+        "jian bei mu 尖貝母",
+        "zhe bei 浙貝",
+        "xiang bei 象貝",
+        "da bei mu 大貝母",
+        "Prescription names: chuan bei, zhe bei, dong bei, da bei, yuan bao bei, zhu bei"
+      ],
+      "Chinese": [
+        "川貝母",
+        "浙貝母",
+        "川貝",
+        "尖貝母",
+        "浙貝",
+        "象貝",
+        "大貝母",
+        "處方名：川貝，浙貝，東貝，大貝，元寶貝，珠貝"
+      ],
+      "Pronunciation in Korean": ["ch'onp'aemo"],
+      "Pronunciation in Japanese": ["senbaimo"],
+      "Pronunciation in Cantonese": [
+        "cyun1 bui3 (chuan bei 川貝)",
+        "zit3 bui3 (zhe bei 浙貝)"
+      ],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Chuan bei mu (Bulbus Fritillariae Cirrhosae): Sichuan, Yunnan, Xizang (Tibet)",
+      "Zhe bei mu (Bulbus Fritillariae Thunbergii): Zhejiang, Jiangsu, Anhui, Hunan"
+    ],
+    "Properties": [
+      "Chuan bei mu: mildly cold; sweet; bitter",
+      "Zhe bei mu: bitter; cold"
+    ],
+    "Meridians": ["Heart", "Lung"],
+    "Maladies Treated": [
+      "Hot cough due to yinxu (yin deficiency) with thick phlegm",
+      "Breast scrofula (瘰癧) and nodules",
+      "External application for boils; malignant sores (惡瘡)",
+      "Chronic cough that injured yin (leads to yinxu); dry cough without phlegm — chuan bei mu",
+      "Cough with yellow phlegm; stagnant phlegm with cough — zhe bei mu",
+      "Lung heat (肺熱) patterns",
+      "Lung abscess (肺癰)",
+      "Mastitis (乳腺炎)",
+      "Lung deficiency (肺虛) pattern",
+      "Prolonged cough (久咳)"
+    ],
+    "Medical Function": [
+      "Clears Lung heat and resolves phlegm; disperses nodules; can be applied externally for boils and malignant sores",
+      "Moistens the Lung to stop cough in Lung dryness and chronic cough injuring yin; indicated for dry cough without phlegm — chuan bei mu",
+      "Stronger opening and purging to clear the Lung, resolve stagnant phlegm, and stop cough; suitable for yellow phlegm presentations — zhe bei mu",
+      "Suppresses cough and expels phlegm",
+      "Small amounts of the saponin can raise blood pressure in dogs, cats, and rabbits while large amounts can lower it",
+      "Injection of 7.5 ml/kg peimine to rabbits increased blood sugar and maintained it for more than 2 hours",
+      "Antibiotic effect"
+    ],
+    "Dosage": "Decoction: 3–10 g.\nPowder taken with water: 1–2 g.",
+    "Samples of Formulae": "Dang Gui Bei Mu Ku Shen Wan (當歸貝母苦參丸)\nJie Geng Bai San (桔梗白散)\nYang Fei Tang (養肺湯)",
+    "Contraindications": "Do not use in individuals with pixu (spleen deficiency), presence of damp (wet) phlegm, and cold cough.\nDo not use the following: she dan chuan bei mo (蛇膽川貝末), chen pi chuan bei mo (陳皮川貝末), chuan bei mo (川貝末), fu fang she dan chuan bei mo (復方蛇膽川貝末).\nRaw bei mu is toxic and is not for internal use.",
+    "Research": "Small amounts of the saponin from bei mu can raise blood pressure in dogs, cats, and rabbits, while large amounts can lower it.\nInjection of 7.5 ml/kg peimine to rabbits increased blood sugar and maintained it for more than 2 hours [3].\nAn antibiotic effect has been reported.",
+    "Notes": "Chuan bei mu and zhe bei mu are two distinct types of fritillaria bulbs with different properties. Chuan bei mu is milder and moisturizing, better for dry cough and yin deficiency. Zhe bei mu is colder with stronger purging action, better for phlegm-heat conditions with yellow phlegm. Raw bei mu is toxic and should not be used internally.",
+    "Chemical Ingredients": [
+      "Chuan bei mu (川貝母): chinpeimine, sonpeimine, fritimine, sipemine",
+      "An zi bei mu (暗紫貝母): songbeisine, 26-Imino-17, 23β-oxido-5α-jerv-12-en-11-oxo-3β-ol [1]",
+      "Gansu bei mu (甘肅貝母): minpeimine, minpeiminine",
+      "Suo sha bei mu (梭砂貝母): Imperialine, Delavine, Delavinone [2], Chuanbeinone [3], Dalafrinone [(22S,25S)-3β,16β-dihydroxy-5α-cevanin-6-one], Dalafrine [(22S,25S)-5α-cevanine-3β,6β,16β-triol], (22R,25S)-Solanid-5-enine-3β,5α,6β-triol [4], beilupeimine, fritiminine",
+      "Zhe bei mu (浙貝母): peimine, peiminine, propeimine, peimidine, peimiphine, peimisine, peimitidinek, isoverticine, peimisnoside"
+    ],
+    "References": [],
+    "Further Reading": [
+      "chuan_bei.htm",
+      "bei_mu.htm",
+      "zhe_bei_mu.htm",
+      "zhe_bei.htm"
+    ],
+    "Original Text": "chuan bei, bei mu, zhe bei, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代 中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　Sponsored Ads by Google　                                                          Chuan bei mu  川貝母; Zhe bei mu  浙貝母 (in English and Chinese 中英文)by: Joe Hing Kwok ChuClick here to see picture of herb. 按此看圖。Pharmaceutical name:英文药名：chuan bei mu: Bulbus Fritillariae Cirrhosaezhe bei mu: Bulbus Fritillariae ThunbergiiBiological name:拉丁學名：chuan bei mu:   Fritillaria cirrhosa D. Don; F. unibracteata Hsiao et K. C. Hsiao, F. prezwalskii Maxim., F. delavayi Franch.zhe bei mu: Fritillaria thunbergii Miq., also as Fritillaria verticillata Willd. var. Fritillaria thunbergii Bak.Pron. in Japanese:日語發音：senbaimoPron. in Korean:韓語發音：ch'onp'aemoPron. in Cantonese:粤語發音：cyun1 bui3 (chuan bei 川貝);zit3 bui3 (zhe bei 浙貝)Other Names:別名：chuan bei mu:  chuan bei 川貝, jian bei mu 尖貝母zhe bei mu: zhe bei 浙貝, xiang bei 象貝, da bei mu 大貝母Common Name:tendrilled fritillaria blb, fritillariaPrescription Names:  處方名﹕chuan bei, zhe bei, dong bei, da bei, yuan bao bei, zhu bei.川貝﹐浙貝﹐東貝﹐大貝﹐元寶貝﹐珠貝。　Distribution:分佈：chuan bei mu: Sichuan, Yunnan, Xizangzhe bei mu: Zhejiang, Jiangsu, Anhui, Hunan川貝母：四川，云南，西藏。浙貝母：浙江，江蘇，安徽，湖南。Properties (characteristics):藥性:chuan bei mu: mildly cold, sweet, bitterzhe bei mu: bitter cold川貝母: 性微寒，味甘苦 。浙貝母: 苦，寒。 Channels (meridians) entered:歸經:heart, lung心, 肺Actions & Indications:功用:Clears lung heat and rids of phlegm, hot cough due to yinxu with thick phlegm, breast scrofula, nodules, external application for boils.Chuan bei mu is mildly cold and good for moisturizing: chronic cough that injured yin ( into yinxu), dry cough without phlegm.zhe bei mu is colder than chuan bei mu: its purging is stronger than chuan bei mu. It is used for getting rid of stagnant phlegm, stopping cough. Suitable for cough with yellow phlegm.潤肺散結，止咳化痰。肺 熱 ，陰虛 咳 嗽 痰 稠 ， 肺癰，乳 腺 炎 ，  肺 虛 ， 瘰 瘳 ， 久 咳 ， 外治惡瘡。川貝母苦甘微寒，以滋潤見長，用於肺燥咳嗽及久咳傷陰，乾咳無痰的。 浙貝母苦寒，寒性大於川貝，開泄力大。用於清肺散結，化痰止咳。有黃痰者適用。 Medical Function:1. Suppress cough and expels phlegm.2. Small amount of the saponin can raise blood pressure of dogs, cats, and rabbits while large amount can lower it.3. injection of 7.5 ml/kg peimine to rabbits, increased blood sugar and it was able to maintain it for more than 2 hours [3]4. antibiotic effect. 祛痰止咳。小量的貝母之皂素能增高貓，狗，兔子的血壓。大量則能降低其血壓。給兔子注射7.5ml/kg 貝母甲素能增高其血糖并能维持多過2小時。有抗生素之作用。(more to be loaded)Chemical Ingredients:化學成份:　　　　　　　Chemical Ingredients:1. Chuan bei mu (川貝母): chinpeimine, sonpeimine, fritimine, sipemine.2. An zi bei mu (暗紫貝母):  songbeisine, 26-Imino-17, 23beta-oxido-5alpha-jerv-12-en-11-oxo-3beta-ol[1].3. Gansu bei mu (甘肅貝母): minpeimine, minpeiminine.4. Suo sha bei mu (梭砂貝母): Imperialine, Delavine, Delavinone[2], Chuanbeinone[3], Dalafrinone [(22S, 25S) -3beta, 16Beta-dihydroxy-5alpha-cevanin-6-one], Dalafrine[ (22S, 25S) -5alpha-cevanine-3beta, 6beta, 16beta-triol] (22R, 25S) - Solanid-5-enine-3beta, 5alpha, 6beta-triol[4], beilupeimine, fritiminine.5. Zhe bei mu (浙貝母): peimine, peiminine, propeimine, peimidine, peimiphine, peimisine, peimitidinek, isoverticine, peimisnoside.Dosage:用量:For decoction: 3 to 10 g. As powder form (mixed in water): 1 to 2 g.煎服:3克至10克。研粉沖服或調服用1克至2克。Commonly Used formulae:常用配方: jie geng bai san, yang fei tang.dang gui bei mu ku shen wan當歸貝母苦參丸，桔梗白散，養肺湯。Modern Research:to be loadedCautions:禁忌:Not to use by those withpixu (spleen deficient), cold, with wet phlegm and cold cough. Also not to use she dan chuan bei mo, chen pi chuan bei mo, chuan bei mu, fu fang she dan chuan bei mo. Raw bei mu is toxic and not for internal use.脾虛及有濕痰 寒咳者忌用貝母。 包括：蛇膽川貝末，陳皮川貝末，川貝末，復方蛇膽川貝末。生的貝母有毒， 不可內服。Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告   A manuscript... writing, translating and proofreading                  in progressClick here for comment. (Not for inquiry )     Click here for inquiry  Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    DisclaimerLast update: April 25. 2012;  12 p .m. LAHchuan_bei.htm  bei_mu.htm  zhe_bei_mu.htm zhe_bei.htm  ",
+    "original_url": "http://alternativehealing.org/zhe_bei.htm"
+  },
+  {
+    "Names": {
+      "Name": ["xin yi", "xin yi hua"],
+      "Pharmaceutical": ["flos Magnoliae"],
+      "Biological": [
+        "Magnolia kobus, D.C.",
+        "Magnolia liliflora Desr. (紫玉蘭)",
+        "Magnolia biondii Pamp. (望春玉蘭)",
+        "Magnolia sprengeri Pamp (武當玉蘭)",
+        "Magnolia denudata Desr. (白玉蘭)",
+        "Magnolia fargesii"
+      ],
+      "Chemical": [],
+      "Common": ["blond magnolia flower"],
+      "Other name": [
+        "xin yi hua (辛夷花)",
+        "mu bi hua (木筆花)",
+        "chun hua (春花)"
+      ],
+      "Chinese": ["辛夷", "辛夷花", "木筆花", "春花"],
+      "Pronunciation in Korean": ["sinihwa (xin yi hua)"],
+      "Pronunciation in Japanese": ["shini (xin yi)"],
+      "Pronunciation in Cantonese": ["san1 ji4 faa1"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Henan (China)",
+      "Anhui (China)",
+      "Hubei (China)",
+      "Sichuan (China)",
+      "Shaanxi (China)"
+    ],
+    "Properties": ["Warm", "Acrid", "Slightly bitter"],
+    "Meridians": ["Spleen", "Lung", "Stomach"],
+    "Maladies Treated": [
+      "Headache",
+      "bi yuan (鼻渊; chronic infection of sinus)",
+      "Stuffy nose",
+      "Tooth ache"
+    ],
+    "Medical Function": [
+      "Lowers blood pressure",
+      "Stimulates uterus",
+      "Inhibits fungi",
+      "The essential oil possesses anti-inflammatory effect: can lower the permeability of blood vessels of inflamed tissue, inhibit non-specific inflammatory swelling, lessen Freund's adjuvant-induced arthritis, and also inhibit chronic inflammation hyperplasia"
+    ],
+    "Dosage": "For decoction: 3 to 9 gram. It is also made into pills or into powder form.\nExternal use: powder or water extract or distilled, for nose drop.",
+    "Samples of Formulae": "jiu nao tang 救腦湯",
+    "Contraindications": "Not to use in cases of yinxu with fire (陰虚火旺忌用).",
+    "Research": "The essential oil possesses anti-inflammatory effect: it can lower the permeability of blood vessels, inhibit immunoglobulin E–induced swelling and non-specific inflammatory swelling, lessen Freund's adjuvant–induced arthritis, and inhibit chronic inflammation hyperplasia. [1]",
+    "Notes": "Freund's adjuvant: Adjuvant is substance consisting of killed microorganisms, such as mycobacteria, in an oil and water emulsion that is administered to induce and enhance the formation of antibodies. There are a variety of adjuvants available for use in research animals; Freund's adjuvant is the most commonly used.\n\nMagnolias of China (中國的木蘭種類):\n長蕊木蘭属 Alcimandra Dandy\n1. 長蕊木蘭 Alcimandra cathcartii (Hook. f. et Thoms.) Dandy\n鹅掌楸属 Liriodendron L.\n2. 鹅掌楸 Liriodendron chinense (Hemsl.) Sarg.\n3. 雜交鹅掌楸 Liriodendron chinense脞. tulipifera\n4. 北美鹅掌楸 Liriodendron tulipifera L.\n木蘭属 Magnolia L.\n5. 絹毛木蘭 Magnolia albosericea Chun et C. Tsoong\n6. 天目木蘭 Magnolia amoena Cheng\n7. 霸王木蘭 Magnolia bawangensis Law et Zhou ined.\n8. 望春玉蘭 Magnolia biondii Pamp.\n9. 滇藏木蘭 Magnolia campbellii Hook. f. et Thoms.\n10. 香港木蘭 Magnolia championii Benth.\n11. 夜香木蘭 Magnolia coco (Lour.) DC.\n12. 美麗紫玉蘭 Magnolia concinna Law et Zhou ined.\n13. 黄山木蘭 Magnolia cylindrica Wils.\n14. 光葉木蘭 Magnolia dawsoniana Rehd. et Wils.\n15. 山玉蘭 Magnolia delavayi Franch.\n16. 玉蘭 Magnolia denudata Desr.\n17. 椭蕾玉蘭 Magnolia elliptigemmata C. L. Guo et L. L. Huang\n18. 椭圆葉玉蘭 Magnolia elliptilimba Law et Z. Y. Gao\n19. 華中木蘭 Magnolia glabrata Law et Zhou ined.\n20. 多瓣木蘭 Magnolia glabrata Law et Zhou var. multitepala Law et Zeng ined.\n21. 毛葉玉蘭 Magnolia globosa Hook. f. et Thoms.\n22. 荷花玉蘭 Magnolia grandiflora L.\n23. 窄葉荷花玉蘭 Magnolia grandiflora L. var. lanceolata Aiton\n24. 廣南木蘭 Magnolia guangnanica Law et S. C. Yang ined.",
+    "Chemical Ingredients": {
+      "Flower": [
+        "cineol",
+        "alpha-pinene",
+        "chavicol mehtyl",
+        "citral",
+        "salicifoline",
+        "inoresinol dimethyl ether",
+        "lirioresinol dimethyl ehter",
+        "magnolin",
+        "eugenol",
+        "safrole",
+        "anefthole",
+        "cinnamic aldehyde",
+        "capric acid",
+        "oleic acid",
+        "rutin"
+      ],
+      "Magnolia biondii (Flower)": ["fargesin (Magnolia Biondii only)"],
+      "Magnolia liliflora (Flower)": [
+        "flavonoid glycosides (Magnolia lilifora only)"
+      ]
+    },
+    "References": [
+      "1，陳奇.中藥藥理試驗方法學 .北京：人民衛生出版社，1994.72",
+      "2，徐叔雲 ，卞如廉，陈修.藥理試驗方法學 .第2版，北京：人民衛生出版社，1994.719、722",
+      "3，李儀奎.中藥藥理試驗方法學 .上海：上海科技出版社，1991.305",
+      "4，許濟群.方劑學上海：上海科技出版社，1985.16",
+      "5，國家中醫藥管理局.中華本草.上海：上海科技出版社，1998.40"
+    ],
+    "Further Reading": [],
+    "Original Text": "xin yi, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University   中藥詞典    Chinese Herb Dictionary      Search this site     在本網站找資料 xin yi 辛 夷xin yi hua 辛夷花 Edited by: Joe Hing kwok ChuPharmaceutical name:英文藥名﹕flos MagnoliaeBotanical name:學名﹕Magnolia kobus, D.C.Magnolia liliflora Desr. 紫玉蘭Magnolia biondii Pamp. 望春玉蘭Magnolia sprengeri Pamp 武當玉蘭Magnolia denudata Desr. 白玉蘭Magnolia fargesiiPron. in Japanese:日語發音﹕shini (xin yi)Pron. in Korean:韓語發音﹕sinihwa (xin yi hua)Pron. in Cantonese粵音﹕san1 ji4 faa1Other Names:別名﹕xin yi hua 辛夷花  , mu bi hua 木筆花  , chun hua春花Common Name:英文名﹕blond magnolia flowerDistribution:產地﹕Henan, Anhui, Hubei, Sichuan, Shaanxi provinces of China.Properties characteristics)﹕性味﹕warm, acrid, slightly bitter.性温，味辛微苦。Channels  meridians) entered: 歸經﹕spleen, lung, stomach.入脾  ,  肺  , 胃经。Medical functions:藥理﹕ lowers blood pressurestimulates uterusinhibits fungithe essential oil possesses anti-inflammatory effect 降血壓興奮子宮抑制真菌辛夷揮 發油具有抗炎作用: 能降低炎症組 織 血管的通透性，抑制非特異 炎性腫脹 ，缓解福氏佐劑性 關 節 炎 ，對 慢性炎症增生也有抑制作用。 [1]Actions & Indications:主治﹕headache, chronic infection of sinus, stuffy nose, tooth ache.治頭痛，鼻渊，鼻塞不通，牙痛。Chemical ingredients:化學成份﹕cineol, alpha-pinene, chavicol mehtyl, citral, salicifoline; inoresinol dimethyl ether, lirioresinol dimethyl ehter, magnolin, fargesin (Magnolia Biondii only); eugenol, safrole, anefthole, cinnamic aldehyde, capric acid, oleic acid, rutin, flavonoid glycosides (Magnolia lilifora only).Dosage:用量﹕For decoction: 3 to 9 gram. It is also made into pills or into powder form.External use: powder for or water extract or distilled, for nose drop.内服：煎湯，3 ~9 克 ；或入丸、散。外用：研末塞鼻或水浸蒸餾滴鼻。Samples of formulae:處方舉例﹕jiu nao tang 救腦湯Modern Research:現代研究﹕the essential oil possesses anti-inflammatory effect: it can lower the the permeability of blood vessels, inhibit immunoglobulin E induced swelling, lessens Freud's adjuvant induced arthritis, also can inhibit chronic inflammation hyperplasia .辛夷揮 發油具有抗炎作用: 能降低炎症組織血管的通透性，抑制非特異 炎性腫脹，缓解福氏佐劑性 關節炎，對慢性炎症增生也有抑制作用。 [1]Toxicity & Cautions:毒素與禁忌﹕Not to use in cases of yinxu with fire 陰虚火旺忌用。 Freund's adjuvant: Adjuvant is substance consisting of killed microorganisms, such as mycobacteria, in an oil and water emulsion that is administered to induce and enhance the formation of antibodies. There are a variety of adjuvants are available for use in research animals, Freund's adjuvant is the most commonly used.佐 劑：佐劑是特異 性免疫试劑。 佐劑是指與抗原混合注入機體後，能增加抗原的免疫性或者能改变免疫反應類型的一種物质。最常用的佐劑是福氏佐劑. （Freund�s  adjuvant），具有明顯的免疫剌激作用。 中國的木蘭種類 Magnolias of China   [2] 長蕊木蘭属 Alcimandra Dandy 1. 長蕊木蘭 Alcimandra cathcartii (Hook. f. et Thoms.) Dandy 鹅掌楸属 Liriodendron L. 2. 鹅掌楸 Liriodendron chinense (Hemsl.) Sarg. 3. 雜交鹅掌楸 Liriodendron chinense脞. tulipifera 4. 北美鹅掌楸 Liriodendron tulipifera L. 木蘭属 Magnolia L. 5. 絹 毛木蘭 Magnolia albosericea Chun et C. Tsoong 6. 天目木蘭 Magnolia amoena Cheng 7. 霸王木蘭 Magnolia bawangensis Law et Zhou ined. 8. 望春玉蘭 Magnolia biondii Pamp. 9. 滇藏木蘭 Magnolia campbellii Hook. f. et Thoms. 10. 香港木蘭 Magnolia championii Benth. 11. 夜香木蘭 Magnolia coco(Lour.) DC. 12. 美麗紫玉蘭 Magnolia concinna Law et Zhou ined. 13. 黄山木蘭 Magnolia cylindrica Wils. 14. 光葉木蘭 Magnolia dawsoniana Rehd. et Wils. 15. 山玉蘭 Magnolia delavayi Franch. 16. 玉蘭 Magnolia denudata Desr. 17. 椭蕾玉蘭 Magnolia elliptigemmata C. L. Guo et L. L. Huang 18. 椭圆葉玉蘭 Magnolia elliptilimba Law et Z. Y. Gao 19. 華中木蘭 Magnolia glabrata Law et Zhou ined. 20. 多瓣木蘭 Magnolia glabrata Law et Zhou var. multitepala Law et Zeng ined.  21. 毛葉玉蘭 Magnolia globosa Hook. f. et Thoms. 22. 荷花玉蘭 Magnolia grandiflora L. 23. 窄葉荷花玉蘭 Magnolia grandiflora L. var. lanceolata Aiton 24. 廣南木蘭 Magnolia guangnanica Law et S. C. Yang ined. [1] 山西醫藥雜誌; 王文魁　沈映君　齊雲[2] 中國木蘭 ISBN：7-5304-2765-2/s.168 References: 　   1，陳奇.中藥藥理試驗方法學 .北京：人民衛生出版社，1994.72 　　2，徐叔雲 ，卞如廉，陈修.藥理試驗方法學 .第2版，北京：人民衛生出版社，1994.719、722 　　3，李儀奎.中藥藥理試驗方法學 .上海：上海科技出版社，1991.305 　　4，許濟群.方劑學上海：上海科技出版社，1985.16 　　5，國家中醫藥管理局.中華本草.上海：上海科技出版社，1998.40 Search this siteProblems with website? Please Click here for comment. (Not for inquiry )    Click here for inquiryCopyright Notice 按此看關於版權問題Sponsors' Ads by Google 以下為谷歌 所提供之廣告A manuscript... writing, translating and proofreading  in progress List of Health ProblemsQigong (chi kung)Toxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese Medicine TCM Diagnosis Samples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong classesPrescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry Dictionary Qigong classes Research Librarian  HomeWeather ReportDisclaimerLast update: Aug 5, 2014; 10 p.m. LAH   ",
+    "original_url": "http://alternativehealing.org/xin_yi.htm"
+  }
+]

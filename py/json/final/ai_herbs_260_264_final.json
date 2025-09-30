@@ -1,0 +1,615 @@
+[
+  {
+    "Names": {
+      "Name": ["xiao ji", "小薊"],
+      "Pharmaceutical": [
+        "Herba Cirsii setosi",
+        "Radix Cirsii setosi",
+        "Herba Cephalenoplos",
+        "Radix Cephalenoplos"
+      ],
+      "Botanical": [
+        "Cirsium setosum (Willd.) MB",
+        "Cephanoplos setosum (Willd.) Kitarn"
+      ],
+      "Chinese": ["小薊", "刺兒菜", "刺薊"],
+      "Common": ["English: thistle root, thistle leaves"],
+      "Other": ["ci er cai 刺兒菜", "ci ji 刺薊"],
+      "Pronunciation in Korean": [],
+      "Pronunciation in Japanese": ["shokei"],
+      "Pronunciation in Cantonese": ["siu2 ga3"],
+      "Pinyin Pronunciation": ["xiao ji"]
+    },
+    "Type": "Herb",
+    "Geography": ["China (produced in most parts of the country)"],
+    "Properties": ["Sweet", "Bitter", "Cool"],
+    "Meridians": ["Heart", "Liver"],
+    "Maladies Treated": [
+      "Boiling into soup or eating raw has the effect of stopping bleeding. Used for reckless movement of blood due to heat and symptoms such as vomiting blood, nosebleed, blood in urine, blood dribbling (painful urinary blood), blood in stool, uterine bleeding, etc. — can all be used as an auxiliary dietary therapy. ",
+      "Nose bleeding (衄血) when taken raw or as a decoction",
+      "Hematuria (尿血) when taken raw or as a decoction",
+      "Acute infectious hepatitis (急性傳染性肝炎): beneficial effect reported",
+      "External traumatic bleeding: external application of the smashed herb to the affected area",
+      "Boils, sores, abscesses, and carbuncles with swelling toxicity (疔、瘡、癰、疽等腫毒): external application of the smashed herb",
+      "Bleeding after gastrectomy: xiao ji (thistle) 30 g decocted in 800 ml water down to 200 ml; used by intragastric administration; 11 patients; satisfactory result [1]",
+      "Stubborn insomnia: dry herb 6 g or fresh herb 10 g infused with 30–50 ml boiling water for 10 minutes, taken before bed; 2 months as one therapy period; 56 patients; good result and no undesirable side effect [2]",
+      "Hypertension (高血壓): reported clinical treatment",
+      "Infectious hepatitis (傳染性肝炎): reported clinical treatment",
+      "External injury infection (外傷感染): reported clinical treatment",
+      "Leprosy-related epistaxis (麻風性鼻衄): reported clinical treatment",
+      "Postpartum uterine subinvolution (產後子宮收縮不全): reported clinical treatment",
+      "Metrorrhagia (血崩): reported clinical treatment"
+    ],
+    "Medical Function": [
+      "Arrests bleeding: constricts blood vessels, increases platelet count, promotes platelet aggregation, increases thrombin (coagulation enzyme) activity, inhibits fibrinolysis, and rapidly stops bleeding",
+      "Inhibits bacteria",
+      "Lowers lipids",
+      "Promotes gall excretion (choleretic)",
+      "Promotes urination (diuretic)",
+      "Enhances cardiac function",
+      "Increases blood pressure",
+      "Can arrest bleeding when taken raw or as a decoction",
+      "Prevention of bacillary dysentery (臨床以本品為主，還可預防菌痢)"
+    ],
+    "Dosage": "Decoction: 10–15 g; use double the amount if using fresh herb. Do not overcook.\nExternal application: appropriate amount; smash and apply to affected areas.",
+    "Samples of Formulae": "Bleeding after gastrectomy: xiao ji (thistle) 30 g with 800 ml water, simmered down to 200 ml; administered by gastric infusion. Used on 11 patients; result satisfactory. [1]\n\nStubborn insomnia: dry herb 6 g or fresh herb 10 g placed in a cup, pour 30–50 ml boiling water, infuse 10 minutes; take before bed. Two months as one therapy period; 56 patients; good result and no undesirable side effect. [2]\n External use: Pound and apply externally to treat deep carbuncles, sores, abscesses, ulcers and other swellings with toxins, as well as external traumatic bleeding.",
+    "Contraindications": "",
+    "Research": "In vitro antibacterial experiment: the decoction inhibited Staphylococcus aureus, Pseudomonas aeruginosa, Corynebacterium diphtheriae, pneumococcus, Vibrio cholerae (cholerae), Escherichia coli, and Salmonella enterica serovar Typhi (傷寒杆菌).\n\nClinical report (bleeding after gastrectomy): xiao ji 30 g + 800 ml water, decocted to 200 ml; intragastric administration; 11 cases; efficacy satisfactory. Source: Zhejiang Chinese Medical Journal, 2001. [1]\n\nClinical report (stubborn insomnia): dry herb 6 g or fresh herb 10 g infused with 30–50 ml boiling water for 10 minutes; taken before bed; 2 months/course; 56 cases; definite efficacy; no adverse reactions. Source: Shandong Chinese Medical Journal, 1995. [2]",
+    "Notes": "Xiao ji tan (charred xiao ji) processing: Place clean xiao ji sections in a wok. Stir-fry over high heat until the surface is about 70% charred-black, retaining the herb’s nature, and sparks are seen. Spray a small amount of water to extinguish sparks, lightly dry, remove and cool. After charring, the hemostatic effect is strengthened.",
+    "Chemical Ingredients": {
+      "Components": [
+        "Alkaloids",
+        "Flavonoids: hispidulin-7-neohesperidoside, linarin, pectolinarin, luteolin (木犀草素)",
+        "Triterpenoid",
+        "Simple phenolic acids",
+        "Hemostatic constituents: acacetin-7-dirhamnoside, rutin (芸香苷/蘆丁), caffeic acid, chlorogenic acid, protocatechuic aldehyde, taraxasterol"
+      ]
+    },
+    "References": [
+      "[1] Zhejiang Chinese Medical Journal, July, 2001, p 295. 浙江中醫雜誌，2001，7，285",
+      "[2] Shandong Chinese Medical Journal, Sept 1995, p 14. 山東中醫雜誌，1995，9：14"
+    ],
+    "Further Reading": [],
+    "Original Text": "xiao ji,Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home 現代 中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　    　      　　    　　　　　                            xiao ji  小薊       (in English and Chinese 中英文) Translated and edited by: Joe Hing kwok Chu  Pharmaceutical name:英文藥名﹕Herba Cirsii setosi, Radix Cirsii setosiHerba Cephalenoplos; Radix CephalenoplosBotanical name:學名﹕Cirsium setosum (Willd.) MB; Cephanoplos setosum (Willd.) Kitarn.Pron. in Japanese:日語發音﹕shokeiPron. in Korean:韓語發音﹕ Pron. in Cantonese:粵音﹕siu2 ga3Other Names:別名﹕ci er cai 刺兒菜，ci ji 刺薊，Common Name:英文名﹕thistle root, thistle leaves.Distribution:產地﹕Produced in most part of China.全國大部分地 區均產。Properties(characteristics)﹕性味﹕sweet, bitter, cool.甘，苦，涼。Channels (meridians) entered: 歸經﹕heart, liver.歸心，肝經。Medical functions:藥理﹕ Arrests bleeding: the herb can constrict blood vessels, increase platelet count, promote platelet coagulation, increase the activity of zymoplasm, inhibit fibrinolysis and rapidly stop bleeding.Inhibits bacteria: in vitro: experiments show that the decoction  can inhibit  Staphylococcus aureus,  Pseudomonas aeruginosa, Corynebacterium diphtheriae, pneumococcus, cholerae,  Escherichia coli, Salmonella enterica serovar TyphiLowers lipidsPromotes gall excretionPromotes urinationEnhance cardiac functionIncrease blood pressure能收縮血管，升高血小板數目，促進血小板聚集及增高凝血酶活性，抑制纖溶，從而加速止血。體外實驗表明，小薊煎劑對白喉杆菌，肺炎球菌，溶 血性鏈球菌，金黃色葡萄球菌，綠膿杆菌，變形杆菌，大腸杆菌，傷寒杆菌等有一定的抑制作用。此外，本品尚能降脂，利膽，利尿，強心，升壓等。Actions & Indications:主治﹕Taking it raw or as decoction can arrest bleeding.Being used in vomiting bleed, nose bleeding, hematuria (blood in urine), infection of urinary tract with bleeding, hematochezia (blood in stool),  menorrhagia (abnormally heavy or extended menstrual flow).It is also beneficial for acute infectious hepatitis.煮湯或生食有止血作用。用於血熱妄動以及症見吐血，衄血，尿血，血淋，便血，血崩等，均可作輔助食療，對高血壓，急性傳染性肝炎亦有一定療效。外用：搗爛外敷，治疔，瘡，癰，疽等腫毒及外傷出血。Chemical ingredients:化學成份﹕Alkaloids, flavonoids  (hispidulin-7-neohesperidoside , linarin, pectolinarin and luteolin 木犀草素), triterpenoid, and simple phenolic acidsIts ingredients that arrest bleeding are: acacetin-7--dirhamnoside,  rutin, caffeic acid, chlorogenic acid, protocatechuic aldehyde, and  taraxasterol.主要含生物鹼，黃酮 ( 剛毛黃酮-7 -新橙皮糖苷， 蒙花甙，大薊苷，木犀草素)，三萜以及簡單酚酸。其中止血活性成分 有刺槐素-7-鼠李糖苷，芸香苷 （蘆丁），咖啡酸，綠原酸，原兒茶醛以及蒲公英甾醇等。Dosage:用量﹕For decoction: 10 to 15 g. Double the amount if using fresh herb. Do not over cook.External application: use appropriate amount. Smash and apply to affected areas.煎服，10～15g， 鮮品加倍。不可久煎。外用適量，搗敷患處。Samples of formulae:處方舉例﹕Bleeding after gastrectomy:  using xiao ji 30 g,  800 ml of water. Simmered down to 200 ml. Used on 11 patients. Result was satisfactory. [1]Stubborn insomnia: using  dry herb 6 g or fresh herb 10 g. Pour 30 to 50 ml of boiling water and soak ed for 10 minutes, using it before bed, 2 months as one therapy period, on 56 patients, produced good result and no undesirable side effect.. [2]治療胃切除術後出血: 用小薊30g，加水800ml，煎取200ml，灌胃。11例，療效滿意（浙江中醫雜誌，2001，7，285） ；頑固性失眠：用小薊干品6g或鮮品10g放入杯中，用開水30～50ml浸泡10分鐘，睡前服，療程2個月。共治療56例， 療效確切，無不良反應（山東中醫雜誌，1995，9：14）。臨床以本品為主，還可預防菌痢，治療高血壓，傳染性肝炎，外傷感染，麻風性鼻衄，產 後子宮收縮不全及血崩等。Modern Study:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕Xiao ji tan: Literally means charcoal of xiao ji. Put clean xiao ji sections into a wok. Stir fry in high heat till about 70% is charred and with sparks. Turn off heat. Spray with some water to put off the sparks. Take out and let sit to cool. After being charred, the property of arresting bleeding is stronger.小薊炭: 取淨小薊 段置炒藥鍋內，用武火加熱翻炒至表面約七成顯炭黑色，存性，並見有火星，噴淋少許清水，滅淨火星，微炒干，取出攤晾。炒炭後可增強其止血的作用。 [1] Zhejiang Chinese Medical Journal, July, 2001, p 295. 浙江中醫雜誌，2001，7，285[2] Shandong Chinese Medical Journal,  Sept 1995, p 14. 山東中醫雜誌，1995，9：14  Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告 A manuscript... writing, translating and proofreading  in progressProblems with website? Please Click here for comment. (Not for inquiry )      Click here for inquiry  Copyright Notice 按此看關於 版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some Herbs  Side Effect of Some Herbs  Herbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesLecture SlidesResearch LibrarianSearchQigong classesHomeWeather Report    DisclaimerLast update: Dec 26, 2012 10 a.m. LAHSearch this site         \n",
+    "original_url": "http://alternativehealing.org/xiao_ji.htm"
+  },
+  {
+    "Names": {
+      "Name": ["huang shui qie", "黃水茄"],
+      "Pharmaceutical": [
+        "Fructus Solani coagulans",
+        "Radix Solani coagulans",
+        "Folium Solani coagulans"
+      ],
+      "Botanical": [
+        "Solanum coagulans Forsk. [S. sanctum L.]",
+        "Solanum incanum Ruiz. & Pav.",
+        "Solanum panduriforme E.Mey. ex Dunal"
+      ],
+      "Chinese": [
+        "黃水茄",
+        "黃果茄",
+        "顛茄樹",
+        "野茄",
+        "凝固茄",
+        "苦天茄",
+        "洋苦茄",
+        "黃果珊瑚",
+        "丁茄",
+        "黃天茄",
+        "衫鈕果",
+        "狗茄子",
+        "牛茄子",
+        "苦蘋果"
+      ],
+      "Common": [
+        "English: Bitter apple, Bitter tomato, Grey bitter apple, Sodom’s apple, Thorn apple",
+        "French: Aubergine sauvage, Pomme de Sodome",
+        "Swahili: Mnyanya-mwitu, Mnyanya-porini, Mtua, Mtunguja, Mtunguja-mwitu, Mtula"
+      ],
+      "Other": [],
+      "Pronunciation in Korean": ["hwangcheonga"],
+      "Pronunciation in Japanese": [
+        "no nasu",
+        "ki toge nasu",
+        "ōsui nasu",
+        "ki ten nasu"
+      ],
+      "Pronunciation in Cantonese": ["wong4 seoi2 ke4"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Taiwan",
+      "Guangdong (China)",
+      "Guangxi (China)",
+      "Yunnan (China)"
+    ],
+    "Properties": ["Bitter", "Acrid", "Cool"],
+    "Meridians": ["Lung", "Heart", "Liver"],
+    "Maladies Treated": [
+      "Cough",
+      "Asthma",
+      "Rheumatoid arthritis (風濕性關節炎)",
+      "Urinary infection; 熱淋 (heat strangury urinary disorder)",
+      "Orchitis (睪丸炎)",
+      "Toothache",
+      "Carbuncle and festering sores (癰瘡潰爛)"
+    ],
+    "Medical Function": [
+      "Arresting cough and soothing asthma (止咳平喘)",
+      "Detoxifying (解毒) and reducing swellings (消腫)",
+      "Arresting pain (止痛)"
+    ],
+    "Dosage": "Oral (decoction): 9–15 g.\nExternal application: appropriate amount; smash and apply, or wash with decoction.",
+    "Samples of Formulae": "For sinus inflammation: Make a decoction of huang shui qie (Bitter apple / Bitter tomato) root and ku gua (bitter melon) roots. Take orally.",
+    "Contraindications": "Huang shui qie is toxic. Overdose can cause dry mouth, thirst, difficulty in swallowing, fever, dry and reddened skin, dilated pupils, blurry vision, and other symptoms.\nSevere poisoning can cause respiratory and circulatory inhibition, and even respiratory failure resulting in death.",
+    "Research": "",
+    "Notes": "",
+    "Chemical Ingredients": {
+      "Leaves": [
+        "Coumarin-type substances: scopoletin (東莨菪素)",
+        "Coumarin-type substances: esculetin (馬栗樹皮素)"
+      ],
+      "Roots": [
+        "Coumarin-type substances: scopoletin (東莨菪素)",
+        "Coumarin-type substances: esculetin (馬栗樹皮素)"
+      ],
+      "Fruit": [
+        "Coumarin-type substances: scopoletin (東莨菪素)",
+        "Coumarin-type substances: esculetin (馬栗樹皮素)",
+        "carpesterol (黃果茄甾醇)",
+        "diosgenin (薯蕷皂甙元)",
+        "β-sitosterol (β-谷甾醇)",
+        "cycloartanol (環木菠蘿烷醇)",
+        "cycloartenol (環木菠蘿烯醇)",
+        "stigmasterol (豆甾醇)",
+        "campesterol (菜油甾醇)",
+        "cholesterol (膽甾醇)",
+        "sitosteryl solamargine (谷甾醇葡萄糖甙)",
+        "β-solamargine (β-澳洲茄邊鹼)",
+        "4α-mathyl-(24R)-ethylcholest-7-en-3β-ol (4α-甲基-（24R）-乙基膽甾-7-烯-3β-醇)",
+        "4α-methyl-24ξ-ethyl-5ξ-cholest-7-en-3β,22ξ-diol (4α-甲基-24ξ-乙基-5α-膽甾-7-烯-3β,22ξ-二醇)",
+        "3β-benzoxy-14β,22ξ-dihydroxy-4α-methyl-24ξ-ethyl-5α-cholest-7-en-6-one (3β,22ξ-二羥基-4α-甲基-24ξ-乙基-5α-膽甾-7-烯-6-酮)",
+        "3β-benzoxy-14α,22ξ-dihydroxy-4α-methyl-24ξ-ethyl-5α-cholest-7-en-6-one (3β-苯甲酰-14α,22ξ-二羥基-4α-甲基-24ξ-乙基-5α-膽甾-7-烯-6-酮)",
+        "3β-(p-hydroxy)-benzoxy-22ξ-diol (3β-（對羥基）苯甲酰-22ξ-羥基-4α-甲基-24ξ-乙基-5α-膽甾-7-烯-6-酮)",
+        "norcarpesterol, 22-hydroxy-6-oxo-4-methyl-24-methylcholest-7-en-yl benzoate (去甲黃果茄甾醇)",
+        "solasonein (澳洲茄鹼)",
+        "solasurine (刺茄子鹼)",
+        "β-sitosterol-galactoside (β-谷甾醇-半乳糖甙)",
+        "caffeic acid (咖啡酸)",
+        "methylcaffeate (咖啡酸甲酯)"
+      ],
+      "Seeds": ["Free amino acids: lysine (賴氨酸), leucine (亮氨酸)"],
+      "Ash": [
+        "Ash content 5.9%: contains K, Na, Mg, and trace amounts of Fe and Cu"
+      ],
+      "Fatty acids": [
+        "oleic acid (油酸)",
+        "linoleic acid (亞油酸)",
+        "palmitic acid (軟脂酸)",
+        "stearic acid (硬脂酸)"
+      ]
+    },
+    "References": [
+      "[1] National Herbal Compendium 全國中草藥匯編",
+      "[2] Zhong Hua Ben Cao 中華本草",
+      "[3] \"Pamphlet of Commonly used Chinese Herbs\" of Guangzhou Arm Forces, 廣州部隊《常用中草藥手冊》",
+      "[4] http://www.plantnames.unimelb.edu.au/Sorting/Solanum_eggplants.html"
+    ],
+    "Further Reading": [],
+    "Original Text": "huang shui qie , Complementary and Alternative Healing University\nComplementary and Alternative Healing University \n  中藥詞典                 Chinese Herb Dictionary      Search this site     在本網站找資料     Discussion FormSearch this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　                 　      　　 huang shui qie 黃水茄         (in English and Chinese 中英文)Translated by: Joe Hing kwok Chu 朱興國編譯 Pharmaceutical name:英文藥名﹕Fructus Solani coagulansRadix Solani coagulansFolium Solani coagulansBotanical name:學名﹕\nSolanum coagulans Forsk.[S. sanctum L.]\n\nSYNONYM(S) : \n\nSolanum incanum Ruiz. & Pav.,  Solanum \npanduriforme E.Mey. ex DunalPron. in Japanese:日語發音﹕\nno nasu (野茄), \n  \nki toge nasu \n  (黄刺茄)， \nōsui nasu \n  (黄水茄)， \nki ten nasu \n  (黄天茄)Pron. in Korean:韓語發音﹕\n  hwangcheonga \n  (黄天茄)Pron. in Cantonese::粵音﹕\n  wong4 seoi2 ke4 \n  (黄水茄)Other Names:別名﹕huang guo qie黃果茄dian qie shu顛茄樹ye qie野茄ning gu qie凝固茄ku tian qia苦天茄yang ku qie洋苦茄huang guo shan hu黃果珊瑚ding qie丁茄huang tian qie黃天茄san niu guo衫鈕果gou qie zi狗茄子niu qie zi牛茄子ku ping guo苦蘋果Common Name:外文名﹕\n\nENGLISH : Bitter apple, Bitter tomato, Grey bitter apple, Sodom�s apple, Thorn \napple. [4)\nFRENCH :  \nAubergine sauvage, Pomme de Sodome.[4)\nSWAHILI :  Mnyanya-mwitu, Mnyanya-porini, Mtua, Mtunguja, Mtunguja-mwitu, Mtula. \n[4)Distribution:產地﹕Taiwan, Guangdong, Guangxi, Yunnan provinces of China.台灣，廣東，廣西，雲南。Properties(characteristics)﹕性味﹕bitter, acrid, cool.苦，辛，涼。Channels (meridians) entered: 歸經﹕lung, heart, liver.肺，心，肝。Medical functions:藥理﹕  Actions & Indications:主治﹕Arresting cough and soothing asthma; reducing swellings, arresting pain. For treating cough; asthma; rheumatoid arthritis;  urinary infection; orchitis; toothache; carbuncle and  festering sores。止咳平喘；解毒消腫；止痛。主咳嗽；哮喘；風濕性關節炎；熱淋；睪丸炎；牙痛；癰瘡潰爛。Chemical ingredients: [2]化學成份﹕【2】 \n\nLeaves, roots and fruit contain cumarin type of substances:\n\n  葉、根和果實中含香豆精類物質：\n\n\n\n  socpoletin\n\n  東莨菪素\n\n\n\n  esculetin\n\n  馬栗樹皮素\n\n\nFruit contain\n\n  果中含\n\n\n\n  carpesterol\n\n  黃果茄甾醇\n\n\n\n  diosgenin\n\n  薯蕷皂甙元\n\n\n\n  β-sitosterol\n\n  β-谷甾醇\n\n\n\n  cycloartanol\n\n  環木菠蘿烷醇\n\n\n\n  cycloartenol\n\n  環木菠蘿烯醇\n\n\n\n  stigmasterol\n\n  豆甾醇\n\n\n\n  campesterol\n\n  菜油甾醇\n\n\n\n  cholesterol\n\n  膽甾醇\n\n\n\n  sitosteryl solamargine\n\n  谷甾醇葡萄糖甙\n\n\n\n  β-solamargine\n\n  β-澳洲茄邊鹼\n\n\n\n  4α-mathyl-(24R)-ethylcholest-7-en-3β-ol\n\n  4α-甲基-（24R）-乙基膽甾-7-烯-3β-醇\n\n\n\n  4α-methyl-24ξ-ethyl-5ξ-cholest-7-en-3β，22ξ-diol\n\n  4α-甲基-24ξ-乙基-5α-膽甾-7-烯-3β，22ξ-二醇\n\n\n\n  3β-benzoxy-14β，22ξ-dihydroxy-4α-methyl-24ξ-ethyl-5α-cholest-7-en-6-one\n\n  3β，22ξ-二羥基-4α-甲基-24ξ-乙基-5α-膽甾-7-烯-6-酮\n\n\n\n  3β-benzoxy-14α，22ξ-di-hydroxy-4α-methyl-24ξ-ethyl-5α-cholest-7-en-6-one\n\n  3β-苯甲酰-14α，22ξ-二羥基-4α-甲基-24ξ-乙基-5α-膽甾-7-烯-6-酮\n\n\n\n  3β-（p-hydroxy)-benzoxy-22ξ-diol\n\n  3β-（對羥基）苯甲酰-22ξ-羥基-4α-甲基-24ξ-乙基-5α-膽甾-7-烯-6-酮\n\n\n\n  norcarpesterol,22-hydroxy-6-oxo-4-methyl-24-methylcholest-7-en-ylbenzoate\n\n  去甲黃果茄甾醇\n\n\n\n  solasonein\n\n  澳洲茄鹼\n\n\n\n  solasurine\n\n  刺茄子鹼\n\n\n\n  β-sitosterol-galactoside\n\n  β-谷甾醇-半乳糖甙\n\n\n\n  caffeicacid\n\n  咖啡酸\n\n\n\n  methylcaffeate\n\n  咖啡酸甲酯\n\n\nThe seeds contain free amino acied:\n\n  種子含游離氨基酸:\n\n\nlysine\n\n  賴氨酸\n\n\n\n  leucine\n\n  亮氨酸\n\n\nAsh is 5.9%, among them:\n\n  灰分為5.9％，其中:\n\n\nK、Na、Mg \n  and trace amount of Fe and Cu\nK, Na, Mg 及痕跡的Fe, \n  Cu\n\n\n\n  The fatty acid:\n\n  其脂肪酸為\n\n\n\n  oleic acid   \n\n  油酸\n\n\n\n  linoleic acid\n\n  亞油酸\n\n\n\n  palmitic acid \n\n  軟脂酸\n\n\nstearic \n  acid\n\n  硬脂酸\n\n\nDosage:用 量﹕Oral: for decoction 9 to 15 g.External application: use appropriate amount. Smash and apply or wash with decoction.內服：煎湯，9-15g。外用：適量，搗敷或煎水洗。Samples of formulae:處方舉 例﹕For treatment of sinus inflammation: Make decoction of huang shui qie root and bitter melon roots. Take orally.治鼻竇炎：以黃水茄根及苦瓜根，水煎服。Modern Research:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕Huang shui qie is toxic. Overdose can cause dry mouth, thirst , difficulty in swallowing , fever , dry skin, redness , dilated pupils , blurry vision and other symptoms. If poisoning is severe, it can cause respiratory , circulatory inhibition and even respiratory failure and result in death.黃水茄有毒，劑量過大可導致口乾、口渴、吞咽困難、體溫升高、皮膚乾燥發紅、瞳孔擴大、視力模糊等中毒症狀，重者可出現呼吸、循環抑制，甚至呼吸衰竭而致死。[1] National Herbal Compendium 全國中草藥匯編[2] Zhong Hua Ben Cao  中華本草[3] \"Pamphlet of Commonly used Chinese Herbs\" of Guangzhou Arm Forces,  廣州部隊《常用中草藥手冊》\n[4] http://www.plantnames.unimelb.edu.au/Sorting/Solanum_eggplants.html  Problems with website? Please Click here for comment. (Not for inquiry )      Click here for inquiry    Ads by Google:   A manuscript... writing, translating and proofreading  in progress  Copyright Notice 按此看關於 版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese Medicine TCM Diagnosis Samples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesDisclaimerHomeWeather ReportLast update: \nSept 5, 2014,  3:16 p.m. LAH　  \n",
+    "original_url": "http://alternativehealing.org/huang_shui_qie.htm"
+  },
+  {
+    "Names": {
+      "Name": ["Morinda citrifolia", "xi shu guo"],
+      "Pharmaceutical": ["Fructus Morindae citrifoliae"],
+      "Botanical": ["Morinda citrifolia L."],
+      "Chinese": ["檄樹果"],
+      "Common": ["Indian Mulberry", "noni", "great Morinda"],
+      "Other name": [
+        "shui dong gua 水冬瓜",
+        "chun gen 椿根",
+        "nuo li 諾麗",
+        "nuo li 諾利",
+        "hai ba ji 海巴戟",
+        "ju ye ba ji 橘葉巴戟",
+        "ju ye ji yan teng 橘葉雞眼藤",
+        "ju ye ba ji tian 橘葉巴戟天",
+        "gui tou guo 鬼頭果",
+        "yin di an na sang shen 印第安那桑椹"
+      ],
+      "Pronunciation in Korean": [],
+      "Pronunciation in Japanese": [],
+      "Pronunciation in Cantonese": ["hat6 syu6 gwo2"],
+      "Pinyin Pronunciation": [
+        "xi shu guo",
+        "shui dong gua",
+        "chun gen",
+        "nuo li",
+        "hai ba ji",
+        "ju ye ba ji",
+        "ju ye ji yan teng",
+        "ju ye ba ji tian",
+        "gui tou guo",
+        "yin di an na sang shen"
+      ]
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Hawaii",
+      "Malaysia",
+      "Indonesia",
+      "Taiwan",
+      "the Philippines",
+      "Vietnam",
+      "Africa",
+      "Guam",
+      "South Western India",
+      "Pacific islands",
+      "Taiwan—Hengchun Peninsula; Chimei island of Penghu; Green Island; Orchid Island; coastal forests"
+    ],
+    "Properties": ["Bitter", "Cold"],
+    "Meridians": [],
+    "Maladies Treated": [
+      "Upper respiratory tract infection",
+      "Sore throat",
+      "Hepatitis",
+      "Jaundice-type hepatitis (icteric hepatitis)",
+      "Jaundice",
+      "Damp-heat dysentery",
+      "Diarrhea",
+      "Scalding and burns",
+      "Swelling of unknown origin",
+      "Eczema",
+      "Gum erosion",
+      "Periodontal disease",
+      "Skin redness and swelling",
+      "Cellulitis",
+      "Allergic dermatitis",
+      "High blood pressure",
+      "Diabetes"
+    ],
+    "Medical Function": [
+      "Anthelmintic against human roundworm (leaves)",
+      "Hepatoprotective effect in acute liver injury (fruit juice)",
+      "Immunomodulatory effect (fruit juice)"
+    ],
+    "Dosage": "Internal use: decoction 15–30 g; fresh 60–120 g; or make into powder; or make into juice and mix with honey for oral consumption or for gargling.\nExternal use: appropriate amount; wash and smash to apply topically; or use decoction for washing; or sun-dry and grind into powder to apply as paste; or make into topical creams or face cream and apply.",
+    "Samples of Formulae": "To blacken hair: pandan leaves, as much as 7 sheets, washed and cut into pieces. Boil with 1 liter of water and simmer until the color is green. Let the decoction sit overnight. The next morning, squeeze 3 ripe noni fruit to get juice. Mix the juice with the leaf decoction made earlier. Use the mixture to wash hair. Do it 3 times a week, until you see the results. (translated from Indonesian Agriculture Department website, [2])\nHepatitis with jaundice: xi shu guo (noni fruit) 30 g, you dun cao (Sabah snake grass) 30 g, fresh pandan leaves (pandan leaves) 60 g. Boil with water and take orally. (Source: Hulu.com, Section of Experienced Formulae) * See Toxicity and Cautions.",
+    "Contraindications": "The Panel on Dietetic Products, Nutrition and Allergies of European Food Safety Authority concludes that “Morinda citrifolia (Noni) fruit puree and concentrate as novel food ingredients” under the specified conditions are considered safe for the general population.\nHowever the Panel considers that the increasing number of case reports might indicate that some individuals have a particular sensitivity for hepatotoxic effects to noni fruit products.\nNoni fruit (and its products) are listed by the U.S. State Food and Drug Administration (FDA) as toxic items.\nReports indicate: (1) those with renal dysfunction had higher chance for renal damage. (2) more cases of acute hepatitis have been reported after consumption of noni products.",
+    "Research": "In vitro tests: the ethanol extract of noni (Morinda citrifolia) leaves showed a good anthelmintic effect in getting rid of human roundworm.\nHepatoprotective effect: noni fruit juice had a protective role in acute liver damage induced by carbon tetrachloride (CCl4) in female Sprague-Dawley (SD) rats.\nImmunomodulatory effects: noni fruit juice administered to mice in vivo and in vitro; continuous oral administration for 16 days increased interferon-γ (IFN-gamma) levels, with a mechanism involving CB2 receptor activation and inhibition of IL-4.",
+    "Notes": "",
+    "Chemical Ingredients": {
+      "Root": [
+        "2-methyl-7-hydroxy-8-methoxy-anthraquinone",
+        "morintrifolins A",
+        "morintrifolins B",
+        "1,2-dihydroxyanthraquinone",
+        "1,3-dihydroxy-2-methylanthraquinone",
+        "2-hydroxy-3-(hydroxymethyl)anthraquinone",
+        "1,3,6-trihydroxy-2-methylanthraquinone"
+      ],
+      "Fruit": [
+        "1,6-dihydroxy-5-methoxy-2-methoxymethylanthraquinone",
+        "1,5,7-trihydroxy-6-methoxy-2-methoxymethylanthraquinone",
+        "isoamericanoic acid A",
+        "scopoletin",
+        "luteolin",
+        "americanin A",
+        "americanin D",
+        "3,3′-bisdemethylpinoresinol",
+        "p-cresol",
+        "p-hydroxybenzoic acid",
+        "p-hydroxybenzaldehyde",
+        "4-hydroxy-3-methoxybenzaldehyde",
+        "4-hydroxy-3-methoxycinnamaldehyde",
+        "2,5-dihydroxy-4-methoxybenzaldehyde",
+        "plumbagin",
+        "alizarin",
+        "purpurin",
+        "chrysazin",
+        "emodin",
+        "anthrarufin",
+        "morinaphthalenone",
+        "1,3-dimethoxy-anthraquinone",
+        "1,2-dihydroxy-anthraquinone",
+        "1,5,15-tri-O-methylmorindol",
+        "2-O-(beta-D-glucopyranosyl)-1-O-hexanoyl-beta-D-gluropyranose",
+        "2-O-(beta-D-glucopyranosyl)-1-O-octanoyl-beta-D-gluropyranose"
+      ],
+      "Stem and branches": [
+        "morindicone (9-hydroxy-2-methoxy-4-methyl-3,10-anthracenedione)",
+        "morinthone (4-methoxy-3-heptadecylxanthone)",
+        "1-hydroxy-2-methylanthraquinone",
+        "2-hydroxymethylanthraquinone",
+        "morindicinone (2-hydroxy-1,8-dimethoxy-7-methoxymethylanthraquinone)",
+        "morindicininone (4-hydroxymethyl-1,3-dimethoxyanthraquinone)",
+        "2-hydroxyanthraquinone",
+        "2-methoxyanthraquinone"
+      ],
+      "Leaves": ["citrifoside", "1,5,15-trimethylmorindol"]
+    },
+    "References": [
+      "[1] Encyclopedia of Taiwan. 台灣百科全書",
+      "[2] http://agricenter.jogjaprov.go.id/index.php?action=generic_content.main&id_gc=256",
+      "台灣維管束植物簡誌",
+      "Zhong Hua Ben Cao 中華本草",
+      "中國植物志",
+      "台灣植物圖鑑"
+    ],
+    "Further Reading": [],
+    "Original Text": "Morinda citrifolia ,Complementary and Alternative Healing University\n\n\n\n\n\nComplementary and Alternative Healing \n    University \n \n\n\n\n\n\n中藥詞典    Chinese Herb Dictionary    \n     \n\n\nSearch this \n    site    \n    在本網站找資料\n\n\n\n\n\n \n xi shu guo 檄樹果  (in English and Chinese 中英文)Translated by: Joe Hing kwok Chu  朱興國編譯\nPharmaceutical name:英文藥名﹕Fructus Morindae citrifoliaeBotanical name:學名﹕Morinda citrifolia L.Pron. in Japanese:日語發音﹕ Pron. in Korean:韓語發音﹕ Pron. in Cantonese::粵音﹕\n      hat6 syu6 gwo2Other Names:別名﹕shui dong gua 水冬瓜, chun gen 椿根, nuo li 諾麗, nuo li 諾利, hai ba ji 海巴戟, ju ye ba ji 橘葉巴戟, ju ye ji yan teng 橘葉雞眼藤, ju ye ba ji tian 橘葉巴戟天,  gui tou guo 鬼頭果, yin di an na sang shen印第安那桑椹,Common Name:外文名﹕Indian Mulberry, noni, great MorindaDistribution:產地﹕\n      Country of Origin: Hawaii, Malaysia, Indonesia, Taiwan, the \n      Philippines, Vietnam, Africa, Guam and South Western India,Pacific islands.In Taiwan, the distribution: in the Hengchun Peninsula, Chimei island of Penghu, Green Island and OrchidIsland and other  places of coastal forest. [1]  原產地：夏威夷、馬來西亞、印度尼西亞、臺灣、菲律賓、越南、非洲、關島和印度西部南太平洋\n      的海島地在台灣，分佈 於恆春半島、澎湖七美嶼、綠島及蘭嶼等地的海岸森林內。[1]Properties(characteristics)﹕性味﹕bitter, cold.味苦，性寒。Channels (meridians) entered: 歸經﹕Medical functions:藥理﹕ 1 in vitro tests, the ethanol extract of noni leaves showed that  there was good effect in getting rid of human roundworm as an  anthelmintics 2 hepatoprotective effect: noni fruit juice has a  protective role in acute liver damage (CCl4-induced liver  injury  in female Sprague-Dawley (SD) rats).  3 immunomodulatory effects: noni fruit juice to mice in vivo and  in vitro experiments, continuous oral 16 days, increase the interferone γ  (IFN-gamma) levels, and its mechanism is CB2 receptor activation and inhibitionof IL-4 role.1.海巴戟嫩葉中的乙醇提取物，體外試驗表明，對人蛔蟲有良好的驅腸蟲作用。 2.保肝作用：檄樹果汁具有保護急性肝受損作用(CCl4誘發肝損傷，雌性Sprague-Dawley (SD) rats)。 3.免疫調節作用：檄樹果汁體內與體外實驗給予小鼠，連續口服16天，可增加γ干擾啊素(IFN-gamma)的含量，其機轉是活化CB2受器，並抑制IL-4的作用。  Actions & Indications:主治﹕Upper respiratory tract infection, sore throat, hepatitis, jaundice, damp-heat  dysentery, diarrhea, scalding and burns, swelling of unknown origin, eczema,  gum disease, skin irritation, cellulitis, allergic dermatitis, high blood pressure,  diabetes.上呼吸道感染，咽喉腫痛，肝炎，黃疸型肝炎，濕熱瀉痢，痢疾，湯火燙傷，無名腫毒，濕疹，牙齦糜爛，牙周病，皮膚紅腫，蜂窩組織炎，過敏性皮炎，高血壓，糖尿病。Chemical ingredients:化學成份﹕根含 (the roots contain):2-甲基-7-羥基-8-甲氧基蒽醌(2-methyl-7-hydroxy-8-methoxy-anthraquinone)，morintrifolins A、B，1,2-dihydroxyanthraquinone，1,3-dihydroxy-2-methylanthraquinone，2-hydroxy-3-(hydroxymethyl)anthraquinone，1,3,6-trihydroxy-2-methylanthraquinone。\n果實含 (Fruit contain):1,6-dihydroxy-5-methoxy-2-methoxymethylanthraquinone， 1,5,7-trihydroxy-6-methoxy-2-methoxymethylanthraquinone，isoamericanoic acid A，scopoletin，luteolin， americanin A，americanin D，3,3&#8242;-bisdemethylpinoresinol，p-cresol，p-hydroxybenzoic acid， p-hydroxybenzaldehyde，4-hydroxy-3-methoxybenzaldehyde，4-hydroxy-3-methoxycinnamaldehyde， 2,5-dihydroxy-4-methoxybenzaldehyde，plumbagin，alizarin，purpurin，chrysazin，emodin，anthrarufin，morinaphthalenone，scopoletin，1, 3-dimethoxy-anthraquinone，1, 2-dihydroxy-anthraquinone，1,5,15-tri-O-methylmorindol，2-O-(beta-D-glucopyranosyl)-1-O-hexanoyl-beta-D-gluropyranose，2-O-(beta-D-glucopyranosyl)-1-O-octanoyl-beta-D-gluropyranose\n莖枝含( stem and branches contain):morindicone (9-hydroxy-2-methoxy-4-methyl-3,10-anthracenedione)，morinthone (4-methoxy-3-heptadecylxanthone)，1-hydroxy-2-methylanthraquinone， 2-hydroxymethylanthraquinone，morindicinone(2-hydroxy-1,8-dimethoxy-7-methoxymethylanthraquinone)，morindicininone(4-hydroxymethyl-1,3-dimethoxyanthraquinone)，2-hydroxyanthraquinone，2-methoxyanthraquinone\n葉含 (leaves contain):citrifoside，1,5,15-trimethylmorindolDosage:用量﹕Oral consumption: decoction, 15 ~ 30 g, or fresh herb 60 ~ 120 g;  or make into the powder or make into juice and mix with honey for  oral consumption or for gargling. External use: appropriate amount,  washed, smashed apply topically or with decoction; or sun dry and make intopowder and apply as paste; or make into topical creams, or face cream and apply.內服：煎湯，15~30 g，鮮者60~120 g；或入散劑或絞汁蜜調服或搗汁含漱。外用：適量，洗淨，搗爛外敷或煎水洗或晒乾研末調敷或製成外用藥膏、\n        面霜塗敷。Samples of formulae:處方舉例﹕To blacken hair : pandan leaves, as much as 7 sheets, washed and cut into pieces . Boil with 1 liter of water and simmer until the color is green . Let the decoction sit overnigh. The next morning , squeeze 3 ripe noni fruit to get juice. Mix the juice  with the leaf decoction made earlier. Use the mixture to wash hair . Do it 3 times week , until you see the results. (translated from Indonesian Agriculture Dpt websit, [4]) Hepatitis with jaundice: xi shu guo (noni fruit) 30 g, sabah snake grass (you dun cao) 30 \n        g，fresh pandan leaves 60 \n        g. Boil with water and take orally. (Source: Hulu.com,  Section of Experienced Formulae)* See Toxicity and Cautions:. 黃疸型肝炎：諾利果30  克，沙巴蛇草(憂遁草)30 克，香林投鮮葉60 克，水煎服。(葫蘆網．驗方組)*看毒素與禁忌條。黑髮方：香蘭葉 (香林投葉)，洗淨，切成片，可多達7張。 \n        加水1公升，燒開，燉直到水色成綠色。將湯汁放過夜。第二天早上，\n        將成熟的諾麗果(檄樹果) 擠汁。混合混入香蘭葉(香林投葉)煎劑。使用混合物洗頭。每週三次，直到頭髮變黑。 [2] （編者譯自印尼農業部網站）Modern Research:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕The Panel on Dietetic Products, Nutrition and Allergies of European Food Safety Authority concludes that �Morinda citrifolia (Noni) fruit puree and concentrate as novel food \ningredients� under the specified conditions are considered safe for the general population. \nHowever the Panel considers that the increasing number of case reports might indicate that some individuals have a particular sensitivity for hepatotoxic effects to noni fruit products.  Noni fruit (and its products) are listed by the U.S. State Food and Drug Administration (FDA) as toxic items.\nThere are reports that:\n(1) those with renal dysfunction had higher chance for renal damage.\n(2) more cases of acute hepatitis have been reported after consumption of noni products. 歐洲食品安全局的飲食產品，營養和過敏專家小組得出結論認為諾麗果漿和濃縮新型食品對於一般人群，在特定條件下被認為是安全的。\n然而，小組認為，越來越多的病例報告可能表明，一些人對諾麗果產品的肝毒性作用特別敏感。 本品(及其產品)被美國國家藥物食品管理局(FDA)列為有毒植物。有報告指出：(1)腎功能低下的人，更會造成腎功能的傷害。(2)多例在食用諾麗產品後，造成急性肝炎。[1] Encyclopedia of Taiwan. 台灣百科全書[2]http://agricenter.jogjaprov.go.id/index.php?action=generic_content.main&id_gc=256 參考資料: References: 台灣維管束植物簡誌 Zhong Hua Ben Cao 中華本草 中國植物志 台灣植物圖鑑 Problems with website? Please Click here for comment. (Not for inquiry )      Click here for inquiry  \n\n\n\nCopyright Notice \n\n按此看關於版權問題\n\n\n\n\nSponsors' Ads by Google \n    以下為谷歌 所提供之廣告\n\n\n\nA manuscript... writing, translating and proofreading  in progress\n\n\n\n\n\n\n\n\nList \n        of Health Problems\n\n\n\n\nQigong \n        (chi kung)\n\n\n\n\nToxicity of Some Herbs\n\n\n\nSide Effect of Some Herbs\n\n\n\nHerbs that can be toxic to kidneys\n\n\n\n\n        Traditional Chinese Medicine\n \n\n\nTCM Diagnosis\n \n\n\n\n        Samples of Formulae\n\n\n\n\n        Terms of Traditional Chinese Medicine\n\n\n\n        Acupuncture\n\n\n\n\n\ncopy right\n \n\n\n版權所有\n\n\n\n\nQigong classes\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\n        Email our web master for  your suggestion (not for inquiry)\n\n\n\nBiochemistry Dictionary\n\n\n\n \n\n\n\nQigong \n        classes\n\n \n\n\n\nResearch Librarian\n\n \n\n\n\n \n\n\n\nHome\n\n\n\n\n        Weather Report\n\n\n\n\n        Disclaimer\n\n\nLast update: June 27, 2014; 7 p.m. \n        LAH\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n",
+    "original_url": "http://alternativehealing.org/morinda_citrifolia.htm"
+  },
+  {
+    "Names": {
+      "Name": ["da jin xiang lu"],
+      "Pharmaceutical": [
+        "Radix Melastomae normale",
+        "Folium Melastomae normale"
+      ],
+      "Biological": ["Melastoma normale D. Don."],
+      "Chemical": [],
+      "Common": [
+        "leaves of hairy melastoma",
+        "root of hairy melastoma",
+        "Indian or Singapore Rhododendron",
+        "Malabar Gooseberry"
+      ],
+      "Other name": [
+        "zhan mao ye mu dan 展毛野牧丹",
+        "jia dou ren 假豆稔",
+        "bao ya lang 豹牙郎",
+        "shi lao hu 石老虎",
+        "tian hong di bai 天紅地白",
+        "kai kou zao 開口棗",
+        "bai bao ya lang 白爆牙郎",
+        "ma yin hua 馬纓花",
+        "cha guan ye 茶罐葉",
+        "da po wan hua shu 打破碗花樹",
+        "yang kai kou 羊開口",
+        "man la 滿拉",
+        "lao hu gan 老虎杆",
+        "hei kou lian 黑口蓮",
+        "zhu ru ren 豬如稔"
+      ],
+      "Chinese": ["大金香爐"],
+      "Pronunciation in Korean": ["jeonmoyamogdan"],
+      "Pronunciation in Japanese": [],
+      "Pronunciation in Cantonese": ["daai6 gam1 hoeng1 lou4"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Nepal",
+      "the Philippines",
+      "India",
+      "Burma",
+      "Singapore",
+      "Malaysia",
+      "China: Fujian",
+      "China: Guangdong",
+      "China: Guangxi",
+      "China: Hainan",
+      "China: Tibet",
+      "Taiwan"
+    ],
+    "Properties": [
+      "Whole plant: bitter, acrid, cool. (English)",
+      "Whole plant: bitter, astringent, cool. (Chinese 全株：苦，澀，涼)",
+      "Fruit: bitter, neutral. (According to natives of Yangshou, Guangxi, the mature fruits are sweet)",
+      "Root: sour, acrid, neutral. (English)",
+      "Root: sour, astringent, neutral. (Chinese 根：味酸，澀，性平)"
+    ],
+    "Meridians": ["Spleen", "Stomach", "Lung", "Large Intestine", "Liver"],
+    "Maladies Treated": [
+      "Bulging pain of the stomach",
+      "Enteritis",
+      "Dysentery",
+      "Hepatitis",
+      "Stranuria",
+      "Coughing blood",
+      "Spitting blood",
+      "Nose bleeding",
+      "Blood in stool",
+      "Menorrhagia",
+      "Pain during menses",
+      "Leukorrhea",
+      "Hernia",
+      "Thromboangiitis obliterans",
+      "Canker sores",
+      "Herpes zoster",
+      "Pain and swelling from impact injuries"
+    ],
+    "Medical Function": [
+      "Whole plant: rids of stagnation in the digestive tract; promotes urination; promotes circulation; arrests bleeding.",
+      "Fruit: promotes circulation; arrests bleeding; promotes menses; promotes mother's milk production.",
+      "Root: improves digestion; promotes urination; promotes circulation; arrests bleeding.",
+      "General: rids blood stasis; arrests bleeding; clears toxin (解毒)."
+    ],
+    "Dosage": "Internal: decoction 9–15 g; or soak in rice wine.\nExternal: appropriate amount; smash or express juice and apply; or apply powdered form.",
+    "Samples of Formulae": "For dysentery: Bai Bao Ya Lang (da jin xiang lu) (hairy melastoma) 38 g, Di Tao Hua Gen (Urena lobata L) (Urena lobata root) 38 g. Add water, make into a decoction, take orally. Source: 《廣西中草藥》.\nFor external injuries and bleeding: Bai Bao Ya Lang (da jin xiang lu) (hairy melastoma) appropriate amount. Smash and apply to affected areas. Source: 《廣西中草藥》.",
+    "Contraindications": "Use with care during pregnancy.",
+    "Research": "",
+    "Notes": "",
+    "Chemical Ingredients": {
+      "Components": [
+        "osbeckic acid",
+        "2-furoic acid",
+        "ursolic acid",
+        "succinic acid",
+        "daucosterol",
+        "quercetin",
+        "kaempferol",
+        "quercetin-3-O-β-D-glucopyranosyl-(-6)-β-D-glucopyranoside",
+        "quercetin-3-O-β-D-glucopyranoside",
+        "kaempferol-3-O-β-D-glucopyranoside",
+        "phenol",
+        "amino acid"
+      ]
+    },
+    "References": [
+      "《Zhong Hua Ben Cao》",
+      "《Journal of Materia Medica of Nan Ning City》"
+    ],
+    "Further Reading": [],
+    "Original Text": "da jin xiang lu, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home 現代中藥辭典Search this siteSearch this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine TCMAcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　 To post your discussion click here.　    　      　　    　　　　　                           Last update: June 18 , 2013; 12 a.m. LAH d� jīn xiāng l� 大金香爐   （in English and Chinese 中英文）by: Joe Hing kwok Chu    朱興國編 譯   See picture here                    按此看圖。Pharmaceutical name:英文藥名﹕Radix Melastomae normaleFoliumMelastomae normaleBotanical name:拉丁生物學名﹕Melastoma normale D. Don.Pron. in Japanese:日語發音﹕ Pron. in Korean:韓語發音﹕ jeonmoyamogdan （展毛野牧丹）Pron. in Cantonese::粵音﹕daai6 gam1 hoeng1 lou4  (大 金香爐 )Other Names:別名﹕zhan mao ye mu dan展毛野牧丹jia dou ren假豆稔bao ya lang豹牙郎shi lao hu石老虎tian hong di bai天紅地白kai kou zao開口棗bai bao ya lang白爆牙郎ma yin hua馬纓花cha guan ye茶罐葉da po wan hua shu打破碗花樹yang kai kou羊開口man la滿拉lao hu gan老虎杆hei kou lian黑口蓮zhu ru ren豬如稔Common Names:英文名﹕leaves of hairy melastoma, root of hairy melastoma, Indian or Singapore Rhododendron, Malabar Gooseberry.Distribution:產地﹕Nepal, the Philippines, India, Burma, Singapore, Malaysia, and in provinces of Mainland China: Fujian, Guangdong, Guangxi, Hainan, Tibet and also in the island of Taiwan. 分佈於 尼泊爾、菲律賓、印度、緬甸，新加波，馬來西亞與中國福建，廣東，海南，廣西，西藏，與台 灣等地。Propertiescharacteristics﹕性味﹕Whole plant: bitter, acrid, cool.Fruit: bitter, neutral. (According to natives of Yangshou, Guangxi, the mature fruits are sweet)Root: sour, acrid, neutral.全株：苦，澀，涼。果實：苦，平。(據 廣西，陽朔當地人，成熟的果實味甜）根：味酸，澀， 性平。Channels meridians entered: 歸經﹕whole plant: spleen, stomach, lung, large intestine.全株：脾，胃，肺，肝，大腸。Medical functions:藥理﹕  Actions & Indications:主治﹕Whole plant: rids of stagnation in the digestive tract, promotes urination. promotes circulation, arrests bleeding.Fruit:promotes circulation, arrests bleeding, promotes menses, promotes mother's milk production.Root: improves digestion, promotes urination,promotes circulation, arrests bleeding.Rid ofblood stasis, arrest bleeding.  For treatment of bulging pain of the the stomach, enteritis, dysentery, hepatitis, stranuria, coughing blood, spitting blood, nose bleeding, blood in stool, menorrhagia, pain during menses, leukorrhea, hernia, thromboangiitis obliterans, canker sores, herpes zoster, pain and swelling from impact injuries.全株：消積利濕， 活血止血。果實：活血止血， 通經下乳。根：健脾利濕，活 血止血。血淤止 血；解毒。主脘腹脹痛，腸炎，痢疾，肝炎，淋濁，咳血，吐血，衄血；便血；月經過多；痛經；白 帶；疝氣痛；血栓性脈管炎；瘡瘍潰爛；帶狀疱疹；跌打腫痛。Chemical ingredients:化學成份﹕osbeckic acid金錦香酸2-furoic acid2-呋喃甲酸ursolic acid熊果酸succinic acid琥珀酸daucosterol胡蘿卜甙quercetin槲皮素kaempferol山柰酚quercetin-3-o-β-d-glucopyranosyl-（-6）-β-d- glucopyranoside槲皮素-3-o-β-d-吡喃葡萄糖基-（-6）-β-d-吡喃葡萄糖甙quercetin-3-o-β-dglucopyra-noside槲皮素-3-o-β-d-吡喃葡萄糖甙kaempferol-3-o-β-d-glu-copyranoside山柰酚-3-o-β-d-吡喃葡萄糖甙phenol酚amino acid氨基酸Daly Dosage:每日用量﹕Taking orally: in decoction 9 - 15 g. or soak in rice wine.External use: use appropriate amount. Smash or make into liquid and apply.內服：煎湯，9-15g；或浸酒。外用：適量，搗敷，絞汁塗或研末敷。Samples of formulae:處方舉例﹕For treatment of dysentery:bai bao ya lang (da jin xiang lu) 38 g, di tao hua gen (Urena lobata L) 38 g. Add water and make into decoction. Take orally.For treatment of external injuries and bleeding: use appropriate amount ofbai bao ya lang (da jin xiang lu). Smash and apply to affected areas.治痢疾：白爆牙郎、地桃花根各一兩。水煎服。（《廣西中草藥》）治外傷出血：白爆牙郎適量，搗敷患處。（《廣西中草藥》）Modern Research:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕Use with care during pregnancy.孕婦服用須小心。資料來源：《 中華本草 》《南寧市藥物志》Source of information: 《Zhong Hua Ben Cao 》；《Journal of Materia Medica of Nan Ning City》 Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告   A manuscript... writing, translating and proofreading  in progressProblems with website? Please Click here for comment. Not for inquiry   Click here for inquiry    Copyright Notice 按此看關於 版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong chi kungPrescribed Drug DictionaryEmail our web master for  your suggestion ,not for inquiryBiochemistry DictionaryGeneral Online LibraryQigong classesLecture SlidesResearch LibrarianSearchQigong classesHomeWeather Report Disclaimer　  ",
+    "original_url": "http://alternativehealing.org/da_jin_xiang_lu.htm"
+  },
+  {
+    "Names": {
+      "Name": ["zhu zi cao"],
+      "Pharmaceutical": [
+        "Herba Phyllanthi niruri",
+        "Folium Phyllanthi niruri",
+        "Radix Phyllanthi niruri",
+        "Fructus Phyllanthi niruri"
+      ],
+      "Biological": ["Phyllanthus niruri Linn.", "Phyllanthus urinaria Linn."],
+      "Chemical": [],
+      "Common": [
+        "English: stonebreaker; seed-under-leaf",
+        "Spanish: chanca piedra",
+        "Portugese: quebra pedra",
+        "Indonesian/Malay: dukung anak, dukong anak, dukong-dukong anak, amin buah, rami buah, turi hutan, meniran (Javanese)",
+        "Kanarese: kiranelligida",
+        "Marathi: bhuiavli",
+        "Hindi: bhuiaonla",
+        "Telugu: nela usiri",
+        "Sanskrit: ajata, amala, bbumyamalaki, sukshmadala, vituntika"
+      ],
+      "Other name": [
+        "zhen zhu cao 真珠草",
+        "ye xia zhu (beads under the leaves) 葉下珠",
+        "yue xia zhu (beads under the moon) 月下珠（雲南）",
+        "ba bei cai 霸貝菜（海南）",
+        "xiao fan hun (little returning to life) 小返魂（台灣）",
+        "lan tou bo 爛頭缽（廣東）",
+        "xiao mi gan cao 小蜜柑草"
+      ],
+      "Chinese": [
+        "珠子草",
+        "真珠草",
+        "葉下珠",
+        "月下珠",
+        "霸貝菜",
+        "小返魂",
+        "爛頭缽",
+        "小蜜柑草"
+      ],
+      "Pronunciation in Korean": ["chojuja"],
+      "Pronunciation in Japanese": ["Kidachimikansou (木立小蜜柑草)"],
+      "Pronunciation in Cantonese": ["zyu1 zi2 cou2"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Produced in Taiwan, Guangdong, Hainan, Guangxi, Yunnan (China).",
+      "Also distributed in India, Indo-China Peninsula, Malaysia, Indonesia, Philippines, and tropical America."
+    ],
+    "Properties": ["bland", "astringent", "slightly cold"],
+    "Meridians": ["Spleen"],
+    "Maladies Treated": [
+      "malnutrition of children (小兒疳積)",
+      "corneal clouding",
+      "conjunctivitis",
+      "nephritis",
+      "edema",
+      "Urinary Tract Infection",
+      "urinary tract stones",
+      "diarrhea",
+      "enteritis with diarrhea",
+      "bacterial dysentery (菌痢)",
+      "hepatitis",
+      "flu with fever",
+      "snakebites"
+    ],
+    "Medical Function": [
+      "Clears liver fire and improves eyesight.",
+      "Removes dampness and promotes diuresis."
+    ],
+    "Dosage": "Oral decoction: 6 to 12 g.\nFresh herb: 30 to 60 g.\nExternal application: appropriate amount of fresh herb, smash and apply.",
+    "Samples of Formulae": "",
+    "Contraindications": "May have deleterious effect on kidney and testes. [3]",
+    "Research": "Hepatoprotective effect: inhibits HBV replication. [2]\nAntiviral activity. [2]\nAnti-inflammatory activity. [2]",
+    "Notes": "",
+    "Chemical Ingredients": {
+      "Lignans": [
+        "phyllanthin (葉下珠素)",
+        "niranthin (珠子草素)",
+        "nirtetralin (珠子草次素)",
+        "phylterlin (葉下珠新素)",
+        "phyltetralin",
+        "urinatetralin",
+        "dextrobuschernin",
+        "5-demethyoxynirathin",
+        "urinaligranellagin"
+      ],
+      "Tannins": [
+        "hypophyllanthin (次葉下珠素)",
+        "corilagin (鞣料雲實素)",
+        "geraniin",
+        "hippomanin A",
+        "Phyllanthusin F",
+        "Grepandinin B",
+        "phyllanthusiin U"
+      ],
+      "Terpenoids": [
+        "β-amyrin (β-香樹脂醇)",
+        "lupeol acetate (羽扇豆醇乙酸酯)",
+        "β-sitosterol/β-stigmasterol (β-谷甾醇/β-豆甾醇)"
+      ],
+      "Flavonoids": [
+        "quercetin (斛皮素)",
+        "isoquercitin (異斛皮素)",
+        "astragalin (黄芪苷)",
+        "quercitrin (槲皮苷)",
+        "rhamnocitrin (鼠李苷)",
+        "isoquercitrin (異槲皮苷)",
+        "kaempferol (山柰酚)",
+        "daucosterol (胡蘿蔔苷)",
+        "rutin (芸香素)"
+      ],
+      "Phenolic compounds": [
+        "caffeic acid (咖啡酸)",
+        "ellagic acid (鞣花酸)",
+        "gallic acid (沒食子酸；五倍子酸或棓酸)",
+        "methylester dehydrochebulic acid (甲酯去氫訶子次酸)",
+        "brevifolin acid (短葉蘇木酚酸)",
+        "pyrogallol (鄰苯三酚)",
+        "methyl gallate",
+        "trimethyl-3,4-dehydrochebulate",
+        "n-octadecane (正十八烷)",
+        "brevifolin (短葉蘇木酚/雲實素)",
+        "brevifolin carboxylic acid (短葉蘇木酚羧酸)",
+        "methyl brevifolin carboxylate (短葉蘇木酚羧酸甲酯)",
+        "hexacosanoic acid (二十六烷酸)",
+        "1,3,4,6-tetra-O-galloyl-β-D-glucose (1,3,4,6-四-O-沒食子酰基-β-D-葡萄糖)"
+      ],
+      "Waxes": [
+        "montanoic (montanic) acid methyl ester (褐煤酸甲酯)",
+        "triacontanol (三十烷醇)"
+      ],
+      "Other": [
+        "lintetralin",
+        "isolintetralin",
+        "hinokinin (扁柏脂素)",
+        "heliobuphthalmin lactone",
+        "dextrobursehernin",
+        "virgatusin",
+        "friedelin (軟木三萜酮)"
+      ]
+    },
+    "References": [
+      "[1] http://ntur.lib.ntu.edu.tw/handle/246246/55660",
+      "[2] Chinese journal of experimental and clinical virology",
+      "[3] Indian Journal of Experimental Biology; vol 46; Jul 2008; page 504-520",
+      "[4] Prota 11(1): Medicinal plants/Plantes m嶮icinales 1,Zhonghua Shi Yan He Lin Chuang Bing Du Xue Za Zhi. 2010 Dec ;24 (6):424-6 21604565"
+    ],
+    "Further Reading": [],
+    "Original Text": "zhu zi cao, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University   中藥詞典                 Chinese Herb Dictionary               Search this siteSearch this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibraryResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information  zhu zi cao 珠子草  (in English and Chinese 中英文)Translated by: Joe Hing kwok Chu 朱興國編譯Pharmaceutical name:英文藥名﹕Herba Phyllanthi niruriFolium Phyllanthi niruriRadix Phyllanthi niruriFructus Phyllanthi niruriBotanical name:拉丁生物學名﹕Phyllanthus niruri Linn.; Phyllanthus urinaria LinnPron. in Japanese:日語發音﹕Kidachimikansou (木立小蜜柑草)Pron. in Korean:韓語發音﹕chojujaPron. in Cantonese::粵音﹕zyu1 zi2 cou2Other Names:別名﹕zhen zhu cao真珠草 ye xia zhu (beads under the leaves)葉下珠yue xia zhu (beads under the moon)月下珠（雲南）ba bei cai霸貝菜（海南）xiao fan hun (little returning to life)小返魂（台灣）lan tou bo爛頭缽（廣東）xiao mi gan cao小蜜柑草Common Names:外文名﹕English: stonebreaker; seed-under-leaf Spanish: chanca piedra Portugese: quebra pedra Indonesian/Malay: dukung anak, dukong anak, dukong-dukong anak, amin buah, rami buah, turi hutan, meniran (Javanese)  Kanarese: kiranelligidaMarathi: bhuiavli  Hindi: bhuiaonlaTelugu: nela usiri.Sanskrit: ajata, amala, bbumyamalaki, sukshmadala, vituntikaDistribution:產地﹕Produced in Taiwan, Guangdong, Hainan, Guangxi, Yunnan provinces of China. Also distributed in India, Indo-China Peninsula, Malaysia, Indonesia, Philippines and tropical America.產於台灣、 廣東、海南、廣 西、 雲南等省區。  國外分佈：分 佈於印度、 中南半 島、馬來西亞、印尼、菲律賓至熱帶美洲。   Properties(characteristics)﹕性味﹕bland, astringent, slightly cold.味淡， 澀，微寒Channels (meridians) entered:歸經﹕spleen脾Medical functions:藥理﹕hepatoprotective effect: inhibits HBV replication [2]anti virusanti inflammatory保肝作用 ：對乙 型肝炎病毒有抑制作用[2]抗病毒作 用抗炎作用Actions & Indications:主治﹕For clearing liver fire and improving eyesight, removing dampness and promoting diuresis. For malnutrition of children, corneal clouding, conjunctivitis, nephritis, edema, Urinary Tract Infection, urinary tract stones, diarrhea, enteritis with diarrhea, hepatitis, flu with fever, snakebites.清肝 火明目，滲濕利水。用於小兒疳積，角膜雲翳，結膜炎，腎炎水腫，尿道感染，尿路結石，腸炎腹瀉，菌痢，肝炎，感冒發熱，毒蛇咬傷.。Chemical ingredients[1],[4]:化學成份[1],[4]﹕Lignans:木脂素:phyllanthin葉下珠素niranthin珠子草素nirtetralin珠子草次素phylterlin葉下珠新素phyltetralinurinatetralindextrobuschernin5-demethyoxynirathinurinaligranellagitannins:鞣花丹寧：hypophyllanthin次葉下珠素corilagin鞣料雲實素geraniinhippomanin Aphyllanthusin F and Grepandinin Bphyllanthusiin Uterpenoids:萜類：β-amyrinβ-香樹脂醇lupeol acetate羽扇豆醇乙酸酯β-sitosterol/β-stigmasterolβ-谷甾醇/β-豆 甾醇flavonoids:黃酮類quercetin斛皮素isoquercitin異斛皮素astragalin黄芪苷quercitrin槲皮苷rhamnocitrin鼠李苷isoquercitrin異槲皮苷kaempferol山柰酚daucosterol胡蘿蔔苷triacontanol三十烷醇rutin芸香素phenolic compounds:酚類化合物：caffeic acid咖啡酸ellagic acid鞣花酸gallic acid沒食子酸 （五 倍子酸或棓酸）methylester dehydrochebulic acid甲酯去氫訶子次酸methyl brevifolincarboxylate hexacosanoic acid短葉蘇木酚甲基，二十六烷酸brevifolin acid短葉蘇木酚酸pyrogallol鄰苯三酚methylgallate trimethyl -3,4 dehydrochebulate沒食子兒茶素沒食子酸酯三甲基-3,4 去氫訶子次 酸鹽n-octadecane正十八烷brevifolin短葉蘇木酚brevifolin methyl hexacosane acid短葉蘇木酚羧酸methylester dehydrochebulic acid酸甲酯去氫訶子次酸methyl brevifolin carboxylate短葉蘇木酚羧酸甲酯hexacosanoic acid二十六烷酸brevifolin雲實素brevifolin carboxylic acid短葉蘇木酚羧酸1,3,4,6-tetra-O-galloyl-β-d-glucose1,3,4,6 - 四-O-沒食子酰基-β-D-葡 萄糖waxes:蠟類：montanoic acid methyl ester褐煤酸甲酯triacontanol三十烷醇Other:其他：lintetralinisolintetralinhinokinin扁柏脂素heliobuphthalmin lactonedextroburseherninvirgatusinfriedelin軟木三萜酮Daly Dosage:每日用量﹕For oral consumption,  in decoction: 6 to 12 g. Fresh herb: 30 to 60 g.External application: use appropriate amount, smash and apply.6～12克，鮮品30～60克，煎服；外用適量鮮品搗敷。Samples of formulae:處方舉例﹕ Modern Research:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕可能對腎臟與睾丸有害。[3]may have deleterious effect on kidney and testes. [3][1] http://ntur.lib.ntu.edu.tw/handle/246246/55660[2] Chinese journal of experimental and clinical virology[3] Indian Journal of Experimental Biology; vol 46; Jul 2008; page 504-520[4] Prota 11(1): Medicinal plants/Plantes m嶮icinales 1,Zhonghua Shi Yan He Lin Chuang Bing Du Xue Za Zhi. 2010 Dec ;24 (6):424-6  21604565Search this siteProblems with website? Please Click here for comment. (Not for inquiry )   Click here for inquiry Copyright Notice 按此看關於 版權問題Sponsors' Ads by Google 以下為谷歌 所提供之廣告  List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesDisclaimerHomeWeather ReportLast update: Nov 19, 2013; 2:33 a.m. LAH   ",
+    "original_url": "http://alternativehealing.org/zhu_zi_cao.htm"
+  }
+]

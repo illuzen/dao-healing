@@ -1,0 +1,424 @@
+[
+  {
+    "Names": {
+      "Name": ["hu zhang"],
+      "Pharmaceutical": ["Polygoni Cuspidati Rhizoma"],
+      "Biological": [
+        "Polygonum cuspidatum Sieb. et Zucc.",
+        "Polygonum reynoutria Makino",
+        "Reynoutia Japonica Houtt"
+      ],
+      "Common": ["Japanese knottweed"],
+      "Other": [
+        "chuan qi (川七)",
+        "ban zhang (班杖)",
+        "suan zhang (酸杖)",
+        "huang yao zi (黃藥子)",
+        "chuan jun long (川筋龍)",
+        "da chong zhang (大蟲杖)"
+      ],
+      "Chinese": ["虎杖", "川七", "班杖", "酸杖", "黃藥子", "川筋龍", "大蟲杖"],
+      "Pronunciation in Korean": ["hujang"],
+      "Pronunciation in Japanese": ["kojo"],
+      "Pronunciation in Cantonese": ["fu2 zeong6"],
+      "Pinyin Pronunciation": ["hu zhang"]
+    },
+    "Type": "Herb",
+    "Geography": [
+      "All over China.",
+      "Mainly produced in Jiangsu, Zhejiang, Anhui, Guangdong, Guangxi, Sichuan, Guizhou (China)."
+    ],
+    "Properties": ["Slightly bitter", "Neutral", "Slightly toxic"],
+    "Meridians": ["Liver", "Spleen"],
+    "Maladies Treated": [
+      "Jaundice",
+      "Gall bladder stones",
+      "Blood stasis with menses stoppage",
+      "Yeast infection",
+      "Rheumatoid arthritis",
+      "Physical injuries from impacts",
+      "Inflammation of the bronchi",
+      "Lobar pneumonia",
+      "Poisonous snake bites",
+      "Scalding injuries",
+      "Acute hepatitis",
+      "Urinary tract infection",
+      "Boils",
+      "Stoppage of menses due to heat in the blood",
+      "Breast cancer",
+      "Breast abscess (乳癰)",
+      "Menopausal bleeding disorder",
+      "Vaginal yeast infection"
+    ],
+    "Medical Function": [
+      "Preventing thrombosis from arterial endothelial damage",
+      "Anti viral",
+      "Anti leptospirosis",
+      "Anti fungal",
+      "Relaxes the bronchial smooth muscles, expels phlegm, and suppresses asthma and cough",
+      "Lower blood pressure and lipids",
+      "Stops bleeding in external injuries",
+      "Inhibits pain",
+      "Astringent",
+      "Anti inflammatory",
+      "Antibiotic, like: Pseudomonas aeruginosa，Staphylococcus aureaus，Moraxella (Branhamella), catarrhalis，Streptococcal，Escherichia coli."
+    ],
+    "Dosage": "10 to 20 g per day; concentrated extract: 0.5 to 2 g per day",
+    "Samples of Formulae": "(1) For vaginal yeast infection: Hu Zhang (Japanese knotweed) root 100 g, water 1500 cc. Simmer down to 1000 cc. Strain. Cool down to bath water temperature. Use for sitting bath 10 to 15 minutes, once a day. 7 days is one therapy cycle. Treated 30 patients. All healed.",
+    "Contraindications": "Not to use during pregnancy. Large dosages and/or long term usage can be toxic to kidneys.",
+    "Research": "Chinese Journal information and authorship: Chinese Journal of Pharmacology and Toxicology (electronic edition). Title: Research progress of 3,4′,5-trihydroxystilbene-3-β-D-glucoside (虎杖晶Ⅳ). Authors: Luo Sufang, Jin Xingzhong, Ye Jianfeng, Zhang Peiwen. Affiliation: Department of Toxicology, Basic Medical Sciences, First Military Medical University, Guangzhou 510515.\n\nAdvances in research on 3,4′,5-trihydrostilbene-3-β-D-glucoside,an effective component from Polygonum cuspidatum Sieb. et Zucc Abstract  The advances in recent 10 years in research on 3,4′,5-trihydrostilbene-3-β-D-glucoside (polydatin), a effective component from Polygonum cuspidatum Sieb. et Zucc., were summarized in this paper. The actions of polydatin, such as preventing thrombosis from arterial endothelial damage, improving microcirculation and increasing survival rate of shocked rats, alleviating tissueorgan damage induced by ischemia-reperfusion, oxygen free radical and endotoxin, decreasing hyperlipemia, suppressing lipid peroxide and so on were evaluated. The review displays the pharmacologic base of polydatin in treatment of thrombotic diseases and improvement of microcirculation in shock, which enable polydatin to become a new characteristic drug.",
+    "Notes": "",
+    "Chemical Ingredients": {
+      "Root and rhizome": [
+        "Free anthraquinones and anthraglycosides; main components include emodin 大黃素 [1,3]",
+        "physcion 大黃素甲醚 [1,3]",
+        "chrysophanol 大黃酚 [1,2]",
+        "anthraglycoside A (physcion-8-O-β-D-glucoside) 恩貳A (大黃素甲醚8-o-β-D-葡萄糖貳) [4]",
+        "anthraglycoside B (emodin-8-O-β-D-glucoside) 恩貳B (大黃素8-o-β-D-葡萄糖貳) [3,4]",
+        "fallacinol 迷人醇 [5]",
+        "citreorosein 6-羥基蘆薈大黃素 [5]",
+        "questin 大黃素-8-甲醚 [5]",
+        "questinol 6-羥基蘆薈大黃素-8-甲醚 [5]",
+        "resveratrol (3,4',5-trihydroxystilbene) 白黎蘆醇 (3,4'.5-三羥基醇)",
+        "polydatin (resveratrol-3-O-β-D-glucoside) 虎杖貳 (白黎蘆醇3-O-β-D-葡萄糖貳) [3,6]",
+        "protocatechuic acid 原兒茶酸",
+        "catechin 右旋兒茶精",
+        "2,5-dimethyl-7-hydroxychromone 2，5-二甲基-7-羥基色酮",
+        "7-hydroxyl-4-methoxy-5-methylcoumarin 7-羥基-4-甲氧基-5-甲基香豆精",
+        "torachrysone-8-O-D-glucoside 決明恩酮-8-葡萄糖貳 [5]",
+        "β-sitosterol glucoside 3-谷甾醇葡萄糖貳 [3]",
+        "glucose 葡萄糖",
+        "rhamnose 鼠李糖 [1]",
+        "polysaccharides 多糖 [7]"
+      ],
+      "Other components": [
+        "Amino acid 12.99%",
+        "Minerals: copper, iron, manganese, zinc, potassium [8]"
+      ]
+    },
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "hu zhang, Polygonum cuspidatum, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代 中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　          　                           　                                                hu zhang  虎杖by: Joe Hing kwok ChuClick here to see picture.  按此 看圖。Present Day Applications:现代應用：preventing thrombosis from arterial endothelial damage防止血管 內皮損傷所造成的血栓症。Pharmaceutical name:英 文药名：Polygoni Cuspidati Rhizoma\n  Biological name:拉 丁學名：Polygonum cuspidatum Sieb. et Zucc.Polygonum reynoutria Makino;Reynoutia Japonica HouttPron. in Japanese:日 語發音：kojoPron. in Korean:韓 語發音：hujangPron. in Cantonese:粤 語發音：fu2 zeong6Common Name:英 文名：Japanese knottweedOther Names:別 名﹕chuan qi, ban zhang, suan zhang, huang yao zi, chuan jun long, da chong zhang川七.班杖.酸杖.黃藥子.川 筋龍.大蟲杖Distribution:分 佈：all over China.; mainly being produced in provinces of Jiangsu, Zhejiang, Anhui, Guangdong, Sichuang of China.分佈於全中國。主產於江蘇、浙江、安徽、廣東、廣西、四川、貴州等省。Properties (characteristics):性 味﹕slightly bitter, neutral, slightly toxic味微苦 ，性平，有小毒。Channels (meridians) entered:歸經﹕liver, spleen入肝 ﹐脾二經。Medical Functions:藥理﹕Medical Functions:1. anti viral2. anti leptospirosis3. anti fungal4. relaxes the bronchial smooth muscles, expels phlegm, and suppresses asthma and cough5. lower blood pressure and lipids6. stops bleeding in external injuries7. inhibits pain8. astringent9. anti inflammatory10.  antibiotic, like:  Pseudomonas aeruginosa，Staphylococcus aureaus，Moraxella (Branhamella), catarrhalis，Streptococcal，Escherichia coli. 藥理﹕1。抗病毒2。抗鉤端螺旋體 (leptospirosis)﹐3。抗真菌 4。鬆 弛支氣管平滑肌，而達 鎮咳平喘, 袪痰止咳 5。降血壓 及降血脂之作用6。對外傷出血有明顯的止血作用7。鎮痛8。收斂9。消炎10。抗菌﹕如 綠膿桿菌 Pseudomonas aeruginosa， 金黃色葡萄球 菌Staphylococcus aureaus， 卡他球菌 Moraxella (Branhamella) catarrhalis， 鏈球菌 Streptococcal， 大腸桿菌Escherichia coli,等Actions & Indications:For jaundice, gall bladder stones, blood stasis with menses stoppage, yeast infection, rheumatoid arthritis, physical injuries from impacts, inflammation of the bronchi, lobar pneumonia, poisonous snake bites, scalding injuries, acute hepatitis, urinary tract infection, boils, stoppage of menses due to heat in the blood, breast cancer, menopausal bleeding disorder.黃疸，膽結石，經閉瘀阻, 帶下， 風濕痛，跌扑損傷 ，支氣管炎，大葉性肺炎, 毒蛇咬傷，燙火傷，急性肝炎，尿道感染，瘡癤腫毒，血 熱經閉，乳 癰 ，崩漏。Chemical ingredients:化 學成份﹕根和根莖含游離蔥昆及恩昆貳， 主要為emodin大黃素physcion大黃素甲醚[1,3]chrysophanol大黃酚[1,2]anthraglycoside A, (physcion-8-O-β-D-glucoside)恩貳A (大黃素甲醚8-o-β-D-葡萄糖貳)[4]anthraglycoside B, (emodin-8-O-β-D-glucoside)恩貳B (大黃素8-o-β-D-葡萄糖貳)[3, 4]，fallacinol迷人醇citreorosein6-羥基蘆薈大黃素questin大黃素-8-甲醚questinol6-羥基蘆薈大黃素-8-甲醚[5] 等。resveratrol,  (3,4',5-trihydroxystilbene)醇類化合物：白黎蘆醇(3,4'.5-三羥基醇)polydatin, (resveratrol-3-O-β-D-glucoside)虎杖貳 (白黎蘆醇3-O-β-D-葡萄糖貳)[3,6],protocatechuicacid原兒茶酸catechin右旋兒茶精2,5-dimethyl-7-hydroxychromone2，5-二甲基-7-羥基色酮7-hydroxyl-4-methoxy-5-methylcoumarin7-羥基-4-甲氧基-5-甲基香豆精torachrysone-8-O-D-glucoside決明恩酮-8-葡萄糖貳([5],B-sitosterolglucoside3-谷甾醇葡萄糖貳[3]glucose葡萄糖rhamnose鼠李糖[1]polysaccharides多糖  [7]，amino acid氨基酸12.99%copper, iron, manganese, zinc, potassium .銅， 鐵，錳，鋅，鉀.[8]Dosage:用量﹕10 to 20 g per day; concentrated extract: 0.5 to 2 g per day每日10～20公 克；濃縮中藥：每日0.5～2.0公 克。Samples of formulae:處方舉例：(1) For vaginal yeast infection: hu zhang 100g, water 1500 cc. Simmer down to 1000 cc. Strain. Cold down to bath water temperature. Use for sitting bath. Use 10 to 15 minutes, once a day. 7 days is one therapy cycle. Treated 30 patients. All healed.(1) 真菌性陰道炎：虎杖根100g，加水1500ml，煎取1000ml， 過濾，待溫，坐浴10～15分鐘，每日1次，7日為1療程 ，治療30例，全部臨床治愈。Modern Research:现代研究：See abstract belowCautions:禁忌：not to use during pregnancy.Large dosages and/or long term usage can be toxic to kidneys.大劑量或長期服用可能對 腎臟有毒。孕婦忌服。中國藥理 學 與毒 理學雜 誌電子版虎杖有效成分3,4′,5-三羟基芪-3-β-D-葡 萄糖貳的研究進展骆蘇芳　金行中　葉建锋　張佩文第一軍醫大學基礎部毒理學教研室　廣州　510515【摘要】總結了虎杖有效成分3,4′,5-三羟基芪-3-β-D-葡萄糖貳(虎杖晶Ⅳ) 近10年來的研究，評 價了虎杖晶Ⅳ在防止動脉内皮損傷 性血栓形成，改善休克微循環，提高休克大鼠存活率，減輕缺血再灌注，自由基，内毒素等造成的組織器官損傷，降血脂 及抗脂質過氧化等方面的作用。 提示虎杖晶Ⅳ可能成為治療血栓性疾病及改善休克微循環等方面一個有特色的新藥。　Advances in research on 3,4′,5-trihydrostilbene-3-β-D-glucoside,an effective component from Polygonum cuspidatum Sieb. et Zucc Abstract  The advances in recent 10 years in research on 3,4′,5-trihydrostilbene-3-β-D-glucoside (polydatin), a effective component from Polygonum cuspidatum Sieb. et Zucc., were summarized in this paper. The actions of polydatin, such as preventing thrombosis from arterial endothelial damage, improving microcirculation and increasing survival rate of shocked rats, alleviating tissueorgan damage induced by ischemia-reperfusion, oxygen free radical and endotoxin, decreasing hyperlipemia, suppressing lipid peroxide and so on were evaluated. The review displays the pharmacologic base of polydatin in treatment of thrombotic diseases and improvement of microcirculation in shock, which enable polydatin to become a new characteristic drug.　Click here for sending comment to the webmaster[n] for bibliography see Research LibrarianClick here for inquiry  　Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告  A manuscript... writing, translating and proofreading              in progressClick here for inquiry  Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    Disclaimer   Last update: Nov 27, 2011; 2:54 p.m. LAH  hu_zhang.htm  \n",
+    "original_url": "http://alternativehealing.org/hu_zhang.htm"
+  },
+  {
+    "Names": {
+      "Name": ["jing jie", "hei jing jie"],
+      "Pharmaceutical": ["Herba seu flos schizonepetae tenuifoliae"],
+      "Biological": ["Schizonepeta tenuifolia Briq.", "Nepeta japonica, Maxim"],
+      "Common": ["shizonepeta"],
+      "Other name": ["hei jing jie", "jing jie hui", "jing jie tan", "Jia su"],
+      "Chinese": ["荊芥", "黑荊芥", "荊芥穗", "荊芥炭", "假蘇"],
+      "Pronunciation in Korean": ["hyongkae"],
+      "Pronunciation in Japanese": ["keigai"],
+      "Pronunciation in Cantonese": ["ging1 gaai3"],
+      "Pinyin Pronunciation": ["jing jie", "hei jing jie"]
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Jiangsu (China)",
+      "Zhejiang (China)",
+      "Henan (China)",
+      "Hebei (China)",
+      "Shandong (China)"
+    ],
+    "Properties": ["Acrid", "Slightly warm", "Fragrant"],
+    "Meridians": ["Lung", "Liver"],
+    "Maladies Treated": [
+      "Infection in boils and carbuncles",
+      "Wind-cold common cold (風寒感冒)",
+      "Influenza",
+      "Fever",
+      "Headache",
+      "Swollen and painful throat (咽喉腫痛)",
+      "Early stages of measles (麻疹初發)",
+      "Itchy skin eruptions (皮膚發癢)",
+      "Many types of bleeding illnesses — charred jing jie (黑荊芥/荊芥炭) used to arrest bleeding",
+      "Pink eye (viral infection)"
+    ],
+    "Medical Function": [
+      "Expels winds and release toxin through sweating",
+      "Antipyretic",
+      "Releases the exterior (解表)",
+      "Stops bleeding — charred jing jie (黑荊芥/荊芥炭)",
+      "Anti bacteria",
+      "Suppression of pain",
+      "Anti-inflammatory",
+      "Enhances immune system",
+      "Anti oxygenation"
+    ],
+    "Dosage": "3 to 9 grams",
+    "Samples of Formulae": "For measles and other skin diseases: Use jing jie (Schizonepeta) 40 g. Grind into fine powder and strain. Put into cheese cloth bags. Spread on affected skin and squeeze evenly (massage) till skin is warm. Mild cases effective in 1 to 2 times of application. Serious case effective in 2 to 4 times of application.\n\nFor dizziness after child birth: Use jing jie (Schizonepeta) 31 g. Stir fry till brown in color. Use 6 g each time with added tong bian (child urine) 38 g. Result: 25 patients. Healed 18. Became better 5. Ineffective: 2 [2]\n\nPink eye (viral infection).",
+    "Contraindications": "Allergic reactions have been reported. [3]\n\nContraindications from Ben Cao Jing Shu (《本草經疏》): Patients with exterior deficiency with spontaneous sweating (表虛有汗) should avoid use; for blood deficiency with alternating cold and heat that is not due to wind-damp or wind-cold (血虛寒熱而不因於風濕風寒), do not use; for yin deficiency with blazing fire with flushed face and resultant headache (陰虛火炎面赤，因而頭痛), use with great caution; do not mistakenly include.",
+    "Research": "",
+    "Notes": "Hei jing jie refers to jing jie that has been stir-fried until charred; in prescriptions this form is called hei jing jie (黑荊芥/荊芥炭).",
+    "Chemical Ingredients": [
+      "Whole plant: essential (evaporating) oil about 1.3%",
+      "Spike/inflorescence (穗): essential (evaporating) oil about 4.11%",
+      "Essential oil main components: d-menthone ~42.9%",
+      "Essential oil main components: l-pulegone ~33.9%",
+      "Essential oil components: dl-menthone (amount not specified)",
+      "Essential oil components: α-pinene",
+      "Essential oil components: β-humulene",
+      "Essential oil components: small amount of d-limonene",
+      "Schizonepetoside A",
+      "Schizonepetoside B"
+    ],
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "jing jie\n\n\n\n\nComplementary and \n    Alternative Healing University\n    \n \n\n\n\n\n\n中藥詞典                 \n    Chinese Herb Dictionary     \n     Search this \n    site     \n\n在本網站找資料\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch this \n        site\n\n\nList \n        of Health Problems\n\n\n\n\n\n\n        Chinese Herb Dictionary\n\n\n\n\n\nQigong\n\n\n\n\n\n\n        Traditional Chinese Medicine (TCM)\n\n\n\n\n\n\n        Acupuncture\n\n\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\nLecture Slides\n\n\n\n\n\nResearch Librarian\n\n\n\n\n\n\n        General Online Library\n\n\n\n\n\nResearch \n        Sites\n\n\n\n\n\n\n        Viagra\n\n\n\n\n\n\n        Massage/Acupressure\n\n\n\n\n\nHypnotherapy\n\n\n\n\n\nTell us what you want\n\n\n\n\n\nNotify Changes \n        & New Information\n\n\n\n　\n\n\n\n\n　jing jie  荊芥hei jing jie  黑荊芥By: Joe Hing Kwok Chu\n\nPharmaceutical name:Herba seu flos schizonepetae tenuifoliaeBiological name:Schizonepeta tenuifolia Briq.Nepeta japonica, MaximPron. in Japanese:keigaiPron. in Korean:韓語發音：hyongkaePron. in Cantonese:粤語發音：ging1 gaai3Common Name:shizonepetaOther Names:別名﹕hei jing jie, jing jie hui, jing jie tan (tan means charcoal). Original name is Jia su.黑荊芥，荊芥穗，荊芥炭。原名假蘇Distribution:分佈：Jiangsu, Zhejiang, Henan, Hebei, Shandong provinces of China.江蘇，浙江，河南，河北，山東等省。Properties (characteristics)：性味：acrid, slightly warm, fragrant辛，微温，香。Channels (meridians) entered:lung, liver肺，肝。Actions & Indications:主治：expels winds and release toxin through sweating, as antipyretic.  For infection in boils and carbuncles, arresting  bleeding,  treating influenza and cold, fever, headache, swollen and painful throat,  and many types of bleeding illnesses, early stages of measles and itchy  skin eruptions. Charred jing jie can be used for arresting bleeding.袪風解表、散熱止痛的醫療作用，用於治療疥瘡，止血，風寒感冒、發熱、頭痛、咽喉腫痛及多種出血症，麻疹初發，皮膚發癢。荊芥炒炭入藥，有止血之功。Medical Function:藥理﹕anti bacteriasuppression of painantipyreticanti-inflammatoryenhances immune systemstops bleedinganti oxygenation　抗菌止痛解熱消炎增強免疫系統止血抗氧化作用Chemical ingredients:化學成份﹕The whole plant contains evaporating oil of about 1.3%. The mature sprig contains about 4.11%. The evaporating oil mainly consists of 42.9% of d-menthone, 33.9% of dl - menthone and l-pulegone,  α - pinene , β - humulene, and small amount of d-limonene.Schizonepetoside A and B　据醫科院藥物所测定全草含揮發油約1.3%，穗含揮發油約4.11%。油中主成分為右旋薄荷酮(d-menthone)約 42.9%﹐消旋薄荷酮 ( dl - Menthone) ﹐左旋胡薄荷酮(l-pulegone)約 33.9%﹐ 蒎烯( α - pinene ) ， β - 葎草烯( β - Humulene) 及少量右旋檸檬烯(d-limonene)。荆芥甙 (Schizonepetoside)A及B。Dosage:3 to 9 gramsSamples of formulae:Pink eye (viral infection)；病毒性眼睛結膜炎Also see below.Modern Applications:1. For treating measles and other skin diseases: Use jing jie 40 g.  Grind into fine powder and strain.\nPut into cheese cloth bags. Spread on affected skin and squeeze evenly (massage) till skin is warm. Mild cases effective in 1 to 2 times of application. Serious case effective in 2 to 4 times of application. [1]2. For dizziness after child birth: Use jing jie 31 g. Stir fry till brown in color.  Use 6 g each time with added tong bian (child urine) 38 g. Result: 25 patients. Healed 18. Became better 5. Ineffective: 2 [2]Cautions:注意：There are report on allergic reactions. [3]有過敏反應的報導。\n\n        病人表虛有汗者忌之；血虛寒熱而不因於風濕風寒者勿用；陰虛火炎面赤，因而頭痛者，慎匆誤入。 《本草經疏》Note: hei jing jie is those has been stir fried till become charcoal.　註：黑荊芥是將荊芥炒成炭。在處方上稱為黑荊芥。　\n\n   Search \n    this site \n\n\nProblems with website? Please \n\nClick \n    here for comment. (Not for inquiry )    \n    \n\n\nClick \n    here for inquiry \n\n\n\nCopyright Notice \n\n按此看關於版權問題\n\n\n\n\nA manuscript... writing, translating and proofreading  in progress\n\n\nSponsors' Ads by Google \n    以下為谷歌 所提供之廣告\n\n\n\n\n\n\n\n\nList \n        of Health Problems\n\n\n\n\n        Chinese Herb Dictionary\n\n\n\n\nToxicity of Some Herbs\n\n\n\nSide Effect of Some Herbs\n\n\n\nHerbs that can be toxic to kidneys\n\n\n\n\n        Traditional Chinese Medicine\n　\n\n\nTCM Diagnosis\n　\n\n\n        Samples of Formulae\n\n\n\n\n        Terms of Traditional Chinese Medicine\n\n\n\n        Acupuncture\n\n\n\n\n\ncopy right\n　\n\n\n版權所有\n\n\n\nQigong \n        (chi kung)\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\n        Email our web master for  your suggestion (not for inquiry)\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\nGeneral Online Library\n\n\n\nQigong \n        classes\n\n\n\nFake \n        Email Warning\n\n\n\nResearch Librarian\n\n\n\nSearch\n\n\n\n\n\nQigong classes\n\n\n\nHome\n\n\n\n\n        Weather Report\n\n\n\n\n        Disclaimer\n\n\nLast update: Jan 24, 2014; 6 p.m. \n        LAH\n\n\n\n\n\n　\n\n\n\n\n\n\n\n\n",
+    "original_url": "http://alternativehealing.org/jing_jie.htm"
+  },
+  {
+    "Names": {
+      "Name": ["Nigella sativa (black seed)", "黑種草子"],
+      "Pharmaceutical": ["fructus Nigellae sativae"],
+      "Biological": [
+        "Nigella sativa L. (果黑種草)",
+        "Nigella glandulifera Preyn (瘤果黑種草)",
+        "Nigella damascena L. (黑種草)"
+      ],
+      "Common": ["nut meg flower", "Roman coriander", "black caraway"],
+      "Other name": [
+        "Miao: sai la n he bu, sai la na he bu chao ge, se ya dan"
+      ],
+      "Chinese": ["黑種草子", "果黑種草", "瘤果黑種草", "黑種草"],
+      "Pronunciation in Korean": [],
+      "Pronunciation in Japanese": ["Kurotanesōshi"],
+      "Pronunciation in Cantonese": ["hak1 zung2 cou2 zi2"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Nigella glandulifera Preyn (瘤果黑種草): Xinjiang, Yunnan, Xizang (Tibet)"
+    ],
+    "Properties": ["Sweet", "Acrid", "Warm"],
+    "Meridians": ["Heart", "Lung"],
+    "Maladies Treated": [
+      "Heart palpitation [2]",
+      "Insomnia [2]",
+      "Weakness [2]",
+      "風寒感冒 (wind-cold common cold or flu) [2]",
+      "Cough [2]"
+    ],
+    "Medical Function": [
+      "Antiepileptic effect of the water extract in children with refractory seizures [1] (human)",
+      "Gastric antisecretory and antiulcer property [3]",
+      "Antibacterial and anti-inflammatory effects; includes inhibition of Streptococcus ATCC 29212, E. coli NCTC 10416 and DSM 1386, and efficacy on Damietta cheese inoculated E. coli O157:H7; anti-edema in carrageenan-induced rat paw and cottonseed oil–induced mouse ear models (animal)",
+      "Antitumor activity; ethanol extract fraction (CC5) showed tumor inhibition and survival extension in BDF1 mice implanted with P388 and LL/2 cells; cytotoxicity against MCF-7; triterpenoid saponins active against HepG2 and drug-resistant HepG2 (animal/in vitro)",
+      "Antioxidant activity; reduces lipid peroxidation and liver enzymes, increases antioxidant enzymes in CCl4-treated rats; thymoquinone and synthetic analogs scavenge hydroxyl and superoxide radicals (animal/in vitro)",
+      "Anti-platelet aggregation; increases platelet count and reduces aggregation; prolongs bleeding time; lowers triglycerides (animal)",
+      "Lipid-lowering and hypoglycemic effects; decreases cholesterol, triglycerides, glucose; improves HDL; insulin-sensitizing effects; reduces hepatic glucose production; enhances macrophage phagocytic activity and lymphocyte counts (animal)",
+      "Hepatoprotective effect",
+      "Estrogen-like activity demonstrated in recombinant yeast assay; strongest with 2,4-dihydroxyphenylacetic acid; weaker with 3,4-dihydroxy-phenethyl alcohol; methyl 2,4-dihydroxyphenylacetate inactive (in vitro)"
+    ],
+    "Dosage": "Oral: decoction, 9–15 g [2]",
+    "Samples of Formulae": "For bad digestion, flatulence: whole shi liu (pomegranate) 24 g, bi po (long pepper) 6 g, rou gui (cinnamon bark), bai dou kou (white cardamom), black seed (Nigella seed), zi lu sha (zi lu sha), black pepper (black pepper), gan jiang (dried ginger) 3 g each. Make into powder. Use 1.5 g to 3 g each time, 1 to 2 times per day. Take with rock sugar water. (Source: Mongolian Medical Formulae Compilation)\nEditor's note: If there is shi re (damp heat), do not use sugar.",
+    "Contraindications": "Do not use during pregnancy.",
+    "Research": "The water extract of Nigella sativa L. has antiepileptic effects in children with refractory seizures. [1]\n\nBlack seed possesses gastric antisecretory and antiulcer property. [3]\n\nAntibacterial and anti-inflammatory effects (2.1). Demonstrated by electron spin resonance in the crude extract of black seeds showed the ability to fight against 10 kinds of microorganisms. The large amount of thymoquinone contained therein may be its active ingredient [26]. The methanol fraction of black seeds can inhibit Streptococcus ATCC 29212, E. coli NCTC 10416 and Canadian white fungus DSM 1386 to different degrees [27], and it is also effective on the Damietta cheese inoculated E. coli O157:H7 [28]. Injection of 100, 200 and 400 μl/kg dose of black seed oil can inhibit carrageenan-induced rat paw edema. At 10 and 20 μl/ear doses it can reduce the edema of the ears of mice induced by cottonseed oil.\n\nAntitumor activity (2.2). R. Kumara, SS et al. used the ethanol extract column chromatographic fraction 5 (CC5) of black seed in BDF1 mice transplanted with P388 lymphocytes and LL/2 cells to carry out antitumor experiments and found that in the 200 and 400 mg/kg dose groups the lifespan of mice was significantly extended by 153% compared with controls. In the BDF1 mouse experiment transplanted with LL/2 cells, continuous administration for 7 days with daily doses of 5 and 10 mg/kg of CC5 produced tumor inhibition rates of 60% and 70%, respectively. For already formed tumors, the tumor inhibition rate on day 8 reached 48% and 65%; on day 15, 50% and 71%. The positive control cyclophosphamide had an inhibition rate of 81% on day 8 and 42% on day 15. The experiment also found that certain concentrations of the water extract and ethanol extract of black seeds could completely kill the breast cancer cell line MCF-7. In addition, two triterpenoid saponins isolated from the seeds of Nigella glandulifera showed cytotoxic effects on HepG2 cells and drug-resistant HepG2 cells.\n\nAntioxidant activity (2.3). Using black seeds (NS) and nettle (UD) in 60 healthy male SD rats treated with CCl4, each group of animals received 0.8 ml/kg CCl4 twice per week for a total of 90 days. Except for the control group, from day 46 daily NS at 0.2 ml/kg or UD oil at 2 ml/kg was given; at the same time the control group received 2 ml/kg body weight of normal saline for 45 days. By cardiac puncture at 0, 45, and 90 days, in each treatment group 5 rats were randomly selected to obtain blood samples for biochemical analysis. It was found: after 45 days of CCl4 treatment, lipid peroxidation and liver enzymes increased, and the levels of antioxidant enzymes decreased. After NS and UD treatment, lipid peroxidation and the increases in liver enzymes were reduced and the decreased antioxidant enzyme levels increased. Liver weight increased in group A while decreased in groups B, C, and D. This indicates that NS and UD treatment reduced lipid peroxidation and liver enzymes while enhancing the activity of the antioxidant defense system in rats treated with CCl4 [33]. In addition, thymoquinone and synthetic analogs such as tert-butylhydroquinone both have the ability to scavenge hydroxyl and superoxide radicals, which may therefore confer antioxidant activity.\n\nAnti-platelet aggregation (2.4). With successive oral administration to rats of a black seed suspension at doses of 100, 250, and 1,000 mg/kg for 10 days, it was observed that in different groups black seeds did not affect Hb, total RBC count, the percentages of neutrophils and lymphocytes, and the ratio of neutrophils to lymphocytes, but black seeds had a significant effect in increasing platelet count and reducing clotting time, showing a positive correlation between dose/time and effect. Moreover, even at 1,000 mg/kg body weight, no side effects or toxicity were observed. Black seed oil at 250 and 500 mg/kg significantly inhibited ADP- and collagen-induced rat platelet aggregation; 500 and 1,000 mg/kg inhibited ex vivo thrombus length in rats; 1,000 mg/kg reduced ex vivo thrombus weight, significantly prolonged rat bleeding time, and also lowered triglycerides, but the effect on cholesterol was not obvious. In a study of the effects of long-term administration of Nigella sativa L. seed fixed oil on blood biochemistry and hematological parameters in rats, Wistar Kyoto rats were used and randomly divided into 2 groups, 12 per group: the experimental group (Ns-rats) received daily oral fixed oil 1 ml/kg for 12 weeks; the control group (C-rats) received an equal volume of water. During the experiment, body weight was measured every 2 weeks; blood biochemistry and hematological parameters were measured every 4 weeks. Another 10 mice were used to observe the toxicity of the fixed oil. Results showed that after 12 weeks of administration, serum cholesterol, triglycerides and glucose levels in animals were reduced by 15.5%, 22.0% and 16.5% compared to the control group; important liver enzymes, bilirubin, uric acid and creatinine in the blood did not show significant changes compared to the control group; white blood cell and platelet counts decreased by 35.0% and 32.0%, respectively; hematocrit and hemoglobin levels increased by 6.4% and 17.4% compared to the control group. From the 6th week after administration, compared with the control group, the increase in body weight of the experimental group slowed significantly. Mice given fixed oil 10 ml/kg showed no adverse reactions or death within 15 days.\n\nLipid-lowering, hypoglycemic, and immunoprotective effects (2.5). After rats were orally administered black seed solid oil for 12 weeks, no effect on major hepatic enzymes was found; at the same time, serum cholesterol, triglycerides, glucose, lymphocyte and platelet counts decreased by 15.5%, 22%, 16.5%, 35% and 32%, respectively; hematocrit and hemoglobin levels increased by 6.4% and 17.4%. Normal rats were gavaged with the petroleum ether extract of black seeds for 4 weeks; because the petroleum ether extract reduced food intake by 25%, body weight decreased in the short term. No toxicity was observed in in vivo and in vitro experiments and fasting blood glucose remained stable. After 4 weeks of treatment, compared with controls, fasting insulin and triglyceride levels were lower in treated rats, while HDL-cholesterol levels were higher. Western blot analysis showed that hepatocytes isolated from animals in each group had increased responses to insulin levels. In vivo, the petroleum ether fraction acted as an insulin sensitizer by increasing two intracellular signaling pathways of hormone receptors. In streptozotocin (STZ)-induced diabetic hamsters, gavage with black seed oil at 400 mg/kg for 6 weeks was given. After diabetes induction, hepatocytes were isolated by collagenase digestion to determine hepatic glucose production. By injecting a fluorescein emulsion and collecting peritoneal macrophages after 24 h to evaluate phagocytic capacity, it was found that in the treatment group blood glucose decreased from 391 ± 3.0 mg/dl before treatment to 325 ± 4.7, 246 ± 5.9, 208 ± 2.5 and 179 ± 3.1 mg/dl at weeks 1, 2, 3, and 4, respectively. In treated hamsters, hepatic glucose products from gluconeogenic precursors were significantly reduced, indicating that its hypoglycemic effect partially originated from reduced hepatic glycogen synthesis. In addition, after treatment with black seed oil, the phagocytic activity and phagocytic index of peritoneal macrophages increased significantly, and the number of lymphocytes in peripheral blood increased. This indicates that its immunoprotective effect is accomplished by directly stimulating macrophage phagocytic activity or by stimulating lymphocyte activity. In male stroke-prone spontaneously hyperlipidemic rats and Wistar rats, oral black seed oil at 800 mg/kg for 4 weeks significantly reduced serum total cholesterol, low-density lipoprotein, and triglycerides, while increasing high-density lipoprotein. In a model of diabetes in rats induced by STZ and nicotinamide, oral black seed oil for 4 weeks significantly reduced blood glucose, and enzyme-linked immunoassay with anti-insulin monoclonal antibody showed insulin levels increased significantly. Immunohistochemical staining observed abundant insulin-positive areas in islets, indicating that in a type 2 diabetes model black seed oil has an insulin-like function.\n\nEstrogen-like activity (2.6). Methanol, chloroform–methanol and water extracts of black seeds and three phenolic components—2,4-dihydroxyphenylacetic acid (1), 3,4-dihydroxy-phenethyl alcohol (2) and methyl 2,4-dihydroxyphenylacetate (3)—were tested with 17β-estradiol as positive control. Each concentration of test sample and control was added to culture plates; after solvent evaporation, 200 μl of culture medium containing recombinant yeast (with human estrogen receptor gene) and chromogenic substrate was added, and under defined conditions cultured for 3 days; the color change of the medium was measured at 540 nm, and turbidity corrected at 620 nm. Results showed that for the methanol extract at concentrations of 5×10−3–6×10−4 g/L, the dose–effect curve increased, with a peak concentration at 5×10−3 g/L. For the water extract at concentrations of 5×10−1–1.5×10−3 g/L, the dose–effect response curve showed linear increase, with a peak concentration at 5×10−1 g/L. The chloroform–methanol extract caused a non-linear, dose-related increase. Compound 1 had the strongest estrogen-like activity, compound 2 had weaker activity, and compound 3 had no activity. For compounds 1 and 2 at concentrations of 1.6×10−5–2×10−7 mol/L, the dose–effect response curves showed linear increases, with peak concentrations at 3.2×10−6 mol/L, and had dose–effect curves similar to the methanol extract; the curve for the water extract indicated that other polar active components may also be present.",
+    "Notes": "",
+    "Chemical Ingredients": [
+      "Damascenine (黑種草鹼)",
+      "Volatile oil (seed oil): thymoquinone (瑞香草醌 / 百里香醌), dithymoquinone (nigellone), isolongifolene, sabinene (檜萜 / 冬青油烯 / 美苦草苷 / 香檜烯), niqullon (黑種草酮)",
+      "Quercetin (槲皮素)",
+      "Saponins"
+    ],
+    "References": [
+      "[1] Med Sci Monit. 2007 Dec;13(12):CR555-9.",
+      "[2] Zhong Hua Ben Cao 中華本草",
+      "[3] Saudi J Gastroenterol. 2008 July; 14(3): 105–106.",
+      "[4] 新疆生物土壤沙漠研究所．新疆藥用植物志（第一冊)"
+    ],
+    "Further Reading": [],
+    "Original Text": "Nigella , uses, side effects, drug interaction, toxicity and caution ,Complementary and Alternative Healing University\nComplementary and Alternative Healing University \n  中藥詞典    Chinese Herb Dictionary      Search this site     在本網站找資料 Nigella sativa (black seed)  黑種草子                (in English and Chinese 中英文)Translated by: Joe Hing kwok Chu 朱興國編譯Pharmaceutical name:英文藥名﹕fructus Nigellae sativaeBotanical name:學名﹕Nigella sativa L. (果黑種草)Nigella glandulifera Preyn (瘤果黑種草)Nigella damascena L. (黑種草.)Pron. in Japanese:日語發音﹕KurotanesōshiPron. in Korean:韓語發音﹕ Pron. in Cantonese::粵音﹕hak1 zung2 cou2 zi2Other Names:別名﹕\n  names of Miao ethnic minority: \n  sai la n he bu, sai la na he bu chao ge, se ya dan 苗族別名：賽拉納赫布，賽拉納赫布-朝格，色雅擔Common Name:外文名﹕English: nut meg flower, Roman coriander, black carawayDistribution:產地﹕新疆、雲南、西藏  (瘤果黑種草)Xinjiang, Yunnan, Xizang (Nigella glandulifera Preyn)Properties(characteristics)﹕性味﹕sweet, acrid, warm.甘，辛，溫。Channels (meridians) entered: 歸經﹕heart, lung.心，肺。Medical functions:藥理﹕ the water extract of Nigella sativa L. has antiepileptic effects in children with refractory seizures.[1]Black seed possess the effect of gastric antisecretory and antiulcer property [3]antibiotic effectanti-tumor effectanti-oxidant effectanti-platelet coagulation effectlowering blood lipid and blood sugar effectestrogen effect2.1 antibacterial, anti-inflammatory effects. Demonstrated by electron spin resonance in the crude extract of black seeds showed the ability to fight against 10 kinds of microorganisms. The large amount of thymoquinone contained therein may be its active ingredient [26]. Methanol can be part of black seeds can inhibit Streptococcus ATCC 29212, E. coli NCTC 10416 and DSM 1386 Canadian white fungus showed different degrees of inhibition [27], It is is also effective on the Damietta cheese inoculated E.coliO157: H7 [28]. Injection of 100, 200 and 400 μl / kg dose of black seed oil can inhibit carrageenan-induced rat paw edema. At 10 and 20 μl / ear dose can reduce the edema of the ears of mice induced by cottonseed oil. 編輯：司馬小。 作者：信學雷，薛慧清， 阿吉艾克拜爾�艾薩，汪漢卿 :抗菌、抗腫瘤、抗氧化、抗血小板聚集、降脂、降糖、保肝作用等。　　2.1 抗菌、抗感染作用。通過電子自旋共振証明了在黑種草籽的粗提物具有對抗10種微生物的能力,其中所含有大量的百里氫醌可能是它的有效成分［26］ 。黑種草籽的甲醇部位可對類鏈球菌ATCC 29212,大腸杆菌NCTC 10416和加拿大白色DSM 1386菌的生長有不同程度的抑制作用［27］，對Damietta奶酪接種的E.coli O157:H7也有效果［28］。注射100, 200和 400 μl/kg劑量的黑種草籽油可以明顯抑制 角叉菜聚糖誘導大鼠的爪水腫。在10和20 μl/耳劑量時就可以減輕棉子油誘導的小鼠耳水腫。  　　2.2 抗腫瘤活性R.Kumara,SS等人利用黑種草籽乙醇提取物柱層析組分5(CC5)在移植了P388淋巴細胞及LL/2細胞的BDF1小鼠 中進行抗腫瘤實驗發現，200和400 mg/kg劑量組小鼠的壽命比對照明顯延長153%。在移植了LL/2細胞的BDF1小鼠實驗中，連續7 d每天 給予5和10 mg/kg劑量的CC5，腫瘤抑制率分別達到60%和70%。對於已經形成的腫瘤，腫瘤抑制率��第8天，可達48%和65%；第15天，50%和71%而 陽性對照環鄰酰胺在第8天的抑制率為81%而在第15天為42%。實驗還發現一定濃度的黑種草籽的水提物、乙醇提取物可完全殺滅乳腺癌細胞MCF-7。另 外，從瘤果黑種草籽中分離得到的兩種三萜皂苷也表現出對HepG2細胞及藥物抵抗的HepG2細胞的細胞毒作用。  　　2.3 抗氧化活力用黑種草籽(N.S)和荨麻(UD)在CCl4處理的60隻健康的雄性SD大鼠進行實驗，每組動物每周兩次給0.8 ml/kg CCl4共90 d，除對照外，從第46天開始每日按0.2 ml/kg給與NS或和2 ml/kg UD油，此時對照組接受2 ml/kg體重的生理鹽 水，共45 d。通過心臟穿刺在0，45，90 d每個治療組中隨機選出5隻大鼠取得血樣進行生物化學分析發現：經45 d的CCl4處理脂質過氧化和肝 酶增加，抗氧化酶的水平減少。經NS和UD治療後減少了脂質過氧化和肝酶增加同時增加了降低的抗氧化酶水平。A組肝重增加而B,C,D 中肝重減少。這表 明NS和UD治療減少了脂質過氧化和肝酶同時增強了在CCl4處理的大鼠種抗氧化防御系統的活力［33］。另外，百里氫醌及合成的類似物��丁基氫醌都具 有清除羥自由基和超氧自由基的能力,可能因此而具有抗氧化能力。  　　2.4 抗血小板聚集按100，250，1 000 mg/kg的劑量連續給大鼠口服黑種草籽懸浮物10 d時觀察到不同組中黑種草籽不影響Hb，總RBC數 量、中性粒細胞和淋巴細胞的百分比以及中性粒細胞和淋巴細胞的比例，但黑種草籽在增加血小板數量和減少凝集時間上的效果明顯，藥劑賴關系與時間之間呈正相 關。而且，即使在1 000 mg/kg體重的劑量也未顯示出任何副作用和毒性。黑種草子油250，500 mg/kg能明顯的抑制ADP、膠原誘導的大 鼠血小板聚集，500，1 000 mg/kg能抑制大鼠體外血栓長度，1 000 mg/kg能減輕大鼠體外血栓重量，明顯延長大鼠血爆時間，還能降低 甘油三酯，但對膽固醇的作用不明顯。在研究了大鼠長期服用家黑種草Nigella sativa L．種子固體油對血液生化和血液學參數的影響時，人們使 用Wistar Kyoto大鼠，隨機分為2組，每組12隻，實驗組動物(Ns-rats)每日口服固定油1 ml/kg，連續12周；對照組動物(C-rats)口 服等量的水。實驗期間每2周測1次體重，每4周測1次血液生化和血液學參數。另取10隻小鼠，觀察該固體油的毒性。結果顯示，給藥12周後，動物血膽固醇 、甘油三酯和葡萄糖含量比對照組分別降低了15.5%,22.0%和16.5% ，血中重要的肝酶、膽紅素、尿酸和肌酸酐含量與對照組比，未見明顯的變化 ；白細胞和血小板數量比對照組分別降低了35.0%和32.0 %；血細胞比容和血紅蛋白含量比對照組分別增加了6.4%，和17.4 %。從給藥後的第6周 開始，與對照組相比，實驗組動物體重的增加明顯減慢。小鼠給以固體油10 mlkg後15 d內未見任何不良反應或死亡。  　　2.5 降脂、降糖和免疫保護作用大鼠口服黑種草籽固態油12周，未發現對肝臟中主要的酶產生影響，同時，血液中的膽固醇、甘油三酯、葡萄糖、淋巴細 胞和血小板數目分別比對照降低了15.5，22，16.5，35和32%血細胞比容和血紅蛋白水平上升了6.4%和17.4%。  　　用胃內管飼法給正常大鼠飼喂黑種草籽石油醚提取物4周，石油醚提取物由於減少了25%的食物，因而體重短期減輕。在體內和體外試驗中均未觀察到植物的 毒性且空腹血糖保持穩定。治療4周後與對照組相比治療組的大鼠空腹胰島素和甘油三酯水平較低而HDL-膽固醇水平較高。通過Western雜交分析表明發 現從各組動物中分離出來的肝細胞對胰島素水平反應上升了。在體內石油醚部分通過增加激素受體的兩種細胞內信號傳導途徑起到了胰島素增敏劑的作用。  　　按400 mg/kg給鏈尿菌素（STZ）誘導的糖尿病倉鼠胃內管飼法飼喂黑種草籽油6周，在誘導糖尿病之後，用膠原酶消化並收集分離的肝細胞已確定 肝糖的產生。通過在一段時間內注射熒光素乳液，24 h後收集腹膜巨噬細胞以評價吞噬能力。治療組血糖從治療前的391+/-3.0 mg/dl在第1，2，3，4周 \n  後減少到325+/-4.7, 246+/-5.9, 208+/-2.5 和179+/-3.1 mg/dl。在治療組倉鼠中從糖異生作用前體來的肝糖 產物明顯減少提示著它的降糖效果部分源於減少了肝糖元的合成。另外，經黑種草籽油治療後腹膜巨噬細胞的吞噬活性和吞噬指數明顯上升，外周血中淋巴細胞數量 增加。這表明其免疫保護作用是通過直接刺激巨噬細胞的吞噬活力或通過刺激淋巴細胞的活力來完成的。  　　給雄性易於中風的自發性高血脂大鼠和Wistar大鼠按800 mg/kg劑量口服黑種草籽油4周，可明顯降低血清中總膽固醇、低密度脂蛋白、甘油三 酯的含量，同時，升高高密度脂蛋白含量。  　　用STZ和煙酰胺誘導形成了糖尿病的大鼠為模型。給大鼠口服黑種草籽油4周，血糖明顯減少,經酶連免疫和抗胰島素單抗証明，胰島素水平明顯上升。經免 疫組化染色可在胰島中觀察到大量的胰島素陽性反應區，結果顯示在2型糖尿病模型中，黑中草籽油有類似胰島素的功能。  \n  　　2.6 雌激素樣活性將黑種草籽的甲醇、氯仿-甲醇和水提取物及3種酚類成分2，4-二羥基苯 乙酸(1)、3，4-二羥基-苯乙醇(2)和2，4-二 \n  羥基苯乙酸甲酯(3)，以17β-雌二 醇作陽性對照。將各濃度的試藥及對照品加至培養皿，溶劑揮乾後加入200 μl含重組酵母(含人雌激素受體基因)及 顯色底物的培養介質，在一定條件下培養3 d,於540 nm處測定培養基的顏色變化，620 nm處校正濁度。結果顯示，甲醇提取物濃度為5�10-3～6�10-4 g/L時，量-效曲線呈性增長，峰濃度為5�10-3g/L。水提取物濃度為5�10-1～1.5�10-3 g/L時，量-效反應曲線呈線性增長，峰濃 度為 5�10-1g/L。氯仿-甲醇提取物則使該曲線呈非線性的、劑量相關的遞增。化合物1的雌激素樣活性最強，化合物2的活性較弱，化合物3無活性 。化合物1和2濃度為1.6�10-5～2�10-7mol/L時，量-效反應曲線呈線性增長，它們的峰濃度為3.2�10-6mol/L，並與甲醇提取 物有相似的劑量相關的量-效曲線，水提取物的曲線証明它可能還存在其他極性活性成分。Actions & Indications:主治﹕For treatment of: heart palpitation, insomnia, weakness, cold or flu, cough. [2]主心悸；失眠；體虛；風寒感冒；咳嗽 [2]Chemical ingredients: [4]化學成份﹕【4】 damascenine黑種草鹼Evaporating oil, among them:揮發油。油中主含:thymoquinone瑞香草醌 (百里香醌)dithymoquinone (nigellone)二瑞香草醌isolongifolene異長葉烯sabinene檜萜(冬青油烯, 美苦草苷, 香檜烯)niqullon黑種草酮quercetin槲皮素saponin, etc皂苷等  Dosage:用 量﹕oral: in decoction, 9-15 g [2]內服：煎劑，9～15 克。[2]Samples of formulae:處方舉 例﹕For bad digestion, flatulence: whole shi liu 24 g，bi po 6 g，rou gui, bai dou kou, black seed, zi lu sha, black pepper, gan jian 3 g each. Make into powder.Use 1.5 g to 3 g each time, 1 to 2 times per day. Take with rock sugar water. (Source: Mongolian Medical Formulae Compilation)Editor's note: If there is shi re  (damp heat), do not use sugar.治胃火衰敗，胃腸脹滿全石 榴24g，蓽 撥6g，肉桂、白豆蔻、黑種草子、紫滷砂、胡椒、乾 薑各3g。制成散劑。每次1.5～3g，每日1～2次，冰糖水送服。《蒙醫藥方匯編》八味石榴散) (編者按：如有濕 熱不宜用糖）Modern Research:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕Do not use during pregnancy.孕婦忌用[1] Med Sci Monit. 2007 Dec;13(12):CR555-9.[2] Zhong Hua Ben Cao  中華本草[3] Saudi J Gastroenterol. 2008 July; 14(3): 105�106.[4] 新疆生物土壤沙漠研究所．新疆藥用植物志（第一冊)．  Search this siteProblems with website? Please Click here for comment. (Not for inquiry )    Click here for inquiryCopyright Notice 按此看關於版權問題Sponsors' Ads by Google 以下為谷歌 所提供之廣告A manuscript... writing, translating and proofreading  in progress List of Health ProblemsQigong (chi kung)Toxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese Medicine TCM Diagnosis Samples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong classesPrescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry Dictionary Qigong classes Research Librarian  HomeWeather ReportDisclaimerLast update: July 20, 2014; 11:30 a.m. LAH   \n",
+    "original_url": "http://alternativehealing.org/nigella_sativa.htm"
+  },
+  {
+    "Names": {
+      "Name": ["chan tui"],
+      "Pharmaceutical": ["Periostricum Cicadae"],
+      "Biological": ["Cryptotympana atrata Fabr"],
+      "Chemical": [],
+      "Common": ["Cicada shell or moulting"],
+      "Other name": [
+        "chan yi 蟬衣",
+        "chan ke 蟬殼",
+        "chan tui 蟬退",
+        "chong tui 蟲蛻",
+        "chong tui 蟲退",
+        "chong yi 蟲衣",
+        "jin yi 金衣",
+        "jin chan yi 金蟬衣",
+        "jing chan yi 淨蟬衣"
+      ],
+      "Chinese": ["蟬蜕"],
+      "Pronunciation in Korean": ["sonse"],
+      "Pronunciation in Japanese": ["sentai"],
+      "Pronunciation in Cantonese": ["sim4 teoi3"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Animal",
+    "Geography": ["sim tui", "sim yi"],
+    "Properties": ["Salty", "Slightly sweet", "Cold"],
+    "Meridians": ["Lung", "Liver"],
+    "Maladies Treated": [
+      "Wind heat type syndrome (feng re): upper respiratory infection with red eyes and sore throat, hoarseness of voice. Part used: cicada shell (chan tui).",
+      "Hives with itching. Part used: cicada shell (chan tui).",
+      "Measles with inadequate eruption; often combined with ge gen (kudzu root) and bo he (peppermint / field mint). Part used: cicada shell (chan tui).",
+      "High fever with convulsion, tetanus; often combined with quan xie (scorpion) and jiang can (stiff silkworm). Part used: cicada shell (chan tui).",
+      "Inflammation of the eye with formation of corneal opacity. Part used: cicada shell (chan tui)."
+    ],
+    "Medical Function": [
+      "Vents rashes (透斑疹): promote eruption of rashes, used for measles that have not fully emerged, often combined with Ge Gen (Kudzu root) and Bo He (Peppermint).",
+      "Relieves spasm (解痙攣): used for high fever convulsions and tetanus, often combined with Quan Xie (Scorpion) and Jiang Can (Silkworm)."
+    ],
+    "Dosage": "3–9 g. For convulsion/spastic muscles: 15–30 g.",
+    "Samples of Formulae": "Name of formula: Er Wei Xiao Feng San (二味消風散) [source: Jing Yue Quan Shu (景岳全書)]. Indication: hives and itchiness of skin.\nComposition: Chan Yi (cicada slough) and Bo He (peppermint / field mint).\nPreparation and use: Boil with water; add Bo He (peppermint / field mint) during the last minute (後下). Use as tea.",
+    "Contraindications": "During pregnancy, use with care. Do not use in deficient syndrome and in those without wind heat type syndrome.",
+    "Research": "",
+    "Notes": "Chan tui (cicada slough) is often stored in soil and commonly has soil attached. During prescription preparation, it is best to wrap chan tui separately, then soak and wash it clean before adding.",
+    "Chemical Ingredients": {
+      "Cicada slough (chan tui)": [
+        "chitin (甲殼質)",
+        "Pteridines (蝶啶類色素)",
+        "isoxanthopterin (異黃質蝶呤)",
+        "erythropterin (赤蝶呤)",
+        "protein (蛋白質)",
+        "valine (纈氨酸)",
+        "amino butyric acid (氨基丁酸)",
+        "tyrosine (酪氨酸)",
+        "glutamic acid (谷氨酸)",
+        "adenosine triphosphatase (腺苷三磷酸酶)"
+      ]
+    },
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "chan tui, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代 中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　                                             chan tui 蟬蜕  by: Joe Hing kwok ChuPharmaceutical name:英文藥名﹕Periostricum CicadaeBiological name:拉丁文學名﹕Cryptotympana atrata FabrPron. in Japanese:日語發音﹕sentaiPron. in Korean:韓語發音﹕sonse Pron. in Cantonese:粵音﹕sim4 teoi3Other Names:別名﹕chan yi 蟬衣，chan ke 蟬殼，chan tui 蟬退，chong tui 蟲蛻，chong tui 蟲退，chong yi 蟲衣，jin yi 金衣，jin chan yi 金蟬衣，jing chan yi 淨蟬衣.Common Name:英文名﹕Cicada shell or moultingDistribution:產地﹕sim tui, sim yiProperties(characteristics)﹕性味﹕salty, slightly sweet, cold.鹹﹐微甘﹐寒。Channels (meridians) entered: 歸經﹕lung, liver肺﹐肝。Medical functions:藥理﹕  Actions & Indications:主治﹕wind heat type syndrome (feng re): Upper respiratory infection with red eyes and sore throat, hoarseness of voice; hives with itching; measles with inadequate eruption; (often combined with ge gen, bo he)  high fever with convulsion, tetanus; (often combined with quan xie, jiang can) inflammation of the eye with formation of corneal opacity;  風 熱：用於外感風熱時的聲音嘶啞,目赤咽腫﹔  皮膚風疹瘙痒﹔  透斑疹：用於麻疹未透，常配葛 根﹐薄 荷﹔  解痙攣：用於高熱驚厥及破傷風，常配全蠍﹐殭 蠶﹔  眼睛發炎﹐角膜 不透明。Chemical ingredients:化學成 份﹕chitin甲殼質Pteridines蝶啶類色素isoxanthopterin異黃質蝶呤erythropterin赤蝶呤protein蛋白質valine纈氨酸amino butyric acid氨基丁酸tyrosine酪氨酸glutamic acid谷氨酸adenosine triphosphatase腺苷三磷酸酶Dosage:用量﹕3 to 9 g. For convulsion/spastic muscles: 15 to 30 g.3～9克。解痉挛用15～30克。Samples of formulae:處方舉例﹕Name of formula: er wei xiao feng san (source: jing yue quan shu) : For hives and itchiness of skin. Composition: chan yi, bo he. Boil with water. (bo he should be added during the last minute). Use as tea. 二味消 風散 《景岳全書》。用於治療皮膚瘙痒症﹐風疹塊。組成﹕蟬衣﹐薄荷 (後下)。 水煎服。  註﹕蟬蛻多藏於泥土之中 ， 常附有泥土 ，所 以 在 開 方 時 蟬 蛻 最 好 分 包 ， 然 後 浸 洗 乾 淨 才加入 。Modern Research:現代研 究﹕ Cautions:禁忌﹕During pregnancy, use with care. Do no use in deficient syndrome and in those without wind heat type syndrome.孕婦慎 服。虛證及無風熱者忌用。　 Search this site       Sponsors' Ads by Google 以 下為谷歌所提供之廣告  A manuscript... writing, translating and proofreading              in progressClick here for comment. (Not for inquiry )      Click here for inquiry   Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所 有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    Disclaimer   Last update: Sept 5, 2010; 10:17 p.m. LAH  ",
+    "original_url": "http://alternativehealing.org/chan_tui.htm"
+  },
+  {
+    "Names": {
+      "Name": ["dang shen"],
+      "Pharmaceutical": ["Radix Codonopsitis Pilosulae"],
+      "Biological": ["Codonopsis pilosula (Franch.) Nannf."],
+      "Chemical": [],
+      "Common": ["codonopsis root"],
+      "Other name": [],
+      "Chinese": ["黨參"],
+      "Pronunciation in Korean": ["tangsam"],
+      "Pronunciation in Japanese": ["tojin"],
+      "Pronunciation in Cantonese": ["dong2 sam1"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Shanxi",
+      "Shaanxi",
+      "Gansu",
+      "Sichuan",
+      "most of northeastern part of China"
+    ],
+    "Properties": ["sweet", "neutral"],
+    "Meridians": ["Lung", "Spleen"],
+    "Maladies Treated": [
+      "pixu (spleen deficient)",
+      "qi and blood both deficient (氣血兩虧)",
+      "lack of appetite due to pixu (spleen deficient)",
+      "fatigue/physical fatigue and lack of strength (體倦無力) due to pixu (spleen deficient)",
+      "thirst due to pixu (spleen deficient)",
+      "chronic diarrhea (久瀉) due to pixu (spleen deficient)",
+      "vomiting due to pixu (spleen deficient)",
+      "stomach prolapse (胃下垂) due to pixu (spleen deficient)",
+      "prolapse of rectum (脫肛) due to pixu (spleen deficient)",
+      "prolapse of uterus (子宮脫垂) due to pixu (spleen deficient)"
+    ],
+    "Medical Function": [
+      "tonifies middle jiao (improves digestive system by correct pixu conditions)",
+      "corrects blood deficiency and enhances qi",
+      "improves body function; anti fatigue",
+      "stimulates nervous system; improves immune system",
+      "increases red blood cells, white blood cells and heme",
+      "improves the function of macrophages",
+      "enhances blood coagulation",
+      "raises blood sugar"
+    ],
+    "Dosage": "9~30 g per day in decoction",
+    "Samples of Formulae": "shi quan da bu tang (十全大補湯)\nsi jun zi tang (四君子湯)",
+    "Contraindications": "Not to use in cases of infection of the digestive system (中滿邪實). Incompatible with li lu (Veratrum nigrum L.). Side effects reported: dizziness, discomfort in the chest area, nervous and uneasy, dry mouth.",
+    "Research": "",
+    "Notes": "",
+    "Chemical Ingredients": {
+      "Compounds": {
+        "Sterols": [
+          "α-Spinasterol",
+          "Stigmasterol",
+          "α-Spinasterol-β-D-glucoside",
+          "Stigmasterol-β-D-glucoside",
+          "α-Spinasterone",
+          "Stigmasta-7,22-dien-3-one"
+        ],
+        "Sugars_and_Glycosides": [
+          "Inulin",
+          "Fructose",
+          "Four types of polysaccharide that contain fructose",
+          "Syringin",
+          "n-Hexyl-β-D-glucopyranoside",
+          "Ethyl-α-D-fructofuranoside"
+        ],
+        "Alkaloids_and_Nitrogen_Compounds": [
+          "Choline",
+          "n-Butyl-allophanate",
+          "Codopiloic acid",
+          "5-Hydroxy-2-pyridinemethanol",
+          "Nicotine"
+        ],
+        "Volatile_Components": [
+          "Caproic acid",
+          "Enanthic acid",
+          "Caprylic acid",
+          "Pelargonic acid",
+          "Lauric acid",
+          "Azelaic acid",
+          "Myristic acid",
+          "Pentadecanoic acid",
+          "Palmitic acid",
+          "Margaric acid",
+          "Octadecadienoic acid",
+          "2,4-Nonadienic acid",
+          "n-Pentadecane",
+          "α-Curcumene",
+          "n-Heptadecane",
+          "n-Octadecane",
+          "n-Nonadecane",
+          "n-Heneicosane",
+          "n-Docosane",
+          "Methyl myristate",
+          "Methyl pentadecanoate",
+          "Methyl palmitate",
+          "Methyl stearate",
+          "Methyl octadecadienoate",
+          "Pinene",
+          "Ethyl palmitate",
+          "Methyl caprylate"
+        ],
+        "Triterpenes_and_Others": [
+          "Taraxerol",
+          "Taraxeryl acetate",
+          "Friedelin",
+          "Atractylenolide II",
+          "Atractylenolide III",
+          "Syringaldehyde",
+          "Vanillic acid",
+          "2-Furancarboxylate",
+          "Codonolactone",
+          "5-Hydroxy-methyl furaldehyde",
+          "5-Methoxyl-furaldehyde"
+        ]
+      }
+    },
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "\n\n\ndang shen, Codonopsis pilosula, Complementary and Alternative Healing University\n\n\n\n\n\n\n\nComplementary and Alternative \n    Healing University \n \n\n\n\n\n\n中藥詞典                 \n    Chinese Herb Dictionary    \n     Search \n    this site    \n    在本網站找資料\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch this \n        site\n\n\nList \n        of Health Problems\n\n\n\n\n\n\nChinese \n        Herb Dictionary\n\n\n\n\n\n\nQigong\n\n\n\n\n\n\n\n        Traditional Chinese Medicine (TCM)\n\n\n\n\n\n\n\n        Acupuncture\n\n\n\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\n\nLecture Slides\n\n\n\n\n\n\nResearch Librarian\n\n\n\n\n\n\nGeneral \n        Online Library\n\n\n\n\n\n\nResearch Sites\n\n\n\n\n\n\n\n        Viagra\n\n\n\n\n\n\nMassage/Acupressure\n\n\n\n\n\n\nHypnotherapy\n\n\n\n\n\n\nTell us what you want\n\n\n\n\n\n\nNotify Changes \n        & New Information\n\n\n\n\n \n\n\n\n\n\n\n\n\n\ndang shen 黨參   \n (in English and Chinese 中英文)\nBy: \n\n\n        Joe Hing Kwok Chu\n\n\n\n\n\n　\n\n\n\n\n\n\n\n\n\n\n                Pharmaceutical name:\n\n                英文藥名：\n\n\nRadix \n                Codonopsitis Pilosulae\n\n\n\n\n\n                Biological name:\n\n                拉丁名：\n\n\n\nCodonopsis pilosula (Franch.) Nannf.\n\n\n\n\n\n                Pronounced in Japanese:\n\n                日語發 音：\n\n\ntojin\n\n\n\n\n\n                Pronounced in Korean:\n\n                韓語發音：\n\n\ntangsam\n\n\n\n\n\n\n                Pronounced in Cantonese:\n\n                粵語發音：\n\n\ndong2 \n                sam1\n\n\n\n\n\n                Common Name:\n\n                英文名：\n\n\ncodonopsis \n                root\n\n\n\n\n\n                Distribution:\n\n                分布：\n\n\nShanxi, \n                Shaanxi, Gansu, Sichuan, and most of northeaster part of China、\n陜 \n                西，山西 ，甘肅，四川與東北各省。\n\n\n\n\n\n                Properties (characteristics)：\n\n                性味：\n\n\nsweet, \n                neutral\n甘 \n                ，平。\n\n\n\n\n\n                Channels (meridians) entered:\n\n                歸經：\n\n\nlung, \n                spleen.\n肺 \n                ，脾。\n\n\n\nActions & Indications:\n主 治：\n\n\ntonifies \n                middle jiao (improves digestive system by correct\n                pixu conditions), \n                corrects blood deficiency and enhances qi (lack of appetite, fatigue, \n                thirst, diarrhea, vomiting, polapse of  uterus, stomach, rectum \n                due to \npixu (spleen deficient) \n                .\n\n\n 脾虛， 氣血兩虧，體倦無力，食少，口渴，胃下垂， 久瀉， \n                脫肛，子宮脫垂。\n\n\n\nMedical Functions: \n \n 藥理﹕\n\n\n\n\n\nImproves body function, anti fatigue\n\n\n\nStimulates nervous system, improves immune \n                  system\n\n\n\nIncreases red blood cells, white blood cells \n                  and  heme\n\n\n\nImproves the function of macrophages\n\n\n\nEnhances blood coagulation\n\n\n\nRaises blood sugar\n\n\n\n(1) 強 壯機能 ， 抗 疲 勞\n                (2) 興 奮 神 經 系 統  ，\n\n 增 強 機 體 抵 抗 力\n                (3) 增 加 紅 細 胞 ﹐白細胞 ﹐血色素\n\n(4) 促 進 血 凝\n                (5) 升 高 血 糖\n\n(6) 增進巨細胞吞食能力\n\n\n\nSamples of formulae:\n處方舉 例：\n\n\n\n\n                shi quan da bu tang, \nsi jun \n                zi tang,\n\n\n                十全大補湯﹐四君子湯\n\n\n\nChemical ingredients:\n化學成分：\n\n\n\n\n\n\n                click here to go to chemical ingredient page 按此看化學成份\n\n\n\nDosage:\n用量：\n\n\n9~30 \n                g per day in decoction\n每 \n                日量﹕水 煎 9 ~ 30 克\n\n\n\nCautions:\n禁忌：\n\n\nNot \n                to use in cases of infection of the digestive system. Incompatible \n                with li lu \n                (Veratrum nigrum \n                L.)\nSide \n                effects have been reported, like : dizziness, discomfort in the \n                chest area, nervous and uneasy, dry mouth, etc.\n如 \n                消化道有感染（中 滿 邪實)忌用 。\n反藜\n                蘆。\n有 \n                報導曾有 發生過副作用，如 ﹕ 暈眩、胸口不舒服、煩躁、口乾等。\n\n\n\n\n\n\n\n　 \n \n\n\n\n\n\n\n\nSearch this site\n\n\n\nProblems with website? Please \n\nClick here \n    for comment. (Not for inquiry )    \n    \n\n\nClick \n    here for inquiry \n\n\n\nCopyright Notice \n\n按此看關於版權問題\n\n\n\n\nA manuscript... writing, translating and proofreading  in progress\n\n\nSponsors' Ads by Google \n    以下為谷歌 所提供之廣告\n\n\n\n\n\n\n\n\nList \n        of Health Problems\n\n\n\n\nChinese \n        Herb Dictionary\n\n\n\n\n\nToxicity of Some Herbs\n\n\n\nSide Effect of Some Herbs\n\n\n\nHerbs that can be toxic to kidneys\n\n\n\n\n\n        Traditional Chinese Medicine\n \n\n\nTCM Diagnosis\n \n\nSamples \n        of Formulae\n\n\n\n\n\n        Terms of Traditional Chinese Medicine\n\n\n\n        Acupuncture\n\n\n\n\n\n\ncopy right\n \n\n\n版權所有\n\n\n\n\nQigong \n        (chi kung)\n\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\nEmail \n        our web master for  your suggestion (not for inquiry)\n\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\n\nGeneral Online Library\n\n\n\n\nQigong classes\n\n\n\n\nFake Email \n        Warning\n\n\n\n\nResearch Librarian\n\n\n\n\nSearch\n\n\n\n\n\n\nQigong classes\n\n\n\n\nHome\n\n\n\n\n\n        Weather Report\n\n\n\n\nDisclaimer\n\n\n\nLast update: Oct 30, 2013; 4:58 p.m. \n        LAH\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+    "original_url": "http://alternativehealing.org/dang_shen.htm"
+  }
+]

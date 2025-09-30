@@ -1,0 +1,392 @@
+[
+  {
+    "Names": {
+      "Name": ["she chuang zi", "蛇床子"],
+      "Pharmaceutical": ["Fructus Cnidii Monnieri"],
+      "Biological": ["Cnidium monnieri (L.) Cuss.", "Selinum monnieri L."],
+      "Chemical": [],
+      "Common": ["cnidium seeds"],
+      "Other name": [
+        "she li 蛇粟",
+        "she mi 蛇米",
+        "Taiwan chuan xiong 台灣川芎",
+        "jia yuan sui 假芫荽",
+        "ye hu lo fu zi 野胡蘿蔔子"
+      ],
+      "Chinese": ["蛇床子", "蛇粟", "蛇米", "台灣川芎", "假芫荽", "野胡蘿蔔子"],
+      "Pronunciation in Korean": ["susangja"],
+      "Pronunciation in Japanese": ["jashoshi"],
+      "Pronunciation in Cantonese": ["seh chong tzee"],
+      "Pinyin Pronunciation": ["she chuang zi"]
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Mainly in Hebei, Shandong, Zejiang, Jiangsu, Sichuan, Taiwan provinces of China"
+    ],
+    "Properties": ["acrid", "bitter", "warm"],
+    "Meridians": ["kidney", "triple warmer"],
+    "Maladies Treated": [
+      "Cytomegalovirus (CMV) infection in pregnant women; in TCM belongs to categories of 胎漏, 滑胎, 胎萎",
+      "Impotence due to shenyangxu (kidney yang deficient)",
+      "Cold in the uterus with infertility; women with difficulty in conceiving due to weak sexual function",
+      "Cold-damp leucorrhea (寒濕帶下)",
+      "Damp impediment with low back pain (濕痺腰痛)",
+      "Yeast infection with low body function",
+      "Eczema or itchy vagina (external use)",
+      "Itchy skin (external use)",
+      "Trichomoniasis (滴虫性陰道炎)",
+      "Rectal prolapse (脫肛)",
+      "Hemorrhoid (痔瘡)"
+    ],
+    "Medical Function": [
+      "Anti-histamine; anti-itch; anti-allergenic effect [1]",
+      "Dilates blood vessels",
+      "Anti-arrhythmia",
+      "Anti-fungal",
+      "Anti-bacterial",
+      "Sedative effect",
+      "Improves immune system",
+      "Influence on the pituitary-adrenocortex and thyroid axis",
+      "Improves bone strength: coumarins from fruits of cnidium inhibit formation and differentiation of multinucleated osteoclasts of rats",
+      "Osthol (osthole) 歐芹酚甲醚 relaxes the corpus cavernosa (海棉體) of the penis, thus helps blood flow and erections",
+      "Cardiovascular: Osthol (蛇床子素) relaxed vascular smooth muscle and inhibited contractions of rabbit aortic strips induced by norepinephrine, CaCl2 and high K+ depolarization; right-shift of dose–response curves with decreased maximal response; calcium antagonism related to inhibition of plasma membrane-dependent Ca2+ channels and inhibition of intracellular Ca2+ release attributed to lipophilic groups allowing entry into cells",
+      "Anti-arrhythmia (animals): Total coumarins of Cnidium monnieri (TCCM) reduced incidence of ventricular fibrillation in chloroform-induced mice and CaCl2-induced rats; significantly antagonized aconitine-induced arrhythmia in rats; ineffective against adrenaline-induced (rabbit) and barium chloride–induced (rat) arrhythmias; mechanism possibly via inhibition of Na+ and Ca2+ influx across cardiomyocyte membranes, unrelated to β-receptor blockade",
+      "Central nervous system: Coumarins produced anesthesia and hypnosis in experimental animals; intraperitoneal injection of total coumarins 100 mg/kg in mice significantly enhanced subthreshold barbiturate (sodium pentobarbital) sleep and increased the LD50 of caffeine in mice",
+      "Analgesia (animals): Osthol inhibited acetic acid–induced writhing in mice, showing obvious analgesia to chemically induced pain; effect reported better than 氫巴馬汀; osthol also significantly improved memory acquisition in mice, possibly related to effects on brain acetylcholinesterase activity and delayed cellular aging",
+      "Endocrine/sex hormone–like: Extracts measured by radioimmunoassay contained testosterone and estradiol; active components isolated abroad included benzofuran derivatives and monoterpene derivatives associated with strengthening essence",
+      "Hypothalamus–pituitary–thyroid axis (animals): Osthol and TCCM significantly increased TSH, T3, rT3, and T4 in a kidney-yang-deficiency rat model, indicating enhanced pituitary–thyroid axis activity",
+      "Anti-osteoporosis (animals): Long-term oral TCCM effectively prevented prednisolone-induced osteoporosis in rats, increasing trabecular bone area by 56%, with bone histomorphometric indices approaching normal; TCCM and osthol also prevented high-turnover osteoporosis in ovariectomized rats due to estrogen deficiency; potency lower than dienestrol but with fewer side effects",
+      "Antimutagenic and anticancer: Osthol and  v芹属素乙 showed strong antimutagenic activity; some coumarins inhibited growth of HeLa-S3 cancer cells, with inhibitory strength order: osthol > 花椒毒酚 > 異虎耳草素 > 佛手柑內酯 > 花椒毒素 > 欧芹属素乙",
+      "Anti-hypersensitivity/bronchial effects (animals and clinical): TCCM protected guinea pigs from histamine- and acetylcholine-induced drug asthma and directly dilated isolated guinea pig bronchial smooth muscle; this dilation was blocked by the β-adrenergic blocker propranolol; osthol inhibited passive cutaneous anaphylaxis in mice and protected against histamine-induced bronchospasm in guinea pigs; clinically, TCCM treated 118 patients with bronchial asthma and asthmatic bronchitis during attack phase with total effectiveness rate 87.3%",
+      "Immune enhancement (animals): In a hydrocortisone acetate–induced kidney-yang-deficiency mouse model, peritoneal macrophage phagocytic percentage and index, serum hemolysin 50% hemolysis value, and splenic lymphocyte 3H-TdR incorporation were markedly decreased versus normal; administration of osthol and TCCM (both 2.5% suspension, 1.5 mL/day, intragastric, 20 days) significantly increased these indices, indicating improved immune function in the model"
+    ],
+    "Dosage": "Internal use: 3 to 9 g in decoction. External use: appropriate amount; commonly decoct for fumigation/washing, or grind into powder and apply as paste.",
+    "Samples of Formulae": "Trichomoniasis (滴虫性陰道炎): listed under Samples of formulae.\n\nFor impotence: Tu Si Zi (Cuscuta seed) 等分, She Chuang Zi (Cnidium seed) 等分, Wu Wei Zi (Schisandra fruit) 等分. Grind the three ingredients to powder, mix with honey to form pills the size of 梧子 (Chinese parasol tree seed). Take 30 pills with drink, three times daily. Source: Qian Jin Fang (《千金方》).\n\nFor Cytomegalovirus (CMV) infection in pregnant women: In TCM categorized as 胎漏, 滑胎, 胎萎. Use Shou Tai Wan 合 Si Jun Zi Tang with modifications. After taking 3 doses, bleeding can stop; then add Yi Yi Ren (coix seed), Ban Lan Gen (isatis root), Guan Zhong (dryopteris rhizome), and She Chuang Zi (cnidium seed) 6 g; take 10 doses.",
+    "Contraindications": "Do not use in cases of shenyinxu (kidney yin deficient), lower burner damp-heat, or when ministerial fire is easily stirred; liver fire ascending and/or priapism; yang hypertonus and individuals with insecure essence gate (精關不固). Classical notes: 《本草經集注》：惡 巴豆、貝母、牡丹皮 (antagonizes Ba Dou, Bei Mu, Mu Dan Pi). 《本草經疏》：腎家有火及下部有熱者勿服. 《本經逢原》：腎火易動 (腎陰虛)，陽強精不固者勿服.",
+    "Research": "Anti-allergenic: Anti-allergenic effect reported; see [1].\n\nCardiovascular (animals): Osthol relaxed vascular smooth muscle and inhibited contractions of rabbit aortic strips induced by norepinephrine, CaCl2 and high K+ depolarization, with right-shifted dose–response curves and decreased maximal response. Mechanism associated with non-competitive Ca2+ antagonism via inhibition of plasma membrane–dependent Ca2+ channels and intracellular Ca2+ release, facilitated by lipophilic groups enabling cellular entry.\n\nAnti-arrhythmia (animals): TCCM reduced incidence of ventricular fibrillation in chloroform-induced mice and CaCl2-induced rats; significantly antagonized aconitine-induced arrhythmia in rats; no effect on adrenaline-induced (rabbit) and barium chloride–induced (rat) arrhythmias. Mechanism possibly involves inhibition of Na+ and Ca2+ influx at cardiomyocyte membranes; unrelated to β-receptor blockade.\n\nCNS (animals): Coumarins exhibited anesthesia and hypnosis; intraperitoneal injection of total coumarins 100 mg/kg in mice significantly enhanced subthreshold sodium pentobarbital–induced sleep and increased the LD50 of caffeine in mice. Osthol inhibited acetic acid–induced writhing in mice, with analgesic effect to chemical pain stronger than 氫巴馬汀; osthol improved memory acquisition in mice, potentially via effects on acetylcholinesterase activity and delaying cellular aging.\n\nEndocrine/sex-hormone–related: Radioimmunoassay detected testosterone and estradiol in extracts. Active components isolated abroad included benzofuran derivatives and monoterpene derivatives with reinforcing essence activity.\n\nHypothalamus–pituitary–thyroid axis (animals): Osthol and TCCM significantly increased TSH, T3, rT3, and T4 in a kidney-yang-deficiency rat model, indicating increased pituitary–thyroid axis activity.\n\nBone (animals): Long-term oral TCCM prevented prednisolone-induced osteoporosis in rats; trabecular bone area increased by 56%, and histomorphometric indices approached normal. TCCM and osthol also prevented high-turnover osteoporosis in ovariectomized rats due to estrogen deficiency; effect strength lower than dienestrol, with fewer side effects reported.\n\nAntimutagenic/anticancer: Osthol and 欧芹属素乙 showed strong antimutagenic activity. Certain coumarins inhibited HeLa-S3 cell growth, with inhibitory strength order: osthol > 花椒毒酚 > 異虎耳草素 > 佛手柑內酯 > 花椒毒素 > 欧芹属素乙.\n\nAnti-hypersensitivity and bronchial effects (animals and clinical): TCCM protected guinea pigs against histamine- and acetylcholine-induced drug asthma and directly dilated isolated guinea pig bronchial smooth muscle; this dilation was blocked by the β-adrenergic blocker propranolol. Osthol inhibited passive cutaneous anaphylaxis in mice and protected guinea pigs from histamine-induced bronchospasm. Clinically, TCCM treated 118 cases of bronchial asthma and asthmatic bronchitis during the attack phase with a reported total effectiveness rate of 87.3%.\n\nImmune function (animals): In a hydrocortisone acetate–induced kidney-yang-deficiency mouse model, peritoneal macrophage phagocytic percentage and index, serum hemolysin 50% hemolytic value, and splenic lymphocyte 3H-TdR incorporation were significantly decreased versus controls. Administration of osthol and TCCM (both as 2.5% suspensions, 1.5 mL/day, intragastric, for 20 days) significantly increased these indices.",
+    "Notes": "TCCM refers to total coumarins from Cnidium monnieri. Osthol is also referred to as 歐芹酚甲醚 in the source text.",
+    "Chemical Ingredients": {
+      "Fruits": [
+        "Essential oil about 1.3% containing L-Pinene and bornyl isovalarate",
+        "Osthol (osthole) about 1% (an effective ingredient for treatment of trichomoniasis)",
+        "Columbianadin",
+        "Berapten (bergapten)",
+        "Cnidiadin",
+        "Isopimpinellin"
+      ],
+      "Domestic fruits additional": [
+        "哥倫比亞綠草素 0.20%",
+        "圓當歸素 0.0012%",
+        "食用白芷素 0.073%",
+        "佛手柑內酯 0.097%",
+        "異茴芹內酯 0.026%",
+        "O-乙醯二氫歐山芹素 0.021%",
+        "二氫歐山芹素 (percentage not specified)",
+        "O-異戊醯二氫歐山芹素 0.010%",
+        "3-異丁醯氧-O-乙醯二氫歐山芹素 0.081%",
+        "O-異丁醯二氫歐山芹素 0.0041%"
+      ]
+    },
+    "References": [
+      "[1] http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Retrieve&db=PubMed&list_uids=12081154&dopt=AbstractPlus",
+      "《千金方》 (Qian Jin Fang) – classical source for impotence pill formula",
+      "邱文慧教授：中草藥與壯陽的相關研究報告",
+      "中國醫藥報"
+    ],
+    "Further Reading": [],
+    "Original Text": "\n\n\nshe chuang zi, Complementary and Alternative Healing University\n\n\n\n\n\n\n\n\nComplementary and Alternative Healing University\n    \n \n\n\n\n\n\n中藥詞典    Chinese Herb Dictionary    \n     \n\n\nSearch this site\n       \n    在本網站找資料\n\n\n\n\n\n\n \n\nshe \n    chuang zi  蛇床子\n \n\nby: \n    Joe Hing kwok Chu\n \n\n\n\n\n\n\n\n\n\n\n\n        Present Day Applications:\n現代應用﹕\n\n\nFor treatment \n        of Cytomegalovirus (CMV) Infection in pregnant women.\n\n治療懷孕婦人巨\n        細胞病毒感染.\n\n\n\n\nPharmaceutical name:\n英文藥名﹕\n\n\nFructus Cnidii \n        Monnieri\n\n\n\n\nBiological name:\n拉丁文學名﹕\n\n\nCnidium \n        monnieri (L.) Cuss.\nSelinum \n        monnieri L.\n\n\n\n\nPron. in Japanese:\n日語發音﹕\n\n\n\njashoshi\n\n\n\n\nPron. in Korean:\n韓語發音﹕\n\n\n\nsusangja\n\n\n\n\nPron. in Cantonese:\n粵音﹕\n\n\nseh chong \n        tzee\n\n\n\n\nOther Names:\n別名﹕\n\n\nshe li 蛇粟﹐she \n        mi 蛇米﹐Taiwan chuan xiong 台灣川芎，jia yuan sui 假芫荽，ye hu lo fu zi 野胡籮蔔子。\n\n\n\n\nCommon Name:\n英文名﹕\n\n\n\ncnidium seeds\n\n\n\n\nDistribution:\n產地﹕\n\n\nMainly in \n        Hebei, Shandong, Zejiang, Jiangsu, Sichuan, Taiwan provinces of China\n\n主產於中國河北﹐山東﹐浙江﹐江蘇﹐四川﹐台灣。\n\n\n\n\nProperties\n(characteristics)﹕\n性味﹕\n\n\nacrid, bitter, \n        warm\n味辛﹐苦，性溫。\n\n\n\n\nChannels (meridians) \n        entered:\n \n歸經﹕\n\n\nkidney, triple \n        warmer.\n入腎, 三焦二經。\n\n\n\nMedical functions:\n藥理﹕\n\n\n\n\n\nanti-histamine, anti-itch,\n\n\nanti-allergenic effect [1]\n\n\ndilates \n          blood vessels\n\n\nanti arrhythmia\n\n\nanti-fungal,\n\n\nanti-bacterial\n\n\nsedative \n          effective\n\n\nimprove \n          immune system\n\n\ninfluence \n          on the pituitary-adrenocortex and thyroid axis.\n\n\nimproves \n          bone strength (coumarins from fruits of cnidium inhibit formation and \n          differentiation of multinucleated osteoclasts of rats).\n\n\nosthol  \n          (osthole) 歐芹酚甲醚 \nrelaxes the corpus cavernosa 海棉體 of the penis, \n          thus helps  blood flow and erections\n\n\n \n\n\n抗組胺，止癢。\n\n\n抗過敏【1】\n\n\n擴張血管\n\n\n抗心律不整\n\n\n抗霉菌\n\n\n抗細菌\n\n\n鎮靜作用\n\n\n增強免疫系統\n\n\n影響腦下垂體腎上腺皮質與甲狀腺軸線\n\n\n增強骨骼力量\n\n\n歐芹酚甲醚 對陰莖的 海棉體有疏鬆作用對陰莖勃起有幫助\n\n\n\n\n\n\n\nActions \n        & Indications:\n主\n        治﹕\n\n\nfor:\n\n\n\n impotence \n          due to condition of\n          shenyangxu (kidney \n          yang deficient)\n\n\ndampness,\n\n\npain\n\n\nparasites\n\n\nwomen with \n          difficulty in conceiving due to weak sexual function\n\n\n\n\n          yeast infection with low body function\n\n\neczema or \n          itchy vagina (external use)\n\n\nitchy skin\n\n\n\n\n          trichomoniasis\n\n\nrectal prolapse\n\n\nhemorrhoid\n\n\n用於：\n\n\n\n腎陽虛 陽痿，\n\n\n宮冷，不孕，\n\n\n寒濕帶下，\n\n\n濕痺腰痛,\n\n\n外治外陰濕疹，\n\n\n\n\n          婦人白帶﹐陰癢﹔\n\n\n\n皮膚騷癢﹐\n\n\n\n\n          滴虫性陰道炎。\n\n\n脫肛，\n\n\n痔瘡。\n\n\n\n\n\n\nChemical \n        ingredients:\n化\n        學成份﹕\n\n\nChemical \n        ingredients:\n\nContaining 1.3% of essential oil: \n(L-Pinene)﹐bornyl \n        isovalarate﹐osthol 1%\n        (an effective ingregient for treatment \n        of trichomoniasis), \n        columbianadin﹐berapten﹐cnidiadin﹐isopimpinellin\n\n\n化學成份﹕\n\n含揮發油約1.3%，\n        主要為左旋蒎烯  (L-Pinene)﹐\n        異缬草酸龍腦酯（bornyl isovalarate）﹐歐芹酚甲醚(osthol) \n約1% \n(為治療陰道滴蟲病有效成分)。二\n        氫歐山芹醇 (Columbianadin)﹐佛手柑内酯(berapten)﹐蛇床子素（cnidiadin）\n        ﹐異茴芹素（isopimpinellin）\n\n另據報道，國產蛇床子尚含哥倫比亞綠草素0.20%﹐\n        圓當歸素0.0012%﹐\n        食用白芷素0.073%﹐\n        佛手柑內酯0.097%﹐\n        異茴芹內酯0.026%﹐O-乙\n        醯二氫歐山芹素0.021%﹐\n        二氫歐山芹素﹐O-異\n        戊醯二氫歐山芹素0.010%，3-異\n        丁醯氧-O-乙\n        醯二氫歐山芹素0.081%﹐O-異\n        丁醯二氫歐山芹素0.0041%等\n        。等。\n\n\n\n\nDosage:\n用量﹕\n\n\nInternal use:3 \n        to 9 g in decoction .\nExternal use: \n        use accordingly for washing with decoction or make into powder and use as \n        paste.\n3～9g﹔外用適量，\n        常用來煎湯熏洗，或研末調敷。\n\n\n\n\nSamples of \n        formulae\n:處方舉例﹕\n\n\n\n\n        trichomoniasis\n\n\n        滴虫性陰道炎。\n治陽痿：菟\n        絲子、蛇\n        床子、五\n        味子各等分。上三味，末之，蜜丸如梧子。飲服三十丸，日三。《\n        方源：千金方 \n        》\n\n\n\n\nModern \n        Research:\n現\n        代研究﹕\n\n\n邱文慧教授﹕中\n        草藥與壯陽的相關研究報告\n\n\n\n\nCautions:\n禁\n        忌﹕\n\n\ndo not use \n        in cases ofshenyinxu \n        (kidney yin deficient), \n\nliver fire ascending \n        with/or priaprism.\n\nSome traditional sources it antagonizes \n\nmu dan pi,\n        ba dou, \n        and \nbei mu\n下焦有濕熱，或腎陰不足，相火易動﹐ 肝火旺(肝\n        火上炎)及陽強者以及精關不固者忌服。\n        《本草經集注》：� 惡 \n\n巴 豆﹐貝母﹐ \n        牡丹皮�\n        \n        《本草經疏》：�腎家有火及下部有熱者勿服。� \n        《本經逢原》：�腎火易動 (腎\n        陰虛)，陽強精不固者勿服。�\n \n\n\n\n \n[1]http://www.ncbi.nlm.nih.gov/sites/entrez?cmd=Retrieve&db=PubMed&list_uids=12081154&dopt=AbstractPlus\n\n\n \nThe following will be translated. If you need them \n    in a hurry you can email our\n    Research Librarian.\n巨細胞病毒是一種疱疹病毒，普通人感染多數無症狀，但孕婦感染常導致流產﹐死胎或死產，活產兒也常出現先天\n    性心臟病﹐中樞神經系統畸形以及智力遲鈍等。孕婦巨細胞病毒感染引起的症狀及後果屬於中醫的胎漏﹐滑胎﹐胎萎等范疇。以壽胎丸合四\n    君子湯加 減，服藥三劑可止血，再加薏\n    苡仁﹐板 \n    藍 根﹐貫\n    仲﹐蛇\n    床子﹐6 克，服藥10劑。\n\n    蛇床子藥理作用 　　\n    蛇床子為傘形科植物蛇床的干燥成熟果實，味辛涼，歸腎經，有溫腎助陽、祛風、燥濕、殺虫之功效。蛇床子中研究最多的是有效成分蛇床子總 香豆素（total \n    coumarines），其中單體蛇床子素約佔TCCM的60％，其他單體還有佛手柑內酯、異虎耳草素、花椒毒酚、花椒毒素等。近年來，國內外加強\n    了對蛇床子有效成分的藥理研究，發現其作用廣泛。\n    　　■對心血管系統作用\n    　　擴張血管蛇床子素能使去甲腎上腺素、CaCl2 和高K＋除極化所致的家兔主動脈條收縮抑制，量效曲線右移，最大反應降低。蛇床子素有\n    鬆弛血管平滑肌作用，與非競爭性Ca2 \n    ＋拮抗有關。由於其化學結構上帶有較強的脂溶性基團，可直接進入細胞內，抑制鈣貯庫中Ca2 \n    ＋釋放，認為蛇床子素可通過抑制細胞膜依賴性鈣離子通道（PDC）和細胞內Ca2 \n    ＋釋放而發揮鈣拮抗作用，這可能是它擴血管作用的重要機制。\n    　　抗心律失常TCCM可降低氯仿誘發的小鼠和CaCl2誘發的大鼠室顫發生率，顯著對抗烏頭鹼誘發的大鼠心律失常，但對腎上腺素（家兔）和氯化鋇（大鼠）誘發的\n    心律失常無效。抗心律失常作用可能是通過抑制心肌細胞膜上的Na＋、Ca2 \n    ＋內流起作用，而與阻斷β受體無關。\n    　　■對中樞神經系統作用\n    　　鎮靜作用香豆素類對實驗動物有麻醉和催眠效果。研究表明，給小鼠腹腔注射100毫克/千克總 香豆素，能顯著增強閾下催眠劑量戊巴比妥鈉誘導的睡眠，並能明顯\n    提提高 咖啡因小鼠半數致死量（LD50）。\n    　　鎮痛作用國外研究蛇床子素能抑制醋酸所致的小鼠扭體反應，對小鼠化學刺激性疼痛有明顯的鎮痛作用，效果比氫巴馬汀好。蛇床子素還可顯著改善小鼠記憶獲得，可能\n    與影響腦內膽鹼酯酶活性及延緩細胞老化等因素有關。\n    　　■對內分泌的作用\n    　　性激素樣作用中醫認為蛇床子有溫腎壯陽功能，採用放射免疫測定法測定出蛇床子提取物中含有睪丸酮和雌二醇。國外已從蛇床子中分離得到具有強壯益精的活性成分��苯\n    並呋喃類衍生物及單萜類衍生物。\n    　　對下丘腦－垂體－靶腺影響蛇床子素和TCCM能顯著提高腎陽虛大鼠模型促甲狀腺激素（TSH）、T3、rT3和T4，表明可提高模型鼠的腺垂體－甲狀腺軸動能\n    。\n    　　拮抗激素引起的骨質疏鬆給大鼠長期口服TCCM，可有效防止潑尼鬆引起的骨質疏鬆，使骨小梁面積增加56％，各項骨計量學指標接近正常。TCCM和蛇床子素還\n    能有效預防去卵巢大鼠由於雌激素不足而引起的骨吸收超過骨形成的高轉換型骨質疏鬆，作用強度不及尼爾雌醇，但副作用小。故蛇床子素有望成為防治絕經後婦女骨質疏鬆\n    的藥物。\n    　　■其他作用\n    　　抗誘變與抗癌作用蛇床子素和歐芹屬素乙具有較強的抗誘變活性。一些香豆素類對癌細胞（Hela－S3）生長有抑制作用，其對癌細胞抑制強度為蛇床子素＞花椒毒\n    酚＞異虎耳草素＞佛手柑內酯＞花椒毒素＞歐芹屬素乙。\n    　　抗變態反應TCCM對組胺、乙酰膽鹼引起的整體豚鼠藥物性喘息具有明顯的保護作用，並能直接擴張豚鼠離體支氣管平滑肌，此作用可被β－受體阻斷劑(beta-adrenergic \n    blocker) 心得安 (Propranolol) 所阻斷。蛇床子素也能抑制小鼠被動皮膚過敏反應，對整體豚鼠組胺性喘息有\n    保護作用。臨床上報道，用TCCM治療支氣管哮喘和喘息型支氣管炎發作期患者118例，效果顯著，總 有效率達87.3％。\n    　　提高免疫功能採用醋酸氫化可的松 （Hydrocortisone acetate）造成腎\n    陽虛小鼠模型，與正常對照組比較，腹腔巨噬細胞吞噬百分率和吞噬指數、血清溶血素50％溶血值、脾淋巴細胞3H－ TdR滲入數等指標明顯降低，用蛇床子\n    素和TCCM（均為2.5％混懸液1.5毫升/天），連續灌胃20天，腎\n    陽虛 \n    組上述指標均有顯著提高，說明其可提高腎\n    陽虛模型小鼠的免疫功能。\n \n中國醫藥報 \n \n\n\n\nSearch this site\n\n\nProblems with website? Please \n\nClick here \n    for comment. (Not for inquiry )   \n    \n\n\nClick \n    here for inquiry\n\n\nCopyright Notice \n\n按此看關於版權問題\n\n\n\n\nSponsors' Ads by Google \n    以下為谷歌 所提供之廣告\n\n\n\nA manuscript... writing, translating and proofreading  in progress\n\n\n\n\n\n\n\n\nList \n        of Health Problems\n\n\n\n\n\nQigong \n        (chi kung)\n\n\n\n\n\nToxicity of Some Herbs\n\n\n\nSide Effect of Some Herbs\n\n\n\nHerbs that can be toxic to kidneys\n\n\n\n\n\n        Traditional Chinese Medicine\n \n\n\nTCM Diagnosis\n \n\n\nSamples \n        of Formulae\n\n\n\n\n\n        Terms of Traditional Chinese Medicine\n\n\n\n        Acupuncture\n\n\n\n\n\n\ncopy right\n \n\n\n版權所有\n\n\n\n\n\nQigong classes\n\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\nEmail \n        our web master for  your suggestion (not for inquiry)\n\n\n\n\nBiochemistry Dictionary\n\n\n\n\n \n\n\n\n\nQigong classes\n\n\n \n\n\n\n\nResearch Librarian\n\n\n \n\n\n\n\n \n\n\n\n\nHome\n\n\n\n\n\n        Weather Report\n\n\n\n\nDisclaimer\n\n\n\nLast update: Aug 16, 2014; 11 \n        p.m. LAH\n\n\n\n\n\n\n \n\n\n\n\n\n\n\n\n\n",
+    "original_url": "http://alternativehealing.org/she_chuang_zi.htm"
+  },
+  {
+    "Names": {
+      "Name": ["cong bai"],
+      "Pharmaceutical": ["Bulbus Allii fislulosi"],
+      "Botanical": ["Allium fislulosum L."],
+      "Common": ["Stems of green onion"],
+      "Other name": ["cong jing bai 蔥莖白", "cong bai tou 蔥白頭"],
+      "Chinese": ["蔥白"],
+      "Pronunciation in Korean": ["chongbaek"],
+      "Pronunciation in Japanese": ["sohaku"],
+      "Pronunciation in Cantonese": ["cung1 baak6"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": ["All part of China"],
+    "Properties": ["acrid", "warm"],
+    "Meridians": ["Lung", "Stomach"],
+    "Maladies Treated": [
+      "common cold or influenza with fever and headache, achy and numb body (風寒感冒，頭痛發熱，身痛麻痺)",
+      "cold type (yang deficient) of abdomen ache (陰寒/陽虛型 腹痛)",
+      "constipation or difficulty in urination (二便不通)",
+      "inflammation of throat (喉痺)",
+      "dysentery (痢疾)",
+      "beriberi (腳氣)",
+      "acute mastitis (乳癰)",
+      "boils; sores and swelling pain (瘡癤腫痛)",
+      "parasites in intestines; worm accumulation abdominal pain (虫積腹痛)",
+      "injuries from impact (跌打損傷)",
+      "food poisoning from fish/meat (魚肉中毒)",
+      "snake and insect bites (虫蛇咬傷)"
+    ],
+    "Medical Function": [
+      "anti-bacteria (抗細菌)",
+      "anti-fungal (抗真菌)",
+      "stabilizes pregnancy (安胎)"
+    ],
+    "Dosage": "10–30 g (每日用量 10∼30 克).",
+    "Samples of Formulae": "Treatment of common cold or flu with no sweat: Cong Bai (scallion stalk/white of scallion) 15 g, Gan Jiang (dried ginger) 3 g, Dou Chi (fermented/prepared soybean) 9 g. Boil with water and drink while warm.\n\nTreatment of common cold or flu (topical rub): Cong Bai (scallion stalk/white of scallion) 15 g, Sheng Jiang (fresh ginger) 15 g, Salt 3 g. Mash into a paste, wrap with gauze, and rub the following areas once: chest, back, soles of the feet, palms, armpits, and inside the bends of the elbows. This can enable patients to sleep peacefully.",
+    "Contraindications": "Do not use in cases of biao xu (external deficiency) with spontaneous/instant sweating (表虚多汗忌服).",
+    "Research": "An observational clinical application reported for the topical rub formula (Cong Bai 15 g + Sheng Jiang 15 g + Salt 3 g; mashed and applied with gauze to chest, back, soles, palms, axillae, and elbow creases) in 107 cases: after approximately half an hour following rubbing, some patients started to sweat and fever began to subside; symptoms were relieved and by the next day they were completely well. Treatment was effective within 1–2 days. Generally used one time; a few cases required 2 times.",
+    "Notes": "",
+    "Chemical Ingredients": [
+      "Bulb (鱗莖): contains mucilage (mucilage is mainly polysaccharides), crude fat, crude protein, crude fiber, nitrogen-free extract (Nfree exteact), pentosan, polysaccharides; within mucilage the main component is polysaccharides, followed by cellulose, hemicellulose, protopectin, and water-soluble pectin; also contains sugar, vitamin C, carotene, vitamins B1, B2, A, PP, oxalic acid, lipids, linolenic acid, linoleic acid, palnitic acid, oleic acid, arachidic acid, ubiquinone-9, and ubiquinone-10.",
+      "Bulb (鱗莖) essential oil: main components include allicin and allyl sulfide (二烯丙基硫醚).",
+      "Root: contains aluminum."
+    ],
+    "References": ["[1] 《Zhong Hua Ben Cao 》《 中華本草》"],
+    "Further Reading": [],
+    "Original Text": "\n\n\n\ncong bai, Complementary and Alternative Healing University\n\n\n\n\n\n\n\n\n\nComplementary and Alternative Healing\nUniversity\n Home\n         中藥詞典\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch \n                  this site \n\n\n\n\n\nSearch this site\n\n\n\n\n\nList \n        of Health Problems\n\n\n\n\n\n\nChinese \n        Herb Dictionary\n\n\n\n\n\n\nQigong\n\n\n\n\n\n\n\n        Traditional Chinese Medicine (TCM)\n\n\n\n\n\n\n\n        Acupuncture\n\n\n\n\n\n\n\n        Prescribed Drug Dictionary\n\n\n\n\n\n\nBiochemistry \n        Dictionary\n\n\n\n\n\n\nLecture Slides\n\n\n\n\n\n\nResearch Librarian\n\n\n\n\n\n\nGeneral \n        Online Library\n\n\n\n\n\n\nSearch this site\n\n\n\n\n\n\nResearch Sites\n\n\n\n\n\n\n\n        Viagra\n\n\n\n\n\n\nMassage/Acupressure\n\n\n\n\n\n\nHypnotherapy\n\n\n\n\n\n\nTell us what you want\n\n\n\n\n\n\nNotify Changes \n        & New Information\n\n\n\n\n　\n\n\n\n\n\n\n\n    　\n\ncong bai 蔥白  \n(in English and Chinese 中英文)\n\n    　\n\n\nby: \n    Joe Hing kwok Chu               \n    \n按此看中文 \n    \n\n\n\nPharmaceutical \n        name:\n英文藥名﹕\n\nBulbus\n        Allii fislulosi\n\n\n\nBotanical \n        name:\n拉丁生物學名﹕\n\nAllium fislulosum \n        L.\n\n\n\nPron. in Japanese:\n日語發音﹕\n\nsohaku\n\n\n\nPron. in Korean:\n韓語發音﹕\n\nchongbaek\n\n\n\n\n\n\n        Pron. in Cantonese::\n粵音﹕\n\ncung1 \n        baak6\n\n\n\nOther Names:\n別名﹕\n\ncong jing \n        bai 蔥莖白，cong bai tou 蔥白頭。\n\n\n\nCommon Name:\n英文名﹕\n\nStems \n        of green onion\n\n\n\nDistribution:\n產地﹕\n\nAll part \n        of China全中國\n\n\n\n\nProperties\ncharacteristics﹕\n性味﹕\n\nacrid, \n        warm.辛，溫。\n\n\n\n\nChannels meridians \n        entered:\n　\n歸經﹕\n\nlung, \n        stomach.肺，胃。\n\n\n\nMedical functions:\n藥理﹕\n　\n\nanti-bacteria\nanti-fungal\n抗細菌\n抗真菌\n\n\n\n\nActions \n        & Indications:\n主治﹕\n\n\n\ncommon cold or influenza with \n          fever and headache, achy and numb body,\ncold type (yang \n          deficient) \n of abdomen ache\n          \nconstipation or difficulty in \n          urination\ninflammation of throat\ndysentery \n\nberiberi \nacute mastitis\nboils\nparasites in intestines\ninjuries from impact\nfood poisoning from fish\nsnake and insect bites\nstabilizes pregnancy\n\n　\n\n風寒感冒，頭痛發熱，身痛麻痺;\n陰寒\n(陽虛型) \n腹痛;\n二便不通;\n喉痺;\n痢疾;\n腳氣;\n乳癰;\n瘡癤腫痛;\n虫積腹痛;\n跌打損傷;\n魚肉中毒;\n虫蛇咬傷,\n安胎, \n《別錄》\n\n\n\n\n\nChemical \n        ingredients:[1]\n化學成份﹕[1]\n\n\n\n鱗莖含粘液質（mucilage），粗脂肪（crude \n        fat），粗蛋白質（crude protein），粗纖維（crude fiber），無氮浸出物（Nfree exteact），戊聚糖（pentosan），多糖類（polysaccharides），其中粘液質主要成分是多糖，其次是纖維素（cellulose），半纖維素（hemicellulose），原果膠（protopectin）及水溶性果膠（pectin），還含糖（sugar），維生素（vitamin）C，胡蘿卜素（carotene），維生素（vitanin）B1、B2、A、PP，草酸（oxalic \n        acid），脂類（lipids），亞麻酸（linolenic acid），亞油酸（linoleic acid），棕櫚酸（palnitic acid），油酸（oleic \n        acid），花生酸（arachidic acid），泛醌-9及泛醌-10（ubiquinone-9 ,-10）。此外，鱗莖還含揮發油，油中主要成分為大蒜辣素（allicin），二烯丙基硫醚（allyl \n        sulfide）。\n        根含鋁。\n        　\n\n\n\n\nDaly Dosage:\n每日用量﹕\n\n10 to \n        30 g10∼30 克\n\n\n\n\nSamples of \n        formulae:\n處方舉例﹕\n\nTreatment \n        of common cold or flu with no sweat: cong bai 15 g, \n\ngan jiang 3 g, \n        dou chi 9 g. \n        Boil with water and drink while warm.\nAnother formula:\nTreatment of common cold or flu: \n        ,  cong bai, fresh ginger, 15 g each, salt 3 g,  mash, wrap with \n        gauze. Rubbed the chest, back, soles of the feet, palms, arm pits, inside \n        the bends of elbows. This can  enable patients to sleep peacefully. \n        After half an hour after the rubbing, some patients started to sweat and \n        fever started to subside and symptoms relieved and the next day completely \n        well. Treatment of 107 cases are effective in 1-2 days. Generally used one \n        time, a few cases with 2 times.\n        　\n傷寒感冒，無汗：蔥白15克配乾薑3克，豆\n        豉9克。水煎, 溫服。\n又一方：治療感冒：取蔥白、生薑各半兩，食鹽1錢，搗成糊狀，用紗布包裹，塗擦五心(前胸、後背、腳心、手心、 \n        腋窩、肘窩)一遍後讓患者安臥。部分病例半小時後出汗退熱，自覺症狀減輕，次日可完全恢復。治療107例，均在1-2日內見效。一般用1次，少數病例用2次。[1]\n\n\n\n\nModern \n        Research:\n現代研究﹕\n\n　\n\n\n\n\nToxicity & Cautions:\n\n毒素與禁忌﹕\n\nDo not \n        use in cases of biao \n        xu (external deficient)\nwith instant sweating.\n\n表虚多汗忌服。\n\n\n\n[1] \n\n《Zhong Hua Ben Cao 》《 中華本草》\nSponsors' Ads by Google 以下為谷歌所提供贊助者之廣告\n\n\n\n\n\n\n\n\nA manuscript... writing, translating and proofreading  in         \n        progress\n\n        　\n\nProblems with website? Please \n\nClick \n        here for comment. (Not for inquiry )    \n        \n\n\nClick \n        here for inquiry \n\n\n        　\n\n\nCopyright Notice 按此看關於 版權問題\n\n\n\n\n\n\n            List of Health Problems\n\n\n\n\n\n            Chinese Herb Dictionary\n\n\n\n\n\nToxicity of Some Herbs\n\n\n\nSide Effect of Some Herbs\n\n\n\nHerbs that can be toxic to kidneys\n\n\n\n\n\n            Traditional Chinese Medicine\n\n\nTCM Diagnosis\n\n\nSamples \n            of Formulae\n\n\n\n\n\n            Terms of Traditional Chinese Medicine\n\n\n\n            Acupuncture\n\n\n\n\n\n\ncopy right\n\n            　\n\n\n版權所有\n\n\n\n\nQigong \n            (chi kung)\n\n\n\n\n\n            Prescribed Drug Dictionary\n\n\n\n\n\n            Email our web master for  your suggestion (not for inquiry)\n\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\n\nGeneral Online Library\n\n\n\n\nQigong classes\n\n\n\n\nFake \n            Email Warning\n\n\n\n\nResearch Librarian\n\n\n\n\nSearch\n\n\n\n\n\n\nQigong classes\n\n\n\n\n\n\n\n\n\nHome\n\n\n\n\n\n            Weather Report\n\n\n\n\n\nDisclaimer\n\n\n\n\n\n\n\n\n\nLast update: \nAug 27, 2013, 11:58 p.m. \nLAH\n\n\n\n\n\n\n\n\n\n",
+    "original_url": "http://alternativehealing.org/cong_bai.htm"
+  },
+  {
+    "Names": {
+      "Name": ["di yu"],
+      "Pharmaceutical": ["Radix Sanguisorbae officinalis"],
+      "Botanical": [
+        "Sanguisorba officinalis L.",
+        "Sanguisorba officinalis L. var. longifolia (Bert.) Yu et Li"
+      ],
+      "Chinese": ["地榆"],
+      "Common": ["English: official burnet root (英文名)"],
+      "Other name": [
+        "huang gua xiang 黃瓜香",
+        "shan di gua 山地瓜",
+        "zhu ren shen 豬人參",
+        "xue jian cao 血箭草"
+      ],
+      "Pronunciation in Korean": ["chiyu"],
+      "Pronunciation in Japanese": ["jiyu"],
+      "Pronunciation in Cantonese": ["dei6 jyu4"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": ["North China", "Northeastern China"],
+    "Properties": ["bitter", "sour", "astringent", "slightly cold"],
+    "Meridians": ["Large Intestine"],
+    "Maladies Treated": [
+      "bleeding in defecation",
+      "bleeding in diarrhea",
+      "bleeding in hemorrhoids",
+      "bleeding in urination (hematuria)",
+      "excessive vaginal bleeding not during menses (崩漏)",
+      "scalding injuries",
+      "ulcer and pain of the skin",
+      "diarrhea",
+      "diarrhea with blood",
+      "hemorrhoidal bleeding due to labor injury to middle qi (氣痔：因勞損中氣而出血者)",
+      "hemorrhoidal bleeding due to excess accumulation of alcohol toxin (酒痔：因酒積毒過多而出血者)",
+      "hemorrhoidal bleeding with itching and internal worm movement (虫痔：因痒而內有虫動出血者)",
+      "hemorrhoidal bleeding where, due to injury from labor, blood shoots out as fine threads (脈痔：因勞動有傷，痔竅血出遠射如線者)"
+    ],
+    "Medical Function": [],
+    "Dosage": "For decoction: 4–12 g. For external use: appropriate amount.",
+    "Samples of Formulae": "Name of formula: di yu wan (Zheng Zhi Zhun Shen)\nApplication: diarrhea or diarrhea with blood.\nComposition: Di Yu (official burnet root) slightly fried; Dang Gui (Chinese angelica) slightly fried; E Jiao (donkey-hide gelatin) fried with glutinous rice; Huang Lian (coptis rhizome) with fine roots removed; He Zi meat (chebula/myrobalan) fried; Mu Xiang (costus root/aucklandia) sun-dried; Wu Mei (mume fruit). 19 grams each (English text). Each 0.5 liang (各半兩) (Chinese text). Grind into fine powder, mix with refined honey, and make into pills. Pill size: wu zi (梧子大). Dosage: take 10 grams before meals or on an empty stomach (English text). Each dose 30–50 pills, taken on an empty stomach or before meals, swallowed with aged rice drink (陳米飲) (Chinese text).\n\nFor hemorrhoidal bleeding (《杜氏家抄方》): Huai Hua (pagoda tree flower) 2 liang; Di Yu (official burnet root) 1 liang 5 qian; Cang Zhu (atractylodes rhizome) 1 liang 5 qian; Gan Cao (licorice root) 1 liang. All slightly fried and ground into fine powder. Dosage: take 2 qian before breakfast and before dinner. Adjusting liquids according to type: for qi hemorrhoids (氣痔: bleeding due to labor injury to middle qi), adjust with Ren Shen decoction (Ren Shen; ginseng). For wine hemorrhoids (酒痔: bleeding due to excessive accumulation of alcohol toxin), adjust with Chen Pi (tangerine peel) and Ge Gen (kudzu root) decoction. For worm hemorrhoids (虫痔: itching with internal worm movement and bleeding), adjust with Wu Mei (mume fruit) decoction. For vein hemorrhoids (脈痔: injury from labor with blood shooting out as fine threads), adjust with E Jiao (donkey-hide gelatin) decoction.",
+    "Contraindications": "Those with weak and cold body constitution (虛寒者) should not use.",
+    "Research": "",
+    "Notes": "",
+    "Chemical Ingredients": [
+      "Triterpenoids and saponins",
+      "ziyu glycoside I",
+      "ziyu glycoside II",
+      "betulinic acid",
+      "pomolic acid -28-O-b-D-glucopyranoside",
+      "suavissimoside R",
+      "sanguisorbigenin",
+      "Phenolic compounds",
+      "gallic acid",
+      "(+)-catechin",
+      "(+)-gallocatechin",
+      "(+)-galloyl catechin",
+      "procyanidin B-3",
+      "b-glucogallin (b-galloyl glucose)",
+      "1,2,3,6-tetra-O-galloyl-b-D-glucose",
+      "1,2,3,4,6-tetra-O-galloyl-b-D-glucose"
+    ],
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "di yu,Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  中 藥詞典Search this site       Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information  di yu  地榆by: Joe Hing kwok ChuPharmaceutical name:英文藥名﹕Radix Sanguisorbae officinalisBotanical name:學名﹕Sanguisorba officinalis L.Sanguisorba officinalis L.var. longifolia（Bert.）Yu et LiPron. in Japanese:日語發音﹕jiyuPron. in Korean:韓語發音﹕chiyu Pron. in Cantonese:粵音﹕dei6 jyu4Other Names:別名﹕huang gua xiang 黃瓜香﹐ shan di gua 山地瓜﹐ zhu ren shen 豬人參﹐ xue jian cao 血箭草。Common Name:英文名﹕official burnet rootDistribution:產地﹕through out north and northeastern China.中國北部與東北部。 Properties(characteristics)﹕性味﹕bitter, sour, astringent, slightly cold.苦， 酸，澀，微寒。Channels (meridians) entered: 歸經﹕large intestine.大 腸Medical functions:藥理﹕  Actions & Indications:主治﹕for bleeding in defecating, bleeding in diarrhea, bleeding in hemorrhoids, bleeding in urination, excessive bleeding of the vagina not during menses. for scalding injuries, ulcer and pain of the skin, 用於 便血﹐ 血痢﹐ 痔瘡出血﹐ 尿血﹐ 崩漏等症。  用於 燙傷﹐ 皮膚潰爛﹐ 疼痛等症。Chemical ingredients:化學成份﹕ Triterpenoids and its saponins:三萜與其皂甙 ziyu glycoside I地榆糖甙 Iziyu glycoside II地榆糖甙 IIbetulinic acid白樺脂酸pomolic acid -28-O-beta-D-glucopyranoside坡模酸-28-O-b-D-吡 喃葡萄糖甙suavissimoside R山香醇酸糖甙Rsanguisorbigenin地榆皂素phenolic compound:酚酸化合物：gallic acid没食子酸(+)-catechin(+)-兒茶精(+)-gallocatechin(+)-没食子酰兒茶精procyanidin B-3丙氰定b-glucogallinb-没 食子酰葡萄糖1,2,3,6-tetra-O-galloyl-b-D-glucose1,2,3, 6-四氧没食子酰-b-D-葡 萄糖1,2,3,4,6-tetra-O-galloyl-b-D-glucose1,2,3, 4,6-四氧没食子酰-b-D-葡 萄糖Dosage:用量﹕For use in decoction: 4 to 12 g.For external use: appropriate amount4 ~ 12 克  煎服。外用適量Samples of formulae:處方舉例﹕\nName of formula: di yu wan (Zheng Zhi Zhun Shen)\nApplication: diarrhea or diarrhea with blood\nComposition: di yu (slightly fried) , dang gui (slightly fried), e jiao (fry with glutinous rice), huang lian (rid of fine roots), he zi meat (fried), mu xiang (sun dried) , wu mei.\n19 grams each. Grind into fine powder. Mixed with \nrefined honey and make into pills.\nTake 10 grams before meals or with empty stomach.\n \n治痢疾或血痢\n地榆丸 (証 治 准 繩 )\n組 成 ﹕ 地榆微炒﹐ 當 歸 微炒﹐ 阿 膠 糯米炒﹐ 黃 蓮 去鬚﹐ 訶 子 取肉炒 ﹐ 木 香晒 乾﹐ 烏 梅 各半兩。\n為細末，煉蜜丸，梧子大。 每服三, 五十丸，空心或食前，陳米飲吞下。\n \n\n治諸痔出血：槐花二兩，地\n榆  、蒼朮   各一兩五錢，甘草一兩。俱微炒，研為細末，每早晚各食前服二錢。氣痔（因勞損中氣而出血者）人參湯調服；酒痔（因酒積毒過多而出血者）陳皮、干葛湯調服；虫痔（因痒而內有虫動出血者）烏梅湯調服；脈痔（因勞動有傷，痔竅血出遠射如線者）阿膠湯調服。（《杜氏家抄方》）Modern Research:現代研究﹕\n Toxicity & Cautions:毒素與禁忌﹕虛寒者忌用。Those with weak and cold type of bodies should not use.　 　Search this site       Sponsors' Ads by Google 以下為谷歌 所提供 之廣告 A manuscript... writing, translating and proofreading  in         progress Problems with website? Please Click here for comment. (Not for inquiry )     Click here for inquiry   Copyright Notice 按此看關於 版權問 題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    DisclaimerLast update: June 17, 2011; 9:37 p.m. LAH  \n",
+    "original_url": "http://alternativehealing.org/di_yu.htm"
+  },
+  {
+    "Names": {
+      "Name": ["shen jin cao", "伸筋草"],
+      "Pharmaceutical": ["Herba Lycopodii"],
+      "Biological": [
+        "Lycopodium clavatum L.",
+        "Lycopodium cernuum L. (垂穗石松(鋪地蜈蚣))",
+        "Lycopodium obscurum L. (玉柏)"
+      ],
+      "Chemical": [],
+      "Common": [
+        "common club moss",
+        "running Ground pine",
+        "running club moss",
+        "wolf's foot.."
+      ],
+      "Other name": [
+        "su jin cao 舒筋草",
+        "shi song 石松",
+        "kuan jin teng 寬筋藤 [1]",
+        "shi zi cao 獅子草",
+        "tong shen cao 通伸草"
+      ],
+      "Chinese": ["伸筋草", "舒筋草", "石松", "寬筋藤", "獅子草", "通伸草"],
+      "Pronunciation in Korean": ["singeuncho"],
+      "Pronunciation in Japanese": ["shinkinsou"],
+      "Pronunciation in Cantonese": ["san1 gan1 cou2"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Mainly produced in Zhejiang, Jiangsu, Hunan, Sichuan.",
+      "Besides Lycopodium clavatum L., in Zhejiang, Jiangxi, Sichuan, Guangxi, Guangdong and other provinces, the whole herb of Lycopodium cernuum L. (垂穗石松/鋪地蜈蚣) is also used."
+    ],
+    "Properties": ["Bitter", "Acrid", "Warm"],
+    "Meridians": ["Liver", "Spleen", "Kidney"],
+    "Maladies Treated": [
+      "Forgetfulness or dementia due to spleen deficiency.",
+      "Rheumatism (風寒濕痺).",
+      "wind-cold-damp painful obstruction",
+      "Joint soreness and pain.",
+      "Skin numbness.",
+      "Weakness of the limbs.",
+      "Edema.",
+      "Traumatic injury due to falls and contusions (跌打損傷).",
+      "Rheumatoid arthritis.",
+      "Acute suppurative arthritis.",
+      "Cervical and lumbar spondylosis (neck and lumbar vertebral disease).",
+      "Soft tissue injury.",
+      "Muscle pain.",
+      "Tightened sinews and meridians (筋脈拘緊).",
+      "Spastic urinary retention and constipation in children.",
+      "Sequelae of poliomyelitis (children)."
+    ],
+    "Medical Function": [
+      "α-onocerin from Lycopodium clavatum inhibits acetylcholinesterase [2]; may be effective for forgetfulness or dementia due to spleen deficiency.",
+      "Anti-inflammatory effect.",
+      "Hypotensive effect.",
+      "Inhibits Candida albicans secreted aspartic proteases [note] [3].",
+      "Enhances channel-unblocking and pain-stopping (tong luo zhi tong) effect in applications to rheumatism, acute suppurative arthritis, cervical/lumbar spondylosis, soft tissue injury, muscle pain, and tightened sinews/meridians.",
+      "Relieves spastic urinary retention and constipation in children."
+    ],
+    "Dosage": "6 ~ 15 g in decoction.",
+    "Samples of Formulae": "For sequelae of poliomyelitis (children): Feng Wei Shen Jin (common club moss) 5 qian, Nan She Teng Gen (southern snake vine root) 5 qian, Song Jie (pine node) 5 qian, Xun Gu Feng (xun gu feng herb) 5 qian, Wei Ling Xian (Clematis root) 3 qian, Qian Cao (Madder root) 2 qian, Du Heng (du heng herb) 5 fen. Decoction; take. (江西《中草藥學》)",
+    "Contraindications": "Do not use during pregnancy or during excessive bleeding.\nNote: do not presoak this herb in water before baking.",
+    "Research": "The ingredient α-onocerin of Lycopodium clavatum inhibited acetylcholinesterase [2].\nAnti-inflammatory and hypotensive effects are noted (details not provided).\nInhibition of Candida albicans secreted aspartic proteases is reported [note] [3]. A note states that under normal conditions, aspartic proteases do not increase invasiveness or pathogenicity [4].",
+    "Notes": "Kuan jin teng (寬筋藤) is sometimes used as a name for this herb, but it should not be confused with Herba Tinosporae sinensis (Tinospora sinensis), which is mainly called kuan jin teng. [1]\nAcetylcholinesterase is an enzyme that hydrolyzes (eliminates) acetylcholine, a neurotransmitter; excessive elimination of acetylcholine can lead to irritability, depression, forgetfulness, or dementia. [3]",
+    "Chemical Ingredients": {
+      "Whole herb (alkaloids)": [
+        "Lycopodine (石松鹼)",
+        "Clavatine (棒石松鹼)",
+        "Clavolonine (棒石松洛寧鹼)",
+        "Fawcettiine (法氏石松鹼)",
+        "Lycodoline (石松灵鹼)",
+        "Lucidoline (鲁西地寧鹼)",
+        "Phlegmariurine (弗来馬林鹼)",
+        "Obscurine (玉柏鹼)",
+        "Clavatoxine (石松毒鹼)",
+        "Nicotine (菸鹼)"
+      ],
+      "Acid substances (0.08% of dry herbs)": [
+        "VaniIlic acid (香荚蘭酸)",
+        "Ferulic acid (阿魏酸)",
+        "Azelaic acid (壬二酸/杜鹃花酸)"
+      ],
+      "Triterpenes": [
+        "α-onocerin (α-芒柄花萜醇)",
+        "Clavatol (伸筋草萜醇)",
+        "Lycoclavanol (石松醇)",
+        "Lycoclavanin (石松寧)",
+        "16-Oxoserratenediol (16-氧山芝烯二醇)",
+        "Lyclaninol (伸筋草萜寧醇)",
+        "Serratenediol (千層塔萜烯二醇)",
+        "21-episerratriol (21-表千層塔萜烯二醇)"
+      ],
+      "Other": [
+        "β-sitosterol (β-谷甾醇)",
+        "stigmasterol (C29H45O ) (豆甾醇)",
+        "Campestanol (菜油甾醇)",
+        "glucoside (葡萄糖甙)",
+        "triacontane (正三十烷烯)",
+        "soft fatty acid (軟脂酸)",
+        "Emodin (大黄素)",
+        "Physcion (大黄素-6-甲醚)",
+        "glucosides of physcion (大黄素-6-甲醚之糖甙)"
+      ]
+    },
+    "References": [
+      "[1] It is important to note that this herb is sometimes called kuan jin teng but not to confuse with Herba Tinosporae sinensis which is mainly called kuan jin teng. 【1】] 本品亦稱為寬筋藤，但不是學名為Tinospora sinensis 的盒果藤（亦稱寬筋藤）",
+      "[2] Planta Med. 2003 Mar;69(3):265-7.",
+      "[3] 乙醯膽鹼酵素: 是一種促進水化(消滅)乙醯膽鹼之酵素。乙醯膽鹼是一種神經神經遞質。如果神經神經遞質被消滅太多，會導致臟躁，憂鬱, 健忘或痴獃等症。",
+      "[4] ACADEMIC JOURNAL OF KUNMING MEDICAL COLLEGE VOL：2003, 24(1):"
+    ],
+    "Further Reading": [],
+    "Original Text": "\n\n\nshen jin cao, Complementary and Alternative Healing University\n\n\n\n\n\n\n\n\n\n\n\nComplementary and Alternative Healing University \n        \nHome  \n\n\n現代 中藥辭典\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nSearch this site\n\n\n\n\n\n\n\n            List of Health Problems\n\n\n\n\n\n\n\n            Chinese Herb Dictionary\n\n\n\n\n\n\nQigong\n\n\n\n\n\n\n\n            Traditional Chinese Medicine (TCM)\n\n\n\n\n\n\n\n            Acupuncture\n\n\n\n\n\n\n\n            Prescribed Drug Dictionary\n\n\n\n\n\n\n            Biochemistry Dictionary\n\n\n\n\n\n\nLecture Slides\n\n\n\n\n\nResearch Librarian\n\n\n\n\n\n\nGeneral \n            Online Library\n\n\n\n\n\n\nSearch this site\n\n\n\n\n\n\nResearch \n            Sites\n\n\n\n\n\n\n\n            Viagra\n\n\n\n\n\n\n\n            Massage/Acupressure\n\n\n\n\n\n\nHypnotherapy\n\n\n\n\n\n\nTell us what you want\n\n\n\n\n\n\nNotify Changes \n            & New Information\n\n\n\n\n　\n　\n　\n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n　\n \n \n \n \n \n \n \n \n \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n        shen jin cao 伸筋草  \n（in English and Chinese 中英文)\n\n by \n        Joe Hing Kwok Chu\n\n\n\n\n\nPharmaceutical \n            name:\n英文藥名﹕\n\nHerba Lycopodii\n\n\n\n\nBiological name:\n植物學名﹕\n\n\n\nLycopodium  clavatum  L.\n\nLycopodium cernuum\n            L. \n(垂穗石松(鋪地蜈蚣))\n\nLycopodium obscurum L. (玉\n            柏)\n\n\n\n\nPron. in Japanese:\n日語發音﹕\n\nshinkinsou\n\n\n\nPron. in Korean:\n韓語發音﹕\n\nsingeuncho\n\n\n\n\n\n            Pron. in Cantonese:\n粵音﹕\n\nsan1\n             gan1 \n            cou2\n\n\n\nOther \n            Names:\n別名﹕\n\n\n\n\n\nsu jin cao \n舒筋草\n\n\n\nshi song \n石松\n\n\n\nkuan jin teng \n                 [1]\n\n寬筋藤 [1]\n\n\n\nshi zi cao \n\n獅子草\n\n\n\ntong shen cao \n\n通伸草\n\n\n\n\n\n\nCommon Name:\n英文名﹕\n\ncommon\n            club moss, \n            running Ground pine, \n            running club moss, wolf's foot..\n\n\n\nDistribution:\n產地﹕\n\nmainly \n            produced in Zhejiang, Jiangsu, Hunan, Sichuan.\n主產浙江，江蘇，湖南，四川。\n除Lycopodium  clavatum  \n            L. 外，浙江，江西，四川，廣西，廣东等省區尚用同属垂穗石松(鋪地蜈蚣)\nLycopodium\ncernum \n            L.的全草。\n\n\n\n\nProperties\n characteristics)﹕\n性味﹕\n\nbitter, \n            acrid, warm苦，辛，温 \n            。\n\n\n\n\nChannels  \n            meridians) entered:\n \n歸經﹕\n\nliver \n            , spleen, kidney\n肝﹐ 脾﹐ \n腎。《四川中藥志》\n\n\n\nMedical functions:\n藥理﹕\n \n\n\n\nThe ingredient \nα-onocerin of\n            Lycopodium  clavatum \n            has the effect of inhibiting acetylcholinesterase \n            [2] and can be an herb for treating dementia cause by \n\nspleen deficient\n            \n\nAnti-inflammatory effect\nhypotensive effect\nInhibiting Candida Albicans secreted\n            aspartic proteases [note] [3].\n伸筋草之化學成份, α-芒柄花萜醇有抑制乙\n            醯膽鹼酵素【註】。[3] 本品可能對因脾\n            虛所致健忘或痴呆症有效。\n抗炎作用\n降血壓作用\n抑制白色念珠球菌分泌的羧基\n            蛋白酶 (天\n            冬氨酸蛋白酶)\n解除小兒之痙攣性尿瀦留及便秘\n\n\n\n\n\nActions & Indications:\n\n主治﹕\n\nrheumatism, \n            numbness in the skin, edema, physical injuries.\n治風寒濕痺，關節酸痛，皮膚麻木，四肢軟弱，水腫， 跌打損傷。  \n            \n            應用於風濕性關節炎及急性化膿性關節炎，或是頸，腰椎病，軟組織損傷，肌肉疼痛，筋脈拘緊等，可加 強通絡止痛之功效。 \n \n\n\n\n\n\nChemical ingredients:\n\n化學成份﹕\n\n \n\nwhole herb contains:\n全草含:\n\n\nLycopodine\n石松鹼\n\n\nClavatine\n棒石松鹼\n\n\nClavolonine\n棒石松洛寧鹼\n\n\nFawcettiine\n法氏石松鹼\n\n\nLycodoline\n石松灵鹼\n\n\nLucidoline\n鲁西地寧鹼\n\n\nPhlegmariurine\n弗来馬林鹼\n\n\nObscurine\n玉柏鹼\n\n\nClavatoxine\n石松毒鹼\n\n\nNicotine\n菸鹼\n\n\nacid substances ( 0.08% \n                of dry herbs):\n酸性物质（占乾品0．08 ％):\n\n\n\nVaniIlic  acid\n\n\n香荚蘭酸\n\n\n\n\nFerulic  acid\n\n\n阿魏酸\n\n\n\n\nAzelaic  acid\n\n\n壬二酸（杜鹃花酸 \n                )\n\n\n\ntriterpenes :\n三萜化合物\n﹕\n\n\n\nα-onocerin\n\n\nα-芒柄花萜醇\n\n\n\n\nClavatol\n\n\n伸筋草萜醇\n\n\n\n\nLycoclavanol\n\n\n石松醇\n\n\n\n\nLycoclavanin\n\n\n石松寧\n\n\n\n\n16-Oxoserratenediol\n\n\n16-氧 \n                山芝烯二醇\n\n\n\n\n\nLyclaninol\n\n\n伸筋草萜寧醇\n\n\n\n\n\nSerratenediol\n\n\n千層塔萜烯二醇\n\n\n\n\n21- episerratriol\n\n\n21-表千層塔萜烯二醇\n\n\n\nother:\n其它﹕\n\n\n\nβ-sitosterol\n\n\nβ-谷甾醇\n\n\n\n\nstigmasterol \n                (C29H45O )\n\n\n豆甾醇\n\n\n\n\nCampestanol\n\n\n菜油甾醇\n\n\n\n\nglucoside\n\n\n葡萄糖甙\n\n\n\n\ntriacontane\n\n\n正三十烷烯\n\n\n\n\nsoft fatty acid\n\n軟脂酸\n\n\n\nEmodin\n\n大黄素\n\n\n\nPhyscion\n\n大黄素-6-甲醚\n\n\n\nglucosides of physcion\n\n大黄素-6-甲醚之糖甙\n\n\n\n\n\n\nDosage:\n用 \n            量﹕\n\n6 \n            ~ 15 g in decoction.\n入煎劑﹕ 6 ~ 15 克。\n\n\n\n\nSamples \n            of formulae:\n處方 \n            舉例﹕\n\n\n            治小兒麻痺後遺症：鳳尾伸筋、南蛇藤根、鬆節、尋骨風各五錢，威靈仙三錢，茜草二錢，杜蘅五分。煎服。(江西《中草藥學》)\n\n\n\n\nModern Research:\n\n現代研究﹕\n\n \n\n\n\n\nToxicity & Cautions:\n\n毒素與禁忌﹕\n\nnot \n            to use during pregnancies or during excessive bleeding.\nNote: do not presoak this herb \n            in water before baking.\n孕婦及出血過多者忌服。\n[注意] 本品炮製時\n            不宜水浸。\n\n\n\n\n\n\n\n        Note: Under normal condition, the aspartic proteases \n        secreted by Candida Albicans does not increase the effect of causing diseases \n        or harmful effect. {4]\n註：天冬氨酸蛋白酶在正常條件下并不能增加白念菌的侵蝕性和致病力.[4]\n【1】It is important to\n        \n        \n        \n        \n        \n        \n        \n        \n        \n        note that this herb is sometimes called kuan jin teng \n        but not to confuse with Herba \n        \n\nTinosporae sinensis\n which is mainly called kuan jin teng.\n【2】 \n\n        Planta Med. 2003 Mar;69(3):265-7.\n【1】] 本品亦稱為寬筋藤，但不是學名為Tinospora \n        sinensis 的 \n\n盒果藤\n\n        （亦稱 \n寬筋藤）\n\n【3】乙醯膽鹼酵素 \n        : 是一種促進水化(消滅)乙 醯膽鹼之酵素。乙醯膽鹼是\n        一種神經神經遞質。如果 神經神經遞質被消滅太 多，會導致臟躁， 憂鬱,  健忘或痴獃等症。\n【4】 \n        ACADEMIC \n        JOURNAL OF KUNMING MEDICAL COLLEGE VOL： \n        2003, \n        24(1):\nSponsors' Ads by Google 以下為谷歌所提供贊助者之廣告\n\n\n\n\n\n\n\n\n\nA manuscript... writing, translating and proofreading              \n            in progress\n\n\n            Click \n            here for comment.\n\n\n            (Not for inquiry ) \n                    \n            \n\nClick here for inquiry\n \n\n\nCopyright Notice \n            按此看關於版權問題\n\n\n\n\n\n\n                List of Health Problems\n\n\n\n\n\n                Chinese Herb Dictionary\n\n\n\n\n\nToxicity of Some Herbs\n\n\n\n\nSide Effect of Some Herbs\n\n\n\n\nHerbs that can be toxic to kidneys\n\n\n\n\n\n                Traditional Chinese Medicine\n\n\nTCM Diagnosis\n\n\n\n                Samples of Formulae\n\n\n\n\n                Terms of Traditional Chinese Medicine\n\n\n\n                Acupuncture\n\n\n\n\n\n\ncopy \n                right\n \n\n\n版權所 \n                有\n\n\n\n\nQigong \n                (chi kung)\n\n\n\n\n\n                Prescribed Drug Dictionary\n\n\n\n\n\n                Email our web master for  your suggestion (not for inquiry)\n\n\n\n\nBiochemistry Dictionary\n\n\n\n\n\n\nGeneral Online Library\n\n\n\n\nQigong \n                classes\n\n\n\n\nFake \n                Email Warning\n\n\n\n\nResearch Librarian\n\n\n\n\nSearch\n\n\n\n\n\n\nQigong classes\n\n\n\n\n\n\n\n\n\nHome\n\n\n\n\n\n                Weather Report\n\n\n\n    \n\nDisclaimer\n\n\n\n\n\n\n\n\nLast update: Mar 24, \n            2011; 1:25  a.m. \n            LAH\n\n\n\n\n\n\n\n\n\n\n\n\nSearch \n                this site \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "original_url": "http://alternativehealing.org/shen_jin_cao.htm"
+  },
+  {
+    "Names": {
+      "Name": ["pu duo", "pǔ duō", "jian hua", "jiǎn huā"],
+      "Pharmaceutical": [],
+      "Biological": [],
+      "Chemical": ["sodium carbonate (NaCO3)"],
+      "Common": [],
+      "Other name": [],
+      "Chinese": ["浦多", "鹼花"],
+      "Pronunciation in Korean": [],
+      "Pronunciation in Japanese": [],
+      "Pronunciation in Cantonese": [],
+      "Pinyin Pronunciation": [
+        "浦多 is pronounced as pǔ duō",
+        "鹼花 is pronounced as jiǎn huā"
+      ]
+    },
+    "Type": "Mineral",
+    "Geography": ["Shores of salt lakes", "Used in Mongolian ethnic medicine"],
+    "Properties": ["Salty", "Sweet", "Warm"],
+    "Meridians": [],
+    "Maladies Treated": [
+      "ba da gan (巴達干) syndrome in traditional Mongolian medicine: symptoms include abundance of phlegm, nausea, vomiting, indigestion, lack of appetite, achy and fullness of the stomach, achy loin and legs, sleepiness, leucorrhea, obesity",
+      "Indigestion (不消化病)",
+      "Excess gastric acid (胃酸過多)",
+      "Vomiting of sour water/acid regurgitation (嘔吐酸水)",
+      "Dry stool (大便干燥)",
+      "Retained placenta (胎盤滯留; placenta not coming out)",
+      "Amenorrhea (經閉)",
+      "Diarrhea"
+    ],
+    "Medical Function:": [
+      "Promotes digestion (消食; helping digestion)",
+      "Breaks pi (破痞; relieves focal distention/stagnation)",
+      "Expels parasites (驅虫; getting rid of worm parasite)",
+      "Stops putrefaction (止腐)",
+      "Promotes bowel movement and moistens intestines (通便潤腸)",
+      "Detoxifies (解毒)",
+      "Neutralizes excess stomach acid"
+    ],
+    "Dosage": "0.6 ～ 1.8 g",
+    "Samples of Formulae": "",
+    "Contraindications": "",
+    "Research": "",
+    "Notes": "Appearance: branch-like crystallized salt.",
+    "Chemical Ingredients": {
+      "Whole mineral": [
+        "Sodium carbonate (NaCO3): main ingredient of the branch-like crystallized salt formed on the shores of salt lakes."
+      ]
+    },
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "pu duo, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代 中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　To post your discussion click here.           pǔ duō 浦多 (jiǎn huā 鹼花 )     (in English and Chinese 中英文)  by: Joe Hing kwok Chu Pu duo  is crystallized salt that looks like branches. It is found on the shores of salt lakes. Its main ingredients is sodium carbonate(NaCO3). It is used in Mongolian ethnic medicine. Characteristics: salty, sweet, warm. Application: getting rid of ba da gan condition, helping digestion, getting rid of worm parasite, stopping diarrhea, neutralizing stomach acid, for dry stool, placenta not coming out, amenorrhea. Dosage  0.6 ～ 1.8 g Note: ba da gan is a traditional Mongolian medicine term. The syndrome includes abundance of phlegm, nausea, vomiting, bad digestion, lack of appetite, achy and fullness of the stomach, achy loin and legs, sleepiness, leucorrhea, obesity etc. pǔ duō 浦多 (jiǎn huā 鹼花 ) 本品為鹹水湖邊生成的一種主含碳酸納(NaCO3)的分枝狀結晶。  [性味]: 鹹，甘，溫。  [功能與主治]: 祛巴達干，消食，破痞，驅虫，止腐，通便潤腸，解毒。用於不消化病，胃酸過多，嘔吐酸水，大便干燥，胎盤滯留，經閉等症。   用量： 0.6 ～ 1.8 克　註：�巴達干� 是蒙醫之名詞。症狀表現為痰多，惡心，嘔吐，消化不良，食欲不振，胃脹胃痛，腰腿酸痛，嗜睡，白帶多，肥胖等症。  Search this site       Sponsors' Ads by Google 以 下為谷歌所提供之廣告  A manuscript... writing, translating and proofreading              in progressClick here for comment. (Not for inquiry )      Click here for inquiry   Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所 有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    Disclaimer   Last update: June 19, 2011; 5:00 a.m. LAH  ",
+    "original_url": "http://alternativehealing.org/pu_duo.htm"
+  }
+]

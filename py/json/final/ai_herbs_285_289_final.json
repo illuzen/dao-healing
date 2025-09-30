@@ -1,0 +1,392 @@
+[
+  {
+    "Names": {
+      "Name": ["yu zan hua", "玉簪花"],
+      "Pharmaceutical": [
+        "Herba Hostae plantagineae",
+        "Flos Hostae plantagineae",
+        "Radix Hostae plantagineae"
+      ],
+      "Botanical": [
+        "Hosta plantaginea (Lam.) Ascherson.",
+        "Hemerocallis plantaginea Lam.",
+        "Funkia subcordata Spreng."
+      ],
+      "Chinese": [
+        "玉簪花",
+        "內消花",
+        "白鶴花",
+        "白鶴仙",
+        "白萼",
+        "玉泡花",
+        "銀淨花"
+      ],
+      "Common": ["Flower of Fragrant Plantainlily (English)"],
+      "Other": [],
+      "Pronunciation in Korean": ["ogjamhwa"],
+      "Pronunciation in Japanese": ["gibōshi", "tamanokanzashi"],
+      "Pronunciation in Cantonese": ["juk6 zaam1 faa1"],
+      "Pinyin Pronunciation": ["yu zan hua"]
+    },
+    "Type": "Herb",
+    "Geography": [
+      "China (cultivated in different parts of China; 中國各地均有栽培)"
+    ],
+    "Properties": ["Bitter", "Sweet", "Cool", "Slightly toxic"],
+    "Meridians": [
+      "Heart (according to Ben Cao Cong Xin 本草從新)",
+      "Liver (according to Ben Cao Cong Xin 本草從新)",
+      "Kidney (according to Yu Qiu Yao Lun 玉楸药論)"
+    ],
+    "Maladies Treated": [
+      "Pain and swelling of throat (咽喉腫痛)",
+      "Sores and carbuncles with swelling and pain (瘡癰腫痛)",
+      "Difficulty in urination (小便不利／小便不通)",
+      "Amenorrhea (經閉)"
+    ],
+    "Medical Function": [
+      "Clears heat and toxin (清熱解毒)",
+      "Promotes urination (利水)",
+      "Unblocks menstruation (通經)"
+    ],
+    "Dosage": "Internal: decoction 3–6 g. External: appropriate amount, smash and apply. 內服：煎湯，3-6g。外用：適量，搗敷。",
+    "Samples of Formulae": "For swollen throat (治咽喉腫痛): Yu Zan Hua (Hosta flower) 3 g, Ban Lan Gen (Isatis root) 15 g, Xuan Shen (Figwort root) 15 g. Boil with water and take as tea. Source: 《山東中草藥手冊》.\n\nFor difficulty in urination (治小便不通): Formula I — Name: Yu Long San (Jade Dragon Powder) 《醫學指南》玉龍散. Composition: Yu Zan Hua (Hosta flower) 6 g, She Tui (Snake slough) 6 g, Ding Xiang (Clove) 3 g. Make into powder. Use 3 g each time. Stir with rice wine and take orally.\n\nFor difficulty in urination (治小便不通): Formula II — Composition: Yu Zan Hua (Hosta flower) 3 g, Bian Xu (Knotgrass herb) 12 g, Che Qian Cao (Plantain herb) 12 g, Deng Xin Cao (Rush pith) 3 g. Boil with water and take as tea. Source: 《山東中草藥手冊》。",
+    "Contraindications": "The whole plant is toxic (玉簪全株有毒). It can damage the teeth and can cause the teeth to fall off (可損傷牙齒而致牙齒脫落).",
+    "Research": "Anti-tumor effect: Root of Yu Zan Hua water extract, tested in whole animal experiments, showed a high degree of anti-tumor activity against Ehrlich ascites tumor cells; the anti-tumor active ingredient is a polymer. Using Yu Zan Hua alcohol extract at 0.25 g/kg by oral or intraperitoneal administration, for six consecutive days, showed inhibition of murine leukemia L615 with an inhibition rate of 28.5%. [1]\n\nReported pharmacological activities: anti-inflammatory; anti-acetylcholinesterase; anti-viral; antifungal; insecticidal activity. [2]\n\nChemical study findings: From various parts of Yu Zan Hua, strong inhibitory effects were observed against common bacterial strains. A total of 14 compounds were isolated from various parts, and 11 compounds (H1–H11) were structurally identified. Conclusion: all compounds were obtained for the first time from this species; H1, H3, H4, H5, H6, and H8 were obtained for the first time from this genus. Author: Zhang Jinhua. [1]\n\nAdditional source (journal PDF): http://www.academicjournals.org/jmpr/pdf/pdf2012/16Apr/Li%20et%20al.pdf",
+    "Notes": "",
+    "Chemical Ingredients": {
+      "Components": [
+        "Behenic acid (docosanoic acid) — isolated from various parts of the plant",
+        "Gitogenin ((25R)-5α-spirostane-2α,3β-diol; 支脫皂苷元) — isolated from various parts of the plant",
+        "Palmitic acid-α-monoglyceride (棕櫚酸-α-單甘油酯) — isolated from various parts of the plant",
+        "Daucosterol (胡蘿卜苷) — isolated from various parts of the plant",
+        "Kaempferol (山奈酚) — isolated from various parts of the plant",
+        "Quercetin (槲皮素) — isolated from various parts of the plant",
+        "Kaempferol-3-O-rutinoside (山奈酚-3-O-芸香糖苷) — isolated from various parts of the plant",
+        "Kaempferol-7-O-β-D-glucoside (山奈酚-7-O-β-D-葡萄糖苷) — isolated from various parts of the plant",
+        "支脫皂苷元-3-O-{O-β-D-吡喃葡萄糖基(1→2)-O-[β-D-吡喃葡萄糖基-(1→4)]-β-D-吡喃半乳糖苷} — a gitogenin saponin glycoside, isolated from various parts of the plant",
+        "支脫皂苷元-3-O-{O-β-D-吡喃葡萄糖基(1→2)-O-[β-D-吡喃木糖基(1→3)]-O-β-D-吡喃葡萄糖基-(1→4)-β-D-吡喃半乳糖苷} — a gitogenin saponin glycoside, isolated from various parts of the plant",
+        "支脫皂苷元-3-O-{O-β-D-吡喃葡萄糖基(1→2)-O-[O-α-L-呋喃鼠李糖基-(1→4)-β-D-吡喃木糖基(1→3)]-O-β-D-吡喃葡萄糖基-(1→4)-β-D-吡喃半乳糖苷} — a gitogenin saponin glycoside, isolated from various parts of the plant",
+        "Glucose (葡萄糖) — sugar moiety identified in glycosides",
+        "Rhamnose (鼠李糖) — sugar moiety identified in glycosides",
+        "Xylose (木糖) — sugar moiety identified in glycosides",
+        "Galactose (半乳糖) — sugar moiety identified in glycosides"
+      ]
+    },
+    "References": [
+      "[1] 中華本草 (Zhong Hua Ben Cao).",
+      "[2] Journal of Medicinal Plants Research. Vol. 6(14), pp. 2704-2713, 16 April, 2012."
+    ],
+    "Further Reading": [
+      "http://www.academicjournals.org/jmpr/pdf/pdf2012/16Apr/Li%20et%20al.pdf"
+    ],
+    "Original Text": "yu zan hua, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home 現代中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine TCMAcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　 To post your discussion click here.　    　      　　    　　　　　                                           Latest update: Nov \n25, 2012, 1t p  yu zan hua 玉簪花 ( in English and Chinese 中英文)by: Joe Hing kwok Chu    朱興國編 譯   Pharmaceutical name:英文藥名﹕Herba Hostae plantagineaeFlos Hostae plantagineaeRadix Hostae plantagineaeBotanical name:拉丁生物學名﹕\nHosta plantaginea (Lam.) Ascherson.\nHemerocallis plantaginea Lam.;\nFunkia subcordata Spreng.Pron. in Japanese:日語發音﹕gibōshi (tamanokanzashi)Pron. in Korean:韓語發音﹕ogjamhwaPron. in Cantonese::粵音﹕juk6 zaam1 faa1Other Names:別名﹕ nei xiao hua內消花bai he hua白鶴花bai he xian白鶴仙bai e白萼yu pao hua玉泡花yin jing hua銀淨花Common Name:英文名﹕Flower of Fragrant PlantainlilyDistribution:產地﹕It is cultivated in different parts of China.中國各地均有栽培。  Propertiescharacteristics﹕性味﹕ bitter, sweet, cool, slightly toxic.苦；甘；涼；小毒  Channels meridians entered: 歸經﹕heart, liver, （according to the medical classics  Ben Cao Cong Xin.） kidney, （according to the medical classics Yu Qiu Yao Lun）心，肝《 本草從新 》腎《 玉楸药論  》Medical functions:藥理﹕ Anti tumor effect: root of yu zan hua water extract use on whole animal test show  that it has a high degree of anti-tumor activity of Ehrlich ascites tumor cells. The anti-tumor active ingredient is a polymer. Using yu zan huathe alcohol extract of 0.25g/kg for oral or intraperitoneal injection, six days in a row, it showed an  inhibition of murine leukemia L615. The inhibition rate of 28.5%.[1] anti-inflammatory, [2] anti-acetylcholinesterase, [2] anti-viral, [2] antifungal, [2] insecticidal activity [2] 抗腫瘤作用： 玉簪根的水提取物經整體動物試驗表明，對艾氏腹水癌細胞具有高度抗腫瘤活性，抗腫瘤活性成分為高分子化合物。玉簪醇浸膏 0.25g/kg口服或腹腔注射，連續 6 天，對小鼠白血病 L615有抑制作用。抑制率28.5%。[1] 抗炎，[2] 抗乙酰膽鹼酯酶，[2] 抗病毒[2] 抗真菌，[2] 殺蟲活性[2] 2.毒性 玉簪全株有毒，可損傷牙齒而致牙齒脫落。  Actions & Indications:[2]主治﹕【2】for pain and swelling of throat, barnacles, difficulty in urination, amenorrhea.清熱解毒；利水；通經。主咽喉腫痛；瘡癰腫痛；小便不利；經閉  Chemical ingredients:化學成份﹕【1】結果： 玉簪花各部位對常見菌株具有較強的抑制作用，從玉簪花各部位共分離得到14個化合物，鑒定了其中11個化合物的結構(H1-H11)，分別為：(H1)、)(H2)、(H3)、H5)、(H6)、(H7)、(H8)、(H9)、}(H10)、}(H11)。 結論：所有化合物均為首次從該種植物中得到，H1、H3、H4、H5、H6、H8為首次從該屬植物中得到。 作者 張金花behenic acid正二十烷酸gitogenin(25R)-5α-螺旋甾烷-2α，3β-二醇(支脫皂苷元)palmitic acid-α-monoglyceride glycerides棕櫚酸-α-單甘油酯daucosterol.胡蘿卜苷kaempferol山奈酚quercetin槲皮素kaempferol-3-O-rutinoside山奈酚-3-O-芸香糖苷Phenol- -7-O-beta-d-glucoside山奈酚-7-O-β-D-葡萄糖苷 支脫皂苷元-3-O-{O-β-D-吡喃葡萄糖基(1→2)-O-[β-D-吡喃葡萄糖基-(1→4)]-β-D-吡喃半乳糖苷} 支脫皂苷元-3-O-{O-β-D-吡喃葡萄糖基(1→2)-O-[β-D-吡喃木糖基(1→3)]-O-β-D-吡喃葡萄糖基-(1→4)-β-D-吡喃半乳糖苷 支脫皂苷元-3-O-{O-β-D-吡喃葡萄糖基(1→2)-O-[O-α-L-呋喃鼠李糖基-(1→4)-β-D-吡喃木糖基(1→3)]-O-β-D-吡喃葡萄糖基-(1→4)-β-D-吡喃半乳糖苷 glucose鼠李糖rhamnose木糖,xylose半乳糖galactose另看：http://www.academicjournals.org/jmpr/pdf/pdf2012/16Apr/Li%20et%20al.pdfDaly Dosage:每日用量﹕For oral consumption, in decoction: 3 - 6 g.For external use: use appropriate amount. Smash and apply.內服：煎湯，3-6g。外用：適量，搗敷。Samples of formulae:處方舉例﹕For treatment of swollen throat: yu zan hua 3 g, ban lan gen 15 g, xuan shen 15 g.Boil with water and use as tea.For treatment of urination difficulty:Formula IName of formula: yu long san (jade dragon powder)Composition:  yu zan hua 6 g, she tui 6 g, ding xiang 3 g.Make into powder. Use 3 g each time. Stir with rice wine. Take orally. Formula IIComposition: yu zan hua 3 g, bian xu 12 g, che qian cao 12 g, deng xin cao 3 g.Boil with water and take as tea. 治咽喉腫痛：玉簪花一錢，板藍根五錢，玄參五錢。水煎服。（《山東中草藥手冊》） 治小便不通：㈠ 玉簪花、蛇 蛻各二錢，丁香一錢。共為末，每服一錢，酒調送下。（《醫學指南》玉龍散）㈡ 玉簪花一錢，扁蓄四錢，車前草四錢，燈心草一錢。水煎服。（《山東中草藥手冊》）Modern Research:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕The whole plant is toxic. It can damage the teeth and can cause the teeth to fall off.玉簪全株有毒，可損傷牙齒而致牙齒脫落。[1]zhong Hua Ben Cao 中華本草:[2] Journal of Medicinal Plants Research Vol. 6(14), pp. 2704-2713, 16 April, 2012 Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告   A manuscript... writing, translating and proofreading  in progressProblems with website? Please Click here for comment. Not for inquiry    Click here for inquiry    Copyright Notice 按此看關於 版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some Herbs Side Effect of Some Herbs Herbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong chi kungPrescribed Drug DictionaryEmail our web master for  your suggestion ,not for inquiryBiochemistry DictionaryGeneral Online LibraryQigong classesLecture SlidesResearch LibrarianSearchQigong classesHomeWeather Report DisclaimerSearch this site          \n",
+    "original_url": "http://alternativehealing.org/yu_zan_hua.htm"
+  },
+  {
+    "Names": {
+      "Name": ["nu zhen zi"],
+      "Pharmaceutical": ["Fructus Ligustri Lucidi"],
+      "Botanical": ["Ligustrum lucidum"],
+      "Chinese": ["女貞子"],
+      "Common": ["privet fruit"],
+      "Other": [],
+      "Pronunciation in Korean": ["yojungja"],
+      "Pronunciation in Japanese": ["joteishi"],
+      "Pronunciation in Cantonese": ["noei5 zing1 zi2"],
+      "Pinyin Pronunciation": ["nu zhen zi"]
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Zhejiang",
+      "Jiangsu",
+      "Fujian",
+      "Hunan",
+      "Sichuan",
+      "Guangxi"
+    ],
+    "Properties": ["bitter", "sweet", "neutral"],
+    "Meridians": ["kidney", "liver"],
+    "Maladies Treated": [
+      "for yinxu (yin deficient) and liver yang ascending resulting in dizziness, cataract of the eyes, lower back pain, premature graying of the hair and tinnitus"
+    ],
+    "Medical Function": [
+      "Fruits: Regulate immune system",
+      "Fruits: Anti inflammatory",
+      "Fruits: Anti cancer",
+      "Fruits: Effect on circulatory system",
+      "Fruits: Lower blood sugar",
+      "Fruits: Protect liver",
+      "Fruits: Anti oxidization of the side effect of Hematoporphyrin Derivative (HpD) light treatment",
+      "Leaves: Resist general lack of oxygen",
+      "Leaves: Resist lack of oxygen for the heart muscles",
+      "Leaves: Improve capillary circulation",
+      "Leaves: Effect on cardio-vascular system"
+    ],
+    "Dosage": "4.5 to 15 g",
+    "Samples of Formulae": "",
+    "Contraindications": "This herb has low toxicity but overdose can cause diarrhea.\nNot to use in cases of yangxu (yang deficient), or diarrhea due to pixu (spleen deficient).\nOver cooking may lessen the effectiveness because of the evaporating oil.",
+    "Research": "A combination of wu wei zi (Schisandra fruit), nu zhen zi (privet fruit), ling zhi (Reishi mushroom), yin er (Tremella), and shan yao (Chinese yam) inhibited free radicals and slowed aging in lab animals.",
+    "Notes": "",
+    "Chemical Ingredients": [
+      "oleanolic acid [1]",
+      "ursolic acid [1]",
+      "apigenin-7-glucoside [2]",
+      "luteolin-7-glucoside [2]",
+      "cyanidine-3-glucoside [3]",
+      "cyanidine-3-rutinoside [3]",
+      "malvidin-3-rutinoside-5-glucoside [3]",
+      "Na 23 ppm; Ca 1170 ppm; Mg 300 ppm; Zn 5.00 ppm; Fe 4.50 ppm; Cu 0.28 ppm; Mn 1.60 ppm; Ni 0.049 ppm; Cr 0.02 ppm; Ag 0.008 ppm [5]",
+      "hydroxyphenyl ethyl alcohol [2]",
+      "d-mannitol [6]"
+    ],
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "nu zhen zi, Ligustrum lucidum, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代 中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information                                                  nu zhen zi 女 貞子By: Joe Hing Kwok ChuPharmaceutical name:英文藥名﹕Fructus Ligustri LucidiBotanical name:學名﹕Ligustrum lucidumPron. in Japanese:日語發音﹕joteishiPron. in Korean:韓語發音﹕yojungjaPron. in Cantonese粵音﹕noei5 zing1 zi2Other Names:別名﹕ Common Name:英文名﹕privet fruitDistribution:產地﹕Zhejiang, Jiangsu, Fujian, Hunan, Sichuan, GuangxiProperties(characteristics)﹕性味﹕bitter, sweet, neutral 甘﹐苦. 平。Channels (meridians) entered: 歸經﹕kidney, liver肝﹐ 腎.Medical functions:藥理﹕ Medical Functions of the fruits: Regulate immune system Anti inflammatory Anti cancer Effect on circulatory system Lower blood sugar Protect liver Anti oxidization of the side effect of Hematoporphyrin Derivative (HpD) light treatmentMedical functions of the leaves:Resist general lack of oxygen Resist lack of oxygen for the heart muscles Improve capillary circulation Effect on cardio-vascular system種子藥理作用﹕增強免疫功能﹐ 抗炎﹐ 抗癌， 血液循環作用﹐ 降低血糖﹐ 護肝 清除自由基等作用。葉藥理作用﹕抗一般缺氧 抗心肌缺氧 增進微循環 心血管作用。Actions & Indications:主治﹕for yinxu (yin deficient)  and liver yang ascending  resulting in dizziness, cataract of the eyes, lower back pain, premature graying of the hair and tinnitus因 陰虛 與 肝 陽 上亢  而 致眩暈﹐白內障﹐腰背酸痛﹐耳鳴﹐鬚髮早白。Chemical ingredients:化學成份﹕\n  1. oleanolic acid, ursolic acid[1]2. apigenin-7-glucoside, \n  luteolin-7-glucoside[2] cyanidine-3-glucoside, cyanidine-3-rutinoside, \n  malvidin-3-rutinoside-5-glucoside[3].3. Na, 23ppm, Ca, 1170ppm, Mg, 300ppm, Zn, 5.00ppm, Fe, 4.50ppm, \n  Cu, 0.28ppm, Mn, 1.60ppm, Ni, 0.049ppm, Cr, 0.02ppm, Ag, 0.008ppm[5]\n  4. hydroxyphenyl ethyl alcohol[2], d-mannitol[6]. Dosage:用量﹕4.5 to 15 g4.5 ~ 15 克。Samples of formulae:處方舉例﹕ Modern Research:現代研究﹕A combination of wu wei zi, nu zhen zi, yin er,  shan yao can inhibit free radicals and slow aging in lab animals.由五 味子﹐女貞子﹐靈芝﹐銀耳﹐淮 山藥 組成的複方能抑制自由基的產生，延緩衰老。Toxicity & Cautions:毒性與禁忌﹕ This herb has low toxicity but over dose can cause diarrhea.Not to use in cases of yangxu \n  (yang deficient), or diarrhea due to pixu (spleen deficient)\n\nOver cooking may lessen the effectiveness because of the evaporating oil.\n \n因本品有揮發油，故不耐久煎。久煎可减低藥效。\n\n本品毒性低。但多用易致滑腸。陽虛，或 脾虛 泄瀉者，不宜應用。　 Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告    A manuscript... writing, translating and proofreading                  in progressClick here for comment. (Not for inquiry )           Click here for inquiry  Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right 版權所 有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    Disclaimer  Last update: Jan 28, 2009;  11:27 p .m. LAH  \n",
+    "original_url": "http://alternativehealing.org/nu_zhen_zi.htm"
+  },
+  {
+    "Names": {
+      "Name": ["ling zhi", "靈芝"],
+      "Pharmaceutical": ["Ganodermae lucidi", "Ganodermae japonici"],
+      "Biological": ["Ganoderma lucidum", "Ganoderma japonicum"],
+      "Common": ["English: Lucid ganoderma"],
+      "Other name": [
+        "mu ling zhi",
+        "jun ling zhi",
+        "wan nian xun",
+        "ling zhi cao",
+        "chi zhi",
+        "hong zhi"
+      ],
+      "Chinese": [
+        "木靈芝",
+        "菌靈芝",
+        "萬年蕈",
+        "靈芝草",
+        "赤芝",
+        "紅芝",
+        "紫芝"
+      ],
+      "Pronunciation in Korean": ["yung chee"],
+      "Pronunciation in Japanese": ["mannentake (萬年茸)", "reishi (灵芝)"],
+      "Pronunciation in Cantonese": ["leng4 zi1"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Red lucid ganoderma (赤芝) is produced in East China, Southwest China, Hebei, Shanxi, Jiangxi, Guangxi and Guangdong provinces.",
+      "Violet lucid ganoderma (紫芝) is produced in Zhejiang, Jiangxi, Hunan, Guangxi, Fujian and Guangdong provinces."
+    ],
+    "Properties": ["Sweet", "Neutral"],
+    "Meridians": ["Lung", "Kidney", "Liver", "Heart", "Spleen", "Stomach"],
+    "Maladies Treated": [
+      "Tonic for lung and kidney. For syndrome caused by both lung qi deficient and shenxu (kidney deficient) including cough and asthma which become worse on exertion, shortness of breath and fatigue.",
+      "Tonic for liver and kidney. For syndrome caused by both the liver and shenxu (kidney deficient), such as tinnitus, deafness and lassitude of the loins and knees.",
+      "For calming anxiety and xinqixu (heart qi deficient) that resulting in palpitation, insomnia and amnesia.",
+      "For pixu (spleen deficient) with weak digestion.",
+      "For treatment of hepatitis B.",
+      "For treatment of large B cell lymphoma [3]"
+    ],
+    "Medical Function": [
+      "effect of Inhibiting replicating of hepatitis B virus. [1]",
+      "Ganoderic acid causes apoptosis in leukemia, lymphoma and multiple myeloma cells. [2]",
+      "anti-inflammatory,antioxidation effect",
+      "immunomodulary activity,promotes mitochondrial energy production.",
+      "prevents neuronal loss following cerebral ischemia",
+      "protects dopaminergic neuron degeneration through Inhibition of microglial activation [3]",
+      "anti androgen effect [4]"
+    ],
+    "Dosage": "每日量，作煎剂：3∼10 克。\n3-10 g daily decocted in water.",
+    "Samples of Formulae": "",
+    "Contraindications": "It is contraindicated in patients at the onset of the exopathic diseases.\nNot to use in large amount or long term usage in patients with kidney stones, or with diabetes or hypertension because of oxalic acid. Drink large amount of water to prevent forming of oxalate.",
+    "Research": "effect on hepatitis B virus",
+    "Notes": "",
+    "Chemical Ingredients": {
+      "Newly discovered ingredients [2]": [
+        "ganodermic acid G (靈芝酸 G)",
+        "Glucidone A (赤芝萜酮 A)",
+        "fungal lysozyme (真菌溶菌酶)",
+        "pachymic acid C (茯苓酸 C)",
+        "stellasterol (星魚甾醇)",
+        "polyporenic acid (多孔覃酸)",
+        "pterocarpin (紫檀素)",
+        "trifolirhizin (三葉豆根甙)",
+        "kuraridin (苦參黃鹼素)",
+        "kuraridinol (苦参醇)",
+        "oxalic acid (草酸)"
+      ]
+    },
+    "References": [
+      "[1] Biotechnol Lett. 2006 Jun;28(11):837-41. Epub 2006 May 31.http://www.ncbi.nlm.nih.gov/pubmed/16423392",
+      "[2] http://cetd.tmu.edu.tw/etdservice/view_metadata?etdun=U0007-1704200714505121&query_field1=&&query_word1=%A4%FD%A8q%AAK&",
+      "[3] Int J Surg Pathol. 2007 Apr;15(2):180-6.",
+      "[4] Chem Biodivers. 2009 Feb;6(2):231-43."
+    ],
+    "Further Reading": [],
+    "Original Text": "ling zhiComplementary and Alternative Healing University  Home  現代 中藥辭典\nSearch this site Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　\nling zhi 靈芝 （in English and Chinese 中英文)By: Joe Hing Kwok ChuPharmaceutical name:英文药名：Ganodermae lucidiGanodermae japoniciBiological name:拉丁文生物學名：Ganoderma lucidum or Ganoderma japonicumPron. in Japanese:日語發音：mannentake(萬年茸); reishi （灵芝）Pron. in Korean:韓語發音：yung cheePron. in Cantonese:粤語發音：leng4 zi1Other names:別名：mu ling zhi 木靈芝，jun ling zhi 菌靈芝，wan nian xun 萬年蕈，ling zhi cao 靈芝草，chi zhi 赤芝，hong zhi 紅芝。Common Name:英文普通名：Lucid ganodermaDistribution:分佈：Red lucid ganoderma is produced in East China, Southwest China, Hebei, Shanxi, Jiangxi, Guangxi and Guangdong provinces. Violet lucid ganoderma is produced in Zhejiang, Jiangxi, Hunan, Guangxi, Fujian and Guangdong provinces.赤芝産於中國東部，西南部：河北，山西，江西，廣西，廣東等省。紫芝産 於浙江，江西，湖南，廣西，福建，廣東等省。Properties (characteristics)：性味：Sweet, neutral.甘，平。Channels (meridians) entered:歸經：Lung, Kidney, Liver, Heart, Spleen, Stomach.肺，腎，肝，心，脾，胃。Actions & Indications:主治：Tonic for lung and kidney. For syndrome caused by  both lung qi deficient  and shenxu (kidney deficient)  including cough and asthma which become worse on exertion, shortness of breath and fatigue.Tonic for liver and kidney. For syndrome caused by  both the liver and shenxu (kidney deficient) , such as tinnitus, deafness and lassitude of the loins and knees.For calming anxiety and xinqixu (heart qi deficient)   that resulting in palpitation, insomnia and amnesia.For pixu (spleen deficient)  with weak digestion.For treatment of hepatitis B.For treatment of large B cell lymphoma [3]　作補腎與補肺藥。治肺氣虛與腎虛引起的咳嗽，哮喘而疲 劳時更為嚴重，氣短，疲倦。作為補肝與補腎藥。治肝虚與腎虛所引起的耳鳴，耳聾，腰膝無力。治焦慮。治心氣虛引起的心陣跳，失眠，健忘。脾虛消化不良。治乙型肝炎。治大細胞淋巴癌【3】Medical Function:藥理：effect of Inhibiting replicating of hepatitis B virus. [1]Ganoderic acid causes apoptosis in leukemia, lymphoma and multiple myeloma cells [2] anti-inflammatory,antioxidation effectimmunomodulary activity,promotes mitochondrial energy production.prevents neuronal loss following cerebral ischemiaprotects dopaminergic neuron degeneration through Inhibition of microglial activation [3]anti androgen effect [4]　靈芝酸能抑制乙型肝炎病毒之繁殖。 [1]靈芝提取物可導至白血病，淋巴瘤和多發性骨髓瘤細胞凋亡。[2]抗炎抗氧化作用調節免疫系统作用促進線立體産生能量防止腦局部貧血後神 经细胞損失通過抑制小膠質細胞活化而保護多巴胺能神經元，而防止退化。[3]抑制雄激素作用[4]Chemical ingredients:化學成份：Click here to see other ingredients 看其他成份The newly discovered chemical ingredients: [2] 新發現之成份：【2】ganodermic acid G靈芝酸 Glucidone A赤芝萜酮 Afungal lysozyme真菌溶菌酶pachymic acid C茯苓酸 Cstellasterol星魚甾醇polyporenic acid多孔覃酸pterocarpin紫檀素trifolirhizin三葉豆根甙kuraridin苦參黃鹼素kuraridinol苦参醇oxalic acid草酸Dosage:剤量：每日量，作煎 剤：3∼10 克。3-10 g daily decocted in water.Samples of formulae:處方舉例：Modern Research:現代研究：effect on hepatitis B virusCautions:禁忌：It is contraindicated in patients at the onset of the exopathic diseases.Not to use in large amount or long term usage in patients with kidney stones , or with diabetes or hypertension because of oxalic acid. Drink large amount of water to prevent forming of oxalate.外感病症初期忌用。腎結石者，糖尿病患者，高血壓者不可大量或長期使用。須多量喝水以防草酸鹽形成。[1] Biotechnol Lett. 2006 Jun;28(11):837-41. Epub 2006 May 31.http://www.ncbi.nlm.nih.gov/pubmed/16423392[2] http://cetd.tmu.edu.tw/etdservice/view_metadata?etdun=U0007-1704200714505121&query_field1=&&query_word1=%A4%FD%A8q%AAK&[3] Int J Surg Pathol. 2007 Apr;15(2):180-6.[4] Chem Biodivers. 2009 Feb;6(2):231-43.Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告 　A manuscript... writing, translating and proofreading              in progressClick here for comment. (Not for inquiry )        Click here for inquiry  　Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right　版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    Disclaimer 　 Last update: July 29, 2013; 2:45 p.m. LAH  \n",
+    "original_url": "http://alternativehealing.org/ling_zhi.htm"
+  },
+  {
+    "Names": {
+      "Name": ["Salvia divinorum", "迷幻鼠尾草"],
+      "Pharmaceutical": ["Herb Salvia divinori"],
+      "Botanical": ["Salvia divinorum"],
+      "Chinese": ["迷幻鼠尾草"],
+      "Common": ["diviner's sage", "seer's sage"],
+      "Other name": [
+        "Ska Pastora",
+        "Shepherdess's Herb",
+        "ska Maria Pastora",
+        "yerba de Maria",
+        "Sally-D"
+      ],
+      "Pronunciation in Korean": ["dibaineoseu seiji (diviner's sage)"],
+      "Pronunciation in Japanese": ["shiāsēji"],
+      "Pronunciation in Cantonese": ["mai4 waan6 syu2 mei5 cou2"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "native to certain areas in the Sierra Mazateca of Oaxaca, Mexico"
+    ],
+    "Properties": [],
+    "Meridians": [],
+    "Maladies Treated": ["diarrhea", "anemia", "headaches", "rheumatism"],
+    "Medical Function": [
+      "Salvinorin A is capable of inhibiting excess intestinal motility, thus stopping diarrhea.",
+      "In folk medicine at low dosage as a diuretic.",
+      "Mazatec shamans use it for spiritual healing."
+    ],
+    "Dosage": "",
+    "Samples of Formulae": "",
+    "Contraindications": "This herb is not legal in some parts of the world and also in some states in U.S.",
+    "Research": "Salvia divinorum and Mitragyna speciosa (\"Kratom\"), two unscheduled dietary supplements whose active agents are opioid receptor agonists, have discrete psychoactive effects that have contributed to their increasing popularity. Salvia divinorum contains the highly selective kappa- opioid receptor agonist salvinorin A; this compound produces visual hallucinations and synesthesia. Mitragynine, the major alkaloid identified from Kratom, has been reported as a partial opioid agonist producing similar effects to morphine. An interesting minor alkaloid of Kratom, 7-hydroxymitragynine, has been reported to be more potent than morphine. Both Kratom alkaloids are reported to activate supraspinal mu- and delta- opioid receptors, explaining their use by chronic narcotics users to ameliorate opioid withdrawal symptoms. \nKeywords Salvia divinorum-, Salvinorin A; Kratom; Mitragynine; Dietary supplements\nperildical . Written by： KAVITA M. BABU﹔CHRISTOPHER R. McCURDY﹔EDWARD W. BOYER Published by: Journal of Toxicology 2008, vol.46 (no.2 )  [1]",
+    "Notes": "",
+    "Chemical Ingredients": [
+      "A diterpenoid known as ‘Salvinorin A’ [1]",
+      "A diterpenoid compound: 丹酚A [1]"
+    ],
+    "References": [
+      "[1] doi:10.1002/ptr.1898",
+      "[2] http://www.salvia-divinorum-scotland.co.uk/salvia/ethnopharmacology.htm",
+      "http://www.erowid.org/plants/salvia/salvia.shtml",
+      "http://en.wikipedia.org/wiki/Salvia_divinorum"
+    ],
+    "Further Reading": [],
+    "Original Text": "Salvia divinorum, Complementary and Alternative Healing UnivComplementary and Alternative Healing University  Home 現代中藥辭典Search this siteSearch this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　    　      　　    　　　　　                                           Salvia divinorum 迷幻鼠尾草 by: Joe Hing kwok ChuPharmaceutical name:英文藥名﹕Herb Salvia divinoriBotanical name:學名﹕Salvia divinorumPron. in Japanese:日語發音﹕ shiāsējiPron. in Korean:韓語發音﹕dibaineoseu seiji (diviner's sage)Pron. in Cantonese::粵音﹕mai4 waan6 syu2 mei5 cou2Other Names:別名﹕Ska Pastora; Shepherdess's Herb; ska Maria Pastora; yerba de Maria; Sally-DCommon Name:英文名﹕diviner's sage, seer's sageDistribution:產地﹕native to certain areas in the Sierra Mazateca of Oaxaca, Mexico原產於墨西哥瓦哈卡的 Mazateca 高原地區。Properties(characteristics)﹕性味﹕ Channels (meridians) entered: 歸經﹕Medical functions:藥理﹕ Salvinorin A is capable of inhibiting excess intestinal motility, thus stopping diarrhea.Actions & Indications:主治﹕In folk medicine at low dosage as a diuretic, and to treat ailments including diarrhea, anemia, headaches, rheumatism [2]Mazatec shamans use it for spiritual healing.Chemical ingredients:化學成份﹕A diterpenoid known as �Salvinorin A� [1]雙萜類化合物 ：丹酚A [1]Daly Dosage:每日用量﹕ Samples of formulae:處方舉例﹕ Modern Research:現代研究﹕Salvia divinorum and Mitragyna speciosa (\"Kratom\"), two unscheduled dietary supplements whose active agents are opioid receptor agonists, have discrete psychoactive effects that have contributed to their increasing popularity. Salvia divinorum contains the highly selective kappa- opioid receptor agonist salvinorin A; this compound produces visual hallucinations and synesthesia. Mitragynine, the major alkaloid identified from Kratom, has been reported as a partial opioid agonist producing similar effects to morphine. An interesting minor alkaloid of Kratom, 7-hydroxymitragynine, has been reported to be more potent than morphine. Both Kratom alkaloids are reported to activate supraspinal mu- and delta- opioid receptors, explaining their use by chronic narcotics users to ameliorate opioid withdrawal symptoms. Despite their widespread Internet availability, use of Salvia divinorum and Kratom represents an emerging trend that escapes traditional methods of toxicologic monitoring. The purpose of this article is to familiarize toxicologists and poison control specialists with these emerging psychoactive dietary supplements.Keywords Salvia divinorum-, Salvinorin A; Kratom; Mitragynine; Dietary supplements perildical . Written by： KAVITA M. BABU﹔CHRISTOPHER R. McCURDY﹔EDWARD W. BOYER Published by: Journal of Toxicology 2008, vol.46 (no.2 )  [1]Toxicity & Cautions:毒素與禁忌﹕This herb is not legal in some parts of the world and also in some states in U.S.本品在世界有些地區和在美國有些州 是屬於違法物質。[1]  doi:10.1002/ptr.1898[2] http://www.salvia-divinorum-scotland.co.uk/salvia/ethnopharmacology.htm External link:http://www.erowid.org/plants/salvia/salvia.shtmlhttp://en.wikipedia.org/wiki/Salvia_divinorum Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告   A manuscript... writing, translating and proofreading  in progressProblems with website? Please Click here for comment. (Not for inquiry )      Click here for inquiry    Copyright Notice 按此看關於 版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some Herbs Side Effect of Some Herbs Herbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesLecture SlidesResearch LibrarianSearchQigong classesHomeWeather Report DisclaimerLast update: July 7, 2013, 2 p.m. LAH",
+    "original_url": "http://alternativehealing.org/mi_huan_shu_wei_cao.htm"
+  },
+  {
+    "Names": {
+      "Name": ["royal jelly", "royal bee jelly"],
+      "Pharmaceutical": ["lac regis apis"],
+      "Biological": [
+        "Apis cerana Fabr (Chinese bees, 中華蜜蜂)",
+        "Apis mellifera L. (Italian bees, 意大利蜜蜂)"
+      ],
+      "Chemical": [],
+      "Common": [
+        "Apis mellifera",
+        "Bee Saliva",
+        "Bee Spit",
+        "Honey Bee Milk",
+        "Honey Bee's Milk",
+        "Royal Bee Jelly",
+        "German: Gel嶪 Royale",
+        "French: Lait des Abeilles",
+        "Spanish: Jalea Real"
+      ],
+      "Other name": ["feng ru jiang 蜂乳漿", "wang jiang 王漿"],
+      "Chinese": ["蜂皇漿", "蜂乳漿", "王漿"],
+      "Pronunciation in Korean": ["bong yu (蜂乳)"],
+      "Pronunciation in Japanese": ["Hachi nyūshō (蜂乳漿)", "honyu (蜂乳)"],
+      "Pronunciation in Cantonese": ["fung1 wong4 zeong4"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Animal",
+    "Geography": [],
+    "Properties": ["Sweet", "Sour", "Neutral"],
+    "Meridians": ["Spleen", "Liver", "Kidney"],
+    "Maladies Treated": [
+      "post sickness weakness",
+      "malnutrition in children",
+      "weakness due to old age",
+      "leukopenia",
+      "persistent and chronic hepatitis",
+      "duodenal ulcer",
+      "bronchial asthma",
+      "diabetes",
+      "blood diseases",
+      "psychosis",
+      "functional uterine bleeding",
+      "irregular menses",
+      "functional infertility",
+      "alopecia"
+    ],
+    "Medical Function": [
+      "Nourishing.",
+      "Strengthening the body.",
+      "Benefiting the liver.",
+      "Improving digestion.",
+      "Auxiliary medicine to lower blood sugar: contains insulin-like peptides.",
+      "Anti-oxidant effect: superoxide dismutase (SOD) is the main component of the antioxidant.",
+      "Lowers blood lipids.",
+      "Dilates blood vessels, thus reducing blood pressure.",
+      "Protects the liver: because it contains ω-Hydroxy-2-deecnoic acid (royal jelly acid, 10-羥基－癸烯酸) as well as the major royal jelly protein-1; royal jelly can not only kill the virus, and to inhibit viral replication in the liver cells.",
+      "Anti-bacterial, anti-inflammatory: royal jelly has antibacterial and promotes wound infections healing effect. Antibacterial spectrum includes Escherichia coli, Salmonella typhi, Staphylococcus aureus, Streptococcus, Proteus, Bacillus subtilis, Mycobacterium tuberculosis, star dermatophytes such as Trichophyton and epidermis. Antibacterial and anti-inflammatory effect is pH related: at pH 4.5 antibacterial is strongest; at pH 7 antimicrobial is weakened; at pH 8 antibacterial disappears. Natural royal jelly pH is between 3.5–4.5, therefore, in the natural situation, it has the strongest antibacterial and anti-inflammatory effect."
+    ],
+    "Dosage": "To take orally: use 50–200 mg with lukewarm boiled water. [1]",
+    "Samples of Formulae": "Treatment of acute infectious hepatitis: Oral 1% 王漿蜂蜜 (royal jelly honey; mixture of royal jelly and honey). Dosage: 4 years old and under: 5 g; 5 to 10 years old: 10 g; 10 years old and older: 20 g. 1 dose per day, make into 2 servings. 20 days is a therapy period; take it for 3 periods. [3]\n\nTreatment of chronic rheumatoid arthritis: royal jelly 400 mg daily, taken daily for 3–6 months. [3]\n\nNeurology treatment for progressive muscular dystrophy: 300–600 mg daily for two weeks to three months or more. Psychiatric treatment for schizophrenia, dementia, paralysis, menopausal depression, neurosis and mental retardation: start daily oral 100 mg and gradually increase to 800 mg (each up to 400 mg each time) over 6–10 weeks; total dosage 19,200–30,600 mg. [3]",
+    "Contraindications": "Not to use in cases of diarrhea due to infection (濕熱瀉痢者禁服). Use with care while pregnant. Do not use while breast feeding. [1]",
+    "Research": "Clinical application – acute infectious hepatitis: Result of treatment of 22 cases: a variety of symptoms significantly improved in 3–14 days. Livers significantly shrunk in about 3 weeks. In about 10 days, serum transaminases reduced 40 units or more, or returned to normal. A variety of other laboratory tests significantly improved in 9–18 days. It had good effect in improving liver function. Adverse reactions observed in a few cases: increase of absolute eosinophilic count, sinus arrhythmia (including one case with escape), rash, diarrhea. [3]\n\nClinical application – chronic rheumatoid arthritis: Preliminary observations in 28 cases: significant improved (general condition improved, joint pain alleviated significantly) 7 cases; improved (general condition improved, joint pain slightly relieved) 3 cases; stabilized (the same general condition as before treatment, joint pain no improvement, but no sharp attack) 10 cases; ineffective 8 cases. Usually after serving 3–4 weeks began to show effect; a few needed 6–7 weeks to show effect. No adverse reactions were found during medication; occasional dry mouth, headache, dry stools, which resolved in the short term. [3]\n\nClinical application – neurology and psychiatry: Neurology – 16 cases of progressive muscular dystrophy; result: significant progress in 8 cases, mild progress in 1 case. Psychiatry – 9 cases of schizophrenia, dementia, paralysis, menopausal depression, neurosis and mental retardation; results: 1 case was obviously brightened up, 2 cases resulted in mental alert, 1 case of mental retardation became more obedient; the other five cases showed no progress. [3]",
+    "Notes": "Physical and chemical examination: (1) pH should be 3.5–4.8. (2) A halogen moisture analyzer can be used to quickly determine water content; it should not contain more than 70% of water. (3) With a lit match close to the royal jelly, there should be no brown particles melting rapidly (checking wax). Moisten a glass rod with iodine test solution, coat with a small amount of royal jelly across a white porcelain plate, then scratch with the glass rod; the scratch marks should not be obviously blue, green or red-brown (checking starch). (4) Take a little royal jelly in a test tube, dilute with a small amount of distilled water, stir, add a few drops of Fehling's reagent solution, slightly boil in water bath for 1–2 minutes, remove and examine; it should not show red or reddish brown (checking honey).\n\nNote: Fehling's solution is an aqueous solution of copper sulfate, sodium hydroxide, and potassium sodium tartrate used to test for the presence of sugars and aldehydes in a substance, such as urine.\n\nBiotin (生物素) is one of the B vitamins, also called vitamin H, vitamin B7, and coenzyme R (輔酶R).",
+    "Chemical Ingredients": {
+      "Components": [
+        "royal jelly: average moisture content 67%.",
+        "royal jelly: ash 0.82%.",
+        "royal jelly: protein 12.2%.",
+        "royal jelly: fat 5.46%.",
+        "royal jelly: reducing substances total 12.49%.",
+        "royal jelly: unknown substances 2.84%.",
+        "royal jelly sugars: 5 kinds of sugars; four identified are fructose, glucose, sucrose, and ribose; one unknown.",
+        "royal jelly fatty acid: ω-Hydroxy-2-deecnoic acid (王漿酸; ω-羥基△2-癸烯酸).",
+        "royal jelly vitamins: vitamin B1 (B1 content stable).",
+        "royal jelly vitamins: vitamin B2 (its amount fluctuates daily).",
+        "royal jelly vitamins: other B vitamins fluctuate daily.",
+        "royal jelly vitamins: when larvae have developed to 72 hours, contains a minute amount of vitamin A.",
+        "royal jelly vitamins: free biotin and biotin compound.",
+        "royal jelly vitamins: pantothenic acid (vitamin B5).",
+        "royal jelly vitamins: pyridoxine (vitamin B6).",
+        "royal jelly vitamins: vitamin B12.",
+        "royal jelly vitamins: folic acid (vitamin B9).",
+        "royal jelly vitamins: inositol (vitamin B8).",
+        "royal jelly pterin: 6-Biopterin (2-Amino-4-hydroxy-6(L-erythro-1,2-dihydroxypropyl)-pteridine).",
+        "royal jelly nucleotides/coenzymes: flavin adenine dinucleotide.",
+        "royal jelly nucleotides/coenzymes: flavin mononucleotide.",
+        "royal jelly metabolite: kynurenine.",
+        "royal jelly proteins: albumin.",
+        "royal jelly proteins: β- and γ-globulin.",
+        "royal jelly proteins: insoluble protein.",
+        "royal jelly: acetylcholine.",
+        "royal jelly fats/lipids: stearin (硬脂酸甘油).",
+        "royal jelly fats/lipids: phospholipid.",
+        "royal jelly nucleotides: adenine nucleotides type substances (AMP-like).",
+        "royal jelly amino acids: arginine.",
+        "royal jelly amino acids: aspartic acid.",
+        "royal jelly amino acids: glutamic acid.",
+        "royal jelly amino acids: lysine.",
+        "royal jelly amino acids: proline.",
+        "royal jelly amino acids: β-alanine, etc."
+      ]
+    },
+    "References": [
+      "[1]",
+      "[2] Zhong Hua Ben Cao 中華本草",
+      "[3] Zhong Yao Da Ci Dian 中藥大辭典"
+    ],
+    "Further Reading": [],
+    "Original Text": "royal jelly ,Complementary and Alternative Healing University\nComplementary and Alternative Healing University \n  中藥詞典                 Chinese Herb Dictionary      Search this site     在本網站找資料Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　                 　      　　    　　　  royal bee jelly 蜂皇漿                  (in English and Chinese 中英文)Compiled and translated by: Joe Hing kwok Chu 朱興國編譯Pharmaceutical name:英文藥名﹕lac regis apisBotanical name:學名﹕1.Apis cerana Fabr (中華蜜蜂，Chinese bees)2.Apis mellifera L. (意大利蜜蜂，Italian bees)Pron. in Japanese:日語發音﹕Hachi nyūshō (蜂乳漿); honyu (蜂 乳)Pron. in Korean:韓語發音﹕bong yu (蜂 乳)Pron. in Cantonese::粵音﹕fung1 wong4 zeong4Other Names:別名﹕feng ru jiang 蜂乳漿，wang jiang 王漿Common Name:外文名﹕Apis mellifera, Bee Saliva, Bee Spit,  Honey Bee Milk, Honey Bee's Milk,   Royal Bee Jelly.German: Gel嶪 RoyaleFrench: Lait des AbeillesSpanish: Jalea RealDistribution:產地﹕ Properties(characteristics)﹕性味﹕甘，酸，平。sweet, sour, neutral.Channels (meridians) entered: 歸經﹕spleen, liver, kidney.脾，肝，腎。Medical functions:藥理﹕  It can be used as an auxiliary medicine to lower blood sugar. It contains insulin-like peptides. anti-oxidant effect. Its superoxide dismutase (SOD) is the main component of the antioxidant .it can lower blood lipids.it can dilate blood vessels, thus reducing blood pressure.Because it contains ω-Hydroxy-2-deecnoic acid ( royal jelly acid ) as well as the major royal jelly protein-1 . protect the liver. Royal jelly can not only kill the virus , and to inhibit viral replication in the liver cells.anti-bacterial , anti-inflammatory: Royal jelly has antibacterial and promotes wound infections  healing effect. Tests also showed that royal jelly antibacterial spectrum includes E. coli, Salmonella typhi, Staphylococcus aureus , Streptococcus , Proteus , Bacillus subtilis, Mycobacterium tuberculosis , star dermatophytes such as Trichophyton and epidermis . Antibacterial and anti-inflammatory effect of royal jelly is pH related. When the pH is 4.5, it has the strongest antibacterial; and at pH 7 , the antimicrobial weakened; at  pH 8 , the antibacterial disappear. In natural condition, the Ph of royal jelly is between  3.5 to 4.5 , therefore , in the natural situation , it has the strongest antibacterial and anti-inflammatory effect .1、 輔助降低血糖。因其含有的胰島素樣肽類  2、 抗氧化功效。其超氧化物歧化酶（SOD）是抗氧化的主要成分。  3、 降低血脂。4、  \n  擴張血管、降低血壓。5、 因含的10-羥基－癸烯酸（王漿酸）以及王漿主要蛋白-1,，保護肝臟。蜂王漿不僅能夠殺滅肝炎病毒，並且能抑制病毒在肝臟細胞內複製。  6、抗菌、消炎。蜂王漿有抗菌和對傷口感染具有促進癒合的作用。試驗也表明，蜂王漿的抗菌譜為大腸桿菌、金黃色葡萄球傷寒桿菌、鏈球菌、變形桿菌、枯草桿 菌、結核桿菌、星狀髮癬菌和表皮癬菌等。蜂王漿的抗菌消炎作用與pH有關。當pH為4.5時抗菌最強，pH為7時，抗菌性減弱，pH為8時，抗菌性消失。 蜂王漿的pH為3.5～4.5之間，因此，在天然的狀況下，它的抗菌消炎性最強。　　Actions & Indications:主治﹕Nourishing; strengthening the body; benefiting the liver; improving digestion. For post sickness weakness; malnutrition in children; weakness due to old age; leukopenia; persistent and chronic hepatitis; duodenal ulcer; bronchial asthma; diabetes; blood diseases; psychosis; functional uterine bleeding; irregular menses; functional infertility and alopecia. [1]Clinical application [3]① treatment of acute infectious hepatitis  Oral 1% royal jelly honey ( mixture of royal jelly and honey ).  Dosage:  4 years old and under: 5 g ,  5 to 10 years old: 10 g ,  10 years old and older 20 grams.  1 dose per day. Make into 2 servings , 20 days is a therapy period, Take it for 3 periods.  Result of Treatment of 22 cases , a variety of symptoms significantly improved in three to 14 days. Livers significantly shrunk in about three weeks. In about 10 days , serum transaminases reduced 40 units or more, or return to normal, a variety of other laboratory tests significantly improved in 9 to 18 days . It had good effect in improving liver function.  But in the application process, we found a few cases of increase of absolute eosinophilic count , sinus arrhythmia ( including one case and escape ) , rash , diarrhea and other reactions.  ② treatment of chronic rheumatoid arthritis Dosage: 400 mg daily dose , Took daily for 3 to 6 months.  Result: Preliminary observations in 28 cases,  significant improved ( general condition improved significantly alleviate joint pain ) , 7 cases.  Improved ( improve in the general condition , slightly relieve joint pain ) 3 cases. Stabilized ( the same general condition before treatment , joint pain , no improvement , but no sharp attack ) in 10 cases,  Ineffective: 8 cases . Usually after serving 3 to 4 weeks began to show effect , only a few need to effect only occurs in 6-7 weeks . Found no adverse reactions during the medication , between dry mouth , headache , dry stools , etc., but in the short term that go away.③ used in neural psychiatric diseases Neurology treatment: 16 cases of progressive muscular dystrophy , 300 to 600 mg daily for two weeks to three months or more. Result: significant progress in 8 cases, one case of mild progress .  Psychiatric treatment; 9 cases of schizophrenia, dementia, paralysis , menopausal depression, neurosis and mental retardation. Started daily oral 100 mg and gradually increased to 800 mg ( each up to 400 mg each time ) . 6 to 10 weeks of medication , with total dosage of 19200 mg to 30600 mg . Results of the therapy: 1 case was obviously brightened up, 2 cases resulted in mental alert , 1 case of those with mental retardation became more obedient , the other five cases showed no progress.滋補；強壯；益肝；健脾。主病後虛弱；小兒營養不良；老年體衰；白細胞減少症；遷 延性及慢性肝炎；十二指腸潰瘍；支氣管 哮喘；糖尿病；血液病；精神病；子宮功能性出血；月經不調；功能性不孕症及禿發等[1]【臨床應用】[3] ①治療急性傳染性肝炎  口服1％王漿蜂蜜（由王漿與蜂蜜調和而成），4歲以下5克，5～10歲10克，10歲以上20克。每日1劑，2次分服，20天為一療程，連服三療程。治療22例 ，各種症狀在3～14天內明顯好轉，肝臟在3周左右顯著縮小，血清轉氨酶在10天左右下降40單位以上或恢復正常，其他各種實驗室檢查在9～18天內顯著 好轉。對肝功能的改善有良好的作用。但在應用過程中，發現少數病例有嗜酸性細胞絕對數較前增加，竇性心律不齊（其中1例兼逸搏）、皮疹、腹瀉等反應。  ②治療慢性期風濕樣關節炎  每日服王漿400毫克，連服3～6個月。初步觀察28例，顯著進步者（全身情況改善，關節疼痛顯著減輕）7例，進步者（全身情況改善，關節疼痛略減輕）3例 ，穩定者（全身情況與治療前相同，關節疼痛無改善，但無急劇發作）10例，無效者8例。一般在服後第3～4周開始生效，僅少數需在6～7周才發生療效。服 藥期間未發現不良反應，間有口干，頭痛、大便干燥等，但短期內即自行消失。  ③應用於神經精神病科疾病  神經科治療16例進行性肌營養不良症，每日300～600毫克。服半個月至3個月以上；其中顯著進步8例，輕度進步1例。精神病科治療精神分裂症、麻痺性 痴呆、更年期抑郁症、神經官能症及精神發育不全共9例，開始每日服100毫克，每1周後增加劑量，漸增至每日800毫克（每次最多400毫克），服藥6～10周 ，總量19200毫克～30600毫克。結果情況明顯活躍者1例，精神振作者2例，精神發育不全較以前聽話者1例，餘5例無進步。Chemical ingredients: [2]化學成份﹕[2],The average moisture content is 67%平均含水分67%ash 0.82%灰分0.82%protein 12.2%蛋白質12.2%fat 5.46%脂肪5.46%reducing subtances 12.49%還原性物質總量12.49%unknown substances 2.84%未知物質2.84%5 kinds of sugars: fructose,glucose, sucrose, and ribose, and one unknown5種糖，其中4種是果糖、萄糖、蔗糖及核糖。ω-Hydroxy-2-deecnoic acid, a fatty acid王漿酸(或稱為ω-羥基△2-癸烯酸)Vitamins:維生素：B1其中B1含量穩定B2B2its amoujnt of vitamin B, fluctuate daily其它B族維生素，每日可有較大的波動when lavae have developed to 72 hours, the royal jelly contains a minute amount of Vitamine A幼蟲發育到72小時時，王漿中含微量的維 生素 Acontains free biotin and biotin compound含游離及結合的生物素pantothenic acid (vitamin B5)泛酸 (維生素B5)pyridoxine (vitamin B6)吡哆醇 (維生素B6)vitamin B12維生素B12folic acid  (vitamin B9)葉酸 (維生素B9)inositol  (vitamin B8)肌酵 (維生素B8)6-Biopterin (2-Amino-4-hydroxy-6(L-erythro-1，2- dihydroxypropyl)-pteridine)生物喋呤; (2-氨 基-4-輕基-6(L-赤-1，2-二襲基丙基)-喋啶)flavin adenine dinucleotide黃素腺膘呤二核甙酸flavin mononucleotide黃素單核甙酸kynurenine犬尿素the protein that royal jelly contains:所含蛋白質有:albumin白蛋白β and γ globulinβ及γ球蛋白insoluble protein不溶性蛋白質acetylcholine乙醯膽鹼fat that royal jelly contains:所含油脂類有:stearin硬脂酸甘油phospholipid磷脂adenine nucleotides type of substances腺嘌呤核苷酸(腺苷酸 AMP) 類似物質arginine精氨酸aspartic acid天冬氨酸glutamic acid谷氨酸lysine賴氨酸proline脯氨酸β-alanine, etcβ-丙氨酸等Dosage:用 量﹕To take orally: use 50-200 mg with luke warm boiled water.[1]內服：溫開水沖，50-200 mg。[1]Physical and chemical examination :理化鑒別﹕Physical and chemical identification : (1) Ph should be 3.5-4.8. (2) A halogen moisture analyzer can be used to quickly determine that water content. It should  not contain more than 70% of water. (3) with a lit match close to the royal jelly, there should be no brown particles melting rapidly (for checking wax). Moisten a glass rod  with iodine test solution. Coat with a small amount of royal jelly across the white porcelain plate then scratch with the glass rod. The scratch marks should not be obviously blue, green or red-brown (for checking starch) (4) Take a little test tube using a small amount of royal jelly diluted with distilled water, stir, add few drops of Fehling's reagent test solution, slightly boil in water bath for 1-2 minutes, remove and examine. It should not show red or reddish brown (for checking honey). 理化鑒別:（1）Ph應為3.5-4.8。 （2）用快速鹵素水分測定法測定，含水量不得大於70%。 （3）用點燃的火柴接近蜂乳，應無黃褐色顆粒迅速速熔化（檢查蠟片）。 用蘸有碘試液的玻棒，劃過涂有少量蜂乳的白瓷板上，劃痕處不得顯藍色、綠色或紅褐色（檢查澱粉類。 （4）取蜂乳少許置試管中用少量蒸餾水稀釋攪勻，加斐林試液數滴，水浴上微沸1-2min，取出觀察，不得變紅或紅棕色（檢查蜂蜜）。Modern Research:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕not to use in cases of diarrhea due to infection. Use whith care while pregnant. [1] Do not use  of while breast feeding.濕熱瀉痢者禁服，孕婦慎服。[1]  懷孕或授乳時忌用。[1] [2] Zhong Hua Ben Cao  中華本草[3] Zhong Yao Da Ci Dian 中藥大辭典生物素（Biotin）為維生素B群之一，又稱維生 素H、維生素B7、輔酶R（Coenzyme R）等Note: Fehling's solution is aqueous solution of copper sulfate, sodium hydroxide, and potassium sodium tartrate used to test for the presence of sugars and aldehydes in a substance, such as urine. Problems with website? Please Click here for comment. (Not for inquiry )     Click here for inquiry    Ads by Google:   A manuscript... writing, translating and proofreading  in progress  Copyright Notice 按此看關於 版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese Medicine TCM Diagnosis Samples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesDisclaimerHomeWeather ReportLast update: Dec 30, 2013; 10 a.m. LAH  \n",
+    "original_url": "http://alternativehealing.org/royal_jelly.htm"
+  }
+]

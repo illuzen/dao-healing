@@ -1,0 +1,443 @@
+[
+  {
+    "Names": {
+      "Name": ["chuan bei mu"],
+      "Pharmaceutical": [
+        "Chuan bei mu: Bulbus Fritillariae Cirrhosae",
+        "Zhe bei mu: Bulbus Fritillariae Thunbergii"
+      ],
+      "Biological": [
+        "Fritillaria cirrhosa D. Don (chuan bei mu)",
+        "F. unibracteata Hsiao et K. C. Hsiao (chuan bei mu)",
+        "F. prezwalskii Maxim.(chuan bei mu)",
+        "F. delavayi Franch.(chuan bei mu)",
+        "Fritillaria thunbergii Miq.(zhe bei mu)",
+        "Fritillaria verticillata Willd. var. Fritillaria thunbergii Bak.(zhe bei mu)"
+      ],
+      "Common": ["tendrilled fritillaria blb", "fritillaria"],
+      "Other name": [
+        "chuan bei (川貝)",
+        "jian bei mu (尖貝母)",
+        "zhe bei (浙貝)",
+        "xiang bei (象貝)",
+        "da bei mu (大貝母)",
+        "Prescription names for chuan bei mu: chuan bei 川貝, jian bei mu 尖貝母",
+        "Prescription names for zhe bei mu: zhe bei 浙貝, xiang bei 象貝, da bei mu 大貝母"
+      ],
+      "Chinese": [
+        "川貝母",
+        "浙貝母",
+        "川貝",
+        "尖貝母",
+        "浙貝",
+        "象貝",
+        "大貝母",
+        "東貝",
+        "大貝",
+        "元寶貝",
+        "珠貝"
+      ],
+      "Pronunciation in Korean": ["ch'onp'aemo"],
+      "Pronunciation in Japanese": ["senbaimo"],
+      "Pronunciation in Cantonese": [
+        "cyun1 bui3 (chuan bei 川貝)",
+        "zit3 bui3 (zhe bei 浙貝)"
+      ],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Chuan bei mu (Bulbus Fritillariae Cirrhosae): Sichuan, Yunnan, Xizang.",
+      "Zhe bei mu (Bulbus Fritillariae Thunbergii): Zhejiang, Jiangsu, Anhui, Hunan."
+    ],
+    "Properties": [
+      "Chuan bei mu: mildly cold; sweet; bitter.",
+      "Zhe bei mu: bitter; cold."
+    ],
+    "Meridians": ["Heart", "Lung"],
+    "Maladies Treated": [
+      "Hot cough due to yinxu with thick phlegm.",
+      "Breast scrofula; nodules.",
+      "External application for boils.",
+      "肺熱 (lung heat).",
+      "陰虛咳嗽痰稠 (yinxu cough with thick phlegm).",
+      "肺癰 (fei yong, lung abscess).",
+      "乳腺炎 (mastitis).",
+      "肺虛 (lung deficiency).",
+      "瘰癧 (luo li, scrofula).",
+      "久咳 (prolonged/chronic cough).",
+      "Chuan bei mu: chronic cough that injured yin (into yinxu), dry cough without phlegm; lung dryness cough.",
+      "Zhe bei mu: stagnant phlegm with cough; cough with yellow phlegm; clears lung and disperses nodules."
+    ],
+    "Medical Function": [
+      "Suppress cough and expels phlegm.",
+      "Clears lung heat and rids of phlegm; moistens the Lung and disperses nodules; stops cough and transforms phlegm (潤肺散結，止咳化痰).",
+      "Chuan bei mu is mildly cold and moisturizing: for lung dryness cough and prolonged cough injuring yin, dry cough without phlegm.",
+      "Zhe bei mu is colder than chuan bei mu; stronger purging to get rid of stagnant phlegm and stop cough; suitable for cough with yellow phlegm.",
+      "Small amount of the saponin can raise blood pressure of dogs, cats, and rabbits while large amount can lower it.",
+      "Injection of 7.5 ml/kg peimine to rabbits increased blood sugar and it was able to maintain it for more than 2 hours [3].",
+      "Antibiotic effect."
+    ],
+    "Dosage": "For decoction: 3 to 10 g. As powder form (mixed in water): 1 to 2 g.",
+    "Samples of Formulae": "dang gui bei mu ku shen wan (當歸貝母苦參丸); jie geng bai san (桔梗白散); yang fei tang (養肺湯).",
+    "Contraindications": "Not to use by those with pixu (spleen deficient), cold, with wet phlegm and cold cough. Also not to use she dan chuan bei mo, chen pi chuan bei mo, chuan bei mu, fu fang she dan chuan bei mo. Raw bei mu is toxic and not for internal use.",
+    "Research": "Small amount of the saponin can raise blood pressure of dogs, cats, and rabbits while large amount can lower it.\nInjection of 7.5 ml/kg peimine to rabbits, increased blood sugar and it was able to maintain it for more than 2 hours [3].\nAntibiotic effect.",
+    "Notes": "Chuan bei mu (川貝母) is characterized as mildly cold with a moisturizing quality; it is emphasized for lung dryness patterns, prolonged cough that injures yin, and dry cough without phlegm.\nZhe bei mu (浙貝母) is colder than chuan bei mu, with stronger opening/purging to eliminate phlegm; indicated for clearing the Lung, dispersing nodules, and cough with yellow phlegm.",
+    "Chemical Ingredients": {
+      "Chuan bei mu (川貝母)": [
+        "chinpeimine",
+        "sonpeimine",
+        "fritimine",
+        "sipemine"
+      ],
+      "An zi bei mu (暗紫貝母)": [
+        "songbeisine",
+        "26-Imino-17, 23beta-oxido-5alpha-jerv-12-en-11-oxo-3beta-ol[1]"
+      ],
+      "Gansu bei mu (甘肅貝母)": ["minpeimine", "minpeiminine"],
+      "Suo sha bei mu (梭砂貝母)": [
+        "Imperialine",
+        "Delavine",
+        "Delavinone[2]",
+        "Chuanbeinone[3]",
+        "Dalafrinone [(22S, 25S) -3beta, 16Beta-dihydroxy-5alpha-cevanin-6-one]",
+        "Dalafrine[ (22S, 25S) -5alpha-cevanine-3beta, 6beta, 16beta-triol]",
+        "(22R, 25S) - Solanid-5-enine-3beta, 5alpha, 6beta-triol[4]",
+        "beilupeimine",
+        "fritiminine"
+      ],
+      "Zhe bei mu (浙貝母)": [
+        "peimine",
+        "peiminine",
+        "propeimine",
+        "peimidine",
+        "peimiphine",
+        "peimisine",
+        "peimitidinek",
+        "isoverticine",
+        "peimisnoside"
+      ]
+    },
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "chuan bei, bei mu, zhe bei, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代 中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　Sponsored Ads by Google　                                                          Chuan bei mu  川 貝 母; (in English and Chinese 中英文)by: Joe Hing Kwok ChuClick here to see picture of herb. 按此看圖。Pharmaceutical name:英文药名：chuan bei mu: Bulbus Fritillariae Cirrhosaezhe bei mu: Bulbus Fritillariae ThunbergiiBiological name:拉丁學名：chuan bei mu:  Fritillaria cirrhosa D. Don;F. unibracteata Hsiao et K. C. Hsiao, F. prezwalskii Maxim.,F. delavayi Franch.zhe bei mu:Fritillaria thunbergii Miq.,Fritillaria verticillata Willd. var. Fritillaria thunbergii Bak.Pron. in Japanese:日語發音：senbaimoPron. in Korean:韓語發音：ch'onp'aemoPron. in Cantonese:粤語發音：cyun1 bui3 (chuan bei 川貝);zit3 bui3 (zhe bei 浙貝)Other Names:別名：chuan bei mu:  chuan bei 川貝, jian bei mu 尖貝母zhe bei mu: zhe bei 浙貝, xiang bei 象貝, da bei mu 大貝母Common Name:tendrilled fritillaria blb, fritillariaPrescription Names:  處方名﹕chuan bei, zhe bei, dong bei, da bei, yuan bao bei, zhu bei.川貝﹐浙貝﹐東貝﹐大貝﹐元寶貝﹐珠貝。　Distribution:分佈：chuan bei mu: Sichuan, Yunnan, Xizangzhe bei mu: Zhejiang, Jiangsu, Anhui, Hunan川貝母：四川，云南，西藏。浙貝母：浙江，江蘇，安徽，湖南。Properties (characteristics):藥性:chuan bei mu: mildly cold, sweet, bitterzhe bei mu: bitter cold川貝母: 性微寒，味甘苦 。浙貝母: 苦，寒。 Channels (meridians) entered:歸經:heart, lung心, 肺Actions & Indications:功用:Clears lung heat and rids of phlegm, hot cough due to yinxu with thick phlegm, breast scrofula, nodules, external application for boils.Chuan bei mu is mildly cold and good for moisturizing: chronic cough that injured yin ( into yinxu), dry cough without phlegm.zhe bei mu is colder than chuan bei mu: its purging is stronger than chuan bei mu. It is used for getting rid of stagnant phlegm, stopping cough. Suitable for cough with yellow phlegm.潤肺散結，止咳化痰。肺 熱 ，陰虛 咳 嗽 痰 稠 ， 肺癰，乳 腺 炎 ，  肺 虛 ， 瘰 瘳 ， 久 咳 ， 外治惡瘡。川貝母苦甘微寒，以滋潤見長，用於肺燥咳嗽及久咳傷陰，乾咳無痰的。 浙貝母苦寒，寒性大於川貝，開泄力大。用於清肺散結，化痰止咳。有黃痰者適用。 Medical Function:1. Suppress cough and expels phlegm.2. Small amount of the saponin can raise blood pressure of dogs, cats, and rabbits while large amount can lower it.3. injection of 7.5 ml/kg peimine to rabbits, increased blood sugar and it was able to maintain it for more than 2 hours [3]4. antibiotic effect. 祛痰止咳。小量的貝母之皂素能增高貓，狗，兔子的血壓。大量則能降低其血壓。給兔子注射7.5ml/kg 貝母甲素能增高其血糖并能维持多過2小時。有抗生素之作用。(more to be loaded)Chemical Ingredients:化學成份:　　　　　　　Chemical Ingredients:1. Chuan bei mu (川貝母): chinpeimine, sonpeimine, fritimine, sipemine.2. An zi bei mu (暗紫貝母):  songbeisine, 26-Imino-17, 23beta-oxido-5alpha-jerv-12-en-11-oxo-3beta-ol[1].3. Gansu bei mu (甘肅貝母): minpeimine, minpeiminine.4. Suo sha bei mu (梭砂貝母): Imperialine, Delavine, Delavinone[2], Chuanbeinone[3], Dalafrinone [(22S, 25S) -3beta, 16Beta-dihydroxy-5alpha-cevanin-6-one], Dalafrine[ (22S, 25S) -5alpha-cevanine-3beta, 6beta, 16beta-triol] (22R, 25S) - Solanid-5-enine-3beta, 5alpha, 6beta-triol[4], beilupeimine, fritiminine.5. Zhe bei mu (浙貝母): peimine, peiminine, propeimine, peimidine, peimiphine, peimisine, peimitidinek, isoverticine, peimisnoside.Dosage:用量:For decoction: 3 to 10 g. As powder form (mixed in water): 1 to 2 g.煎服:3克至10克。研粉沖服或調服用1克至2克。Commonly Used formulae:常用配方: jie geng bai san, yang fei tang.dang gui bei mu ku shen wan當歸貝母苦參丸，桔梗白散，養肺湯。Modern Research:to be loadedCautions:禁忌:Not to use by those with pixu (spleen deficient), cold, with wet phlegm and cold cough. Also not to use she dan chuan bei mo, chen pi chuan bei mo, chuan bei mu, fu fang she dan chuan bei mo. Raw bei mu is toxic and not for internal use.脾虛及有濕痰 寒咳者忌用貝母。 包括：蛇膽川貝末，陳皮川貝末，川貝末，復方蛇膽川貝末。生的貝母有毒， 不可內服。Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告   A manuscript... writing, translating and proofreading                  in progressClick here for comment. (Not for inquiry )     Click here for inquiry  Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    DisclaimerLast update: April 8. 2012;  3:50 p .m. LAHchuan_bei.htm  bei_mu.htm  zhe_bei_mu.htm zhe_bei.htm）   ",
+    "original_url": "http://alternativehealing.org/chuan_bei.htm"
+  },
+  {
+    "Names": {
+      "Name": ["chuan xiong"],
+      "Pharmaceutical": ["Radix Ligustici Chuanxiong"],
+      "Biological": [
+        "Ligusticum chuanxiong Hort.",
+        "L. wallichii Franch.",
+        "Cnidium officinale Makino (ri ben chuan xiong 日本川芎)"
+      ],
+      "Common": ["Szehuan lovage root", "cnidium"],
+      "Other name": ["qiong xiong 芎藭"],
+      "Chinese": ["川芎"],
+      "Pronunciation in Korean": ["chonkung"],
+      "Pronunciation in Japanese": ["senkyu"],
+      "Pronunciation in Cantonese": ["cyun1 gung1"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Sichuan 四川",
+      "Guizhou 貴州",
+      "Yunnan 雲南",
+      "Shaanxi 陝西"
+    ],
+    "Properties": ["acrid", "warm"],
+    "Meridians": ["liver", "gallbladder", "pericardium"],
+    "Maladies Treated": [
+      "headaches",
+      "abdominal ache",
+      "chest pain",
+      "muscle pain",
+      "boils, carbuncles, sores, abscesses",
+      "difficulty in menses (dysmenorrhea)",
+      "amenorrhea",
+      "painful obstruction (bi) with muscle spasm/contracture",
+      "coronary diseases",
+      "angina",
+      "ischemic chest vascular disease"
+    ],
+    "Medical Function": [
+      "Promotes qi and circulation",
+      "Rids of blood stasis",
+      "Relieves pain",
+      "dilates coronary arteries, improves blood flow to heart muscles, lower oxygen consumption of heart muscles",
+      "improves blood flow to the the brain and limbs, lower resistant of the peripheral blood vessels",
+      "resists radiation",
+      "antibiotic effect",
+      "inhibits platelet aggregation (anti-coagulation of platelets)",
+      "helps resist effect of lack of vitamin E",
+      "inhibits the activity of tyrosinase, thus helps to eliminate age spots (brown spots) and spreckles"
+    ],
+    "Dosage": "3–10 g (3～10克).",
+    "Samples of Formulae": "Shi Quan Da Bu Tang (Ten Perfect Tonic Decoction) 十全大補湯\nRen Shen Bai Du San (Ginseng Powder to Overcome Pathogenic Influences) 人參敗毒散\nDu Huo Ji Sheng Tang (Angelica Pubescens and Sangjisheng Decoction) 獨活寄生湯\nSi Wu Tang (Four-Substance Decoction) 四物湯\nYue Ju Wan (Escape Restraint Pill) 越鞠丸\nXue Fu Zhu Yu Tang (Drive Out Stasis in the Mansion of Blood Decoction) 血府逐淤湯\nWen Jing Tang (Warm the Menses Decoction) 溫經湯\nSuan Zao Ren Tang (Sour Jujube Decoction) 酸棗仁湯",
+    "Contraindications": "Do not use in cases of yinxu (yin deficient) with high fire, or headache or hypermenorrhea caused by liver yang overactive.",
+    "Research": "",
+    "Notes": "Cnidium officinale Makino is referred to as ri ben chuan xiong (日本川芎, Japanese chuan xiong) on the source page.",
+    "Chemical Ingredients": [
+      "cnidiumlactone",
+      "chuanxingol",
+      "4-hyroxy-3-butylidene-phthalide",
+      "4, 5-dihydro-3-butylidene-phthalide",
+      "3-butyl-phthalide",
+      "7-hydroxy-3-butylidenephthalide",
+      "3-butyl-4, 5-dihydrophthalide",
+      "(Z)-4, 5-dihydro-6, 7-trans-dihydroxy-3-butylidene-phthalide",
+      "(Z) -4, 5-dihydro-6, 7-cis-dihydroxy-3-butylidene-phthalide",
+      "senkyunolide K",
+      "senkyunolide L",
+      "senkyunolide M",
+      "(Z) -6, 7-epoxy-ligustilide",
+      "3, 6, 7-trihydroxy-4, 5, 6, 7-tetrahydro-3-butyl-phthalide",
+      "neocnidilide",
+      "3-n-butyl-3-hydroxyl-4, 5, 6, 7-tetrahydro-6, 7-dihydroxyphthalide",
+      "(Z, Z') -diligustilide",
+      "(Z) -6.8', 7.3'-diligustilide",
+      "Wallichilide",
+      "(Z')-3, 8-dihydro-6. 6', 7. 3' a-diligustilide",
+      "chuanxingzine",
+      "tetramethyl-pyrazine",
+      "L-isoleucine-L-valine anhydride",
+      "adenine",
+      "L-valine-L-valine anhydride",
+      "trimethylamine",
+      "choline",
+      "perlolyrine",
+      "ferulic acid",
+      "sedanonic acid",
+      "folic acid",
+      "vanillic acid",
+      "caffeic acid",
+      "protocatechuic acid",
+      "palmitic acid",
+      "linolenic acid",
+      "chrysophanol",
+      "methyl phenylacetate",
+      "sedanoic acid lactone",
+      "methyl pentadecanoate",
+      "ethyl p entadecanoate",
+      "ethyl palmitate",
+      "ethyl heptadecanoate",
+      "ethyl isohepta- decanoate",
+      "ethyl octadecanoate",
+      "ethyl isoctadecanoate",
+      "methyl palmitate",
+      "methyl linolenate",
+      "vanillin",
+      "(bis-5, 5'-formylfurperye ether",
+      "5-hydroxymethyl-6-endo-3'-methoxy-4'-hydroxyphenyl-8-0xa-abicyclo (3, 2, 1)-oct-3-en-2-one",
+      "spathulenol",
+      "β-sitosterol",
+      "vitamin A"
+    ],
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "chuan xiong, chuan qiong, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代中藥辭典Search this siteSearch this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　                                                 chuan xiong  川芎by: Joe Hing Kwok ChuClick here to see picture of herb.  按此看圖。 Pharmaceutical name:英文藥名﹕Radix Ligustici ChuanxiongBiological name:拉丁學名﹕Ligusticum chuanxiong Hort.; L. wallichii Franch.Cnidium officinale Makino. (ri ben chuan xiong 日本川芎)Pron. in Japanese:日音﹕senkyuPron. in Korean:韓音﹕chonkungPron. in Cantonese:粵音﹕cyun1 gung1Common Name:英文名﹕Szehuan lovage root, cnidiumOther Names：別名：qiong xiong 芎藭Distribution:分佈﹕Sichuan 四川, Guizhou 貴州, Yunnan 雲南, Shaanxi 陝西Properties (characteristics)﹕性味﹕acrid, warm味辛 ，性溫。Channels (meridians) entered:歸經﹕liver, gallbladder, pericardium肝﹐ 膽﹐ 心包。Actions & Indications:應用﹕Promotes qi and circulation. Relieves pain: like headaches, abdominal ache, chest pain, muscle pain, boils, difficulty in menses, amenorrhea. Rids of blood stasis.行血 氣﹐去淤 血﹐卻風痛﹔如﹕ 頭痛，腹痛，脅痛，塞痺筋攣，癰疽瘡瘍，婦女經閉，月經不調。Medical Function:藥 理:Medical Function:dilates coronary arteries, improves blood flow to heart muscles, lower oxygen consumption of heart muscles. improves blood flow to the the brain and limbs, lower resistant of the peripheral blood vessels.resists radiation.antibiotic effectanti-coagulation of platelets.helps resist effect of lack of vitamin Einhibits the activity of tyrosinase, thus helps to eliminate age spots (brown spots) and spreckles.藥理:有擴張冠狀動脈 ﹐ 增加冠狀動脈血流量及，心肌血流量﹐ 降低心肌耗氧量的作用有增加腦及肢體血流量 ﹐ 降低外周血壓阻力的作用抗輻射抗菌抑制血小板聚集有抗维生素E缺乏的作用。抑制酪氨酸酶活性，而有治療黑斑 ﹐雀斑﹐與老年斑之效果。Chemical ingredients:化學成份﹕cnidiumlactone, chuanxingol, 4-hyroxy-3-butylidene-phthalide, 4, 5-dihydro-3-butylidene-phthalide, 3-butyl-phthalide, 7-hydroxy-3-butylidenephthalide, 3-butyl-4, 5-dihydrophthalide, (Z)-4, 5-dihydro-6, 7-trans-dihydroxy-3-butylidene-phthalide, (Z) -4, 5-dihydro-6, 7-cis-dihydroxy-3-butylidene-phthalide, senkyunolide K, senkyunolide L, senkyunolide M, (Z) -6, 7-epoxy-ligustilide; 3, 6, 7-trihydroxy-4, 5, 6, 7-tetrahydro-3-butyl-phthalide; neocnidilide; 3-n-butyl-3-hydroxyl-4, 5, 6, 7-tetrahydro-6, 7-dihydroxyphthalide.2. (Z, Z') -diligustilide;(Z) -6.8', 7.3'-diligustilide; Wallichilide; (Z')-3, 8-dihydro-6. 6', 7. 3' a-diligustilide.3. chuanxingzine, tetramethyl-pyrazine, L-isoleucine-L-valine anhydride, adenine, L-valine-L-valine anhydride, trimethylamine, choline, perlolyrine.3. ferulic acid, sedanonic acid, folic acid, vanillic acid, caffeic acid, protocatechuic acid, palmitic acid, linolenic acid, chrysophanol.4. methyl phenylacetate, sedanoic acid lactone, methyl pentadecanoate, ethyl  p entadecanoate, ethyl palmitate, ethyl heptadecanoate, ethyl isohepta- decanoate, ethyl octadecanoate, ethyl isoctadecanoate, methyl palmitate, methyl linolenate.5. vanillin; (bis-5, 5'-formylfurperye ether; 5-hydroxymethyl-6-endo-3'-methoxy-4'-hydroxyphenyl-8-0xa-abicyclo (3, 2, 1)-oct-3-en-2-one; spathulenol; β-sitosterol;vitamin A.Dosage:用量:3 ~10 g. 3～10克。Samples of formulae:常用處方﹕shi quan da bu tang  十全大補湯,ren shen bai du san  人參敗毒散,du huo ji sheng tang  獨活寄生湯,si wu tang  四物湯,yue ju wan  越鞠丸xue fu zhu yu tang  血府逐淤湯,wen jing tang  溫經湯,suan zao ren tang  酸 棗仁湯Modern  Applications:coronary diseases, angina現代 用於冠心病﹐ 心絞痛﹐及缺血性胸血管病。Cautions:禁忌:do not use in cases of yinxu (yin deficient) with high fire, headache or hypermenorrhea caused by liver yang overactive. 陰虛 火旺﹐ 肝陽上亢所引起的頭痛及月經過多者忌服。 Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告  A manuscript... writing, translating and proofreading              in progressClick here for comment. (Not for inquiry )    Click here for inquiry  Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right 版權所 有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesDisclaimerHomeWeather ReportLast update: Sept 7, 2014; 11:50  p.m. LAH  ",
+    "original_url": "http://alternativehealing.org/chuan_xiong.htm"
+  },
+  {
+    "Names": {
+      "Name": ["jia zhu tao"],
+      "Pharmaceutical": ["Herba Neriumi indicumi"],
+      "Biological": [
+        "Nerium oleander L.",
+        "Nerium indicum Mill.",
+        "Nerium odoratum Lam.",
+        "Nerium odorum Sol.",
+        "Nerium verecundum Salisb."
+      ],
+      "Common": [
+        "oleander",
+        "te orian",
+        "selonsroos",
+        "Ceylon rose",
+        "dog bane",
+        "double oleander",
+        "laurier rose",
+        "rose bay",
+        "rose laurel",
+        "rose of Ceylon",
+        "south sea rose",
+        "sweet scented oleander",
+        "adelfa",
+        "alhel�"
+      ],
+      "Other name": ["hong hua jia zhu tao 紅花夾竹桃", "liu ye tao 柳葉桃"],
+      "Chinese": ["夾竹桃"],
+      "Pronunciation in Korean": ["hyeopjukto"],
+      "Pronunciation in Japanese": ["kiyouchikutou"],
+      "Pronunciation in Cantonese": ["gaap3 zuk1 tou4"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Originally from Iran.",
+      "Cultivated in most parts of China (中國各省區均有栽培)."
+    ],
+    "Properties": ["bitter", "cold", "toxic"],
+    "Meridians": ["heart", "lung", "kidney"],
+    "Maladies Treated": [
+      "heart failure (cardiac exhaustion)",
+      "asthmatic cough",
+      "epilepsy",
+      "swelling and pain from impact injuries",
+      "amenorrhea",
+      "chronic pain in abdomen (root)",
+      "chronic pain in joints (root)",
+      "lumbago (flowers)",
+      "inflammations (flowers)",
+      "headache (flowers)",
+      "scabies (flowers)"
+    ],
+    "Medical Function": [
+      "Its saponins may be a good potential for use as cardiac stimulant.",
+      "Antiviral activities against influenza virus (RNA) and HSV (DNA).",
+      "強心利尿: strengthens the Heart and promotes diuresis.",
+      "祛痰定喘: transforms phlegm and calms wheezing.",
+      "鎮痛: analgesic.",
+      "散瘀止痛: disperses stasis to stop pain.",
+      "In Ayurvedic medicine, the roots are being used as aphrodisiac, tonic and for chronic pain in abdomen and in joints. The flowers are also being used as aphrodisiac and for lumbago, inflammations, headache and scabies. (Do not use if you are not trained in this herb)"
+    ],
+    "Dosage": "In decoction for oral consumption: 0.3 to 0.9 g. In powder form: 0.15 g to 0.3 g.",
+    "Samples of Formulae": "",
+    "Contraindications": "Very toxic herb. Whole plant is toxic; smoke from burning the plant is highly toxic.\nNot to use during pregnancy.\nLarge dosages and/or long-term usage can be toxic to kidneys.\nOverdose can cause serious arrhythmia, hypotension, and coma.\nDo not use if you are not trained in this herb.",
+    "Research": "S.A.A. Jassim and M.A. Naji: exhibited considerable antiviral activities against influenza virus (RNA) and HSV (DNA) (Rajbhandari et al. 2001).",
+    "Notes": "Symptoms and Treatment: See this site for symptoms of toxicity and treatment information.\nSee Chinese site (in Chinese) Center for Prevention and Control of Diseases. 中文網站: 上海市疾病預防控制中心。",
+    "Chemical Ingredients": [
+      "digitoxigenin (洋地黄毒貳元)",
+      "oleandrigenin (夾竹桃貳元)",
+      "uzarigenin (烏沙貳元)",
+      "adynerigenin (歐夾竹桃貳元)",
+      "nerlagenin (奈利貳元)",
+      "adynerigenin C (歐夾竹桃貳丙)",
+      "pregnenolone gincoside (孕菌烯醇酮貳)",
+      "pregnane (孕甾烷)",
+      "Aneridienone A (歐夾二烯酮A)",
+      "gentiobiose (龍胆二糖)",
+      "oleandrigenin A (夾竹桃貳A)",
+      "L-(+)-bornesitol (糖醇白堅皮醇)",
+      "damhonitol (橡膠肌醇)",
+      "Plumericin (雞蛋花素)",
+      "flavonoids (黄酮)",
+      "triterpenoids (三帖類 化合物)",
+      "sterol (甾醇)"
+    ],
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "jia zhu tao, Complementary and Alternative Healing University  現代中藥辭典Complementary and Alternative Healing University  Home  中 藥詞典Search this site       Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information  jia zhu tao 夾竹桃    (in English and Chinese 中英文)  by: Joe Hing kwok ChuPharmaceutical name:英文藥名﹕Herba Neriumi indicumiBiological name:拉丁文學名﹕Nerium oleander L., Nerium indicum Mill., Nerium odoratum Lam., Nerium odorum Sol., Nerium verecundum Salisb.Pron. in Japanese:日語發音﹕kiyouchikutouPron. in Korean:韓語發音﹕hyeopjuktoPron. in Cantonese:粵音﹕gaap3 zuk1 tou4Other Names:別名﹕hong hua jia zhu tao 紅花夾 竹桃，liu ye tao 柳葉桃.Common Name:英文名﹕oleander, te orian, selonsroos, Ceylon rose, dog bane, double oleander, laurier rose, rose bay, rose laurel, rose of Ceylon, south sea rose, sweet scented oleander, adelfa, alhel�.Distribution:產地﹕Originally from Iran. Cultivated in most parts of China.中國各省區均有栽培。原產伊朗。Properties(characteristics)﹕性味﹕bitter, cold, toxic.苦，寒，有毒。Channels (meridians) entered: 歸經﹕heart, lung, kidney.心，肺，腎。Medical functions:藥理﹕ Its saponins may be a good potential for use as cardiac stimulant.S.A.A. Jassim and M.A. Naji: exhibited considerable antiviral activities against influenza virus (RNA) and HSV (DNA) (Rajbhandari et al. 2001).其皂素有强心作用，很可能有潜在發展為强心剤。有抗病毒作用：抗流行性感冒病毒與抗單純性疱疹病毒。Actions & Indications:主治﹕Being used in cardiac exhaustion, asthmatic cough, epilepsy, swelling and pain from impact injuries, amenorrhea; but overdose can cause serious arrhythmia, hypotension, and coma.In Ayurvedic medicine, the roots are being used as aphrodisiac, tonic and for chronic pain in abdomen and in joints. The flowers are also being used as aphrodisiac and for lumbago, inflammations, headache and scabies. (Do not use if you are not trained in this herb)強心利尿，祛痰定喘，鎮痛，散瘀止痛作用。。用於 治療心臟衰竭，喘息咳嗽，癲癇，跌打損傷腫痛，經閉。但使用過量會導致嚴重之心律不整，血壓下降，昏迷。在古印度醫學﹐根用 作催情補劑﹐與用來治療關節與腹部慢性痛症。花亦用作催情補劑﹐並用來治療腰部神經痛﹐慢性發炎﹐頭痛﹐與疥瘡。(如非有經驗﹐不可隨意應用此藥。)Chemical ingredients:化學成份﹕洋地黄毒貳元digitoxigenin夾竹桃貳元oleandrigenin烏沙貳元uzarigenin歐夾竹桃貳元adynerigenin奈利貳元nerlagenin歐夾竹桃貳丙adynerigenin C孕菌烯醇酮貳pregnenolone gincoside孕甾烷pregnane歐夾二烯酮Aneridienone  A龍胆二糖gentiobiose夾竹桃貳Aoleandrigenin A糖醇白堅皮醇 L-(＋)-bornesitol橡膠肌醇damhonitol雞蛋花素Plumericin黄酮flavonoids三帖類 化合物   triterpenoids甾醇sterolDosage:用量﹕In decoction for oral consumption: 0.3 to 0.9 g.In powder form: 0.15 g to 0.3 g.煎湯，内服：0.3~0.9 克。作粉剤：0.15 克～0.3克。Samples of formulae:處方舉例﹕ Modern Research:現代研究﹕ Toxic Portions:有毒部份﹕Whole plant is toxic even the smoke from burning the plant.全株有毒。燃燒枝葉之煙霧也有劇毒。Cautions:禁忌﹕It is a very toxic herb.Not to use during pregnancy. Large dosages and/or long term usage can be toxic to kidneys. Overdose can also cause serious arrhythmia, hypotension, and coma.孕婦忌服。大劑量或長期服用對 腎臟有毒。使用過量會導致嚴重之心律不整，血壓下降，昏迷。Symptoms and Treatment:See this site for symptoms of toxicity and treatment information.　See Chinese site (in Chinese) Center for Prevention and Control of Diseases. 中文網站: 上海市疾病預防控制中心。 Sponsors' Ads by Google 以下為谷歌 所提供之廣告 A manuscript... writing, translating and proofreading  in         progress Problems with website? Please Click here for comment. (Not for inquiry )      Click here for inquiry  Copyright Notice 按此看關於 版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    DisclaimerLast update: April 8, 2011; 11:49 p.m. LAH  ",
+    "original_url": "http://alternativehealing.org/jia_zhu_tao.htm"
+  },
+  {
+    "Names": {
+      "Name": ["pi pa ye", "枇杷葉"],
+      "Pharmaceutical": ["folium Eriobotryae japonicae"],
+      "Biological": ["Eriobotrya japonica (Thunb) Lindl"],
+      "Common": ["loquat leaves"],
+      "Other name": ["pa ye", "杷葉"],
+      "Chinese": ["枇杷葉", "杷葉"],
+      "Pronunciation in Korean": ["pipayop"],
+      "Pronunciation in Japanese": ["piwayo"],
+      "Pronunciation in Cantonese": ["pei4 paa4 jip6"],
+      "Pinyin Pronunciation": ["pi pa ye"]
+    },
+    "Type": "Herb",
+    "Geography": [
+      "Throughout central, eastern, and southern China, especially Guangdong and Jiangsu provinces."
+    ],
+    "Properties": ["Bitter", "Cool"],
+    "Meridians": ["Lung", "Stomach"],
+    "Maladies Treated": [
+      "Lung heat type of cough",
+      "Nausea, vomiting, hiccups, belching due to stomach heat"
+    ],
+    "Medical Function": [
+      "Transforms phlegm; clears lung heat; descends Lung qi; calms the Lungs",
+      "Harmonizes the Stomach; clears Stomach heat; calms the Stomach",
+      "Sedation (ursolic acid)",
+      "Anti-inflammatory (ursolic acid)",
+      "Antibacterial/antibiotic (ursolic acid)",
+      "Anti-ulcer (ursolic acid)",
+      "Lowers blood sugar; anti-diabetes (ursolic acid)",
+      "Antioxidation (ursolic acid)",
+      "Protects liver; anti-hepatitis: rapidly lowers ALT and AST, resolves jaundice, improves appetite, inhibits fibrosis, restores liver function (ursolic acid)",
+      "Anti-cancer/anti-tumor (ursolic acid)",
+      "Antiviral (ursolic acid)",
+      "Lowers blood lipids; anti-atherosclerosis (ursolic acid)",
+      "Inhibits HIV-1 protease (ursolic acid)"
+    ],
+    "Dosage": "Dry leaves: 4.5–12 g; fresh leaves: 15–30 g (daily dosage).",
+    "Samples of Formulae": "",
+    "Contraindications": "Do not use for cough due to externally contracted cold wind in the Lung or for vomiting due to Stomach cold. Ursolic acid (an active ingredient) has a certain degree of toxicity to sperm.",
+    "Research": "The ursolic acid is one of the chemicals of triterpene exist in natural plants. It possesses the effects of sedation, anti-inflammatory, anti-biotic, inhibiting blood sugar, anti-ulcers, lowering blood sugar, and anti-oxidation. Protects liver, anti-hepatitis: ursolic acid can rapidly lower ALT, AST, rid of jaundice, improve appetite, inhibit the forming of fibrosis, and recover the function of the liver. It has the characteristics of getting the healing result fast, shortening of the therapy period, and with stable result. Anti-cancer: Anti-oxidation Antibiotic, anti-inflammatory, antiviral Lowering blood lipids inhibiting HIV Anti-diabetes.\n\nUrsolic acid is a triterpenoid compound present in natural plants, possessing sedation, anti-inflammatory, antibacterial, anti-diabetes, anti-ulcer, lowering blood sugar, and other biological effects; ursolic acid also has an obvious antioxidant function.\n\n1 Hepatoprotective, anti-hepatitis action: Clinically, ursolic acid shows significant and rapid lowering of alanine aminotransferase (ALT) and serum transaminases, resolution of jaundice, increased appetite, anti-fibrosis, and restoration of liver function; it has characteristics of quick effect, short course, and stable results. Saraswat et al. (India) found that ursolic acid (5–20 mg/kg) has a protective effect against CC1-induced hepatotoxicity in rats (animal experiment). Pretreatment with ursolic acid significantly increased the survival rate of rat hepatocytes, and in experiments ursolic acid was observed to have an anti-cholestatic effect, with increases in bile flow and its contents. From the mechanism of action of CC1, it is inferred that the therapeutic mechanism of ursolic acid on damaged hepatocytes may be similar to its isomer oleanolic acid, in protecting and stabilizing the biomembrane systems of hepatocyte membranes and organelles, restoring changes in permeability and active transport functions to normal, thereby restoring the movement and distribution of ions and water inside and outside cells; regenerative capacity is restored in succession, promoting repair of necrotic hepatocytes in the central zone of hepatic lobules. The project “Research and development of a new class I anti-hepatitis traditional Chinese medicine drug ursolic acid and its preparations” achieved major progress, was included in the 2002 National “863” Program, received national scientific research funding of 1 million yuan, and became a national-level major research topic (2002AA2Z3217).\n\n2 Anti-tumor action: Ursolic acid has resistance against multiple carcinogens and tumor promoters. Research found that ursolic acid can significantly inhibit proliferation of HL-60 cells and induce their apoptosis; it can significantly increase the phagocytic function of mouse macrophages (animal experiment); it can inhibit proliferation of the human tongue squamous carcinoma cell line TSCCa, with a half-maximal inhibitory concentration for growth of about 12.5 μmol·L−1, showing a definite dose–effect relationship within 24 h; in situ hybridization showed that the inhibitory effect of ursolic acid on TSCCa cells is related to inhibition of the in situ expression of nuclear transcription factors. In vivo experiments proved that ursolic acid can significantly enhance the body’s immune function (animal experiment), indicating that the anti-tumor effect of ursolic acid is broad and that ursolic acid is very likely to become a low-toxicity, effective new anti-cancer drug. Ursolic acid has preventive and inhibitory effects at various stages of tumor formation and growth, inhibiting tumor formation and growth and inducing differentiation of cancer cells. Li J et al. demonstrated through experiments and clinical trials that ursolic acid can resist DNA mutations, inhibit initiation of carcinogenesis, and counteract carcinogens such as benzo[a]pyrene and aflatoxin B1 in inducing gene mutations. In an early antigen (EBV-EA) activation assay used to screen inhibitors of tumor promoters for skin cancer, Wang Peng found that ursolic acid has an inhibitory effect on TPA-induced EBV-EA activation in Raji cells almost the same as retinoic acid, and it results in higher survival of Raji cells; using the isotopically labeled phorbol ester compound 3H-PDB2, it was demonstrated that ursolic acid does not affect the binding of TPA to its receptor, i.e., it does not act by competing for the TPA site, but effectively blocks the downstream steps after the carcinogen binds to the receptor. Guevara et al. showed that ursolic acid can reduce by 76% the number of micronucleated polychromatic erythrocytes caused by mutagens. Ohigachi et al. showed that ursolic acid has an inhibitory effect on phorbol ester (TPA)-induced Raji cell EBA–EA activation, to a degree almost the same as retinoic acid; the survival rate of Raji cells was higher than the retinoic-acid-treated group; the mechanism is to effectively block downstream steps after TPA binds to its receptor. H...ng et al. found that ursolic acid significantly inhibits the tumor-promoting effect of TPA on DMBA-induced mouse skin cancer (animal experiment); the mechanism is that TPA can induce increased activity of epidermal ornithine decarboxylase (ODC), and ursolic acid can inhibit this step, thereby causing polyamine depletion, growth inhibition, accumulation of cells at an early stage, and differentiation.\n\n3 Antioxidant: Ursolic acid is a relatively strong antioxidant. Experiments show that ursolic acid can inhibit 5-lipoxygenase and cyclooxygenase activity in the metabolism of arachidonic acid, preventing the formation of prostaglandins and leukotrienes; this may be the reason for ursolic acid’s inhibition of inflammatory responses and lipid peroxidation. Subbaramaiah et al. showed that ursolic acid can inhibit transcription of cyclooxygenase in human mammary epithelial cells, thereby also inhibiting prostaglandin formation. The antioxidant effect of ursolic acid has positive effects on anti-aging, removing skin spots, and depigmentation. Among 29 Japanese patents related to ursolic acid from 1983 to 2004, 10 concern the application of ursolic acid in skin beauty and health; as a cosmetic, ursolic acid is stable, with color and odor unchanged over time, and has a very good tactile feel, thus having wide application in skin care products.\n\n4 Antibacterial, anti-inflammatory, and antiviral: Using the acetic acid writhing test and hot plate test, Tapondjou et al. confirmed that ursolic acid and hydroxyursolic acid have similar anti-inflammatory and antibacterial effects. Ursolic acid can respectively inhibit production of superoxide induced by fMLP and by arachidonic acid. When ursolic acid and fMLP were added to cell culture medium, ursolic acid dose-dependently inhibited the 45 kDa protein tyrosine phosphorylation induced by fMLP. Ursolic acid also has trypanocidal activity; after incubation for 2 h at a concentration of 2 g·L−1, the motility of Trypanosoma cruzi flagellates was completely inhibited. Ursolic acid can lead to decreased cell viability. Wang Peng demonstrated that genomic DNA fragmentation induced by ursolic acid indicates that its mechanism of inducing cell death is apoptosis; ursolic acid can inhibit proliferation of human acute promyelocytic leukemia cells (HL-60), with an IC50 of 8.26 μM, and can induce concomitant apoptosis.\n\n5 Effects of lowering blood lipids, anti-atherosclerosis, and lowering blood sugar: Ursolic acid can reduce blood cholesterol (44%) and β-lipoprotein levels (50%) in rabbits and rats (animal experiments), showing lipid-lowering and anti-atherosclerotic effects. Ursolic acid can improve symptoms caused by dyslipidemia, such as liver–kidney yin deficiency, tinnitus, dry mouth, reduced sleep, irritability, limb numbness with fear of cold, and constipation; the total effective rate for lipid lowering was 95%.\n\n6 Inhibition of AIDS virus: The human immunodeficiency virus (HIV) is the causative agent of acquired immunodeficiency syndrome (AIDS). Tian Ying et al., through clinical trials, proved that ursolic acid has a strong inhibitory effect on HIV-1 protease activity, with a 50% inhibitory concentration (IC50) of 8 μmol/L. HIV-1 protease is a homodimeric enzyme; ursolic acid may inhibit the dimerization of HIV-1 protease to inhibit its activity, thereby inhibiting the function of HIV protease. Ursolic acid and its malonic acid derivative can inhibit HIV-1 protease, with IC50 values of 8 and 6 μmol/L, respectively.\n\n7 Anti-diabetes: (heading noted; details not provided in the source segment).",
+    "Notes": "",
+    "Chemical Ingredients": {
+      "Leaves": ["Ursolic acid (熊果酸, 烏蘇酸)"]
+    },
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "pi pa ye, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home 現代中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　    　      　　    　　　　　                                                     pi pa ye 枇杷葉 by: Joe Hing kwok ChuPharmaceutical name:英文藥名﹕folium Eriobotryae japonicaeBotanical name:學名﹕Eriobotrya japonica (Thunb) LindlPron. in Japanese:日語發音﹕piwayoPron. in Korean:韓語發音﹕pipayopPron. in Cantonese::粵音﹕pei4 paa4 jip6Other Names:別名﹕pa ye, 杷葉Common Name:英文名﹕loquat leavesDistribution:產地﹕throughout central, eastern, and southern China, especially Guangdong and Jiangsu provinces.中國之中部，東部，與南部，特別於廣東省與江蘇省。Properties(characteristics)﹕性味﹕bitter, cool.苦，甘。Channels (meridians) entered: 歸經﹕lung, stomach.肺，胃。Medical functions:藥理﹕ The ursolic acid is one of the chemicals of triterpene exist in natural plants. It possesses the effects of sedation, anti-inflammatory, anti-biotic, inhibiting blood sugar, anti-ulcers, lowering blood sugar, and anti-oxidation. Protects liver, anti-hepatitis: ursolic acid can rapidly lower ALT, AST, rid of jaundice, improve appetite, inhibit the forming of fibrosis, and recover the function of the liver. It has the characteristics of getting the healing result fast, shortening of the therapy period, and with stable result. Anti-cancer: Anti-oxidation Antibiotic, anti-inflammatory, antiviral Lowering blood lipids inhibiting HIV Anti-diabetesBelow to be translated:熊果酸是存在於天然植物中的一種三萜類化合物，具有鎮靜、抗炎、抗菌、抗糖尿病、抗潰瘍、降低血糖等多種生物學效應，熊果酸還具有明顯的抗氧化功能。 　　1 保肝，抗肝炎作用 　　熊果酸臨床表現有顯著而迅速降低谷丙轉氨酶、血清轉氨酶、消退黃疽、增進食欲、抗纖維化和恢復肝功能的作用，具有見效快、療程短、效果穩定的特點。 　　印度學者Saraswat等 發現熊果酸(5～20 mg�kg ) 對CC1 引起的大鼠肝毒性有保護作用。用熊果酸作預處理可明顯提高大鼠肝細胞的成活率，並在實驗中觀察到熊果酸具有抗膽汁淤積的作用，膽汁流量及其內容物均有增加。由CC1 的作用機制推測熊果酸對損傷肝細胞的治療作用機制可能與其同分異構體齊墩果酸相似，在於保護和穩定肝細胞膜及細胞器的生物膜系統，使其變動通透及主動運輸功能恢復正常，細胞內外離子和水的移動及分布亦隨之復原，再生能力相繼恢復，促進肝小葉中央區壞死肝細胞修復。 　　�抗肝炎中藥一類新藥烏索酸及其制劑的研究開發�課題取得重大進展，被列入2002年國家�863�計劃，獲國家科研資助經費100萬元，成為國家級重大研究課題（2002AA2Z3217）。 　　2 抗腫瘤作用 　　熊果酸還對多種致癌、促癌物有抵抗作用，研究發現熊果酸能明顯抑制HL－60細胞增殖，並誘導其凋亡；能使小鼠的巨噬細胞吞噬功能顯著提高，能抑制人舌鱗癌細胞株TSCCa 細胞增殖，對TSCCa細胞的半數生長的抑制劑量約為12.5 μmol�L－1，在24h內表現為一定的量效關系；原位雜交顯示熊果酸對TSCCa細胞的抑制作用與抑制核轉錄因子的原位表達有關。。體內試驗証明熊果酸可以明顯增強機體免疫功能。說明熊果酸的抗腫瘤作用廣泛，熊果酸極有可能成為低毒有效的新型抗癌藥物。 　　熊果酸對腫瘤形成生長各階段具有預防和抑制作用，抑制腫瘤形成生長以及誘導癌細胞分化作用。 Li J等通過實驗及臨床試驗証明熊果酸能抗DNA突變、抑制癌變的啟動, 並且熊果酸能對抗致癌物如苯並芘，黃曲霉毒素Bl誘發基因突變。王鵬試驗對早期抗體(EBV-EA)活化試驗型來篩選皮膚癌促癌物的抑制劑，發現熊果酸對 TPA誘導Raji細胞EBV-EA活化具有幾乎同維甲酸相同的抑制作用，並使Raji細胞的存活率更高；利用同位素標記的佛酯化合物3H-PDB2証明熊果酸不影響TPA與受體的結合，不是通過競爭TPA位點，而是有效地阻斷致癌物與受體結合后的環節發揮作用。Guevara等研究顯示熊果酸能使誘變劑所致的多染色質的微核紅細胞數減少76％ 。 Ohigachi等研究結果顯示熊果酸對佛波酯(TPA)誘導 Raji細胞EBA�EA活化有抑制作用，其程度與維甲酸幾乎相同，Raji細胞存活率較經維甲酸處理組要高，其機制是有效阻斷TPA與受體結合后的環節發揮作用。H熊果酸ng等發現熊果酸能明顯抑制TPA對二甲基苯並蒽(DMBA)誘發的小鼠皮膚癌的促癌作用，其機制是TPA能誘導表皮鳥氨酸脫羧酶 (ODC)活性增強，熊果酸能抑制上述環節，從而引起多胺枯竭， 生長受抑制，使細胞積聚在早期，並出現分化。 　　3 抗氧化 　　熊果酸是一個較強的抗氧化劑。有實驗表明熊果酸能抑制花生四烯酸代謝過程中5-脂氧化酶、環氧化酶活性，阻止前列腺素與白三烯生成， 這可能是熊果酸抑制炎症反應、抑制脂質過氧化物的原因。Subbaramaiah等研究表明熊果酸能抑制人乳腺上皮細胞中的環氧化酶的轉錄，也由此抑制前列腺素生成。 　　熊果酸的抗氧化作用對人體的抗衰老、皮膚祛斑、祛色素都有積極作用。日本1983�2004年的有關熊果酸的29篇專利中，有10篇是關於熊果酸的皮膚美容保健方面的應用，作為化妝品，熊果酸性質穩定，顏色和氣味不隨時間改變，而且有很好的觸摸感，因此在美容護膚品中有廣泛的應用。 　　4 抗菌、抗炎及抗病毒 　　Tapondjou等通過醋酸扭體實驗和熱板法實驗証實，熊果酸和羥基熊果酸有類似的抗炎抑菌作用。熊果酸能分別抑制甲酰甲硫氨酰-亮氨酰-苯丙氨酸(fMLP)及花生四烯酸誘導的超氧化物的產生。將熊果酸和fMLP加入細胞培養液中，熊果酸呈劑量依賴性抑制由fMLP誘導的45 ku蛋白酪氨酸磷酸化 。熊果酸還具有殺錐虫活性，在2 g�L 的濃度下孵育2 h后，克氏錐虫鞭毛體的活動被完全抑制 。 　　熊果酸能導致細胞生存能力下降。王鵬証明熊果酸誘導基因組DNA分裂表明其誘導細胞死亡的機理是通過細胞凋亡, 熊果酸能抑制人急性早幼粒白血病細胞(HL-60)的增殖，對HL-60細胞的半數生長的抑制劑量(IC50)為8.26 μm，並能誘導共發生凋亡。 　　5 降血脂、抗動脈粥樣硬化、降低血糖的作用 　　熊果酸可以降低家兔和大鼠血膽固醇(44％)和B- 脂蛋白水平(50％)，具有降血脂、抗動脈粥樣硬化作用 。熊果酸能改善血脂異常引起的肝腎陰虛、耳鳴、口干、少寢、煩躁易怒、肢麻怕冷、便結等症，血脂療效總有效率為 95% 。 　　6 對艾滋病病毒的抑制作用 　　人體免疫缺陷病毒 (HIV)是獲得性免疫缺陷綜合症(AIDS)的致病因子。田英等通過臨床試驗証明熊果酸對HIV-1蛋白酶活性有強的抑制作用，其50%抑制濃度 (IC50)為8 μmol/L。HIV-1蛋白酶是一個同型二聚體酶，熊果酸可能是通過抑制HIV-1蛋白酶的二聚作用來抑制HIV-1蛋白酶的活性，從而抑制HIV蛋白酶發揮作用。 　　熊果酸及其丙二酸衍生物能夠抑制HIV-1蛋白酶，其(IC50)分別為8和 6μmol/L。 　　7 抗糖尿Actions & Indications:主治﹕The herb can transform phlegm, clear lung heat, calm the lungs. It is being used in lung heat type of cough.  It can harmonize the stomach, calm the stomach and being used in nausea, vomiting, hiccups, belchings due the stomach heat.化痰，清肺熱，降肺氣。治肺熱性之咳嗽。和胃，清胃熱。治因胃熱而致之作嘔，嘔吐，打嗝， 噯氣。Chemical ingredients:化學成份﹕contains Ursolic Acid含熊果酸（烏蘇酸）Daly Dosage:每日用量﹕Dry leaves: 4.5 ~ 12 g ; fresh leaves:15 ~ 30 g.乾葉：4.5 ～ 12 g; 鲜品：15 ～ 30 g.Samples of formulae:處方舉例﹕ Modern Research:現代研究﹕ Toxicity & Cautions:毒素與禁忌﹕Not to use in cough due to externally contracted cold wind in the lung or vomiting due to stomach cold. Its ingredient, ursolic aid is toxic to sperms to certain extent.風寒咳嗽或胃寒嘔吐者忌用。其有效成份熊果酸對精子有一定的毒性。 Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告   A manuscript... writing, translating and proofreading  in progressProblems with website? Please Click here for comment. (Not for inquiry )      Click here for inquiry    Copyright Notice 按此看關於 版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some Herbs Side Effect of Some Herbs Herbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeTerms of Traditional Chinese MedicineAcupuncturecopy right 版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesLecture SlidesResearch LibrarianSearchQigong classesHomeWeather Report DisclaimerLast update: Nov 26, 2009,  11:37 p.m. LAH　Search this site         ",
+    "original_url": "http://alternativehealing.org/pi_pa_ye.htm"
+  },
+  {
+    "Names": {
+      "Name": ["mao gen", "bai mao gen"],
+      "Pharmaceutical": ["Rhizonma imperatae cylindricae"],
+      "Biological": [
+        "Imperata cylindrica (L.) P. Beauv.var. major (Nees) c. E. Hubb.",
+        "Agropyrum repens P. Beauv. (ou mao gen 歐 茅 根 )"
+      ],
+      "Chemical": [],
+      "Common": ["imperata", "rhizome of wooly grass"],
+      "Other name": [""],
+      "Chinese": ["茅根", "白茅根"],
+      "Pronunciation in Korean": ["mogun", "pakmogun"],
+      "Pronunciation in Japanese": ["bokon"],
+      "Pronunciation in Cantonese": ["maau4 gan1", "baak6 maau4 gan1"],
+      "Pinyin Pronunciation": []
+    },
+    "Type": "Herb",
+    "Geography": ["China", "Southeast Asia"],
+    "Properties": ["sweet", "cold"],
+    "Meridians": ["lung", "stomach", "small intestine", "bladder"],
+    "Maladies Treated": [
+      "hemorrhagic fever",
+      "Cancer of the digestive track",
+      "periodontitis"
+    ],
+    "Medical Function": [
+      "cools the blood and stops bleeding",
+      "quells heat",
+      "promotes urination",
+      "clears heat from stomach and lungs",
+      "anti bacteria and anti virus",
+      "promotes urination, especially during 5~10 days while taking the herb. It can be due to the potassium salt in the herb."
+    ],
+    "Dosage": "9 to 24 g. Using by itself, up to 60 g.",
+    "Samples of Formulae": "For hemorrhagic fever:\nFormula 1: Composition: Bai Mao Gen (Rhizome of wooly grass), Da Huang (Rhubarb), Mang Xiao (Mirabilite / Glauber's salt), Zhi Shi (Immature bitter orange), Tao Ren (Peach kernel), Sheng Di Huang (Raw rehmannia root), Mai Dong (Ophiopogon tuber), Mu Tong (Akebia stem).\n\nFormula 2: Composition: Bai Mao Gen (Rhizome of wooly grass) 150 g, Dan Shen (Salvia miltiorrhiza root) 20 g, Lu Gen (Reed rhizome) 30 g, Huang Bai (Phellodendron bark) 10 g, Pei Lan (Eupatorium) 15 g, Dan Pi (Moutan cortex) 10 g. Adjust the formula according to the syndrome.\n\nFor Cancer of the digestive track: Composition: Bai Mao Gen (Rhizome of wooly grass) 10 g, Bai Hua She She Cao (Hedyotis diffusa) 12 g, Ban Zhi Lian (Scutellaria barbata) 10 g. Boil with water. Use as tea.\n\nFor periodontitis: click here for formula.",
+    "Contraindications": "Not to use in cases of pixu (spleen deficient) or shenyangxu (kidney yang deficient) conditions. Use care if blood pressure is low because of its diuretic effect.",
+    "Research": "",
+    "Notes": "",
+    "Chemical Ingredients": {
+      "Rhizome": [
+        "glucose 6.8%",
+        "cane sugar",
+        "fructose",
+        "starch 21%",
+        "potassium salt",
+        "oxalic acid",
+        "carotene",
+        "vitamins",
+        "anemonin"
+      ]
+    },
+    "References": [],
+    "Further Reading": [],
+    "Original Text": "mao gen, bai mao gen, Complementary and Alternative Healing UniversityComplementary and Alternative Healing University  Home  現代 中藥辭典Search this siteList of Health ProblemsChinese Herb DictionaryQigongTraditional Chinese Medicine (TCM)AcupuncturePrescribed Drug DictionaryBiochemistry DictionaryLecture SlidesResearch LibrarianGeneral Online LibrarySearchResearch SitesViagraMassage/AcupressureHypnotherapyTell us what you wantNotify Changes & New Information　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　mao gen 茅根bai mao gen 白茅根By: Joe Hing Kwok Chu　Pharmaceutical name:英 文 藥 名 ﹕Rhizonma imperatae cylindricaeBiological name:拉 丁 名 ﹕Imperata cylindrica (L.) P. Beauv.var. major (Nees) c. E. Hubb.Agropyrum repens P. Beauv. (ou mao gen 歐 茅 根 )Pron. in Japanese:日 語 發 音 ﹕bokonPron. in Korean:韓 語 發 音 ﹕mogun, pakmogunPron. in Cantonese:粵 語 發 音 ﹕maau4 gan1; baak6 maau4 gan1Common Name:英 文 名 ﹕imperata, rhizome of wooly grassDistribution:分 佈 ﹕throughout china and Southeast Asia全 中 國 與 東 南 亞 。Properties (characteristics)﹕性 味 ﹕sweet, cold甘 ﹐ 寒 。Channels (meridians) entered:歸 經 ﹕lung, stomach, small intestine, bladder肺 ﹐ 胃 ﹐ 小 腸 ﹐ 膀 胱 。Actions & Indications:主 治 ﹕cools the blood and stops bleeding; quells heat and promotes urination, clears heat from stomach and lungs涼 血 ﹐ 止 血 ﹐ 退 燒  ﹐ 利 尿 ﹐ 清 肺 熱 ﹐ 清 胃 熱 。Medical Function:藥 理 ﹕(1). stops bleeding (2). anti bacteria and anti virus. (3). promotes urination, especially during 5~10 days while taking the herb. It can be due to the potassium salt in the herb.Chemical ingredients:化 學 成 份 ﹕glucose 6.8%; cane sugar, fructose, and starch 21%, potassium salt, oxalic acid, carotene, vitamins, and anemonin.Dosage:用 量 ﹕9 to 24 g. Using by itself, up to 60 g.Samples of formulae:處 方 舉 例 ﹕For hemorrhagic fever:Formula 1:  bai mao gen, da huang , mang xiao, zhi shi  tao ren , sheng di huang , mai dong ,  mu tong  Fornula 2:  bai mao gen 150 g, dan shen 20 g, lu gen 30 g, huang bai 10 g, pei lan 15 g, dan pi 10 g. Adjust the formula according to the syndrome.出 血 性 熱 病 :處 方 一 ﹕ 白 茅 根 , 大黃 , 芒 硝, 枳 實   桃仁,  生地黃,  麥 冬 ,   木 通. 處 方 二 ﹕ 白 茅 根 150 g,  丹 參   20 g, 蘆根 30 g, 黃 柏  10 g, 佩蘭 15 g,  丹皮 10 g.　For Cancer of the digestive track:bai mao gen 10 g, bai hua she she cao白花蛇舌草  12 g, ban zhi lian半枝蓮 10 g. Boil with water. Use as tea.For periodontitis: click here for formula.Modern Research:to be uploadedCautions:禁忌：Not to use in cases of pixu (spleen deficient) or shenyangxu (kidney yang deficient) conditions.Use care if blood pressure is low because of its diuretic effect.有腎陽虛 或 脾虛 症狀者忌用。　Back to the Chinese Herb Dictionary main page.Sponsors' Ads by Google 以下為谷歌所提供贊助者之廣告 　A manuscript... writing, translating and proofreading              in progressClick here for comment. (Not for inquiry )                Click here for inquiry  　Copyright Notice 按此看關於版權問題List of Health ProblemsChinese Herb DictionaryToxicity of Some HerbsSide Effect of Some HerbsHerbs that can be toxic to kidneysTraditional Chinese MedicineTCM DiagnosisSamples of FormulaeAcupuncturecopy right　版權所有Qigong (chi kung)Prescribed Drug DictionaryEmail our web master for  your suggestion (not for inquiry)Biochemistry DictionaryGeneral Online LibraryQigong classesFake Email WarningResearch LibrarianSearchQigong classesHomeWeather Report    Disclaimer   Last update: Jan 6, 2009; 11:38 a.m. LAH  ",
+    "original_url": "http://alternativehealing.org/mao_gen.htm"
+  }
+]

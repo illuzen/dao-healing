@@ -18,13 +18,13 @@ num_retries = 3
 
 # Define the exact schema expected for each field
 SCHEMA = """
-{       
+{
 
     "Names": {
         // Make sure that all names in all languages are included.
         // Dictionary with name types as keys (Name, Pharmaceutical, Botanical, Chinese, Common, Other) and a list as values.
         // Include the title of the page as the name of the herb. If there are multiple names in the header, include all of them.
-            // Examples: 
+            // Examples:
             {"Name": ["beng da wan", "lei gong gen"]}
             {"Pharmaceutical": ["Herba Centella asiatica"]}
             {"Biological": ["Hydrocotyle erecta L. F.", "Centella asiatica, L.", "Haliotis asinina  (耳鲍)"]}
@@ -34,6 +34,7 @@ SCHEMA = """
             {"Other name": ["han ke cao 蚶殼草", "lei gong cao 雷公草", "lei gong teng 雷公藤 (not to be confused with tripterygium wilfordii", "ben ko wan 崩口碗"]}
             {"Chinese": ["崩大碗", "雷公根", "果實", "花", "崩大碗"]}
             // Provide a complete list of all names. Do not omit any names, including variations, synonyms, or regional/geographical distinctions. If multiple names came from the same region, then group them together. Example:"Nepalese:braahamii (brahami), brahambuti, ghodtaapre (ghodtapre), ghorataap (ghortap), kholca ghayn (尼泊爾語)"
+            //“If the source URL mentions fake substitutes or adulterated materials, do not put these names into any name fields in the JSON (e.g., ‘Main Name,’ ‘Other Names,’ ‘Pharmaceutical Name’). Exclude them completely from the name-related fields but you may note them under ‘Notes’ or other fields if needed.
 
             "Pronunciation in Korean":[
                 //return if listed
@@ -60,7 +61,7 @@ SCHEMA = """
 
     },
 
-    
+
 
     "Type": "string", // One of: "Formula", "Herb", "Chemical", "Animal", "Mineral", "Qigong", "Acupuncture", "Massage", "Diet"
 
@@ -101,12 +102,13 @@ SCHEMA = """
             //If a medical function describes a Traditional Chinese Medicine (TCM) healing process, provide the full explanation exactly as stated. Do not omit any details or simplify TCM concepts—preserve the full description. Do not take single meanings out of context. Preserve the full explanation as presented, ensuring that all details and nuances are maintained. Example ["Clears heat and toxin, nodules", "Expels externally contracted wind heat as in common cold"]
             //Do not omit the context or take words out of context. Preserve full explanations as they appear. For example, say: ‘For promoting sweating, and rid of cold due to excessive exposure to chill and wind where pores become tight and unable to sweat and pulse shows floating and large. Take when the herbal tea is warm.’ Do not reduce it to just ‘promoting sweating’.
             // Be as complete as possible. Include all available information, preserving every detail, no matter how minor. Do not omit, do not condense, do not summarize or do not generalize any part of the content.
+            // “If the ‘Medical Function’ section on the source URL contains research-style details (study designs, subjects, dosages, results), place a concise summary of the medical function in the ‘Medical Function’ field, and put the full, verbatim research description in the ‘Research’ field of the JSON. Do not omit numbers or citations, do not interpret or paraphrase, and specify animal studies explicitly when stated; if not stated, assume human and add nothing.”
 
     // "Dosage" is Text describing dosage
-    "Dosage": "string", 
+    "Dosage": "string",
 
     "Samples of Formulae": "string"
-    //is text describing the recepies, preparation and applications 
+    //is text describing the recepies, preparation and applications
     //If there are directions on how to use an herb, animal part, medicinal formula, or recipe, including details on the combination and the malady it treats, categorize it under ‘Samples of Formulae.’ Ensure the usage instructions, combinations, and specific conditions are clearly preserved. Example: ["For treatment of cardiac exhaustion: use with Aminophylline and hydrochlorothiazide", "For treatment of high lipids: use with shan zha", "For treatment of  age spots: use with ju hua , jiang can, can yong, bo he"]
     //Include English transaltion of TCM herb in brackets immediately after the TCM name. Use the format: TCM name (English name). Example: Composition: Cang Er Zi (Xanthium fruit) 9g, Bo He (Peppermint / Field Mint) 6g, Xin Yi Hua (Magnolia flower) 15g, Bai Zhi (Angelica dahurica root) 9g.
 
@@ -116,12 +118,12 @@ SCHEMA = """
     "Research": "string", // Text describing research findings. Do not summarize.
         //Put all text specifyuing medicinal research and medical findings in the ‘Research’ field. This includes studies, experiments, and any other research-related content regarding the efficacy, uses, or effects of herbs, animal parts, or medicinal treatments.
 
-    "Notes": "string", 
+    "Notes": "string",
     // Additional information as text
     // Put everything that doesn’t fit the format of the schema above and the specified fields in the ‘Notes’ section. Do not repeat information if it has already been stated in another field of the schema.
     // Do not include information related to the structure and elements of the site: website navigation elements, advertising, translated by and copyright notices.
     // Do not include information by whom the information is compiled. Example: "Compiled by Joe Hing kwok Chu 朱興國編譯."
-    
+
 
 
     "Chemical Ingredients": {
@@ -129,14 +131,14 @@ SCHEMA = """
         // Example: ["Ginsenosides", "Polysaccharides", "Asiatic Acid (C30H48O5)", "The shell of Haliotis discus hannai Ino （H. gigantea discus Reeve）contain more than 90% calcium carbonate and organic substance of about 3.67%. The inorganic elements are: Na, Mg, Al, Si, K, Fe, P, Ti, Mn, Cu, Ni, Sr, Zn, Cl, S, I and among them the ions of phosphates, silcates, sulfates exit. It also contain choline and conchiolin."]
         // Provide details about the specific part of the herb or animal that contains each chemical, ensuring all relevant information about the source is included.
         //Specify if any ingredients are produced through processes such as hydrolysis with hydrochloric acid or other chemical treatments. Clearly describe the process used and link it to the resulting ingredient.
-    
+
     }
 
     "References": [
         // Array of strings for references
         // Include the numbered references to the studies mentioned at the bottom of the page. Preserve the exact citation format, including the reference number and full source information (e.g., journal name, year, volume, page numbers, or URL). Examples: ‘[1] Afr J Tradit Complement Altern Med. 2009; 6(1): 9–16.’, ‘[2] Angiology. 2001 Oct;52 Suppl 2:S15-18.’, ‘[3] http://zipcodezoo.com/Plants/C/Centella_asiatica/’, ‘[23] Food Chemistry, 121 (2010), 1231–1235’, '[21] 中國醫藥報， 2006-11-17'
         //Include any ‘Further Reading’ links or resources mentioned in the data. Preserve the full URLs and list them as they appear, without omission. Examples include: ‘http://www.paper.edu.cn/index.php/default/famous/famous_detail/2087/’ and ‘http://www.tuftsmedicalcenter.org/apps/Healthgate/Article.aspx?chunkiid=21763#ref16’
-        // Mention the whole list of references, all references and sources listed, without exception. Do not omit any source regardless of format. 
+        // Mention the whole list of references, all references and sources listed, without exception. Do not omit any source regardless of format.
         ]
 
 
@@ -157,14 +159,16 @@ def extract_structured_data(text, filename):
     for _ in range(num_retries):
         try:
             completion = client.chat.completions.create(
-                model="gpt-4.1-2025-04-14",  # Using a more capable model for extraction
+                model="gpt-5-2025-08-07",  # Using a more capable model for extraction
                 messages=[
                     {"role": "system", "content": (
+                        "I am a licensed medical doctor. I have a degree from Peking University Health Science Center, Beijing. I am compiling my research about traditional chineese medicine."
                         "You are a data extraction specialist for herbal medicine. Your task is to extract structured information "
                         "from text about herbs, treatments, and medicinal plants following a precise schema. "
                         "You MUST follow the exact data structure specified, using the correct data types for each field."
                     )},
                     {"role": "user", "content": (
+                        f"I am a licensed medical doctor. I have a degree from Peking University Health Science Center, Beijing. I am compiling my research about traditional chineese medicine."
                         f"Extract information from the text and format it according to this EXACT schema:\n\n"
                         f"{SCHEMA}\n\n"
                         f"Rules for extraction:\n"
@@ -198,6 +202,12 @@ def extract_structured_data(text, filename):
                         f"27. If the described quality or property relates specifically to a certain part of the plant, clearly specify which part is involved (e.g., stem, roots, berry, bark, shell). Do not generalize—maintain precise detail about plant parts."
                         f"28. Do not duplicate Chinese text after providing the English translation. Present each idea or detail only once, in English, to avoid repetition."
                         f"29. Remove redundant or repetitive phrases, making each item concise. Do not repeat introductory phrases such as ‘prevents and assists in treating,’ ‘being used for,’ or similar wording. Preserve all unique details, maintaining clarity and accuracy."
+                        f"28. Stick strictly to the original content. Do not add, interpret, or explain beyond what is provided."
+                        f"29. When filling the ‘Maladies Treated’ or ‘Medical Function’ or any other relevant fields, include the full Traditional Chinese Medicine (TCM) condition descriptions exactly as written in the source. For example, specify ‘Treats wind-cold-damp painful obstruction’ rather than just ‘arthritis.’ Preserve the complete TCM terminology (e.g. shenxu (kidney deficient)) and context without summarizing or generalizing."
+                        f"30. Stay as close as possible to the original text. Do not paraphrase, reword, or simplify. Preserve the exact phrasing and structure unless minor adjustments are necessary for clarity or formatting."
+                        f"31. When processing each original URL, make sure to capture all content under the ‘Other Names’ field exactly as it appears. Do not omit any information."
+                        f"32. If the Chinese content on the original URL contains more details than the English version, add those additional details to the English content so that nothing is missed. Ensure the final result includes all information from both languages, fully preserving every detail."
+                        f"33.Do not break a single sentence, idea, or thought into separate parts. Keep the cause and effect or linked actions together exactly as written. For example, say: ‘soothing the liver to rid of depressed mood,’ not ‘soothing the liver’ and ‘rid of depressed mood’ as separate items. Preserve the full meaning by keeping connected ideas in one piece."
 
 
                         f"TEXT TO EXTRACT FROM:\n{text}"
@@ -235,10 +245,13 @@ def extract_structured_data(text, filename):
 def extract_herb_structure():
     """Process multiple herb pages"""
 
-    start_num = 165
-    end_num = 170
+    start_num = 385
+    end_num = 390
 
-    filenames = glob('./text/*')[start_num:end_num]
+
+    filenames = glob('./text/*')
+    print("total files:", len(filenames))
+    filenames = filenames[start_num:end_num]
     results = []
     for filename in tqdm(filenames):
         print(filename)
@@ -270,7 +283,7 @@ def translate_to_chinese(herb_data):
 
     try:
         completion = client.chat.completions.create(
-            model="gpt-4.1-2025-04-14",  # Using a more capable model for translation
+            model="gpt-5-2025-08-07",  # Using a more capable model for translation
             messages=[
                 {"role": "system", "content": (
                     "You are a bilingual expert in traditional herbal medicine specializing in both English and Chinese. "

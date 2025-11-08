@@ -15,7 +15,11 @@ import {
   ImageList,
   ImageListItem,
   Link,
+  Button,
+  IconButton,
 } from "@mui/material";
+import ArrowBackIcon from "@mui/icons-material/ArrowBack";
+import { useNavigate } from "react-router-dom";
 
 const HerbProperty = ({ title, content }) => (
   <Box mb={4}>
@@ -32,6 +36,8 @@ const HerbProperty = ({ title, content }) => (
 );
 
 const HerbDetail = ({ herb }) => {
+  const navigate = useNavigate();
+
   if (!herb) {
     return (
       <Container>
@@ -350,6 +356,16 @@ const HerbDetail = ({ herb }) => {
 
   return (
     <Paper elevation={0}>
+      <Box sx={{ mb: 3 }}>
+        <Button
+          startIcon={<ArrowBackIcon />}
+          onClick={() => navigate('/')}
+          variant="outlined"
+          sx={{ mb: 2 }}
+        >
+          Back to Herbs
+        </Button>
+      </Box>
       {/*<ImageList cols={3} gap={8}>*/}
       {/*    {herb["Image Links"].split(',').map((url, index) => (*/}
       {/*    <ImageListItem key={index}>*/}

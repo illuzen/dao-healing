@@ -6,7 +6,7 @@ import {
   Link,
   useLocation,
 } from "react-router-dom";
-import { Container, List, ListItem } from "@mui/material";
+import { Container, Grid, Card, CardContent, Typography, Chip, Box } from "@mui/material";
 
 import Search from "./Search.jsx";
 import HerbDetail from "./HerbDetail.jsx";
@@ -17,7 +17,7 @@ const App = () => {
     <Router>
       <Container>
         <div className="App">
-          <h1>Chinese Herbs</h1>
+          <h1>Chinese Herbs Library</h1>
           <TSVParser />
         </div>
       </Container>
@@ -71,21 +71,137 @@ const TSVParser = () => {
 
 const getHerbList = (data) => {
   return (
-    <List>
-      {data.map((herb, index) => {
-        const name = getHerbDisplayName(herb);
-        // console.log({index, herb, name})
-        if (name) {
-          return (
-            <ListItem key={name + index}>
-              <Link to={`/herb/${name}`}>{name}</Link>
-            </ListItem>
-          );
-        } else {
-          return <div></div>;
-        }
-      })}
-    </List>
+    <Container maxWidth="lg" sx={{ py: 4 }}>
+      <Grid container spacing={3}>
+        {data.map((herb, index) => {
+          const name = getHerbDisplayName(herb);
+          if (name) {
+            return (
+              <Grid item xs={12} sm={6} md={4} key={name + index}>
+                <Card 
+                  component={Link} 
+                  to={`/herb/${name}`}
+                  sx={{ 
+                    height: 320,
+                    display: 'flex',
+                    flexDirection: 'column',
+                    textDecoration: 'none',
+                    transition: 'all 0.3s ease',
+                    '&:hover': {
+                      transform: 'translateY(-4px)',
+                      boxShadow: 3
+                    }
+                  }}
+                >
+                  <CardContent sx={{ flexGrow: 1, p: 2, overflow: 'hidden' }}>
+                    <Box sx={{ mx: 1, my: 2, mb: 4 }}>
+                      <Typography 
+                        variant="h5" 
+                        component="h2" 
+                        gutterBottom 
+                        sx={{ 
+                          fontWeight: 'bold',
+                          textTransform: 'capitalize',
+                          color: 'primary.main',
+                          mb: 2,
+                          overflow: 'hidden',
+                          textOverflow: 'ellipsis',
+                          whiteSpace: 'nowrap'
+                        }}
+                      >
+                        {name}
+                      </Typography>
+                      
+                      {herb?.Properties && herb.Properties.length > 0 && (
+                        <Box sx={{ mb: 1, display: 'flex', flexWrap: 'wrap', gap: 0.5 }}>
+                          {herb.Properties.slice(0, 3).map((property, idx) => (
+                            <Chip 
+                              key={idx}
+                              label={property} 
+                              size="small" 
+                              color="primary"
+                              variant="outlined"
+                            />
+                          ))}
+                        </Box>
+                      )}
+                      
+                      {herb?.Meridians && herb.Meridians.length > 0 && (
+                        <Box sx={{ mb: 2, display: 'flex', flexWrap: 'wrap', gap: 0.5 }}>
+                          {herb.Meridians.slice(0, 2).map((meridian, idx) => (
+                            <Chip 
+                              key={idx}
+                              label={meridian} 
+                              size="small" 
+                              color="secondary"
+                            />
+                          ))}
+                        </Box>
+                      )}
+                      
+                      {herb?.Names?.Chinese && herb.Names.Chinese.length > 0 && (
+                        <Typography 
+                          variant="body2" 
+                          color="text.secondary"
+                          sx={{
+                            overflow: 'hidden',
+                            textOverflow: 'ellipsis',
+                            whiteSpace: 'nowrap',
+                            mb: 1
+                          }}
+                        >
+                          {herb.Names.Chinese[0]}
+                        </Typography>
+                      )}
+                      
+                      {herb?.Names?.Biological && herb.Names.Biological.length > 0 && (
+                        <Typography 
+                          variant="body2" 
+                          color="text.secondary"
+                          sx={{
+                            overflow: 'hidden',
+                            textOverflow: 'ellipsis',
+                            whiteSpace: 'nowrap',
+                            fontStyle: 'italic',
+                            mb: 2
+                          }}
+                        >
+                          {herb.Names.Biological[0]}
+                        </Typography>
+                      )}
+                      
+                      {herb?.["Maladies Treated"] && herb["Maladies Treated"].length > 0 && (
+                        <Box>
+                          <Typography variant="subtitle2" color="text.secondary" gutterBottom>
+                            Used for:
+                          </Typography>
+                          <Typography 
+                            variant="body2" 
+                            color="text.secondary"
+                            sx={{
+                              display: '-webkit-box',
+                              WebkitLineClamp: 3,
+                              WebkitBoxOrient: 'vertical',
+                              overflow: 'hidden',
+                              textOverflow: 'ellipsis',
+                              lineHeight: 1.4
+                            }}
+                          >
+                            {herb["Maladies Treated"].slice(0, 3).join(', ')}
+                          </Typography>
+                        </Box>
+                      )}
+                    </Box>
+                  </CardContent>
+                </Card>
+              </Grid>
+            );
+          } else {
+            return null;
+          }
+        })}
+      </Grid>
+    </Container>
   );
 };
 

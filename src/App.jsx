@@ -6,7 +6,7 @@ import {
   Link,
   useLocation,
 } from "react-router-dom";
-import { Container, Grid, Card, CardContent, Typography, Chip, Box } from "@mui/material";
+import { Container, Grid, Card, CardContent, Typography, Chip, Box, AppBar, Toolbar } from "@mui/material";
 
 import Search from "./Search.jsx";
 import HerbDetail from "./HerbDetail.jsx";
@@ -17,7 +17,21 @@ const App = () => {
     <Router>
       <Container>
         <div className="App">
-          <h1>Chinese Herbs Library</h1>
+          <Box sx={{ textAlign: 'center', mb: 4 }}>
+            <img 
+              src="/dragon.avif" 
+              alt="Dragon Logo" 
+              style={{ 
+                height: '80px', 
+                width: 'auto', 
+                marginBottom: '16px' 
+              }} 
+            />
+            <Typography variant="h3" component="h1" gutterBottom sx={{ fontWeight: 'bold', color: 'black' }}>
+              Chinese Herb Library
+            </Typography>
+          </Box>
+
           <TSVParser />
         </div>
       </Container>
@@ -102,7 +116,7 @@ const getHerbList = (data) => {
                         sx={{ 
                           fontWeight: 'bold',
                           textTransform: 'capitalize',
-                          color: 'primary.main',
+                          color: 'black',
                           mb: 2,
                           overflow: 'hidden',
                           textOverflow: 'ellipsis',
@@ -119,8 +133,7 @@ const getHerbList = (data) => {
                               key={idx}
                               label={property} 
                               size="small" 
-                              color="primary"
-                              variant="outlined"
+                              sx={{ backgroundColor: '#850206', color: 'white' }}
                             />
                           ))}
                         </Box>
@@ -133,7 +146,7 @@ const getHerbList = (data) => {
                               key={idx}
                               label={meridian} 
                               size="small" 
-                              color="secondary"
+                              sx={{ backgroundColor: '#fbaf2b', color: 'white' }}
                             />
                           ))}
                         </Box>

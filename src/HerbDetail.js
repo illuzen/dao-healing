@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import {
   Container,
   Typography,
@@ -14,57 +14,311 @@ import {
   TableRow,
   ImageList,
   ImageListItem,
-  Link
-} from '@mui/material';
+  Link,
+} from "@mui/material";
 
 const HerbProperty = ({ title, content }) => (
-    <Box mb={4}>
-      <Typography variant="h5" gutterBottom>
-        {title}
-      </Typography>
-      <hr />
-      <Typography variant="body1">
-        {content}
-      </Typography>
-    </Box>
-  );
+  <Box mb={4}>
+    <Typography variant="h5" gutterBottom>
+      {title}
+    </Typography>
+    <hr />
+    {typeof content === 'object' && content !== null ? (
+      content
+    ) : (
+      <Typography variant="body1">{content}</Typography>
+    )}
+  </Box>
+);
 
 const HerbDetail = ({ herb }) => {
   if (!herb) {
     return (
       <Container>
-        <Typography variant="h5" color="error">Herb not found</Typography>
+        <Typography variant="h5" color="error">
+          Herb not found
+        </Typography>
       </Container>
     );
   }
 
   const languageNames = {
-    "Name": herb["Name"],
-    "Cantonese": herb["Cantonese - 粵語發音"],
-    "Pharmaceutical": herb["Pharmaceutical Name - 英文药名"],
-    "Latin": herb["Latin Name - 拉丁名"],
-    "Japanese": herb["Japanese Name - 日語"],
-    "Korean": herb["Korean Name - 韓語"],
-    "Other Name": herb["Other Name - 別名"],
-    "Common Name": herb["Common Name - 英文名"]
+    Name: herb?.Names?.Name?.join(", ") || "N/A",
+    Pharmaceutical: herb?.Names?.Pharmaceutical?.join(", ") || "N/A",
+    Biological: herb?.Names?.Biological?.join(", ") || "N/A",
+    Common: herb?.Names?.Common?.join(", ") || "N/A",
+    Other: herb?.Names?.["Other name"]?.join(", ") || "N/A",
+    Chinese: herb?.Names?.Chinese?.join(", ") || "N/A",
+    Korean: herb?.Names?.["Pronunciation in Korean"]?.join(", ") || "N/A",
+    Japanese: herb?.Names?.["Pronunciation in Japanese"]?.join(", ") || "N/A",
+    Cantonese: herb?.Names?.["Pronunciation in Cantonese"]?.join(", ") || "N/A",
   };
 
   const detailProperties = [
-    { title: "Distribution", content: herb["Distribution - 分佈"] },
-    { title: "Properties & Characteristics", content: herb["Properties / Characteristics - 性味"] },
-    { title: "Meridians Entered", content: herb["Meridians Entered - 歸經"] },
-    { title: "Actions & Indications", content: herb["Actions & Indications - 主治"] },
-    { title: "Medical Function", content: herb["Medical Function - 藥理"] },
-    { title: "Chemical Ingredients", content: herb["Chemical Ingredients - 化學成份"] },
-    { title: "Daily Dosage", content: herb["Daily Dosage - 每日用量"] },
-    { title: "Contraindications & Toxicity", content: herb["Contraindications / Toxicity - 毒素與禁忌"] },
-    { title: "Modern Application", content: herb["Modern Application - 現代應用"] },
-    { title: "Samples of Formulae", content: herb["Samples of Formulae - 處方舉例"] },
-    { title: "Note", content: herb["Note - 註"] },
+    { title: "Type", content: herb?.Type || "N/A" },
+    {
+      title: "Geography",
+      content: formatGeography(herb?.Geography),
+      isComponent: true,
+    },
+    {
+      title: "Properties",
+      content: formatProperties(herb?.Properties),
+      isComponent: true,
+    },
+    {
+      title: "Meridians",
+      content: formatMeridians(herb?.Meridians),
+      isComponent: true,
+    },
+    {
+      title: "Maladies Treated",
+      content: formatMaladiesTreated(herb?.["Maladies Treated"]),
+      isComponent: true,
+    },
+    {
+      title: "Medical Function",
+      content: formatMedicalFunction(herb?.["Medical Function"]),
+      isComponent: true,
+    },
+    {
+      title: "Chemical Ingredients",
+      content: formatChemicalIngredients(herb?.["Chemical Ingredients"]),
+      isComponent: true,
+    },
+    { title: "Dosage", content: herb?.Dosage || "N/A" },
+    {
+      title: "Samples of Formulae",
+      content: herb?.["Samples of Formulae"] || "N/A",
+    },
+    { title: "Contraindications", content: herb?.Contraindications || "N/A" },
+    { title: "Research", content: herb?.Research || "N/A" },
+    { title: "Notes", content: herb?.Notes || "N/A" },
   ];
 
+  function formatChemicalIngredients(ingredients) {
+    if (!ingredients) return "N/A";
+    if (typeof ingredients === "string") return ingredients;
+    if (Array.isArray(ingredients)) {
+      return (
+        <div>
+          {ingredients.map((ingredient, index) => (
+            <div key={index} style={{ marginBottom: "8px" }}>
+              {ingredient}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    if (typeof ingredients === "object") {
+      return (
+        <div>
+          {Object.entries(ingredients).map(([category, items], index) => (
+            <div key={index} style={{ marginBottom: "16px" }}>
+              <Typography variant="h6" style={{ fontWeight: "bold", marginBottom: "8px" }}>
+                {category}:
+              </Typography>
+              <div style={{ paddingLeft: "16px" }}>
+                {Array.isArray(items) ? (
+                  items.map((item, itemIndex) => (
+                    <div key={itemIndex} style={{ marginBottom: "4px" }}>
+                      • {item}
+                    </div>
+                  ))
+                ) : (
+                  <div>• {items}</div>
+                )}
+              </div>
+            </div>
+          ))}
+        </div>
+      );
+    }
+    return "N/A";
+  }
+
+  function formatMedicalFunction(medicalFunction) {
+    if (!medicalFunction) return "N/A";
+    if (typeof medicalFunction === "string") {
+      // Split by common delimiters and create a list
+      const functions = medicalFunction
+        .split(/[,;]\s*/)
+        .filter(item => item.trim().length > 0);
+      
+      if (functions.length <= 1) {
+        return <div>• {medicalFunction}</div>;
+      }
+      
+      return (
+        <div>
+          {functions.map((func, index) => (
+            <div key={index} style={{ marginBottom: "4px" }}>
+              • {func.trim()}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    if (Array.isArray(medicalFunction)) {
+      return (
+        <div>
+          {medicalFunction.map((func, index) => (
+            <div key={index} style={{ marginBottom: "4px" }}>
+              • {func}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    return "N/A";
+  }
+
+  function formatMaladiesTreated(maladies) {
+    if (!maladies) return "N/A";
+    if (typeof maladies === "string") {
+      // Split by common delimiters and create a list
+      const maladiesList = maladies
+        .split(/[,;]\s*/)
+        .filter(item => item.trim().length > 0);
+      
+      if (maladiesList.length <= 1) {
+        return <div>• {maladies}</div>;
+      }
+      
+      return (
+        <div>
+          {maladiesList.map((malady, index) => (
+            <div key={index} style={{ marginBottom: "4px" }}>
+              • {malady.trim()}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    if (Array.isArray(maladies)) {
+      return (
+        <div>
+          {maladies.map((malady, index) => (
+            <div key={index} style={{ marginBottom: "4px" }}>
+              • {malady}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    return "N/A";
+  }
+
+  function formatGeography(geography) {
+    if (!geography) return "N/A";
+    if (typeof geography === "string") {
+      // Split by common delimiters and create a list
+      const locations = geography
+        .split(/[,;]\s*/)
+        .filter(item => item.trim().length > 0);
+      
+      if (locations.length <= 1) {
+        return <div>• {geography}</div>;
+      }
+      
+      return (
+        <div>
+          {locations.map((location, index) => (
+            <div key={index} style={{ marginBottom: "4px" }}>
+              • {location.trim()}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    if (Array.isArray(geography)) {
+      return (
+        <div>
+          {geography.map((location, index) => (
+            <div key={index} style={{ marginBottom: "4px" }}>
+              • {location}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    return "N/A";
+  }
+
+  function formatProperties(properties) {
+    if (!properties) return "N/A";
+    if (typeof properties === "string") {
+      // Split by common delimiters and create a list
+      const propsList = properties
+        .split(/[,;]\s*/)
+        .filter(item => item.trim().length > 0);
+      
+      if (propsList.length <= 1) {
+        return <div>• {properties}</div>;
+      }
+      
+      return (
+        <div>
+          {propsList.map((prop, index) => (
+            <div key={index} style={{ marginBottom: "4px" }}>
+              • {prop.trim()}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    if (Array.isArray(properties)) {
+      return (
+        <div>
+          {properties.map((prop, index) => (
+            <div key={index} style={{ marginBottom: "4px" }}>
+              • {prop}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    return "N/A";
+  }
+
+  function formatMeridians(meridians) {
+    if (!meridians) return "N/A";
+    if (typeof meridians === "string") {
+      // Split by common delimiters and create a list
+      const meridiansList = meridians
+        .split(/[,;]\s*/)
+        .filter(item => item.trim().length > 0);
+      
+      if (meridiansList.length <= 1) {
+        return <div>• {meridians}</div>;
+      }
+      
+      return (
+        <div>
+          {meridiansList.map((meridian, index) => (
+            <div key={index} style={{ marginBottom: "4px" }}>
+              • {meridian.trim()}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    if (Array.isArray(meridians)) {
+      return (
+        <div>
+          {meridians.map((meridian, index) => (
+            <div key={index} style={{ marginBottom: "4px" }}>
+              • {meridian}
+            </div>
+          ))}
+        </div>
+      );
+    }
+    return "N/A";
+  }
+
   function renderScientificPapers(papers) {
-    return papers.split(',').map((url, index) => (
+    return papers.split(",").map((url, index) => (
       <Box key={index} sx={{ my: 1 }}>
         <Link href={url} target="_blank" rel="noopener noreferrer">
           {url}
@@ -72,44 +326,52 @@ const HerbDetail = ({ herb }) => {
       </Box>
     ));
   }
-  
+
   return (
     <Paper elevation={0}>
-        {/*<ImageList cols={3} gap={8}>*/}
-        {/*    {herb["Image Links"].split(',').map((url, index) => (*/}
-        {/*    <ImageListItem key={index}>*/}
-        {/*        <img src={url} alt={`Herb ${index + 1}`} loading="lazy" />*/}
-        {/*    </ImageListItem>*/}
-        {/*    ))}*/}
-        {/*</ImageList>*/}
-        <Typography variant="h5" gutterBottom>
-            Herb Name by Language
-        </Typography>
-        <TableContainer component={Paper}>
+      {/*<ImageList cols={3} gap={8}>*/}
+      {/*    {herb["Image Links"].split(',').map((url, index) => (*/}
+      {/*    <ImageListItem key={index}>*/}
+      {/*        <img src={url} alt={`Herb ${index + 1}`} loading="lazy" />*/}
+      {/*    </ImageListItem>*/}
+      {/*    ))}*/}
+      {/*</ImageList>*/}
+      <Typography variant="h5" gutterBottom>
+        Herb Name by Language
+      </Typography>
+      <TableContainer component={Paper}>
         <Table size="small" aria-label="herb table">
-            <TableHead>
-                <TableRow>
-                <TableCell>Language</TableCell>
-                <TableCell align="left">Name</TableCell>
-                </TableRow>
-            </TableHead>
-            <TableBody>
-                {Object.entries(languageNames).map(([language, name]) => (
-                <TableRow key={language}>
-                    <TableCell component="th" scope="row">{language}</TableCell>
-                    <TableCell align="left">{name}</TableCell>
-                </TableRow>
-                ))}
-            </TableBody>
-            </Table>
-        </TableContainer>
-        <Box mt={4}>
-            {detailProperties.map((detail, index) => (
-                detail.content.length > 2 ?
-                <HerbProperty key={index} title={detail.title} content={detail.content} />
-                    : null
+          <TableHead>
+            <TableRow>
+              <TableCell>Language</TableCell>
+              <TableCell align="left">Name</TableCell>
+            </TableRow>
+          </TableHead>
+          <TableBody>
+            {Object.entries(languageNames).map(([language, name]) => (
+              <TableRow key={language}>
+                <TableCell component="th" scope="row">
+                  {language}
+                </TableCell>
+                <TableCell align="left">{name}</TableCell>
+              </TableRow>
             ))}
-        </Box>
+          </TableBody>
+        </Table>
+      </TableContainer>
+      <Box mt={4}>
+        {detailProperties.map((detail, index) =>
+          detail.content &&
+          detail.content !== "N/A" &&
+          (detail.isComponent || detail.content.length > 2) ? (
+            <HerbProperty
+              key={index}
+              title={detail.title}
+              content={detail.content}
+            />
+          ) : null,
+        )}
+      </Box>
     </Paper>
   );
 };

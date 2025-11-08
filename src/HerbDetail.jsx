@@ -47,7 +47,7 @@ const HerbDetail = ({ herb }) => {
     Pharmaceutical: herb?.Names?.Pharmaceutical?.join(", ") || "N/A",
     Biological: herb?.Names?.Biological?.join(", ") || "N/A",
     Common: herb?.Names?.Common?.join(", ") || "N/A",
-    Other: herb?.Names?.["Other name"]?.join(", ") || "N/A",
+    Other: (herb?.Names?.["Other name"] || herb?.Names?.["Other"])?.join(", ") || "N/A",
     Chinese: herb?.Names?.Chinese?.join(", ") || "N/A",
     Korean: herb?.Names?.["Pronunciation in Korean"]?.join(", ") || "N/A",
     Japanese: herb?.Names?.["Pronunciation in Japanese"]?.join(", ") || "N/A",

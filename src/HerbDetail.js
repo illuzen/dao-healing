@@ -55,7 +55,6 @@ const HerbDetail = ({ herb }) => {
   };
 
   const detailProperties = [
-    { title: "Type", content: herb?.Type || "N/A" },
     {
       title: "Geography",
       content: formatGeography(herb?.Geography),
@@ -104,7 +103,7 @@ const HerbDetail = ({ herb }) => {
         <div>
           {ingredients.map((ingredient, index) => (
             <div key={index} style={{ marginBottom: "8px" }}>
-              {ingredient}
+              • {ingredient}
             </div>
           ))}
         </div>
@@ -125,6 +124,28 @@ const HerbDetail = ({ herb }) => {
                       • {item}
                     </div>
                   ))
+                ) : typeof items === "object" && items !== null ? (
+                  // Handle nested objects like "Compounds" -> {"Sterols": [...], "Sugars": [...]}
+                  <div>
+                    {Object.entries(items).map(([subCategory, subItems], subIndex) => (
+                      <div key={subIndex} style={{ marginBottom: "12px" }}>
+                        <Typography variant="subtitle1" style={{ fontWeight: "bold", marginBottom: "4px" }}>
+                          {subCategory.replace(/_/g, ' ')}:
+                        </Typography>
+                        <div style={{ paddingLeft: "16px" }}>
+                          {Array.isArray(subItems) ? (
+                            subItems.map((subItem, subItemIndex) => (
+                              <div key={subItemIndex} style={{ marginBottom: "4px" }}>
+                                • {subItem}
+                              </div>
+                            ))
+                          ) : (
+                            <div>• {subItems}</div>
+                          )}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
                 ) : (
                   <div>• {items}</div>
                 )}
@@ -336,9 +357,14 @@ const HerbDetail = ({ herb }) => {
       {/*    </ImageListItem>*/}
       {/*    ))}*/}
       {/*</ImageList>*/}
-      <Typography variant="h5" gutterBottom>
-        Herb Name by Language
-      </Typography>
+      <Box mb={2}>
+        <Typography variant="h4" component="h1" style={{ fontWeight: 'bold', textTransform: 'capitalize', marginBottom: '4px' }}>
+          {herb?.Names?.Name?.[0] || "Unknown"}
+        </Typography>
+        <Typography variant="subtitle1" color="textSecondary">
+          {herb?.Type?.toLowerCase() || "herb"}
+        </Typography>
+      </Box>
       <TableContainer component={Paper}>
         <Table size="small" aria-label="herb table">
           <TableHead>
@@ -348,29 +374,70 @@ const HerbDetail = ({ herb }) => {
             </TableRow>
           </TableHead>
           <TableBody>
-            {Object.entries(languageNames).map(([language, name]) => (
-              <TableRow key={language}>
-                <TableCell component="th" scope="row">
-                  {language}
-                </TableCell>
-                <TableCell align="left">{name}</TableCell>
-              </TableRow>
-            ))}
+            {Object.entries(languageNames)
+              .filter(([language, name]) => name && name !== "N/A" && name.trim() !== "")
+              .map(([language, name]) => (
+                <TableRow key={language}>
+                  <TableCell component="th" scope="row">
+                    {language}
+                  </TableCell>
+                  <TableCell align="left">{name}</TableCell>
+                </TableRow>
+              ))}
           </TableBody>
         </Table>
       </TableContainer>
       <Box mt={4}>
-        {detailProperties.map((detail, index) =>
-          detail.content &&
-          detail.content !== "N/A" &&
-          (detail.isComponent || detail.content.length > 2) ? (
+        {detailProperties.map((detail, index) => {
+          // Check raw data before formatting for isComponent fields
+          if (detail.isComponent) {
+            let rawData;
+            switch (detail.title) {
+              case "Geography":
+                rawData = herb?.Geography;
+                break;
+              case "Properties":
+                rawData = herb?.Properties;
+                break;
+              case "Meridians":
+                rawData = herb?.Meridians;
+                break;
+              case "Maladies Treated":
+                rawData = herb?.["Maladies Treated"];
+                break;
+              case "Medical Function":
+                rawData = herb?.["Medical Function"];
+                break;
+              case "Chemical Ingredients":
+                rawData = herb?.["Chemical Ingredients"];
+                break;
+              default:
+                rawData = detail.content;
+            }
+            
+            // Check if raw data is empty
+            if (!rawData || 
+                (Array.isArray(rawData) && rawData.length === 0) ||
+                (typeof rawData === 'object' && Object.keys(rawData).length === 0) ||
+                (typeof rawData === 'string' && rawData.trim() === '')) {
+              return null;
+            }
+          } else {
+            // For non-component fields, check the content directly
+            if (!detail.content || detail.content === "N/A" || 
+                (typeof detail.content === 'string' && detail.content.trim().length <= 2)) {
+              return null;
+            }
+          }
+          
+          return (
             <HerbProperty
               key={index}
               title={detail.title}
               content={detail.content}
             />
-          ) : null,
-        )}
+          );
+        })}
       </Box>
     </Paper>
   );

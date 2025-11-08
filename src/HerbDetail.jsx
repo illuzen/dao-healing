@@ -361,7 +361,7 @@ const HerbDetail = ({ herb }) => {
           startIcon={<ArrowBackIcon />}
           onClick={() => navigate('/')}
           variant="outlined"
-          sx={{ mb: 2 }}
+          sx={{ mb: 2, color: '#d32f2f', borderColor: '#d32f2f', '&:hover': { borderColor: '#d32f2f', backgroundColor: 'rgba(211, 47, 47, 0.04)' } }}
         >
           Back to Herbs
         </Button>

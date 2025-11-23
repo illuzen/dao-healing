@@ -1,0 +1,11 @@
+{
+  "scraping_summary": {
+    "total_links_found": 8243,
+    "navigation_filtered": 1408,
+    "duplicates_removed": 5943,
+    "already_have": 406,
+    "new_herbs_to_review": 486
+  },
+  "existing_herbs_count": 381,
+  "index_pages_scraped": 62
+}

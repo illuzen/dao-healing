@@ -87,9 +87,11 @@ const getHerbList = (data) => {
   return (
     <Container maxWidth="lg" sx={{ py: 4 }}>
       <Grid container spacing={3}>
-        {data.map((herb, index) => {
-          const name = getHerbDisplayName(herb);
-          if (name) {
+        {data
+          .map(herb => ({ herb, name: getHerbDisplayName(herb) }))
+          .filter(({ name }) => name)
+          .sort((a, b) => a.name.localeCompare(b.name))
+          .map(({ herb, name }, index) => {
             return (
               <Grid item xs={12} sm={6} md={4} key={name + index}>
                 <Card 
@@ -209,10 +211,7 @@ const getHerbList = (data) => {
                 </Card>
               </Grid>
             );
-          } else {
-            return null;
-          }
-        })}
+          })}
       </Grid>
     </Container>
   );

@@ -245,11 +245,11 @@ def extract_structured_data(text, filename):
 def extract_herb_structure():
     """Process multiple herb pages"""
 
-    start_num = 385
-    end_num = 390
+    start_num = 0
+    end_num = 5
 
 
-    filenames = glob('./text/*')
+    filenames = glob('./text2/*')
     print("total files:", len(filenames))
     filenames = filenames[start_num:end_num]
     results = []
@@ -266,7 +266,7 @@ def extract_herb_structure():
         result['original_url'] = url
         results.append(result)
 
-        output_filename = './json/final/ai_herbs_{}_{}_final.json'.format(start_num, end_num-1)
+        output_filename = './json/final2/ai_herbs_{}_{}_final.json'.format(start_num, end_num-1)
 
         # Save intermediate results after each herb
         json.dump(results, open(output_filename, 'w', encoding="utf-8"), indent=4, ensure_ascii=False)
